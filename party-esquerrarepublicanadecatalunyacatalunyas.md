@@ -54,7 +54,7 @@ Last result: **20** seats (General Election of 27 September 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 40 | 36–51 | 35–52 | 34–53 | 32–55 |
+| N/A | [Poll Average](average.html) | 40 | 36–51 | 35–52 | 35–53 | 32–55 |
 | [4–9 October 2017](2017-10-09-SocioMétrica.html) | SocioMétrica <br> El Español | 50 | 46–53 | 45–54 | 44–55 | 43–56 |
 | [19–22 September 2017](2017-09-22-NCReport.html) | NC Report <br> La Razón | 39 | 37–42 | 36–43 | 36–43 | 34–44 |
 | [12–15 September 2017](2017-09-15-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 38 | 35–41 | 34–42 | 33–43 | 31–44 |
@@ -79,13 +79,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 30 | 0% | 100% |  |
 | 31 | 0.2% | 100% |  |
 | 32 | 0.6% | 99.8% |  |
-| 33 | 0.8% | 99.2% |  |
-| 34 | 1.1% | 98% |  |
-| 35 | 3% | 97% |  |
+| 33 | 0.8% | 99.3% |  |
+| 34 | 1.0% | 98% |  |
+| 35 | 3% | 98% |  |
 | 36 | 6% | 94% |  |
 | 37 | 12% | 88% |  |
-| 38 | 15% | 76% |  |
-| 39 | 8% | 61% |  |
+| 38 | 16% | 76% |  |
+| 39 | 8% | 60% |  |
 | 40 | 6% | 53% | Median |
 | 41 | 6% | 47% |  |
 | 42 | 4% | 41% |  |

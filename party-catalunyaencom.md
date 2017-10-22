@@ -45,7 +45,7 @@ Last result: **11** seats (General Election of 27 September 2015)
 | N/A | [Poll Average](average.html) | 15 | 13–17 | 12–18 | 12–18 | 11–19 |
 | [4–9 October 2017](2017-10-09-SocioMétrica.html) | SocioMétrica <br> El Español | 15 | 13–17 | 12–18 | 12–18 | 11–19 |
 | [19–22 September 2017](2017-09-22-NCReport.html) | NC Report <br> La Razón | 14 | 13–17 | 12–17 | 12–17 | 11–18 |
-| [12–15 September 2017](2017-09-15-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 15 | 13–18 | 12–18 | 12–18 | 11–19 |
+| [12–15 September 2017](2017-09-15-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 15 | 13–17 | 12–18 | 12–18 | 11–19 |
 | [28 August–1 September 2017](2017-09-01-SocioMétrica.html) | SocioMétrica <br> El Español | 12 | 11–15 | 10–16 | 9–17 | 9–18 |
 
 ### Probability Mass Function
@@ -56,12 +56,12 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 10 | 0.1% | 100% |  |
 | 11 | 1.0% | 99.9% | Last Result |
-| 12 | 7% | 98.9% |  |
+| 12 | 7% | 98.8% |  |
 | 13 | 7% | 92% |  |
 | 14 | 25% | 85% |  |
 | 15 | 26% | 60% | Median |
 | 16 | 10% | 35% |  |
-| 17 | 17% | 24% |  |
+| 17 | 18% | 25% |  |
 | 18 | 6% | 7% |  |
 | 19 | 1.1% | 1.3% |  |
 | 20 | 0.1% | 0.1% |  |
