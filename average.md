@@ -220,7 +220,7 @@ Only polls for which at least the sample size has been published are included in
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | <a href="#junts-pel-sí">Junts pel Sí</a> | 62 | N/A | N/A |N/A | N/A | N/A |
-| <a href="#partit-demòcrata-europeu-català">Partit Demòcrata Europeu Català</a> | 29 | 18 | 11–21 |10–23 | 9–23 | 8–24 |
+| <a href="#partit-demòcrata-europeu-català">Partit Demòcrata Europeu Català</a> | 29 | 18 | 11–21 |10–22 | 9–23 | 8–24 |
 | <a href="#esquerra-republicana-de-catalunya–catalunya-sí">Esquerra Republicana de Catalunya–Catalunya Sí</a> | 20 | 40 | 36–51 |35–52 | 35–53 | 32–55 |
 | <a href="#ciutadans–partido-de-la-ciudadanía">Ciutadans–Partido de la Ciudadanía</a> | 25 | 24 | 21–26 |20–27 | 20–28 | 19–30 |
 | <a href="#partit-dels-socialistes-de-catalunya-(psc-psoe)">Partit dels Socialistes de Catalunya (PSC-PSOE)</a> | 16 | 17 | 11–21 |11–22 | 10–23 | 9–23 |
@@ -231,8 +231,6 @@ Only polls for which at least the sample size has been published are included in
 ### Partit Demòcrata Europeu Català
 
 *For a full overview of the results for this party, see the [Partit Demòcrata Europeu Català](party-partitdemcrataeuropeucatal.html) page.*
-
-![Graph with seats probability mass function not yet produced](average-seats-pmf-partitdemcrataeuropeucatal.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -246,11 +244,11 @@ Only polls for which at least the sample size has been published are included in
 | 14 | 2% | 69% |  |
 | 15 | 2% | 67% |  |
 | 16 | 1.4% | 66% |  |
-| 17 | 11% | 64% |  |
-| 18 | 13% | 53% | Median |
+| 17 | 11% | 65% |  |
+| 18 | 12% | 53% | Median |
 | 19 | 10% | 41% |  |
-| 20 | 6% | 31% |  |
-| 21 | 15% | 25% |  |
+| 20 | 7% | 31% |  |
+| 21 | 15% | 24% |  |
 | 22 | 4% | 9% |  |
 | 23 | 4% | 5% |  |
 | 24 | 1.1% | 1.3% |  |
@@ -263,8 +261,6 @@ Only polls for which at least the sample size has been published are included in
 ### Esquerra Republicana de Catalunya–Catalunya Sí
 
 *For a full overview of the results for this party, see the [Esquerra Republicana de Catalunya–Catalunya Sí](party-esquerrarepublicanadecatalunyacatalunyas.html) page.*
-
-![Graph with seats probability mass function not yet produced](average-seats-pmf-esquerrarepublicanadecatalunyacatalunyas.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -287,7 +283,7 @@ Only polls for which at least the sample size has been published are included in
 | 36 | 6% | 94% |  |
 | 37 | 12% | 88% |  |
 | 38 | 16% | 76% |  |
-| 39 | 8% | 60% |  |
+| 39 | 7% | 60% |  |
 | 40 | 6% | 53% | Median |
 | 41 | 6% | 47% |  |
 | 42 | 4% | 41% |  |
@@ -312,23 +308,21 @@ Only polls for which at least the sample size has been published are included in
 
 *For a full overview of the results for this party, see the [Ciutadans–Partido de la Ciudadanía](party-ciutadanspartidodelaciudadana.html) page.*
 
-![Graph with seats probability mass function not yet produced](average-seats-pmf-ciutadanspartidodelaciudadana.png "Seats Probability Mass Function")
-
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 17 | 0.1% | 100% |  |
+| 17 | 0% | 100% |  |
 | 18 | 0.1% | 99.9% |  |
 | 19 | 0.9% | 99.8% |  |
-| 20 | 5% | 98.9% |  |
+| 20 | 6% | 98.9% |  |
 | 21 | 5% | 93% |  |
 | 22 | 11% | 88% |  |
 | 23 | 8% | 77% |  |
-| 24 | 28% | 69% | Median |
-| 25 | 23% | 42% | Last Result |
+| 24 | 27% | 69% | Median |
+| 25 | 24% | 42% | Last Result |
 | 26 | 11% | 18% |  |
 | 27 | 3% | 7% |  |
 | 28 | 2% | 4% |  |
-| 29 | 1.0% | 2% |  |
+| 29 | 0.9% | 2% |  |
 | 30 | 0.7% | 0.9% |  |
 | 31 | 0.2% | 0.2% |  |
 | 32 | 0% | 0% |  |
@@ -336,8 +330,6 @@ Only polls for which at least the sample size has been published are included in
 ### Partit dels Socialistes de Catalunya (PSC-PSOE)
 
 *For a full overview of the results for this party, see the [Partit dels Socialistes de Catalunya (PSC-PSOE)](party-partitdelssocialistesdecatalunyapscpsoe.html) page.*
-
-![Graph with seats probability mass function not yet produced](average-seats-pmf-partitdelssocialistesdecatalunyapscpsoe.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -350,12 +342,12 @@ Only polls for which at least the sample size has been published are included in
 | 13 | 7% | 82% |  |
 | 14 | 7% | 76% |  |
 | 15 | 5% | 69% |  |
-| 16 | 12% | 64% | Last Result |
-| 17 | 12% | 52% | Median |
-| 18 | 12% | 40% |  |
+| 16 | 13% | 64% | Last Result |
+| 17 | 11% | 51% | Median |
+| 18 | 13% | 40% |  |
 | 19 | 5% | 27% |  |
 | 20 | 11% | 22% |  |
-| 21 | 3% | 11% |  |
+| 21 | 4% | 11% |  |
 | 22 | 5% | 7% |  |
 | 23 | 2% | 3% |  |
 | 24 | 0.4% | 0.4% |  |
@@ -365,18 +357,16 @@ Only polls for which at least the sample size has been published are included in
 
 *For a full overview of the results for this party, see the [Catalunya en Comú](party-catalunyaencom.html) page.*
 
-![Graph with seats probability mass function not yet produced](average-seats-pmf-catalunyaencom.png "Seats Probability Mass Function")
-
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 10 | 0.1% | 100% |  |
 | 11 | 1.0% | 99.9% | Last Result |
-| 12 | 7% | 98.8% |  |
+| 12 | 7% | 98.9% |  |
 | 13 | 7% | 92% |  |
 | 14 | 25% | 85% |  |
 | 15 | 26% | 60% | Median |
-| 16 | 10% | 35% |  |
-| 17 | 18% | 25% |  |
+| 16 | 10% | 34% |  |
+| 17 | 18% | 24% |  |
 | 18 | 6% | 7% |  |
 | 19 | 1.1% | 1.3% |  |
 | 20 | 0.1% | 0.1% |  |
@@ -386,8 +376,6 @@ Only polls for which at least the sample size has been published are included in
 
 *For a full overview of the results for this party, see the [Partit Popular](party-partitpopular.html) page.*
 
-![Graph with seats probability mass function not yet produced](average-seats-pmf-partitpopular.png "Seats Probability Mass Function")
-
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 8 | 0.2% | 100% |  |
@@ -396,11 +384,11 @@ Only polls for which at least the sample size has been published are included in
 | 11 | 3% | 92% | Last Result |
 | 12 | 19% | 90% |  |
 | 13 | 33% | 71% | Median |
-| 14 | 28% | 38% |  |
-| 15 | 6% | 10% |  |
+| 14 | 27% | 37% |  |
+| 15 | 6% | 11% |  |
 | 16 | 3% | 5% |  |
 | 17 | 0.7% | 2% |  |
-| 18 | 0.6% | 1.0% |  |
+| 18 | 0.7% | 1.0% |  |
 | 19 | 0.2% | 0.3% |  |
 | 20 | 0.1% | 0.1% |  |
 | 21 | 0% | 0% |  |
@@ -409,15 +397,13 @@ Only polls for which at least the sample size has been published are included in
 
 *For a full overview of the results for this party, see the [Candidatura d’Unitat Popular](party-candidaturadunitatpopular.html) page.*
 
-![Graph with seats probability mass function not yet produced](average-seats-pmf-candidaturadunitatpopular.png "Seats Probability Mass Function")
-
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 3 | 2% | 100% |  |
-| 4 | 1.1% | 98% |  |
+| 3 | 1.5% | 100% |  |
+| 4 | 1.2% | 98.5% |  |
 | 5 | 8% | 97% |  |
-| 6 | 7% | 89% |  |
-| 7 | 11% | 83% |  |
+| 6 | 7% | 90% |  |
+| 7 | 12% | 83% |  |
 | 8 | 49% | 71% | Median |
 | 9 | 18% | 22% |  |
 | 10 | 4% | 4% | Last Result |
@@ -450,16 +436,16 @@ Only polls for which at least the sample size has been published are included in
 | 63 | 3% | 96% | Last Result |
 | 64 | 5% | 93% |  |
 | 65 | 6% | 88% |  |
-| 66 | 7% | 82% |  |
+| 66 | 8% | 82% |  |
 | 67 | 11% | 74% |  |
 | 68 | 12% | 64% | Majority |
-| 69 | 12% | 51% | Median |
-| 70 | 12% | 39% |  |
+| 69 | 13% | 51% | Median |
+| 70 | 11% | 38% |  |
 | 71 | 10% | 27% |  |
 | 72 | 7% | 17% |  |
 | 73 | 5% | 9% |  |
 | 74 | 2% | 4% |  |
-| 75 | 1.2% | 2% |  |
+| 75 | 1.3% | 2% |  |
 | 76 | 0.4% | 0.6% |  |
 | 77 | 0.2% | 0.3% |  |
 | 78 | 0.1% | 0.1% |  |
@@ -472,16 +458,16 @@ Only polls for which at least the sample size has been published are included in
 | 57 | 0.1% | 100% |  |
 | 58 | 0.2% | 99.9% |  |
 | 59 | 0.4% | 99.7% | Last Result |
-| 60 | 1.2% | 99.4% |  |
+| 60 | 1.3% | 99.4% |  |
 | 61 | 2% | 98% |  |
 | 62 | 5% | 96% |  |
 | 63 | 7% | 91% |  |
 | 64 | 10% | 83% |  |
-| 65 | 12% | 73% |  |
-| 66 | 12% | 61% | Median |
+| 65 | 11% | 73% |  |
+| 66 | 13% | 62% | Median |
 | 67 | 12% | 49% |  |
 | 68 | 11% | 36% | Majority |
-| 69 | 7% | 26% |  |
+| 69 | 8% | 26% |  |
 | 70 | 6% | 18% |  |
 | 71 | 5% | 12% |  |
 | 72 | 3% | 7% |  |
@@ -504,11 +490,11 @@ Only polls for which at least the sample size has been published are included in
 | 54 | 4% | 98% |  |
 | 55 | 7% | 94% |  |
 | 56 | 8% | 87% |  |
-| 57 | 13% | 79% |  |
-| 58 | 12% | 66% | Median |
-| 59 | 15% | 54% |  |
+| 57 | 12% | 79% |  |
+| 58 | 13% | 67% | Median |
+| 59 | 14% | 54% |  |
 | 60 | 12% | 40% |  |
-| 61 | 8% | 27% |  |
+| 61 | 8% | 28% |  |
 | 62 | 7% | 19% |  |
 | 63 | 5% | 12% |  |
 | 64 | 4% | 7% |  |
