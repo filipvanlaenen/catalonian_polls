@@ -42,11 +42,11 @@ Last result: **11** seats (General Election of 27 September 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 13 | 12–14 | 11–15 | 10–16 | 9–18 |
+| N/A | [Poll Average](average.html) | 13 | 11–15 | 10–15 | 10–16 | 9–18 |
 | [4–9 October 2017](2017-10-09-SocioMétrica.html) | SocioMétrica <br> El Español | 13 | 12–15 | 11–15 | 10–16 | 10–18 |
 | [19–22 September 2017](2017-09-22-NCReport.html) | NC Report <br> La Razón | 14 | 13–16 | 12–16 | 12–17 | 12–19 |
-| [12–15 September 2017](2017-09-15-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 12 | 12 | 10–12 | 10–13 | 9–13 |
-| [28 August–1 September 2017](2017-09-01-SocioMétrica.html) | SocioMétrica <br> El Español | 13 | 13–17 | 10–17 | 10–18 | 10–19 |
+| [12–15 September 2017](2017-09-15-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 12 | 10–14 | 10–14 | 10–14 | 8–16 |
+| [28 August–1 September 2017](2017-09-01-SocioMétrica.html) | SocioMétrica <br> El Español | 14 | 12–15 | 12–17 | 11–18 | 10–19 |
 
 ### Probability Mass Function
 
@@ -54,15 +54,15 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 8 | 0% | 100% |  |
-| 9 | 0.6% | 99.9% |  |
-| 10 | 3% | 99.4% |  |
-| 11 | 1.4% | 96% | Last Result |
-| 12 | 36% | 95% |  |
-| 13 | 24% | 59% | Median |
-| 14 | 25% | 34% |  |
-| 15 | 5% | 10% |  |
-| 16 | 3% | 4% |  |
+| 8 | 0.2% | 100% |  |
+| 9 | 0.6% | 99.8% |  |
+| 10 | 7% | 99.2% |  |
+| 11 | 3% | 92% | Last Result |
+| 12 | 19% | 90% |  |
+| 13 | 32% | 70% | Median |
+| 14 | 28% | 38% |  |
+| 15 | 6% | 10% |  |
+| 16 | 3% | 5% |  |
 | 17 | 0.7% | 2% |  |
 | 18 | 0.6% | 0.9% |  |
 | 19 | 0.2% | 0.3% |  |

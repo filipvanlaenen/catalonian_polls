@@ -68,11 +68,11 @@ Last result: **29** seats (General Election of 27 September 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 18 | 11–21 | 10–21 | 9–23 | 8–24 |
+| N/A | [Poll Average](average.html) | 18 | 11–21 | 10–23 | 9–23 | 8–24 |
 | [4–9 October 2017](2017-10-09-SocioMétrica.html) | SocioMétrica <br> El Español | 11 | 9–13 | 9–14 | 8–15 | 7–16 |
 | [19–22 September 2017](2017-09-22-NCReport.html) | NC Report <br> La Razón | 19 | 17–21 | 17–21 | 16–22 | 15–23 |
-| [12–15 September 2017](2017-09-15-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 18 | 18–20 | 18–24 | 18–24 | 14–24 |
-| [28 August–1 September 2017](2017-09-01-SocioMétrica.html) | SocioMétrica <br> El Español | 18 | 17–21 | 16–22 | 16–23 | 14–24 |
+| [12–15 September 2017](2017-09-15-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 21 | 17–23 | 17–23 | 16–24 | 15–25 |
+| [28 August–1 September 2017](2017-09-01-SocioMétrica.html) | SocioMétrica <br> El Español | 18 | 16–22 | 15–22 | 15–23 | 14–24 |
 
 ### Probability Mass Function
 
@@ -88,18 +88,18 @@ The following table shows the probability mass function per seat for the [poll a
 | 12 | 2% | 80% |  |
 | 13 | 9% | 78% |  |
 | 14 | 2% | 69% |  |
-| 15 | 1.3% | 67% |  |
-| 16 | 0.9% | 66% |  |
-| 17 | 8% | 65% |  |
-| 18 | 37% | 57% | Median |
-| 19 | 6% | 20% |  |
-| 20 | 4% | 14% |  |
-| 21 | 7% | 11% |  |
-| 22 | 0.6% | 4% |  |
-| 23 | 2% | 3% |  |
-| 24 | 2% | 2% |  |
-| 25 | 0% | 0% |  |
-| 26 | 0% | 0% |  |
+| 15 | 2% | 67% |  |
+| 16 | 1.4% | 66% |  |
+| 17 | 11% | 64% |  |
+| 18 | 12% | 53% | Median |
+| 19 | 10% | 41% |  |
+| 20 | 6% | 31% |  |
+| 21 | 15% | 25% |  |
+| 22 | 4% | 9% |  |
+| 23 | 4% | 5% |  |
+| 24 | 1.0% | 1.2% |  |
+| 25 | 0.1% | 0.2% |  |
+| 26 | 0.1% | 0.1% |  |
 | 27 | 0% | 0% |  |
 | 28 | 0% | 0% |  |
 | 29 | 0% | 0% | Last Result |

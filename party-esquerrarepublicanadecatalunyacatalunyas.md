@@ -54,11 +54,11 @@ Last result: **20** seats (General Election of 27 September 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 43 | 37–51 | 37–52 | 36–53 | 35–55 |
+| N/A | [Poll Average](average.html) | 40 | 36–51 | 35–52 | 34–53 | 32–55 |
 | [4–9 October 2017](2017-10-09-SocioMétrica.html) | SocioMétrica <br> El Español | 50 | 46–53 | 45–54 | 44–55 | 43–56 |
 | [19–22 September 2017](2017-09-22-NCReport.html) | NC Report <br> La Razón | 39 | 37–42 | 36–43 | 36–43 | 34–44 |
-| [12–15 September 2017](2017-09-15-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 43 | 42–43 | 36–43 | 36–45 | 35–46 |
-| [28 August–1 September 2017](2017-09-01-SocioMétrica.html) | SocioMétrica <br> El Español | 45 | 39–46 | 38–47 | 37–50 | 37–51 |
+| [12–15 September 2017](2017-09-15-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 38 | 35–41 | 34–42 | 33–43 | 31–44 |
+| [28 August–1 September 2017](2017-09-01-SocioMétrica.html) | SocioMétrica <br> El Español | 44 | 40–47 | 39–48 | 38–49 | 37–51 |
 
 ### Probability Mass Function
 
@@ -77,24 +77,24 @@ The following table shows the probability mass function per seat for the [poll a
 | 28 | 0% | 100% |  |
 | 29 | 0% | 100% |  |
 | 30 | 0% | 100% |  |
-| 31 | 0% | 100% |  |
-| 32 | 0% | 100% |  |
-| 33 | 0% | 100% |  |
-| 34 | 0.1% | 99.9% |  |
-| 35 | 1.0% | 99.8% |  |
-| 36 | 3% | 98.8% |  |
-| 37 | 6% | 96% |  |
-| 38 | 9% | 90% |  |
-| 39 | 5% | 81% |  |
-| 40 | 3% | 76% |  |
-| 41 | 4% | 73% |  |
-| 42 | 3% | 69% |  |
-| 43 | 30% | 65% | Median |
-| 44 | 2% | 35% |  |
-| 45 | 1.3% | 34% |  |
-| 46 | 2% | 32% |  |
+| 31 | 0.2% | 100% |  |
+| 32 | 0.6% | 99.8% |  |
+| 33 | 0.8% | 99.2% |  |
+| 34 | 1.1% | 98% |  |
+| 35 | 3% | 97% |  |
+| 36 | 6% | 94% |  |
+| 37 | 12% | 88% |  |
+| 38 | 15% | 76% |  |
+| 39 | 8% | 61% |  |
+| 40 | 6% | 53% | Median |
+| 41 | 6% | 47% |  |
+| 42 | 4% | 41% |  |
+| 43 | 3% | 37% |  |
+| 44 | 1.4% | 34% |  |
+| 45 | 1.2% | 33% |  |
+| 46 | 2% | 31% |  |
 | 47 | 2% | 30% |  |
-| 48 | 3% | 27% |  |
+| 48 | 3% | 28% |  |
 | 49 | 6% | 24% |  |
 | 50 | 7% | 18% |  |
 | 51 | 6% | 12% |  |

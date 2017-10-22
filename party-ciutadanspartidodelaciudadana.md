@@ -44,11 +44,11 @@ Last result: **25** seats (General Election of 27 September 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 24 | 22–26 | 21–27 | 20–28 | 20–30 |
+| N/A | [Poll Average](average.html) | 24 | 21–26 | 20–27 | 20–28 | 19–30 |
 | [4–9 October 2017](2017-10-09-SocioMétrica.html) | SocioMétrica <br> El Español | 25 | 22–27 | 21–28 | 21–29 | 20–31 |
 | [19–22 September 2017](2017-09-22-NCReport.html) | NC Report <br> La Razón | 24 | 21–25 | 20–26 | 20–26 | 19–28 |
-| [12–15 September 2017](2017-09-15-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 24 | 24 | 21–24 | 20–25 | 20–26 |
-| [28 August–1 September 2017](2017-09-01-SocioMétrica.html) | SocioMétrica <br> El Español | 24 | 20–26 | 20–27 | 19–29 | 18–30 |
+| [12–15 September 2017](2017-09-15-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 24 | 20–25 | 20–26 | 19–27 | 19–29 |
+| [28 August–1 September 2017](2017-09-01-SocioMétrica.html) | SocioMétrica <br> El Español | 24 | 21–27 | 20–28 | 20–28 | 19–30 |
 
 ### Probability Mass Function
 
@@ -56,19 +56,20 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 18 | 0.2% | 100% |  |
-| 19 | 0.2% | 99.8% |  |
-| 20 | 3% | 99.6% |  |
-| 21 | 4% | 96% |  |
-| 22 | 6% | 92% |  |
-| 23 | 6% | 86% |  |
-| 24 | 47% | 80% | Median |
-| 25 | 18% | 33% | Last Result |
-| 26 | 9% | 15% |  |
-| 27 | 3% | 6% |  |
-| 28 | 2% | 3% |  |
-| 29 | 0.8% | 2% |  |
-| 30 | 0.6% | 0.8% |  |
+| 17 | 0.1% | 100% |  |
+| 18 | 0.1% | 99.9% |  |
+| 19 | 1.0% | 99.8% |  |
+| 20 | 5% | 98.8% |  |
+| 21 | 6% | 94% |  |
+| 22 | 10% | 88% |  |
+| 23 | 8% | 78% |  |
+| 24 | 28% | 70% | Median |
+| 25 | 24% | 42% | Last Result |
+| 26 | 12% | 18% |  |
+| 27 | 3% | 7% |  |
+| 28 | 2% | 4% |  |
+| 29 | 0.9% | 2% |  |
+| 30 | 0.7% | 0.9% |  |
 | 31 | 0.2% | 0.2% |  |
 | 32 | 0% | 0% |  |
 
