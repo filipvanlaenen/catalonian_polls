@@ -5,7 +5,7 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | JxSí | PDeCAT | ERC | Cs | PSC | CatComú | PP | CUP |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 27 September 2015 | General Election | 39.6% <br> 62 | 39.6% <br> 29 | 39.6% <br> 20 | 17.9% <br> 25 | 12.7% <br> 16 | 8.9% <br> 11 | 8.5% <br> 11 | 8.2% <br> 10 |
-| [16–21 October 2017](2017-10-21-NCReport.html) | NC Report <br> La Razón | N/A <br> N/A | 10–14% <br> 15–22 | 22–27% <br> 35–43 | 17–22% <br> 24–30 | 11–15% <br> 14–21 | 10–14% <br> 11–17 | 9–13% <br> 12–16 | 4–7% <br> 4–9 |
+| [16–21 October 2017](2017-10-21-NCReport.html) | NC Report <br> La Razón | N/A <br> N/A | 10–14% <br> 15–22 | 22–27% <br> 35–43 | 17–22% <br> 24–30 | 11–15% <br> 14–21 | 10–14% <br> 11–17 | 9–13% <br> 12–17 | 4–7% <br> 4–9 |
 | [16–19 October 2017](2017-10-19-GESOP.html) | GESOP <br> El Periódico | N/A <br> N/A | 10–14% <br> 14–22 | 25–31% <br> 39–50 | 14–20% <br> 19–26 | 12–17% <br> 16–23 | 7–11% <br> 8–14 | 6–10% <br> 6–13 | 6–10% <br> 8–13 |
 | [4–9 October 2017](2017-10-09-SocioMétrica.html) | SocioMétrica <br> El Español | N/A <br> N/A | 6–10% <br> 8–15 | 29–35% <br> 44–55 | 16–21% <br> 21–29 | 8–12% <br> 9–15 | 10–14% <br> 12–18 | 8–12% <br> 10–16 | 5–8% <br> 5–10 |
 | [19–22 September 2017](2017-09-22-NCReport.html) | NC Report <br> La Razón | N/A <br> N/A | 11–15% <br> 16–22 | 23–28% <br> 36–43 | 15–19% <br> 20–26 | 12–16% <br> 15–22 | 10–14% <br> 12–17 | 9–13% <br> 12–17 | 4–7% <br> 4–9 |
