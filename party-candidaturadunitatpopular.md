@@ -54,6 +54,8 @@ Last result: **10** seats (General Election of 27 September 2015)
 
 ### Probability Mass Function
 
+![Graph with seats probability mass function not yet produced](average-seats-pmf-candidaturadunitatpopular.png "Seats Probability Mass Function")
+
 The following table shows the probability mass function per seat for the [poll average](average.html) for Candidatura d’Unitat Popular.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
