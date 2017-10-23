@@ -10,7 +10,9 @@ Last result: **8.9%** (General Election of 27 September 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 12.0% | 10.7–13.5% | 10.3–14.0% | 10.0–14.4% | 9.4–15.2% |
+| N/A | [Poll Average](average.html) | 11.5% | 8.8–13.3% | 8.2–13.8% | 7.8–14.2% | 7.1–15.1% |
+| [16–21 October 2017](2017-10-21-NCReport.html) | NC Report <br> La Razón | 11.4% | 10.2–12.8% | 9.9–13.2% | 9.6–13.5% | 9.0–14.2% |
+| [16–19 October 2017](2017-10-19-GESOP.html) | GESOP <br> El Periódico | 9.0% | 7.8–10.4% | 7.5–10.8% | 7.2–11.2% | 6.7–11.9% |
 | [4–9 October 2017](2017-10-09-SocioMétrica.html) | SocioMétrica <br> El Español | 12.0% | 10.6–13.6% | 10.2–14.1% | 9.9–14.4% | 9.3–15.2% |
 | [19–22 September 2017](2017-09-22-NCReport.html) | NC Report <br> La Razón | 11.6% | 10.5–12.9% | 10.2–13.2% | 10.0–13.5% | 9.5–14.1% |
 | [12–15 September 2017](2017-09-15-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 12.2% | 10.9–13.9% | 10.5–14.3% | 10.2–14.7% | 9.5–15.5% |
@@ -22,14 +24,17 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 7.5–8.5% | 0% | 100% |  |
-| 8.5–9.5% | 0.7% | 100% | Last Result |
-| 9.5–10.5% | 7% | 99.3% |  |
-| 10.5–11.5% | 26% | 92% |  |
-| 11.5–12.5% | 35% | 66% | Median |
-| 12.5–13.5% | 22% | 31% |  |
-| 13.5–14.5% | 7% | 9% |  |
-| 14.5–15.5% | 2% | 2% |  |
+| 4.5–5.5% | 0% | 100% |  |
+| 5.5–6.5% | 0.1% | 100% |  |
+| 6.5–7.5% | 1.3% | 99.9% |  |
+| 7.5–8.5% | 6% | 98.6% |  |
+| 8.5–9.5% | 10% | 92% | Last Result |
+| 9.5–10.5% | 13% | 82% |  |
+| 10.5–11.5% | 22% | 69% | Median |
+| 11.5–12.5% | 25% | 47% |  |
+| 12.5–13.5% | 16% | 23% |  |
+| 13.5–14.5% | 6% | 7% |  |
+| 14.5–15.5% | 1.2% | 1.4% |  |
 | 15.5–16.5% | 0.2% | 0.2% |  |
 | 16.5–17.5% | 0% | 0% |  |
 
@@ -42,7 +47,9 @@ Last result: **11** seats (General Election of 27 September 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 15 | 13–17 | 12–18 | 12–18 | 11–19 |
+| N/A | [Poll Average](average.html) | 14 | 10–17 | 9–18 | 9–18 | 8–19 |
+| [16–21 October 2017](2017-10-21-NCReport.html) | NC Report <br> La Razón | 14 | 12–17 | 12–17 | 11–17 | 11–18 |
+| [16–19 October 2017](2017-10-19-GESOP.html) | GESOP <br> El Periódico | 11 | 9–12 | 8–14 | 8–14 | 7–15 |
 | [4–9 October 2017](2017-10-09-SocioMétrica.html) | SocioMétrica <br> El Español | 15 | 13–17 | 12–18 | 12–18 | 11–19 |
 | [19–22 September 2017](2017-09-22-NCReport.html) | NC Report <br> La Razón | 14 | 13–17 | 12–17 | 12–17 | 11–18 |
 | [12–15 September 2017](2017-09-15-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 15 | 13–17 | 12–18 | 12–18 | 11–19 |
@@ -54,16 +61,19 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 10 | 0.1% | 100% |  |
-| 11 | 1.0% | 99.9% | Last Result |
-| 12 | 7% | 98.9% |  |
-| 13 | 7% | 92% |  |
-| 14 | 25% | 85% |  |
-| 15 | 26% | 60% | Median |
-| 16 | 10% | 34% |  |
-| 17 | 18% | 24% |  |
-| 18 | 6% | 7% |  |
-| 19 | 1.1% | 1.3% |  |
+| 7 | 0.1% | 100% |  |
+| 8 | 2% | 99.9% |  |
+| 9 | 6% | 98% |  |
+| 10 | 3% | 92% |  |
+| 11 | 7% | 88% | Last Result |
+| 12 | 11% | 81% |  |
+| 13 | 7% | 70% |  |
+| 14 | 20% | 63% | Median |
+| 15 | 18% | 43% |  |
+| 16 | 8% | 25% |  |
+| 17 | 13% | 18% |  |
+| 18 | 4% | 5% |  |
+| 19 | 0.9% | 1.0% |  |
 | 20 | 0.1% | 0.1% |  |
 | 21 | 0% | 0% |  |
 
