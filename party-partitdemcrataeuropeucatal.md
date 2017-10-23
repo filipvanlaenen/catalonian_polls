@@ -71,7 +71,7 @@ Last result: **29** seats (General Election of 27 September 2015)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 17 | 11–21 | 10–22 | 9–23 | 8–24 |
-| [16–21 October 2017](2017-10-21-NCReport.html) | NC Report <br> La Razón | 17 | 16–21 | 15–21 | 15–22 | 14–23 |
+| [16–21 October 2017](2017-10-21-NCReport.html) | NC Report <br> La Razón | 18 | 16–21 | 15–21 | 15–22 | 14–23 |
 | [16–19 October 2017](2017-10-19-GESOP.html) | GESOP <br> El Periódico | 18 | 15–21 | 15–21 | 14–22 | 13–23 |
 | [4–9 October 2017](2017-10-09-SocioMétrica.html) | SocioMétrica <br> El Español | 11 | 9–13 | 9–14 | 8–15 | 7–16 |
 | [19–22 September 2017](2017-09-22-NCReport.html) | NC Report <br> La Razón | 19 | 17–21 | 17–21 | 16–22 | 15–23 |
@@ -94,7 +94,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 14 | 2% | 77% |  |
 | 15 | 4% | 74% |  |
 | 16 | 4% | 70% |  |
-| 17 | 19% | 67% | Median |
+| 17 | 18% | 66% | Median |
 | 18 | 14% | 48% |  |
 | 19 | 9% | 34% |  |
 | 20 | 6% | 25% |  |
