@@ -11,6 +11,7 @@ Last result: **12.7%** (General Election of 27 September 2015)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 13.5% | 9.3–15.8% | 8.7–16.3% | 8.3–16.8% | 7.6–17.8% |
+| [23–26 October 2017](2017-10-26-SigmaDos.html) | Sigma Dos <br> El Mundo | 15.1% | N/A | N/A | N/A | N/A |
 | [16–21 October 2017](2017-10-21-NCReport.html) | NC Report <br> La Razón | 13.1% | 11.8–14.6% | 11.4–15.0% | 11.1–15.3% | 10.6–16.1% |
 | [16–19 October 2017](2017-10-19-GESOP.html) | GESOP <br> El Periódico | 14.5% | 13.0–16.2% | 12.6–16.7% | 12.2–17.1% | 11.5–18.0% |
 | [4–9 October 2017](2017-10-09-SocioMétrica.html) | SocioMétrica <br> El Español | 9.5% | 8.3–11.0% | 7.9–11.4% | 7.7–11.7% | 7.1–12.5% |
@@ -50,6 +51,7 @@ Last result: **16** seats (General Election of 27 September 2015)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 17 | 12–22 | 11–22 | 11–23 | 9–24 |
+| [23–26 October 2017](2017-10-26-SigmaDos.html) | Sigma Dos <br> El Mundo |  |  |  |  |  |
 | [16–21 October 2017](2017-10-21-NCReport.html) | NC Report <br> La Razón | 16 | 15–20 | 15–20 | 14–21 | 14–22 |
 | [16–19 October 2017](2017-10-19-GESOP.html) | GESOP <br> El Periódico | 20 | 16–23 | 16–23 | 16–23 | 15–24 |
 | [4–9 October 2017](2017-10-09-SocioMétrica.html) | SocioMétrica <br> El Español | 12 | 11–14 | 9–15 | 9–15 | 8–16 |
