@@ -16,6 +16,7 @@ The following websites provide similar information to this website:
 ## Other Resources
 
 + The Twitter feed for this site: [@catpolls](https://twitter.com/catpolls)
++ The Atom feed for this site: [atom.xml](https://filipvanlaenen.github.io/catalonian_polls/atom.xml)
 + The GitHub project for this site: [filipvanlaenen/catalonian_polls](https://github.com/filipvanlaenen/catalonian_polls)
 
 ## Sister Websites
