@@ -5,10 +5,10 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | Period     | Polling firm/Commissioner(s) | JxSí | PDeCAT | ERC | Cs | PSC | CatComú | PP | CUP |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 27 September 2015 | General Election | 39.6% <br> 62 | 39.6% <br> 29 | 39.6% <br> 20 | 17.9% <br> 25 | 12.7% <br> 16 | 8.9% <br> 11 | 8.5% <br> 11 | 8.2% <br> 10 |
-| N/A | [Poll Average](average.html) | N/A <br> N/A | 7–15% <br> 9–23 | 22–34% <br> 35–52 | 15–22% <br> 20–30 | 8–17% <br> 11–23 | 8–14% <br> 9–18 | 6–12% <br> 8–16 | 5–9% <br> 5–11 |
+| N/A | [Poll Average](average.html) | 37–43% <br> 57–66 | 7–15% <br> 9–23 | 22–34% <br> 35–53 | 16–22% <br> 20–30 | 8–17% <br> 11–23 | 9–14% <br> 11–18 | 7–12% <br> 9–16 | 5–8% <br> 5–10 |
+| [16–29 October 2017](2017-10-29-GESOP.html) | GESOP <br> CEO | 37–43% <br> 57–66 | N/A <br> N/A | N/A <br> N/A | 16–21% <br> 21–28 | 12–16% <br> 15–22 | 9–13% <br> 9–15 | 7–10% <br> 8–13 | 5–8% <br> 5–10 |
 | [23–26 October 2017](2017-10-26-SigmaDos.html) | Sigma Dos <br> El Mundo | N/A <br> N/A | 8–12% <br> 11–17 | 24–29% <br> 37–45 | 17–22% <br> 24–31 | 13–17% <br> 16–23 | 9–13% <br> 11–17 | 7–11% <br> 9–13 | 5–8% <br> 6–10 |
 | [16–21 October 2017](2017-10-21-NCReport.html) | NC Report <br> La Razón | N/A <br> N/A | 10–14% <br> 15–21 | 22–27% <br> 35–43 | 17–22% <br> 24–30 | 11–15% <br> 14–21 | 10–14% <br> 11–17 | 9–13% <br> 12–17 | 4–7% <br> 4–9 |
-| [16–19 October 2017](2017-10-19-GESOP.html) | GESOP <br> El Periódico | N/A <br> N/A | 10–14% <br> 14–22 | 25–31% <br> 39–50 | 14–20% <br> 19–26 | 12–17% <br> 16–23 | 7–11% <br> 8–14 | 6–10% <br> 6–13 | 6–10% <br> 8–13 |
 | [4–9 October 2017](2017-10-09-SocioMétrica.html) | SocioMétrica <br> El Español | N/A <br> N/A | 6–10% <br> 8–15 | 29–35% <br> 44–55 | 16–21% <br> 21–29 | 8–12% <br> 9–15 | 10–14% <br> 12–18 | 8–12% <br> 10–16 | 5–8% <br> 5–10 |
 | [12–15 September 2017](2017-09-15-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | N/A <br> N/A | 11–16% <br> 17–24 | 22–28% <br> 33–43 | 15–20% <br> 19–27 | 12–17% <br> 15–23 | 10–15% <br> 12–18 | 8–12% <br> 10–14 | 4–8% <br> 4–9 |
 | 27 September 2015 | General Election | 39.6% <br> 62 | 39.6% <br> 29 | 39.6% <br> 20 | 17.9% <br> 25 | 12.7% <br> 16 | 8.9% <br> 11 | 8.5% <br> 11 | 8.2% <br> 10 |
