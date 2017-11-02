@@ -10,7 +10,8 @@ Last result: **17.9%** (General Election of 27 September 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 18.6% | 16.7–20.5% | 16.1–21.1% | 15.7–21.5% | 14.8–22.4% |
+| N/A | [Poll Average](average.html) | 18.6% | 16.7–20.5% | 16.2–21.0% | 15.7–21.5% | 14.9–22.4% |
+| [27–31 October 2017](2017-10-31-SocioMétrica.html) | SocioMétrica <br> El Español | 18.3% | 16.8–20.0% | 16.4–20.4% | 16.0–20.8% | 15.3–21.6% |
 | [16–29 October 2017](2017-10-29-GESOP.html) | GESOP <br> CEO | 18.2% | 16.7–19.9% | 16.3–20.3% | 16.0–20.7% | 15.3–21.6% |
 | [23–26 October 2017](2017-10-26-SigmaDos.html) | Sigma Dos <br> El Mundo | 19.6% | 18.1–21.3% | 17.6–21.8% | 17.3–22.2% | 16.5–23.0% |
 | [16–21 October 2017](2017-10-21-NCReport.html) | NC Report <br> La Razón | 19.2% | 17.7–20.9% | 17.2–21.4% | 16.9–21.8% | 16.2–22.6% |
@@ -27,16 +28,16 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 12.5–13.5% | 0% | 100% |  |
-| 13.5–14.5% | 0.3% | 100% |  |
+| 13.5–14.5% | 0.2% | 100% |  |
 | 14.5–15.5% | 2% | 99.7% |  |
-| 15.5–16.5% | 7% | 98% |  |
-| 16.5–17.5% | 16% | 91% |  |
-| 17.5–18.5% | 24% | 76% | Last Result |
+| 15.5–16.5% | 6% | 98% |  |
+| 16.5–17.5% | 15% | 92% |  |
+| 17.5–18.5% | 25% | 76% | Last Result |
 | 18.5–19.5% | 25% | 51% | Median |
 | 19.5–20.5% | 17% | 26% |  |
 | 20.5–21.5% | 7% | 10% |  |
 | 21.5–22.5% | 2% | 2% |  |
-| 22.5–23.5% | 0.4% | 0.4% |  |
+| 22.5–23.5% | 0.3% | 0.4% |  |
 | 23.5–24.5% | 0% | 0% |  |
 
 
@@ -49,6 +50,7 @@ Last result: **25** seats (General Election of 27 September 2015)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 25 | 22–28 | 21–29 | 20–30 | 19–31 |
+| [27–31 October 2017](2017-10-31-SocioMétrica.html) | SocioMétrica <br> El Español | 25 | 23–27 | 22–28 | 21–29 | 20–30 |
 | [16–29 October 2017](2017-10-29-GESOP.html) | GESOP <br> CEO | 25 | 22–26 | 21–27 | 21–28 | 20–30 |
 | [23–26 October 2017](2017-10-26-SigmaDos.html) | Sigma Dos <br> El Mundo | 26 | 25–30 | 24–30 | 24–31 | 22–32 |
 | [16–21 October 2017](2017-10-21-NCReport.html) | NC Report <br> La Razón | 26 | 24–29 | 24–30 | 24–30 | 22–31 |
@@ -67,19 +69,19 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 18 | 0.1% | 100% |  |
-| 19 | 0.5% | 99.9% |  |
+| 19 | 0.4% | 99.9% |  |
 | 20 | 2% | 99.4% |  |
 | 21 | 3% | 97% |  |
-| 22 | 5% | 94% |  |
+| 22 | 5% | 95% |  |
 | 23 | 5% | 89% |  |
-| 24 | 16% | 84% |  |
-| 25 | 26% | 68% | Last Result, Median |
-| 26 | 21% | 42% |  |
-| 27 | 8% | 22% |  |
-| 28 | 6% | 13% |  |
+| 24 | 15% | 84% |  |
+| 25 | 27% | 69% | Last Result, Median |
+| 26 | 22% | 42% |  |
+| 27 | 8% | 21% |  |
+| 28 | 5% | 13% |  |
 | 29 | 4% | 8% |  |
 | 30 | 3% | 4% |  |
-| 31 | 0.8% | 1.0% |  |
+| 31 | 0.7% | 0.9% |  |
 | 32 | 0.2% | 0.2% |  |
 | 33 | 0.1% | 0.1% |  |
 | 34 | 0% | 0% |  |
