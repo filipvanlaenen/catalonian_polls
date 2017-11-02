@@ -59,15 +59,15 @@ Last result: **20** seats (General Election of 27 September 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 43 | 37–48 | 37–51 | 37–51 | 36–54 |
+| N/A | [Poll Average](average.html) | 39 | 37–48 | 36–51 | 35–51 | 33–54 |
 | [27–31 October 2017](2017-10-31-SocioMétrica.html) | SocioMétrica <br> El Español | 48 | 45–51 | 44–52 | 43–53 | 43–56 |
 | [16–29 October 2017](2017-10-29-GESOP.html) | GESOP <br> CEO |  |  |  |  |  |
 | [23–26 October 2017](2017-10-26-SigmaDos.html) | Sigma Dos <br> El Mundo | 41 | 38–44 | 37–44 | 37–45 | 36–47 |
 | [16–21 October 2017](2017-10-21-NCReport.html) | NC Report <br> La Razón | 37 | 37 | 37–39 | 37–42 | 37–43 |
 | [16–19 October 2017](2017-10-19-GESOP.html) | GESOP <br> El Periódico | 44 | 41–48 | 40–49 | 39–50 | 38–51 |
 | [4–9 October 2017](2017-10-09-SocioMétrica.html) | SocioMétrica <br> El Español | 50 | 46–53 | 45–54 | 44–55 | 43–56 |
-| [19–22 September 2017](2017-09-22-NCReport.html) | NC Report <br> La Razón | 39 | 37–42 | 36–43 | 35–43 | 34–44 |
-| [12–15 September 2017](2017-09-15-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 43 | 42–43 | 36–43 | 36–45 | 35–46 |
+| [19–22 September 2017](2017-09-22-NCReport.html) | NC Report <br> La Razón | 39 | 37–42 | 36–43 | 36–43 | 34–44 |
+| [12–15 September 2017](2017-09-15-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 37 | 35–41 | 34–42 | 33–43 | 32–44 |
 | [28 August–1 September 2017](2017-09-01-SocioMétrica.html) | SocioMétrica <br> El Español | 44 | 40–47 | 39–48 | 38–49 | 37–51 |
 
 ### Probability Mass Function
@@ -89,20 +89,20 @@ The following table shows the probability mass function per seat for the [poll a
 | 28 | 0% | 100% |  |
 | 29 | 0% | 100% |  |
 | 30 | 0% | 100% |  |
-| 31 | 0% | 100% |  |
-| 32 | 0% | 100% |  |
-| 33 | 0% | 100% |  |
-| 34 | 0% | 100% |  |
-| 35 | 0.3% | 100% |  |
-| 36 | 1.5% | 99.6% |  |
-| 37 | 24% | 98% |  |
-| 38 | 4% | 74% |  |
-| 39 | 3% | 70% |  |
-| 40 | 2% | 67% |  |
-| 41 | 4% | 65% |  |
-| 42 | 5% | 60% |  |
-| 43 | 27% | 56% | Median |
-| 44 | 4% | 29% |  |
+| 31 | 0.1% | 100% |  |
+| 32 | 0.3% | 99.9% |  |
+| 33 | 0.6% | 99.6% |  |
+| 34 | 0.9% | 99.0% |  |
+| 35 | 2% | 98% |  |
+| 36 | 4% | 96% |  |
+| 37 | 29% | 92% |  |
+| 38 | 8% | 63% |  |
+| 39 | 5% | 55% | Median |
+| 40 | 5% | 50% |  |
+| 41 | 6% | 45% |  |
+| 42 | 5% | 40% |  |
+| 43 | 6% | 35% |  |
+| 44 | 4% | 28% |  |
 | 45 | 7% | 25% |  |
 | 46 | 2% | 18% |  |
 | 47 | 0.8% | 16% |  |
