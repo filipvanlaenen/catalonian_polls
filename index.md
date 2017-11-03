@@ -5,12 +5,12 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | Period     | Polling firm/Commissioner(s) | JxSí | PDeCAT | ERC | Cs | PSC | CatComú | PP | CUP |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 27 September 2015 | General Election | 39.6% <br> 62 | 39.6% <br> 29 | 39.6% <br> 20 | 17.9% <br> 25 | 12.7% <br> 16 | 8.9% <br> 11 | 8.5% <br> 11 | 8.2% <br> 10 |
-| N/A | [Poll Average](average.html) | 37–43% <br> 57–66 | 8–15% <br> 12–23 | 22–33% <br> 35–51 | 16–22% <br> 20–30 | 11–17% <br> 14–23 | 9–14% <br> 9–18 | 7–12% <br> 9–14 | 4–8% <br> 4–10 |
-| [27–31 October 2017](2017-10-31-SocioMétrica.html) | SocioMétrica <br> El Español | N/A <br> N/A | 8–12% <br> 11–18 | 28–34% <br> 43–53 | 16–21% <br> 20–28 | 10–14% <br> 13–20 | 8–12% <br> 9–17 | 7–11% <br> 8–14 | 4–7% <br> 3–9 |
+| N/A | [Poll Average](average.html) | 37–43% <br> 57–66 | 8–15% <br> 12–23 | 22–33% <br> 35–51 | 16–22% <br> 20–30 | 11–17% <br> 14–23 | 9–14% <br> 10–17 | 7–12% <br> 9–15 | 4–8% <br> 4–10 |
+| [27–31 October 2017](2017-10-31-SocioMétrica.html) | SocioMétrica <br> El Español | N/A <br> N/A | 8–12% <br> 11–18 | 28–34% <br> 44–53 | 16–21% <br> 21–29 | 10–14% <br> 14–19 | 8–12% <br> 9–15 | 7–11% <br> 10–14 | 4–7% <br> 4–9 |
 | [16–29 October 2017](2017-10-29-GESOP.html) | GESOP <br> CEO | 37–43% <br> 57–66 | N/A <br> N/A | N/A <br> N/A | 16–21% <br> 21–28 | 12–16% <br> 15–22 | 9–13% <br> 9–15 | 7–10% <br> 8–13 | 5–8% <br> 5–10 |
 | [23–26 October 2017](2017-10-26-SigmaDos.html) | Sigma Dos <br> El Mundo | N/A <br> N/A | 8–12% <br> 11–17 | 24–29% <br> 37–45 | 17–22% <br> 24–31 | 13–17% <br> 16–23 | 9–13% <br> 11–17 | 7–11% <br> 9–13 | 5–8% <br> 6–10 |
-| [16–21 October 2017](2017-10-21-NCReport.html) | NC Report <br> La Razón | N/A <br> N/A | 10–14% <br> 17–21 | 22–27% <br> 37–42 | 17–22% <br> 22–28 | 11–15% <br> 15–16 | 10–14% <br> 13–18 | 9–13% <br> 12–14 | 4–7% <br> 5–9 |
-| [12–15 September 2017](2017-09-15-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | N/A <br> N/A | 11–16% <br> 16–24 | 22–28% <br> 33–43 | 15–20% <br> 19–27 | 12–17% <br> 15–23 | 10–15% <br> 12–18 | 8–12% <br> 10–14 | 4–8% <br> 4–9 |
+| [16–21 October 2017](2017-10-21-NCReport.html) | NC Report <br> La Razón | N/A <br> N/A | 10–14% <br> 15–22 | 22–27% <br> 35–43 | 17–22% <br> 24–30 | 11–15% <br> 14–21 | 10–14% <br> 11–17 | 9–13% <br> 12–16 | 4–7% <br> 4–9 |
+| [12–15 September 2017](2017-09-15-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | N/A <br> N/A | 11–16% <br> 16–24 | 22–28% <br> 33–43 | 15–20% <br> 20–27 | 12–17% <br> 15–23 | 10–15% <br> 12–18 | 8–12% <br> 10–14 | 4–8% <br> 4–9 |
 | 27 September 2015 | General Election | 39.6% <br> 62 | 39.6% <br> 29 | 39.6% <br> 20 | 17.9% <br> 25 | 12.7% <br> 16 | 8.9% <br> 11 | 8.5% <br> 11 | 8.2% <br> 10 |
 
 Only polls for which at least the sample size has been published are included in the table above.
