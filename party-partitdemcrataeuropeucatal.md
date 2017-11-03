@@ -11,7 +11,7 @@ Last result: **39.6%** (General Election of 27 September 2015)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 11.3% | 9.2–14.1% | 8.8–14.8% | 8.5–15.3% | 7.9–16.3% |
-| [27–31 October 2017](2017-10-31-SocioMétrica.html) | SocioMétrica <br> El Español | 10.1% | 9.0–11.4% | 8.6–11.8% | 8.4–12.2% | 7.9–12.8% |
+| [27–31 October 2017](2017-10-31-SocioMétrica.html) | SocioMétrica <br> El Español | 10.1% | 9.0–11.4% | 8.6–11.8% | 8.4–12.1% | 7.9–12.8% |
 | [16–29 October 2017](2017-10-29-GESOP.html) | GESOP <br> CEO | 0.0% | N/A | N/A | N/A | N/A |
 | [23–26 October 2017](2017-10-26-SigmaDos.html) | Sigma Dos <br> El Mundo | 9.8% | 8.7–11.1% | 8.4–11.5% | 8.1–11.8% | 7.6–12.5% |
 | [16–21 October 2017](2017-10-21-NCReport.html) | NC Report <br> La Razón | 12.1% | 10.9–13.5% | 10.5–13.9% | 10.2–14.3% | 9.6–15.0% |
@@ -73,14 +73,14 @@ Last result: **29** seats (General Election of 27 September 2015)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 17 | 13–21 | 13–22 | 12–23 | 11–24 |
-| [27–31 October 2017](2017-10-31-SocioMétrica.html) | SocioMétrica <br> El Español | 15 | 13–17 | 12–18 | 11–18 | 11–19 |
+| [27–31 October 2017](2017-10-31-SocioMétrica.html) | SocioMétrica <br> El Español | 14 | 13–17 | 12–17 | 11–18 | 11–18 |
 | [16–29 October 2017](2017-10-29-GESOP.html) | GESOP <br> CEO |  |  |  |  |  |
 | [23–26 October 2017](2017-10-26-SigmaDos.html) | Sigma Dos <br> El Mundo | 14 | 12–16 | 11–17 | 11–17 | 11–18 |
-| [16–21 October 2017](2017-10-21-NCReport.html) | NC Report <br> La Razón | 19 | 19 | 17–19 | 17–21 | 15–21 |
+| [16–21 October 2017](2017-10-21-NCReport.html) | NC Report <br> La Razón | 17 | 16–21 | 15–21 | 15–22 | 14–23 |
 | [16–19 October 2017](2017-10-19-GESOP.html) | GESOP <br> El Periódico | 18 | 15–21 | 15–21 | 14–22 | 13–23 |
 | [4–9 October 2017](2017-10-09-SocioMétrica.html) | SocioMétrica <br> El Español | 11 | 9–13 | 9–14 | 8–15 | 7–16 |
 | [19–22 September 2017](2017-09-22-NCReport.html) | NC Report <br> La Razón | 19 | 17–21 | 17–21 | 16–22 | 15–23 |
-| [12–15 September 2017](2017-09-15-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 20 | 17–23 | 17–23 | 16–24 | 15–25 |
+| [12–15 September 2017](2017-09-15-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 21 | 17–23 | 17–23 | 16–24 | 15–25 |
 | [28 August–1 September 2017](2017-09-01-SocioMétrica.html) | SocioMétrica <br> El Español | 18 | 16–22 | 15–22 | 15–23 | 14–24 |
 
 ### Probability Mass Function
@@ -91,23 +91,23 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 10 | 0.1% | 100% |  |
+| 10 | 0% | 100% |  |
 | 11 | 2% | 99.9% |  |
 | 12 | 2% | 98% |  |
-| 13 | 12% | 96% |  |
-| 14 | 6% | 84% |  |
-| 15 | 14% | 78% |  |
-| 16 | 5% | 64% |  |
-| 17 | 12% | 58% | Median |
-| 18 | 5% | 46% |  |
-| 19 | 25% | 41% |  |
-| 20 | 3% | 16% |  |
-| 21 | 7% | 14% |  |
-| 22 | 2% | 6% |  |
+| 13 | 15% | 96% |  |
+| 14 | 9% | 81% |  |
+| 15 | 13% | 72% |  |
+| 16 | 6% | 58% |  |
+| 17 | 17% | 52% | Median |
+| 18 | 9% | 35% |  |
+| 19 | 6% | 26% |  |
+| 20 | 4% | 20% |  |
+| 21 | 9% | 16% |  |
+| 22 | 3% | 7% |  |
 | 23 | 3% | 4% |  |
-| 24 | 0.8% | 0.9% |  |
+| 24 | 0.8% | 1.0% |  |
 | 25 | 0.1% | 0.2% |  |
-| 26 | 0.1% | 0.1% |  |
+| 26 | 0% | 0.1% |  |
 | 27 | 0% | 0% |  |
 | 28 | 0% | 0% |  |
 | 29 | 0% | 0% | Last Result |
