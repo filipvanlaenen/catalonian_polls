@@ -51,9 +51,9 @@ Last result: **16** seats (General Election of 27 September 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 17 | 15–22 | 15–23 | 14–24 | 14–24 |
+| N/A | [Poll Average](average.html) | 18 | 15–22 | 15–22 | 14–23 | 14–24 |
 | [30 October–3 November 2017](2017-11-03-NCReport.html) | NC Report <br> La Razón | 17 | 15–21 | 15–22 | 14–22 | 14–23 |
-| [30 October–3 November 2017](2017-11-03-GAD3.html) | GAD3 <br> La Vanguardia | 16 | 15–24 | 15–24 | 15–24 | 15–24 |
+| [30 October–3 November 2017](2017-11-03-GAD3.html) | GAD3 <br> La Vanguardia | 19 | 16–22 | 16–22 | 16–23 | 15–23 |
 | [27–31 October 2017](2017-10-31-SocioMétrica.html) | SocioMétrica <br> El Español | 15 | 14–17 | 14–18 | 14–19 | 12–20 |
 | [16–29 October 2017](2017-10-29-GESOP.html) | GESOP <br> CEO | 17 | 16–20 | 15–21 | 15–22 | 14–23 |
 | [23–26 October 2017](2017-10-26-SigmaDos.html) | Sigma Dos <br> El Mundo | 20 | 17–23 | 16–23 | 16–23 | 16–24 |
@@ -74,18 +74,18 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 12 | 0.1% | 100% |  |
 | 13 | 0.2% | 99.9% |  |
-| 14 | 3% | 99.7% |  |
-| 15 | 12% | 97% |  |
-| 16 | 28% | 85% | Last Result |
-| 17 | 13% | 57% | Median |
-| 18 | 9% | 43% |  |
-| 19 | 4% | 35% |  |
-| 20 | 11% | 30% |  |
-| 21 | 7% | 20% |  |
-| 22 | 6% | 13% |  |
-| 23 | 3% | 6% |  |
-| 24 | 3% | 3% |  |
-| 25 | 0.1% | 0.1% |  |
+| 14 | 3% | 99.6% |  |
+| 15 | 10% | 97% |  |
+| 16 | 19% | 87% | Last Result |
+| 17 | 16% | 67% |  |
+| 18 | 11% | 51% | Median |
+| 19 | 8% | 41% |  |
+| 20 | 13% | 33% |  |
+| 21 | 7% | 19% |  |
+| 22 | 8% | 13% |  |
+| 23 | 4% | 4% |  |
+| 24 | 0.6% | 0.6% |  |
+| 25 | 0% | 0.1% |  |
 | 26 | 0% | 0% |  |
 
 

@@ -48,8 +48,8 @@ Last result: **10** seats (General Election of 27 September 2015)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 8 | 6–9 | 5–9 | 5–10 | 3–10 |
-| [30 October–3 November 2017](2017-11-03-NCReport.html) | NC Report <br> La Razón | 8 | 7–9 | 6–10 | 5–10 | 3–11 |
-| [30 October–3 November 2017](2017-11-03-GAD3.html) | GAD3 <br> La Vanguardia | 9 | 7–9 | 7–10 | 7–10 | 5–10 |
+| [30 October–3 November 2017](2017-11-03-NCReport.html) | NC Report <br> La Razón | 8 | 7–9 | 6–10 | 5–10 | 3–12 |
+| [30 October–3 November 2017](2017-11-03-GAD3.html) | GAD3 <br> La Vanguardia | 8 | 7–9 | 6–9 | 5–10 | 4–10 |
 | [27–31 October 2017](2017-10-31-SocioMétrica.html) | SocioMétrica <br> El Español | 8 | 5–9 | 4–9 | 4–9 | 3–10 |
 | [16–29 October 2017](2017-10-29-GESOP.html) | GESOP <br> CEO | 8 | 6–9 | 6–9 | 5–10 | 4–10 |
 | [23–26 October 2017](2017-10-26-SigmaDos.html) | Sigma Dos <br> El Mundo | 8 | 7–9 | 7–10 | 6–10 | 5–10 |
@@ -68,15 +68,15 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 3 | 1.0% | 100% |  |
-| 4 | 1.2% | 99.0% |  |
-| 5 | 4% | 98% |  |
-| 6 | 4% | 94% |  |
-| 7 | 9% | 90% |  |
-| 8 | 46% | 80% | Median |
-| 9 | 30% | 34% |  |
+| 3 | 0.9% | 100% |  |
+| 4 | 1.3% | 99.1% |  |
+| 5 | 5% | 98% |  |
+| 6 | 5% | 93% |  |
+| 7 | 8% | 88% |  |
+| 8 | 49% | 80% | Median |
+| 9 | 26% | 30% |  |
 | 10 | 4% | 4% | Last Result |
-| 11 | 0.2% | 0.3% |  |
+| 11 | 0.1% | 0.3% |  |
 | 12 | 0.1% | 0.1% |  |
 | 13 | 0% | 0% |  |
 

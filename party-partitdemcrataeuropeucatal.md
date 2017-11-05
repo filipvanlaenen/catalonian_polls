@@ -74,9 +74,9 @@ Last result: **29** seats (General Election of 27 September 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 15 | 13–21 | 13–21 | 11–23 | 11–24 |
-| [30 October–3 November 2017](2017-11-03-NCReport.html) | NC Report <br> La Razón | 16 | 13–17 | 13–18 | 12–19 | 11–21 |
-| [30 October–3 November 2017](2017-11-03-GAD3.html) | GAD3 <br> La Vanguardia | 14 | 14–18 | 13–18 | 11–18 | 11–18 |
+| N/A | [Poll Average](average.html) | 15 | 13–21 | 13–21 | 12–23 | 11–24 |
+| [30 October–3 November 2017](2017-11-03-NCReport.html) | NC Report <br> La Razón | 15 | 13–18 | 13–18 | 12–19 | 11–21 |
+| [30 October–3 November 2017](2017-11-03-GAD3.html) | GAD3 <br> La Vanguardia | 15 | 13–17 | 12–17 | 12–18 | 11–19 |
 | [27–31 October 2017](2017-10-31-SocioMétrica.html) | SocioMétrica <br> El Español | 14 | 13–17 | 12–17 | 11–18 | 11–18 |
 | [16–29 October 2017](2017-10-29-GESOP.html) | GESOP <br> CEO |  |  |  |  |  |
 | [23–26 October 2017](2017-10-26-SigmaDos.html) | Sigma Dos <br> El Mundo | 14 | 12–16 | 11–17 | 11–17 | 11–18 |
@@ -96,16 +96,16 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 10 | 0% | 100% |  |
-| 11 | 3% | 99.9% |  |
-| 12 | 2% | 97% |  |
-| 13 | 14% | 95% |  |
-| 14 | 24% | 81% |  |
-| 15 | 13% | 57% | Median |
-| 16 | 7% | 44% |  |
-| 17 | 14% | 37% |  |
-| 18 | 7% | 23% |  |
-| 19 | 3% | 15% |  |
-| 20 | 2% | 12% |  |
+| 11 | 2% | 99.9% |  |
+| 12 | 2% | 98% |  |
+| 13 | 19% | 95% |  |
+| 14 | 12% | 76% |  |
+| 15 | 20% | 64% | Median |
+| 16 | 8% | 44% |  |
+| 17 | 15% | 36% |  |
+| 18 | 5% | 21% |  |
+| 19 | 3% | 16% |  |
+| 20 | 2% | 13% |  |
 | 21 | 6% | 10% |  |
 | 22 | 2% | 5% |  |
 | 23 | 2% | 3% |  |
