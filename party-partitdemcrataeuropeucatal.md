@@ -10,7 +10,9 @@ Last result: **39.6%** (General Election of 27 September 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 11.3% | 9.2–14.1% | 8.8–14.8% | 8.5–15.3% | 7.9–16.3% |
+| N/A | [Poll Average](average.html) | 10.6% | 9.1–13.7% | 8.8–14.5% | 8.5–15.1% | 7.9–16.2% |
+| [30 October–3 November 2017](2017-11-03-NCReport.html) | NC Report <br> La Razón | 10.7% | 9.3–12.3% | 9.0–12.8% | 8.6–13.2% | 8.0–14.0% |
+| [30 October–3 November 2017](2017-11-03-GAD3.html) | GAD3 <br> La Vanguardia | 10.4% | 9.3–11.8% | 8.9–12.1% | 8.7–12.5% | 8.1–13.1% |
 | [27–31 October 2017](2017-10-31-SocioMétrica.html) | SocioMétrica <br> El Español | 10.1% | 9.0–11.4% | 8.6–11.8% | 8.4–12.1% | 7.9–12.8% |
 | [16–29 October 2017](2017-10-29-GESOP.html) | GESOP <br> CEO | 0.0% | N/A | N/A | N/A | N/A |
 | [23–26 October 2017](2017-10-26-SigmaDos.html) | Sigma Dos <br> El Mundo | 9.8% | 8.7–11.1% | 8.4–11.5% | 8.1–11.8% | 7.6–12.5% |
@@ -30,15 +32,15 @@ The following table shows the probability mass function per percentage block of 
 | 5.5–6.5% | 0% | 100% |  |
 | 6.5–7.5% | 0.1% | 100% |  |
 | 7.5–8.5% | 3% | 99.9% |  |
-| 8.5–9.5% | 13% | 97% |  |
-| 9.5–10.5% | 21% | 84% |  |
-| 10.5–11.5% | 18% | 63% | Median |
-| 11.5–12.5% | 15% | 45% |  |
-| 12.5–13.5% | 14% | 30% |  |
-| 13.5–14.5% | 10% | 16% |  |
-| 14.5–15.5% | 5% | 6% |  |
-| 15.5–16.5% | 1.5% | 2% |  |
-| 16.5–17.5% | 0.3% | 0.3% |  |
+| 8.5–9.5% | 16% | 97% |  |
+| 9.5–10.5% | 29% | 81% |  |
+| 10.5–11.5% | 23% | 52% | Median |
+| 11.5–12.5% | 11% | 30% |  |
+| 12.5–13.5% | 8% | 19% |  |
+| 13.5–14.5% | 6% | 11% |  |
+| 14.5–15.5% | 3% | 5% |  |
+| 15.5–16.5% | 1.1% | 1.4% |  |
+| 16.5–17.5% | 0.2% | 0.3% |  |
 | 17.5–18.5% | 0% | 0% |  |
 | 18.5–19.5% | 0% | 0% |  |
 | 19.5–20.5% | 0% | 0% |  |
@@ -72,7 +74,9 @@ Last result: **29** seats (General Election of 27 September 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 17 | 13–21 | 13–22 | 12–23 | 11–24 |
+| N/A | [Poll Average](average.html) | 15 | 13–21 | 13–21 | 11–23 | 11–24 |
+| [30 October–3 November 2017](2017-11-03-NCReport.html) | NC Report <br> La Razón | 16 | 13–17 | 13–18 | 12–19 | 11–21 |
+| [30 October–3 November 2017](2017-11-03-GAD3.html) | GAD3 <br> La Vanguardia | 14 | 14–18 | 13–18 | 11–18 | 11–18 |
 | [27–31 October 2017](2017-10-31-SocioMétrica.html) | SocioMétrica <br> El Español | 14 | 13–17 | 12–17 | 11–18 | 11–18 |
 | [16–29 October 2017](2017-10-29-GESOP.html) | GESOP <br> CEO |  |  |  |  |  |
 | [23–26 October 2017](2017-10-26-SigmaDos.html) | Sigma Dos <br> El Mundo | 14 | 12–16 | 11–17 | 11–17 | 11–18 |
@@ -92,21 +96,21 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 10 | 0% | 100% |  |
-| 11 | 2% | 99.9% |  |
-| 12 | 2% | 98% |  |
-| 13 | 15% | 96% |  |
-| 14 | 9% | 81% |  |
-| 15 | 13% | 72% |  |
-| 16 | 6% | 58% |  |
-| 17 | 17% | 52% | Median |
-| 18 | 9% | 35% |  |
-| 19 | 6% | 26% |  |
-| 20 | 4% | 20% |  |
-| 21 | 9% | 16% |  |
-| 22 | 3% | 7% |  |
-| 23 | 3% | 4% |  |
-| 24 | 0.8% | 1.0% |  |
-| 25 | 0.1% | 0.2% |  |
+| 11 | 3% | 99.9% |  |
+| 12 | 2% | 97% |  |
+| 13 | 14% | 95% |  |
+| 14 | 24% | 81% |  |
+| 15 | 13% | 57% | Median |
+| 16 | 7% | 44% |  |
+| 17 | 14% | 37% |  |
+| 18 | 7% | 23% |  |
+| 19 | 3% | 15% |  |
+| 20 | 2% | 12% |  |
+| 21 | 6% | 10% |  |
+| 22 | 2% | 5% |  |
+| 23 | 2% | 3% |  |
+| 24 | 0.6% | 0.8% |  |
+| 25 | 0.1% | 0.1% |  |
 | 26 | 0% | 0.1% |  |
 | 27 | 0% | 0% |  |
 | 28 | 0% | 0% |  |
