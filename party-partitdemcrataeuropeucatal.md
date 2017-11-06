@@ -74,17 +74,17 @@ Last result: **29** seats (General Election of 27 September 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 15 | 13–21 | 13–21 | 12–23 | 11–24 |
+| N/A | [Poll Average](average.html) | 15 | 13–20 | 13–21 | 11–23 | 11–24 |
 | [30 October–3 November 2017](2017-11-03-NCReport.html) | NC Report <br> La Razón | 15 | 13–18 | 13–18 | 12–19 | 11–21 |
 | [30 October–3 November 2017](2017-11-03-GAD3.html) | GAD3 <br> La Vanguardia | 15 | 13–17 | 12–17 | 12–18 | 11–19 |
 | [27–31 October 2017](2017-10-31-SocioMétrica.html) | SocioMétrica <br> El Español | 14 | 13–17 | 12–17 | 11–18 | 11–18 |
 | [16–29 October 2017](2017-10-29-GESOP.html) | GESOP <br> CEO |  |  |  |  |  |
-| [23–26 October 2017](2017-10-26-SigmaDos.html) | Sigma Dos <br> El Mundo | 14 | 12–16 | 11–17 | 11–17 | 11–18 |
+| [23–26 October 2017](2017-10-26-SigmaDos.html) | Sigma Dos <br> El Mundo | 14 | 13–17 | 11–17 | 11–17 | 11–18 |
 | [16–21 October 2017](2017-10-21-NCReport.html) | NC Report <br> La Razón | 17 | 16–21 | 15–21 | 15–22 | 14–23 |
 | [16–19 October 2017](2017-10-19-GESOP.html) | GESOP <br> El Periódico | 18 | 15–21 | 15–21 | 14–22 | 13–23 |
 | [4–9 October 2017](2017-10-09-SocioMétrica.html) | SocioMétrica <br> El Español | 11 | 9–13 | 9–14 | 8–15 | 7–16 |
 | [19–22 September 2017](2017-09-22-NCReport.html) | NC Report <br> La Razón | 19 | 17–21 | 17–21 | 16–22 | 15–23 |
-| [12–15 September 2017](2017-09-15-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 21 | 17–23 | 17–23 | 17–24 | 15–25 |
+| [12–15 September 2017](2017-09-15-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 20 | 17–23 | 17–23 | 17–24 | 15–25 |
 | [28 August–1 September 2017](2017-09-01-SocioMétrica.html) | SocioMétrica <br> El Español | 18 | 16–22 | 15–22 | 15–23 | 14–24 |
 
 ### Probability Mass Function
@@ -95,21 +95,21 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 10 | 0% | 100% |  |
+| 10 | 0.1% | 100% |  |
 | 11 | 2% | 99.9% |  |
-| 12 | 2% | 98% |  |
+| 12 | 2% | 97% |  |
 | 13 | 19% | 95% |  |
 | 14 | 12% | 76% |  |
 | 15 | 20% | 64% | Median |
-| 16 | 8% | 44% |  |
+| 16 | 7% | 44% |  |
 | 17 | 15% | 37% |  |
 | 18 | 6% | 21% |  |
-| 19 | 3% | 16% |  |
-| 20 | 2% | 13% |  |
-| 21 | 6% | 11% |  |
-| 22 | 2% | 5% |  |
+| 19 | 3% | 15% |  |
+| 20 | 3% | 12% |  |
+| 21 | 5% | 10% |  |
+| 22 | 2% | 4% |  |
 | 23 | 2% | 3% |  |
-| 24 | 0.5% | 0.7% |  |
+| 24 | 0.6% | 0.7% |  |
 | 25 | 0.1% | 0.1% |  |
 | 26 | 0% | 0.1% |  |
 | 27 | 0% | 0% |  |
