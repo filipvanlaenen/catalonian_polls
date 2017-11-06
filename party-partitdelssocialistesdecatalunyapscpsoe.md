@@ -56,7 +56,7 @@ Last result: **16** seats (General Election of 27 September 2015)
 | [30 October–3 November 2017](2017-11-03-GAD3.html) | GAD3 <br> La Vanguardia | 19 | 16–22 | 16–22 | 16–23 | 15–23 |
 | [27–31 October 2017](2017-10-31-SocioMétrica.html) | SocioMétrica <br> El Español | 15 | 14–17 | 14–18 | 14–19 | 12–20 |
 | [16–29 October 2017](2017-10-29-GESOP.html) | GESOP <br> CEO | 17 | 16–20 | 15–21 | 15–22 | 14–23 |
-| [23–26 October 2017](2017-10-26-SigmaDos.html) | Sigma Dos <br> El Mundo | 20 | 17–23 | 16–23 | 16–23 | 15–24 |
+| [23–26 October 2017](2017-10-26-SigmaDos.html) | Sigma Dos <br> El Mundo | 20 | 17–23 | 16–23 | 16–23 | 16–24 |
 | [16–21 October 2017](2017-10-21-NCReport.html) | NC Report <br> La Razón | 16 | 15–20 | 15–20 | 14–21 | 14–22 |
 | [16–19 October 2017](2017-10-19-GESOP.html) | GESOP <br> El Periódico | 20 | 16–23 | 16–23 | 16–23 | 15–24 |
 | [4–9 October 2017](2017-10-09-SocioMétrica.html) | SocioMétrica <br> El Español | 12 | 11–14 | 9–15 | 9–15 | 8–16 |
@@ -79,9 +79,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 16 | 19% | 87% | Last Result |
 | 17 | 16% | 68% |  |
 | 18 | 11% | 52% | Median |
-| 19 | 9% | 41% |  |
+| 19 | 8% | 41% |  |
 | 20 | 13% | 32% |  |
-| 21 | 6% | 19% |  |
+| 21 | 7% | 19% |  |
 | 22 | 8% | 12% |  |
 | 23 | 4% | 4% |  |
 | 24 | 0.6% | 0.6% |  |
