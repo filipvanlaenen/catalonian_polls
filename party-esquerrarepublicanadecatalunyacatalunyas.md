@@ -17,7 +17,7 @@ Last result: **39.6%** (General Election of 27 September 2015)
 | [16–29 October 2017](2017-10-29-GESOP.html) | GESOP <br> CEO | 0.0% | N/A | N/A | N/A | N/A |
 | [23–26 October 2017](2017-10-26-SigmaDos.html) | Sigma Dos <br> El Mundo | 26.4% | 24.7–28.2% | 24.2–28.8% | 23.8–29.2% | 22.9–30.1% |
 | [16–21 October 2017](2017-10-21-NCReport.html) | NC Report <br> La Razón | 24.6% | 22.9–26.4% | 22.4–26.9% | 22.0–27.4% | 21.2–28.3% |
-| [16–19 October 2017](2017-10-19-GESOP.html) | GESOP <br> El Periódico | 28.1% | 26.2–30.2% | 25.6–30.8% | 25.1–31.4% | 24.2–32.4% |
+| [16–19 October 2017](2017-10-19-GESOP.html) | GESOP <br> El Periódico | 28.1% | 26.2–30.3% | 25.6–30.9% | 25.1–31.4% | 24.2–32.4% |
 | [4–9 October 2017](2017-10-09-SocioMétrica.html) | SocioMétrica <br> El Español | 31.8% | 29.7–33.9% | 29.1–34.5% | 28.6–35.1% | 27.6–36.1% |
 | [19–22 September 2017](2017-09-22-NCReport.html) | NC Report <br> La Razón | 25.1% | 23.6–26.7% | 23.1–27.2% | 22.8–27.6% | 22.1–28.4% |
 | [12–15 September 2017](2017-09-15-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 24.8% | 22.9–26.8% | 22.3–27.4% | 21.9–27.9% | 21.0–28.9% |
