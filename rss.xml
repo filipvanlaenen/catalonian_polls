@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Parliament of Catalonia</title>
     <link>https://filipvanlaenen.github.io/catalonian_polls</link>
     <description>All Registered Polls for the Parliament of Catalonia</description>
-    <pubDate>Tue, 07 Nov 2017 16:09:46 +0100</pubDate>
+    <pubDate>Tue, 07 Nov 2017 19:39:04 +0100</pubDate>
     <item>
       <title>Opinion Poll by NC Report for La Razón, 30 October–3 November 2017</title>
       <link>https://filipvanlaenen.github.io/catalonian_polls/2017-11-03-NCReport.html</link>
@@ -72,12 +72,12 @@
     <item>
       <title>Opinion Poll by GESOP for El Periódico, 16–19 October 2017</title>
       <link>https://filipvanlaenen.github.io/catalonian_polls/2017-10-19-GESOP.html</link>
-      <description>&lt;ul&gt;&lt;/ul&gt;</description>
+      <description>&lt;ul&gt;&lt;li&gt;Partit Demòcrata Europeu Català: 9.9–14.4%, 14–22 seats&lt;/li&gt;&lt;li&gt;Esquerra Republicana de Catalunya–Catalunya Sí: 25.1–31.4%, 39–50 seats&lt;/li&gt;&lt;li&gt;Ciutadans–Partido de la Ciudadanía: 14.3–19.5%, 19–26 seats&lt;/li&gt;&lt;li&gt;Partit dels Socialistes de Catalunya (PSC-PSOE): 12.2–17.1%, 16–23 seats&lt;/li&gt;&lt;li&gt;Catalunya en Comú: 7.2–11.2%, 8–14 seats&lt;/li&gt;&lt;li&gt;Partit Popular: 5.9–9.5%, 6–13 seats&lt;/li&gt;&lt;li&gt;Candidatura d’Unitat Popular: 6.1–9.8%, 8–13 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/catalonian_polls/2017-10-19-GESOP.png"
-        length="234030"
+        length="233598"
         type="image/png"/>
-      <pubDate>Mon, 23 Oct 2017 10:30:56 +0200</pubDate>
-      <dc:date>2017-10-23T10:30:56.56952+02:00</dc:date>
+      <pubDate>Tue, 07 Nov 2017 19:39:04 +0100</pubDate>
+      <dc:date>2017-11-07T19:39:04.915466+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by SocioMétrica for El Español, 4–9 October 2017</title>
@@ -119,6 +119,6 @@
       <pubDate>Sun, 22 Oct 2017 07:22:22 +0200</pubDate>
       <dc:date>2017-10-22T07:22:22.323279+02:00</dc:date>
     </item>
-    <dc:date>2017-11-07T16:09:46.67335+01:00</dc:date>
+    <dc:date>2017-11-07T19:39:04.915466+01:00</dc:date>
   </channel>
 </rss>
