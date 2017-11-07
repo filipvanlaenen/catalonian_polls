@@ -17,7 +17,7 @@ Last result: **8.5%** (General Election of 27 September 2015)
 | [16–29 October 2017](2017-10-29-GESOP.html) | GESOP <br> CEO | 8.3% | 7.2–9.5% | 7.0–9.8% | 6.7–10.1% | 6.2–10.8% |
 | [23–26 October 2017](2017-10-26-SigmaDos.html) | Sigma Dos <br> El Mundo | 8.7% | 7.7–10.0% | 7.3–10.3% | 7.1–10.6% | 6.6–11.2% |
 | [16–21 October 2017](2017-10-21-NCReport.html) | NC Report <br> La Razón | 10.5% | 9.3–11.8% | 9.0–12.2% | 8.7–12.6% | 8.2–13.2% |
-| [16–19 October 2017](2017-10-19-GESOP.html) | GESOP <br> El Periódico | 7.5% | N/A | N/A | N/A | N/A |
+| [16–19 October 2017](2017-10-19-GESOP.html) | GESOP <br> El Periódico | 7.5% | 6.4–8.8% | 6.1–9.2% | 5.9–9.5% | 5.4–10.2% |
 | [4–9 October 2017](2017-10-09-SocioMétrica.html) | SocioMétrica <br> El Español | 10.1% | 8.9–11.6% | 8.5–12.0% | 8.2–12.4% | 7.7–13.2% |
 | [19–22 September 2017](2017-09-22-NCReport.html) | NC Report <br> La Razón | 10.8% | 9.8–12.0% | 9.5–12.4% | 9.2–12.7% | 8.7–13.3% |
 | [12–15 September 2017](2017-09-15-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 9.4% | 8.2–10.8% | 7.8–11.2% | 7.5–11.6% | 7.0–12.3% |
