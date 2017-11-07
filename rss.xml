@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Parliament of Catalonia</title>
     <link>https://filipvanlaenen.github.io/catalonian_polls</link>
     <description>All Registered Polls for the Parliament of Catalonia</description>
-    <pubDate>Mon, 06 Nov 2017 19:14:51 +0100</pubDate>
+    <pubDate>Tue, 07 Nov 2017 11:03:49 +0100</pubDate>
     <item>
       <title>Opinion Poll by NC Report for La Razón, 30 October–3 November 2017</title>
       <link>https://filipvanlaenen.github.io/catalonian_polls/2017-11-03-NCReport.html</link>
@@ -56,8 +56,8 @@
       <enclosure url="https://filipvanlaenen.github.io/catalonian_polls/2017-10-26-SigmaDos.png"
         length="228930"
         type="image/png"/>
-      <pubDate>Mon, 06 Nov 2017 19:14:51 +0100</pubDate>
-      <dc:date>2017-11-06T19:14:51.965352+01:00</dc:date>
+      <pubDate>Tue, 07 Nov 2017 10:20:56 +0100</pubDate>
+      <dc:date>2017-11-07T10:20:56.897659+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by NC Report for La Razón, 16–21 October 2017</title>
@@ -66,8 +66,8 @@
       <enclosure url="https://filipvanlaenen.github.io/catalonian_polls/2017-10-21-NCReport.png"
         length="227225"
         type="image/png"/>
-      <pubDate>Fri, 03 Nov 2017 17:25:13 +0100</pubDate>
-      <dc:date>2017-11-03T17:25:13.664311+01:00</dc:date>
+      <pubDate>Tue, 07 Nov 2017 11:03:49 +0100</pubDate>
+      <dc:date>2017-11-07T11:03:49.444688+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by GESOP for El Periódico, 16–19 October 2017</title>
@@ -119,6 +119,6 @@
       <pubDate>Sun, 22 Oct 2017 07:22:22 +0200</pubDate>
       <dc:date>2017-10-22T07:22:22.323279+02:00</dc:date>
     </item>
-    <dc:date>2017-11-06T19:14:51.965352+01:00</dc:date>
+    <dc:date>2017-11-07T11:03:49.444688+01:00</dc:date>
   </channel>
 </rss>
