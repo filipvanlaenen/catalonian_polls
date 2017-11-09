@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Parliament of Catalonia</title>
     <link>https://filipvanlaenen.github.io/catalonian_polls</link>
     <description>All Registered Polls for the Parliament of Catalonia</description>
-    <pubDate>Wed, 08 Nov 2017 09:20:28 +0100</pubDate>
+    <pubDate>Thu, 09 Nov 2017 19:13:50 +0100</pubDate>
     <item>
       <title>Opinion Poll by NC Report for La Razón, 30 October–3 November 2017 – Seat Projections</title>
       <link>https://filipvanlaenen.github.io/catalonian_polls/2017-11-03-NCReport.html#seats</link>
@@ -150,24 +150,14 @@
       <dc:date>2017-11-08T06:59:32.4615+01:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by SocioMétrica for El Español, 4–9 October 2017 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/catalonian_polls/2017-10-09-SocioMétrica.html#seats</link>
-      <description>&lt;ul&gt;&lt;li&gt;Partit Demòcrata Europeu Català: 8–15 seats&lt;/li&gt;&lt;li&gt;Esquerra Republicana de Catalunya–Catalunya Sí: 44–55 seats&lt;/li&gt;&lt;li&gt;Ciutadans–Partido de la Ciudadanía: 21–29 seats&lt;/li&gt;&lt;li&gt;Partit dels Socialistes de Catalunya (PSC-PSOE): 9–15 seats&lt;/li&gt;&lt;li&gt;Catalunya en Comú: 12–18 seats&lt;/li&gt;&lt;li&gt;Partit Popular: 10–16 seats&lt;/li&gt;&lt;li&gt;Candidatura d’Unitat Popular: 5–10 seats&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://filipvanlaenen.github.io/catalonian_polls/2017-10-09-SocioMétrica-seats.png"
-        length="175476"
-        type="image/png"/>
-      <pubDate>Sat, 21 Oct 2017 17:34:02 +0200</pubDate>
-      <dc:date>2017-10-21T17:34:02.691986+02:00</dc:date>
-    </item>
-    <item>
       <title>Opinion Poll by SocioMétrica for El Español, 4–9 October 2017 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/catalonian_polls/2017-10-09-SocioMétrica.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Partit Demòcrata Europeu Català: 6.4–10.2%&lt;/li&gt;&lt;li&gt;Esquerra Republicana de Catalunya–Catalunya Sí: 28.6–35.1%&lt;/li&gt;&lt;li&gt;Ciutadans–Partido de la Ciudadanía: 15.7–21.1%&lt;/li&gt;&lt;li&gt;Partit dels Socialistes de Catalunya (PSC-PSOE): 7.7–11.7%&lt;/li&gt;&lt;li&gt;Catalunya en Comú: 9.9–14.4%&lt;/li&gt;&lt;li&gt;Partit Popular: 8.2–12.4%&lt;/li&gt;&lt;li&gt;Candidatura d’Unitat Popular: 4.8–8.2%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/catalonian_polls/2017-10-09-SocioMétrica.png"
         length="233937"
         type="image/png"/>
-      <pubDate>Sat, 21 Oct 2017 17:34:02 +0200</pubDate>
-      <dc:date>2017-10-21T17:34:02.691986+02:00</dc:date>
+      <pubDate>Thu, 09 Nov 2017 19:13:50 +0100</pubDate>
+      <dc:date>2017-11-09T19:13:50.676205+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by NC Report for La Razón, 19–22 September 2017 – Seat Projections</title>
@@ -229,6 +219,6 @@
       <pubDate>Sun, 22 Oct 2017 07:22:22 +0200</pubDate>
       <dc:date>2017-10-22T07:22:22.323279+02:00</dc:date>
     </item>
-    <dc:date>2017-11-08T09:20:28.964916+01:00</dc:date>
+    <dc:date>2017-11-09T19:13:50.676205+01:00</dc:date>
   </channel>
 </rss>
