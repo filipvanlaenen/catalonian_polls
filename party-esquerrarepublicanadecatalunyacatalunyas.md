@@ -68,7 +68,7 @@ Last result: **20** seats (General Election of 27 September 2015)
 | [23–26 October 2017](2017-10-26-SigmaDos.html) | Sigma Dos <br> El Mundo | 41 | 38–44 | 37–44 | 37–45 | 35–47 |
 | [16–21 October 2017](2017-10-21-NCReport.html) | NC Report <br> La Razón | 38 | 36–42 | 35–43 | 35–43 | 33–44 |
 | [16–19 October 2017](2017-10-19-GESOP.html) | GESOP <br> El Periódico | 44 | 41–48 | 40–49 | 39–50 | 38–51 |
-| [4–9 October 2017](2017-10-09-SocioMétrica.html) | SocioMétrica <br> El Español | 50 | 46–53 | 45–54 | 44–55 | 43–56 |
+| [4–9 October 2017](2017-10-09-SocioMétrica.html) | SocioMétrica <br> El Español | 50 | 47–52 | 46–54 | 45–55 | 43–56 |
 | [19–22 September 2017](2017-09-22-NCReport.html) | NC Report <br> La Razón | 39 | 37–42 | 36–43 | 36–43 | 34–44 |
 | [12–15 September 2017](2017-09-15-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 38 | 35–41 | 34–42 | 33–43 | 31–44 |
 | [28 August–1 September 2017](2017-09-01-SocioMétrica.html) | SocioMétrica <br> El Español | 44 | 40–47 | 39–48 | 38–49 | 37–51 |
