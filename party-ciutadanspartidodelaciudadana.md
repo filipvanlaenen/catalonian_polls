@@ -21,7 +21,7 @@ Last result: **17.9%** (General Election of 27 September 2015)
 | [4–9 October 2017](2017-10-09-SocioMétrica.html) | SocioMétrica <br> El Español | 18.2% | 16.6–20.1% | 16.1–20.6% | 15.7–21.1% | 15.0–22.0% |
 | [19–22 September 2017](2017-09-22-NCReport.html) | NC Report <br> La Razón | 17.2% | 15.9–18.6% | 15.5–19.1% | 15.2–19.4% | 14.6–20.1% |
 | [12–15 September 2017](2017-09-15-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 17.4% | 15.7–19.2% | 15.3–19.7% | 14.9–20.2% | 14.2–21.1% |
-| [28 August–1 September 2017](2017-09-01-SocioMétrica.html) | SocioMétrica <br> El Español | 17.6% | 15.8–19.5% | 15.3–20.1% | 14.9–20.6% | 14.1–21.5% |
+| [28 August–1 September 2017](2017-09-01-SocioMétrica.html) | SocioMétrica <br> El Español | 17.6% | N/A | N/A | N/A | N/A |
 
 ### Probability Mass Function
 
@@ -61,7 +61,7 @@ Last result: **25** seats (General Election of 27 September 2015)
 | [23–26 October 2017](2017-10-26-SigmaDos.html) | Sigma Dos <br> El Mundo | 26 | 25–30 | 24–30 | 24–31 | 22–32 |
 | [16–21 October 2017](2017-10-21-NCReport.html) | NC Report <br> La Razón | 26 | 24–29 | 24–30 | 24–30 | 22–31 |
 | [16–19 October 2017](2017-10-19-GESOP.html) | GESOP <br> El Periódico | 24 | 20–25 | 20–26 | 19–26 | 18–28 |
-| [4–9 October 2017](2017-10-09-SocioMétrica.html) | SocioMétrica <br> El Español | 25 | 22–27 | 21–28 | 21–29 | 20–30 |
+| [4–9 October 2017](2017-10-09-SocioMétrica.html) | SocioMétrica <br> El Español | 25 | 22–27 | 21–28 | 21–29 | 20–31 |
 | [19–22 September 2017](2017-09-22-NCReport.html) | NC Report <br> La Razón | 24 | 21–25 | 20–26 | 20–26 | 19–28 |
 | [12–15 September 2017](2017-09-15-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 24 | 20–25 | 20–26 | 19–27 | 18–29 |
 | [28 August–1 September 2017](2017-09-01-SocioMétrica.html) | SocioMétrica <br> El Español | 24 | 21–27 | 20–28 | 20–28 | 19–30 |

@@ -21,7 +21,7 @@ Last result: **12.7%** (General Election of 27 September 2015)
 | [4–9 October 2017](2017-10-09-SocioMétrica.html) | SocioMétrica <br> El Español | 9.5% | 8.3–11.0% | 7.9–11.4% | 7.7–11.7% | 7.1–12.5% |
 | [19–22 September 2017](2017-09-22-NCReport.html) | NC Report <br> La Razón | 13.7% | 12.5–15.0% | 12.2–15.4% | 11.9–15.7% | 11.4–16.4% |
 | [12–15 September 2017](2017-09-15-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 14.8% | 13.2–16.5% | 12.8–17.0% | 12.5–17.4% | 11.8–18.2% |
-| [28 August–1 September 2017](2017-09-01-SocioMétrica.html) | SocioMétrica <br> El Español | 10.1% | 8.8–11.8% | 8.4–12.2% | 8.1–12.6% | 7.5–13.4% |
+| [28 August–1 September 2017](2017-09-01-SocioMétrica.html) | SocioMétrica <br> El Español | 10.1% | N/A | N/A | N/A | N/A |
 
 ### Probability Mass Function
 

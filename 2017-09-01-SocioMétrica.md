@@ -10,13 +10,13 @@
 
 | Party | Last Result | Poll Result | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Esquerra Republicana de Catalunya–Catalunya Sí | 39.6% | 28.0% | 25.9–30.3% |25.3–30.9% |24.8–31.4% |23.8–32.5% |
-| Ciutadans–Partido de la Ciudadanía | 17.9% | 17.6% | 15.8–19.5% |15.3–20.1% |14.9–20.6% |14.1–21.5% |
-| Partit Demòcrata Europeu Català | 39.6% | 12.7% | 11.2–14.5% |10.8–15.0% |10.4–15.4% |9.8–16.3% |
-| Partit Popular | 8.5% | 10.6% | 9.2–12.2% |8.8–12.7% |8.5–13.1% |7.9–13.9% |
-| Catalunya en Comú | 8.9% | 10.4% | 9.1–12.1% |8.7–12.5% |8.4–12.9% |7.8–13.7% |
-| Partit dels Socialistes de Catalunya (PSC-PSOE) | 12.7% | 10.1% | 8.8–11.8% |8.4–12.2% |8.1–12.6% |7.5–13.4% |
-| Candidatura d’Unitat Popular | 8.2% | 6.9% | 5.8–8.2% |5.5–8.6% |5.2–9.0% |4.7–9.7% |
+| Esquerra Republicana de Catalunya–Catalunya Sí | 39.6% | 28.0% | N/A |N/A |N/A |N/A |
+| Ciutadans–Partido de la Ciudadanía | 17.9% | 17.6% | N/A |N/A |N/A |N/A |
+| Partit Demòcrata Europeu Català | 39.6% | 12.7% | N/A |N/A |N/A |N/A |
+| Partit Popular | 8.5% | 10.6% | N/A |N/A |N/A |N/A |
+| Catalunya en Comú | 8.9% | 10.4% | N/A |N/A |N/A |N/A |
+| Partit dels Socialistes de Catalunya (PSC-PSOE) | 12.7% | 10.1% | N/A |N/A |N/A |N/A |
+| Candidatura d’Unitat Popular | 8.2% | 6.9% | N/A |N/A |N/A |N/A |
 
 *Note:* The poll result column reflects the actual value used in the calculations. Published results may vary slightly, and in addition be rounded to fewer digits.
 
