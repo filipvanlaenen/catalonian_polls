@@ -261,7 +261,7 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 10 | 0.1% | 100% |  |
-| 11 | 2% | 99.9% |  |
+| 11 | 3% | 99.9% |  |
 | 12 | 2% | 97% |  |
 | 13 | 19% | 95% |  |
 | 14 | 13% | 77% |  |
@@ -400,7 +400,7 @@ Only polls for which at least the sample size has been published are included in
 | 19 | 9% | 41% |  |
 | 20 | 13% | 32% |  |
 | 21 | 7% | 19% |  |
-| 22 | 8% | 12% |  |
+| 22 | 8% | 13% |  |
 | 23 | 4% | 4% |  |
 | 24 | 0.6% | 0.6% |  |
 | 25 | 0% | 0.1% |  |
@@ -421,7 +421,7 @@ Only polls for which at least the sample size has been published are included in
 | 10 | 4% | 86% |  |
 | 11 | 13% | 82% | Last Result |
 | 12 | 20% | 69% | Median |
-| 13 | 10% | 49% |  |
+| 13 | 10% | 48% |  |
 | 14 | 19% | 38% |  |
 | 15 | 11% | 20% |  |
 | 16 | 3% | 9% |  |
@@ -444,7 +444,7 @@ Only polls for which at least the sample size has been published are included in
 | 9 | 3% | 98% |  |
 | 10 | 25% | 95% |  |
 | 11 | 10% | 70% | Last Result |
-| 12 | 28% | 60% | Median |
+| 12 | 27% | 60% | Median |
 | 13 | 21% | 33% |  |
 | 14 | 8% | 12% |  |
 | 15 | 1.3% | 4% |  |
@@ -490,7 +490,7 @@ Only polls for which at least the sample size has been published are included in
 | Esquerra Republicana de Catalunya–Catalunya Sí – Partit Demòcrata Europeu Català – Candidatura d’Unitat Popular | 59 | 66 | 39% | 62–71 | 60–72 | 60–73 | 58–75 |
 | Junts pel Sí | 62 | 62 | 0.9% | 58–64 | 57–65 | 57–66 | 56–68 |
 | Esquerra Republicana de Catalunya–Catalunya Sí – Partit Demòcrata Europeu Català | 49 | 58 | 0.7% | 54–64 | 52–65 | 52–66 | 50–68 |
-| Ciutadans–Partido de la Ciudadanía – Partit dels Socialistes de Catalunya (PSC-PSOE) – Partit Popular | 52 | 56 | 0% | 51–60 | 50–62 | 50–62 | 48–64 |
+| Ciutadans–Partido de la Ciudadanía – Partit dels Socialistes de Catalunya (PSC-PSOE) – Partit Popular | 52 | 56 | 0% | 51–60 | 50–62 | 50–63 | 48–64 |
 
 ### Esquerra Republicana de Catalunya–Catalunya Sí – Partit Demòcrata Europeu Català – Catalunya en Comú
 
@@ -504,9 +504,9 @@ Only polls for which at least the sample size has been published are included in
 | 65 | 3% | 97% |  |
 | 66 | 5% | 94% |  |
 | 67 | 6% | 89% |  |
-| 68 | 9% | 83% | Majority |
+| 68 | 8% | 83% | Majority |
 | 69 | 10% | 74% |  |
-| 70 | 11% | 64% | Median |
+| 70 | 11% | 65% | Median |
 | 71 | 10% | 53% |  |
 | 72 | 9% | 43% |  |
 | 73 | 8% | 34% |  |
@@ -533,7 +533,7 @@ Only polls for which at least the sample size has been published are included in
 | 62 | 3% | 97% |  |
 | 63 | 6% | 95% | Last Result |
 | 64 | 8% | 89% |  |
-| 65 | 8% | 81% |  |
+| 65 | 9% | 81% |  |
 | 66 | 9% | 73% |  |
 | 67 | 9% | 63% | Median |
 | 68 | 9% | 54% | Majority |
@@ -587,7 +587,7 @@ Only polls for which at least the sample size has been published are included in
 | 63 | 8% | 85% |  |
 | 64 | 9% | 77% |  |
 | 65 | 10% | 68% |  |
-| 66 | 9% | 57% | Median |
+| 66 | 9% | 58% | Median |
 | 67 | 9% | 48% |  |
 | 68 | 8% | 39% | Majority |
 | 69 | 9% | 30% |  |
@@ -595,7 +595,7 @@ Only polls for which at least the sample size has been published are included in
 | 71 | 5% | 15% |  |
 | 72 | 5% | 9% |  |
 | 73 | 2% | 5% |  |
-| 74 | 1.3% | 2% |  |
+| 74 | 1.4% | 2% |  |
 | 75 | 0.6% | 0.9% |  |
 | 76 | 0.2% | 0.3% |  |
 | 77 | 0.1% | 0.1% |  |
@@ -639,7 +639,7 @@ Only polls for which at least the sample size has been published are included in
 | 56 | 9% | 77% |  |
 | 57 | 10% | 67% |  |
 | 58 | 9% | 58% | Median |
-| 59 | 10% | 48% |  |
+| 59 | 9% | 48% |  |
 | 60 | 8% | 39% |  |
 | 61 | 8% | 31% |  |
 | 62 | 6% | 23% |  |
@@ -665,16 +665,16 @@ Only polls for which at least the sample size has been published are included in
 | 51 | 5% | 95% |  |
 | 52 | 6% | 90% | Last Result |
 | 53 | 8% | 84% |  |
-| 54 | 9% | 76% |  |
+| 54 | 10% | 76% |  |
 | 55 | 10% | 67% | Median |
 | 56 | 11% | 57% |  |
-| 57 | 12% | 46% |  |
+| 57 | 11% | 46% |  |
 | 58 | 10% | 34% |  |
 | 59 | 8% | 24% |  |
 | 60 | 6% | 16% |  |
 | 61 | 4% | 10% |  |
 | 62 | 3% | 5% |  |
-| 63 | 2% | 2% |  |
+| 63 | 2% | 3% |  |
 | 64 | 0.6% | 1.0% |  |
 | 65 | 0.2% | 0.3% |  |
 | 66 | 0.1% | 0.1% |  |
