@@ -54,7 +54,7 @@ Last result: **11** seats (General Election of 27 September 2015)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 12 | 9–15 | 8–17 | 8–17 | 7–18 |
 | [30 October–3 November 2017](2017-11-03-NCReport.html) | NC Report <br> La Razón | 13 | 11–15 | 9–15 | 9–16 | 8–17 |
-| [30 October–3 November 2017](2017-11-03-GAD3.html) | GAD3 <br> La Vanguardia | 9 | 8–11 | 8–11 | 7–12 | 6–13 |
+| [30 October–3 November 2017](2017-11-03-GAD3.html) | GAD3 <br> La Vanguardia | 9 | 8–11 | 8–12 | 7–12 | 6–13 |
 | [27–31 October 2017](2017-10-31-SocioMétrica.html) | SocioMétrica <br> El Español | 12 | 10–14 | 9–15 | 9–15 | 9–16 |
 | [16–29 October 2017](2017-10-29-GESOP.html) | GESOP <br> CEO | 12 | 11–15 | 10–15 | 9–15 | 9–17 |
 | [23–26 October 2017](2017-10-26-SigmaDos.html) | Sigma Dos <br> El Mundo | 14 | 12–15 | 11–16 | 11–17 | 9–18 |
