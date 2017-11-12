@@ -10,13 +10,13 @@
 
 | Party | Last Result | Poll Result | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Esquerra Republicana de Catalunya–Catalunya Sí | 39.6% | 28.0% | N/A |N/A |N/A |N/A |
-| Ciutadans–Partido de la Ciudadanía | 17.9% | 17.6% | N/A |N/A |N/A |N/A |
-| Partit Demòcrata Europeu Català | 39.6% | 12.7% | N/A |N/A |N/A |N/A |
-| Partit Popular | 8.5% | 10.6% | N/A |N/A |N/A |N/A |
-| Catalunya en Comú | 8.9% | 10.4% | N/A |N/A |N/A |N/A |
-| Partit dels Socialistes de Catalunya (PSC-PSOE) | 12.7% | 10.1% | N/A |N/A |N/A |N/A |
-| Candidatura d’Unitat Popular | 8.2% | 6.9% | N/A |N/A |N/A |N/A |
+| Esquerra Republicana de Catalunya–Catalunya Sí | 39.6% | 28.0% | 25.9–30.3% |25.3–30.9% |24.8–31.4% |23.8–32.5% |
+| Ciutadans–Partido de la Ciudadanía | 17.9% | 17.6% | 15.8–19.5% |15.3–20.1% |14.9–20.6% |14.1–21.5% |
+| Partit Demòcrata Europeu Català | 39.6% | 12.7% | 11.2–14.5% |10.8–15.0% |10.4–15.4% |9.8–16.3% |
+| Partit Popular | 8.5% | 10.6% | 9.2–12.2% |8.8–12.7% |8.5–13.1% |7.9–13.9% |
+| Catalunya en Comú | 8.9% | 10.4% | 9.1–12.1% |8.7–12.5% |8.4–12.9% |7.8–13.7% |
+| Partit dels Socialistes de Catalunya (PSC-PSOE) | 12.7% | 10.1% | 8.8–11.8% |8.4–12.2% |8.1–12.6% |7.5–13.4% |
+| Candidatura d’Unitat Popular | 8.2% | 6.9% | 5.8–8.2% |5.5–8.6% |5.2–9.0% |4.7–9.7% |
 
 *Note:* The poll result column reflects the actual value used in the calculations. Published results may vary slightly, and in addition be rounded to fewer digits.
 
@@ -38,9 +38,9 @@
 
 ### Esquerra Republicana de Catalunya–Catalunya Sí
 
-*For a full overview of the results for this party, see the [Esquerra Republicana de Catalunya–Catalunya Sí](party-esquerrarepublicanadecatalunyacatalunyas.html) page.*
+*For a full overview of the results for this party, see the [Esquerra Republicana de Catalunya–Catalunya Sí](party-esquerrarepublicanadecatalunya–catalunyasí.html) page.*
 
-![Graph with seats probability mass function not yet produced](2017-09-01-SocioMétrica-seats-pmf-esquerrarepublicanadecatalunyacatalunyas.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2017-09-01-SocioMétrica-seats-pmf-esquerrarepublicanadecatalunya–catalunyasí.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -81,9 +81,9 @@
 
 ### Ciutadans–Partido de la Ciudadanía
 
-*For a full overview of the results for this party, see the [Ciutadans–Partido de la Ciudadanía](party-ciutadanspartidodelaciudadana.html) page.*
+*For a full overview of the results for this party, see the [Ciutadans–Partido de la Ciudadanía](party-ciutadans–partidodelaciudadanía.html) page.*
 
-![Graph with seats probability mass function not yet produced](2017-09-01-SocioMétrica-seats-pmf-ciutadanspartidodelaciudadana.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2017-09-01-SocioMétrica-seats-pmf-ciutadans–partidodelaciudadanía.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -106,9 +106,9 @@
 
 ### Partit Demòcrata Europeu Català
 
-*For a full overview of the results for this party, see the [Partit Demòcrata Europeu Català](party-partitdemcrataeuropeucatal.html) page.*
+*For a full overview of the results for this party, see the [Partit Demòcrata Europeu Català](party-partitdemòcrataeuropeucatalà.html) page.*
 
-![Graph with seats probability mass function not yet produced](2017-09-01-SocioMétrica-seats-pmf-partitdemcrataeuropeucatal.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2017-09-01-SocioMétrica-seats-pmf-partitdemòcrataeuropeucatalà.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -155,9 +155,9 @@
 
 ### Catalunya en Comú
 
-*For a full overview of the results for this party, see the [Catalunya en Comú](party-catalunyaencom.html) page.*
+*For a full overview of the results for this party, see the [Catalunya en Comú](party-catalunyaencomú.html) page.*
 
-![Graph with seats probability mass function not yet produced](2017-09-01-SocioMétrica-seats-pmf-catalunyaencom.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2017-09-01-SocioMétrica-seats-pmf-catalunyaencomú.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -177,9 +177,9 @@
 
 ### Partit dels Socialistes de Catalunya (PSC-PSOE)
 
-*For a full overview of the results for this party, see the [Partit dels Socialistes de Catalunya (PSC-PSOE)](party-partitdelssocialistesdecatalunyapscpsoe.html) page.*
+*For a full overview of the results for this party, see the [Partit dels Socialistes de Catalunya (PSC-PSOE)](party-partitdelssocialistesdecatalunyapsc-psoe.html) page.*
 
-![Graph with seats probability mass function not yet produced](2017-09-01-SocioMétrica-seats-pmf-partitdelssocialistesdecatalunyapscpsoe.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2017-09-01-SocioMétrica-seats-pmf-partitdelssocialistesdecatalunyapsc-psoe.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -200,9 +200,9 @@
 
 ### Candidatura d’Unitat Popular
 
-*For a full overview of the results for this party, see the [Candidatura d’Unitat Popular](party-candidaturadunitatpopular.html) page.*
+*For a full overview of the results for this party, see the [Candidatura d’Unitat Popular](party-candidaturad’unitatpopular.html) page.*
 
-![Graph with seats probability mass function not yet produced](2017-09-01-SocioMétrica-seats-pmf-candidaturadunitatpopular.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2017-09-01-SocioMétrica-seats-pmf-candidaturad’unitatpopular.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -230,9 +230,42 @@
 
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
+| Esquerra Republicana de Catalunya–Catalunya Sí – Partit Demòcrata Europeu Català – Catalunya en Comú | 60 | 75 | 99.7% | 72–78 | 71–79 | 70–80 | 68–82 |
 | Esquerra Republicana de Catalunya–Catalunya Sí – Partit Demòcrata Europeu Català – Candidatura d’Unitat Popular | 59 | 71 | 92% | 68–74 | 67–75 | 66–77 | 64–78 |
 | Ciutadans–Partido de la Ciudadanía – Partit Popular – Catalunya en Comú – Partit dels Socialistes de Catalunya (PSC-PSOE) | 63 | 64 | 8% | 61–67 | 60–68 | 58–69 | 57–71 |
 | Esquerra Republicana de Catalunya–Catalunya Sí – Partit Demòcrata Europeu Català | 49 | 62 | 3% | 59–65 | 58–67 | 57–68 | 55–70 |
+| Ciutadans–Partido de la Ciudadanía – Partit Popular – Partit dels Socialistes de Catalunya (PSC-PSOE) | 52 | 51 | 0% | 48–54 | 47–55 | 46–56 | 44–58 |
+
+### Esquerra Republicana de Catalunya–Catalunya Sí – Partit Demòcrata Europeu Català – Catalunya en Comú
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 60 | 0% | 100% | Last Result |
+| 61 | 0% | 100% |  |
+| 62 | 0% | 100% |  |
+| 63 | 0% | 100% |  |
+| 64 | 0% | 100% |  |
+| 65 | 0% | 100% |  |
+| 66 | 0.1% | 100% |  |
+| 67 | 0.2% | 99.9% |  |
+| 68 | 0.4% | 99.7% | Majority |
+| 69 | 0.9% | 99.2% |  |
+| 70 | 2% | 98% |  |
+| 71 | 4% | 96% |  |
+| 72 | 7% | 92% |  |
+| 73 | 12% | 85% |  |
+| 74 | 16% | 73% | Median |
+| 75 | 14% | 57% |  |
+| 76 | 18% | 44% |  |
+| 77 | 10% | 25% |  |
+| 78 | 7% | 16% |  |
+| 79 | 4% | 8% |  |
+| 80 | 2% | 4% |  |
+| 81 | 1.1% | 2% |  |
+| 82 | 0.5% | 0.8% |  |
+| 83 | 0.2% | 0.3% |  |
+| 84 | 0.1% | 0.1% |  |
+| 85 | 0% | 0% |  |
 
 ### Esquerra Republicana de Catalunya–Catalunya Sí – Partit Demòcrata Europeu Català – Candidatura d’Unitat Popular
 
@@ -318,6 +351,31 @@
 | 71 | 0.2% | 0.2% |  |
 | 72 | 0.1% | 0.1% |  |
 | 73 | 0% | 0% |  |
+
+### Ciutadans–Partido de la Ciudadanía – Partit Popular – Partit dels Socialistes de Catalunya (PSC-PSOE)
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 42 | 0.1% | 100% |  |
+| 43 | 0.1% | 99.9% |  |
+| 44 | 0.4% | 99.8% |  |
+| 45 | 1.2% | 99.4% |  |
+| 46 | 2% | 98% |  |
+| 47 | 4% | 97% |  |
+| 48 | 6% | 93% |  |
+| 49 | 11% | 87% |  |
+| 50 | 17% | 76% |  |
+| 51 | 16% | 59% |  |
+| 52 | 17% | 44% | Last Result, Median |
+| 53 | 12% | 27% |  |
+| 54 | 7% | 15% |  |
+| 55 | 4% | 8% |  |
+| 56 | 2% | 4% |  |
+| 57 | 1.0% | 2% |  |
+| 58 | 0.4% | 0.7% |  |
+| 59 | 0.2% | 0.3% |  |
+| 60 | 0.1% | 0.1% |  |
+| 61 | 0% | 0% |  |
 
 
 ## Technical Information
