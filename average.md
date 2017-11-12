@@ -467,7 +467,7 @@ Only polls for which at least the sample size has been published are included in
 | 4 | 1.3% | 99.1% |  |
 | 5 | 5% | 98% |  |
 | 6 | 5% | 93% |  |
-| 7 | 8% | 88% |  |
+| 7 | 9% | 88% |  |
 | 8 | 49% | 79% | Median |
 | 9 | 26% | 31% |  |
 | 10 | 4% | 4% | Last Result |
@@ -503,17 +503,17 @@ Only polls for which at least the sample size has been published are included in
 | 69 | 2% | 99.2% |  |
 | 70 | 4% | 98% |  |
 | 71 | 8% | 93% |  |
-| 72 | 10% | 85% |  |
+| 72 | 11% | 85% |  |
 | 73 | 13% | 75% | Last Result |
 | 74 | 16% | 62% | Median |
-| 75 | 19% | 46% |  |
+| 75 | 18% | 45% |  |
 | 76 | 13% | 27% |  |
 | 77 | 7% | 14% |  |
 | 78 | 4% | 7% |  |
 | 79 | 2% | 3% |  |
 | 80 | 0.8% | 1.3% |  |
 | 81 | 0.3% | 0.5% |  |
-| 82 | 0.1% | 0.1% |  |
+| 82 | 0.1% | 0.2% |  |
 | 83 | 0% | 0% |  |
 
 ### Esquerra Republicana de Catalunya–Catalunya Sí – Partit Demòcrata Europeu Català – Catalunya en Comú
@@ -558,7 +558,7 @@ Only polls for which at least the sample size has been published are included in
 | 63 | 6% | 95% | Last Result |
 | 64 | 7% | 89% |  |
 | 65 | 8% | 81% |  |
-| 66 | 9% | 73% |  |
+| 66 | 10% | 73% |  |
 | 67 | 9% | 63% | Median |
 | 68 | 9% | 54% | Majority |
 | 69 | 9% | 45% |  |
