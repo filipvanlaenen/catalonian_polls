@@ -53,7 +53,7 @@ Only polls for which at least the sample size has been published are included in
 
 ### Partit Demòcrata Europeu Català
 
-*For a full overview of the results for this party, see the [Partit Demòcrata Europeu Català](party-partitdemcrataeuropeucatal.html) page.*
+*For a full overview of the results for this party, see the [Partit Demòcrata Europeu Català](party-partitdemòcrataeuropeucatalà.html) page.*
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
@@ -95,7 +95,7 @@ Only polls for which at least the sample size has been published are included in
 
 ### Esquerra Republicana de Catalunya–Catalunya Sí
 
-*For a full overview of the results for this party, see the [Esquerra Republicana de Catalunya–Catalunya Sí](party-esquerrarepublicanadecatalunyacatalunyas.html) page.*
+*For a full overview of the results for this party, see the [Esquerra Republicana de Catalunya–Catalunya Sí](party-esquerrarepublicanadecatalunya–catalunyasí.html) page.*
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
@@ -123,7 +123,7 @@ Only polls for which at least the sample size has been published are included in
 
 ### Junts pel Sí
 
-*For a full overview of the results for this party, see the [Junts pel Sí](party-juntspels.html) page.*
+*For a full overview of the results for this party, see the [Junts pel Sí](party-juntspelsí.html) page.*
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
@@ -143,7 +143,7 @@ Only polls for which at least the sample size has been published are included in
 
 ### Ciutadans–Partido de la Ciudadanía
 
-*For a full overview of the results for this party, see the [Ciutadans–Partido de la Ciudadanía](party-ciutadanspartidodelaciudadana.html) page.*
+*For a full overview of the results for this party, see the [Ciutadans–Partido de la Ciudadanía](party-ciutadans–partidodelaciudadanía.html) page.*
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
@@ -164,7 +164,7 @@ Only polls for which at least the sample size has been published are included in
 
 ### Partit dels Socialistes de Catalunya (PSC-PSOE)
 
-*For a full overview of the results for this party, see the [Partit dels Socialistes de Catalunya (PSC-PSOE)](party-partitdelssocialistesdecatalunyapscpsoe.html) page.*
+*For a full overview of the results for this party, see the [Partit dels Socialistes de Catalunya (PSC-PSOE)](party-partitdelssocialistesdecatalunyapsc-psoe.html) page.*
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
@@ -183,7 +183,7 @@ Only polls for which at least the sample size has been published are included in
 
 ### Catalunya en Comú
 
-*For a full overview of the results for this party, see the [Catalunya en Comú](party-catalunyaencom.html) page.*
+*For a full overview of the results for this party, see the [Catalunya en Comú](party-catalunyaencomú.html) page.*
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
@@ -221,7 +221,7 @@ Only polls for which at least the sample size has been published are included in
 
 ### Candidatura d’Unitat Popular
 
-*For a full overview of the results for this party, see the [Candidatura d’Unitat Popular](party-candidaturadunitatpopular.html) page.*
+*For a full overview of the results for this party, see the [Candidatura d’Unitat Popular](party-candidaturad’unitatpopular.html) page.*
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
@@ -254,9 +254,9 @@ Only polls for which at least the sample size has been published are included in
 
 ### Partit Demòcrata Europeu Català
 
-*For a full overview of the results for this party, see the [Partit Demòcrata Europeu Català](party-partitdemcrataeuropeucatal.html) page.*
+*For a full overview of the results for this party, see the [Partit Demòcrata Europeu Català](party-partitdemòcrataeuropeucatalà.html) page.*
 
-![Graph with seats probability mass function not yet produced](average-seats-pmf-partitdemcrataeuropeucatal.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-seats-pmf-partitdemòcrataeuropeucatalà.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -283,9 +283,9 @@ Only polls for which at least the sample size has been published are included in
 
 ### Esquerra Republicana de Catalunya–Catalunya Sí
 
-*For a full overview of the results for this party, see the [Esquerra Republicana de Catalunya–Catalunya Sí](party-esquerrarepublicanadecatalunyacatalunyas.html) page.*
+*For a full overview of the results for this party, see the [Esquerra Republicana de Catalunya–Catalunya Sí](party-esquerrarepublicanadecatalunya–catalunyasí.html) page.*
 
-![Graph with seats probability mass function not yet produced](average-seats-pmf-esquerrarepublicanadecatalunyacatalunyas.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-seats-pmf-esquerrarepublicanadecatalunya–catalunyasí.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -330,9 +330,9 @@ Only polls for which at least the sample size has been published are included in
 
 ### Junts pel Sí
 
-*For a full overview of the results for this party, see the [Junts pel Sí](party-juntspels.html) page.*
+*For a full overview of the results for this party, see the [Junts pel Sí](party-juntspelsí.html) page.*
 
-![Graph with seats probability mass function not yet produced](average-seats-pmf-juntspels.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-seats-pmf-juntspelsí.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -357,9 +357,9 @@ Only polls for which at least the sample size has been published are included in
 
 ### Ciutadans–Partido de la Ciudadanía
 
-*For a full overview of the results for this party, see the [Ciutadans–Partido de la Ciudadanía](party-ciutadanspartidodelaciudadana.html) page.*
+*For a full overview of the results for this party, see the [Ciutadans–Partido de la Ciudadanía](party-ciutadans–partidodelaciudadanía.html) page.*
 
-![Graph with seats probability mass function not yet produced](average-seats-pmf-ciutadanspartidodelaciudadana.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-seats-pmf-ciutadans–partidodelaciudadanía.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -384,9 +384,9 @@ Only polls for which at least the sample size has been published are included in
 
 ### Partit dels Socialistes de Catalunya (PSC-PSOE)
 
-*For a full overview of the results for this party, see the [Partit dels Socialistes de Catalunya (PSC-PSOE)](party-partitdelssocialistesdecatalunyapscpsoe.html) page.*
+*For a full overview of the results for this party, see the [Partit dels Socialistes de Catalunya (PSC-PSOE)](party-partitdelssocialistesdecatalunyapsc-psoe.html) page.*
 
-![Graph with seats probability mass function not yet produced](average-seats-pmf-partitdelssocialistesdecatalunyapscpsoe.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-seats-pmf-partitdelssocialistesdecatalunyapsc-psoe.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -408,9 +408,9 @@ Only polls for which at least the sample size has been published are included in
 
 ### Catalunya en Comú
 
-*For a full overview of the results for this party, see the [Catalunya en Comú](party-catalunyaencom.html) page.*
+*For a full overview of the results for this party, see the [Catalunya en Comú](party-catalunyaencomú.html) page.*
 
-![Graph with seats probability mass function not yet produced](average-seats-pmf-catalunyaencom.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-seats-pmf-catalunyaencomú.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -457,9 +457,9 @@ Only polls for which at least the sample size has been published are included in
 
 ### Candidatura d’Unitat Popular
 
-*For a full overview of the results for this party, see the [Candidatura d’Unitat Popular](party-candidaturadunitatpopular.html) page.*
+*For a full overview of the results for this party, see the [Candidatura d’Unitat Popular](party-candidaturad’unitatpopular.html) page.*
 
-![Graph with seats probability mass function not yet produced](average-seats-pmf-candidaturadunitatpopular.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-seats-pmf-candidaturad’unitatpopular.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
