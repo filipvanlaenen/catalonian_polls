@@ -64,7 +64,7 @@ Last result: **25** seats (General Election of 27 September 2015)
 | [4–9 October 2017](2017-10-09-SocioMétrica.html) | SocioMétrica <br> El Español | 25 | 22–27 | 21–28 | 21–29 | 20–31 |
 | [19–22 September 2017](2017-09-22-NCReport.html) | NC Report <br> La Razón | 24 | 21–25 | 20–26 | 20–26 | 19–28 |
 | [12–15 September 2017](2017-09-15-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 24 | 20–25 | 20–26 | 19–27 | 18–29 |
-| [28 August–1 September 2017](2017-09-01-SocioMétrica.html) | SocioMétrica <br> El Español | 24 | 21–27 | 20–28 | 20–28 | 19–30 |
+| [28 August–1 September 2017](2017-09-01-SocioMétrica.html) | SocioMétrica <br> El Español | 25 | 20–26 | 20–28 | 20–28 | 19–30 |
 
 ### Probability Mass Function
 
