@@ -10,7 +10,8 @@ Last result: **8.9%** (General Election of 27 September 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 10.5% | 8.4–12.5% | 7.9–13.1% | 7.5–13.6% | 6.8–14.6% |
+| N/A | [Poll Average](average.html) | 10.5% | 7.9–12.5% | 7.2–13.1% | 6.7–13.6% | 6.0–14.6% |
+| [13–16 November 2017](2017-11-16-GAD3.html) | GAD3 <br> ABC | 7.6% | 6.5–9.0% | 6.2–9.3% | 6.0–9.7% | 5.5–10.3% |
 | [30 October–3 November 2017](2017-11-03-NCReport.html) | NC Report <br> La Razón | 10.4% | 9.1–12.0% | 8.7–12.5% | 8.4–12.9% | 7.8–13.7% |
 | [30 October–3 November 2017](2017-11-03-GAD3.html) | GAD3 <br> La Vanguardia | 8.3% | 7.3–9.5% | 7.0–9.9% | 6.8–10.2% | 6.3–10.8% |
 | [27–31 October 2017](2017-10-31-SocioMétrica.html) | SocioMétrica <br> El Español | 10.0% | 8.9–11.3% | 8.6–11.7% | 8.3–12.0% | 7.8–12.7% |
@@ -29,12 +30,13 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 4.5–5.5% | 0% | 100% |  |
-| 5.5–6.5% | 0.2% | 100% |  |
-| 6.5–7.5% | 3% | 99.8% |  |
-| 7.5–8.5% | 9% | 97% |  |
-| 8.5–9.5% | 16% | 89% | Last Result |
-| 9.5–10.5% | 24% | 73% | Median |
+| 3.5–4.5% | 0% | 100% |  |
+| 4.5–5.5% | 0.1% | 100% |  |
+| 5.5–6.5% | 2% | 99.9% |  |
+| 6.5–7.5% | 6% | 98% |  |
+| 7.5–8.5% | 8% | 93% |  |
+| 8.5–9.5% | 13% | 85% | Last Result |
+| 9.5–10.5% | 23% | 72% | Median |
 | 10.5–11.5% | 24% | 49% |  |
 | 11.5–12.5% | 15% | 24% |  |
 | 12.5–13.5% | 7% | 10% |  |
@@ -52,7 +54,8 @@ Last result: **11** seats (General Election of 27 September 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 12 | 9–15 | 8–17 | 8–17 | 7–18 |
+| N/A | [Poll Average](average.html) | 12 | 9–15 | 8–17 | 7–17 | 6–18 |
+| [13–16 November 2017](2017-11-16-GAD3.html) | GAD3 <br> ABC | 8 | 7–10 | 6–11 | 6–11 | 5–12 |
 | [30 October–3 November 2017](2017-11-03-NCReport.html) | NC Report <br> La Razón | 13 | 11–15 | 9–15 | 9–16 | 8–17 |
 | [30 October–3 November 2017](2017-11-03-GAD3.html) | GAD3 <br> La Vanguardia | 9 | 8–11 | 8–12 | 7–12 | 6–13 |
 | [27–31 October 2017](2017-10-31-SocioMétrica.html) | SocioMétrica <br> El Español | 12 | 10–14 | 9–15 | 9–15 | 9–16 |
@@ -73,13 +76,14 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 6 | 0.2% | 100% |  |
-| 7 | 0.4% | 99.8% |  |
-| 8 | 4% | 99.4% |  |
-| 9 | 9% | 95% |  |
-| 10 | 4% | 86% |  |
-| 11 | 13% | 82% | Last Result |
-| 12 | 20% | 69% | Median |
+| 5 | 0.4% | 100% |  |
+| 6 | 1.2% | 99.6% |  |
+| 7 | 2% | 98% |  |
+| 8 | 7% | 97% |  |
+| 9 | 7% | 90% |  |
+| 10 | 3% | 83% |  |
+| 11 | 11% | 79% | Last Result |
+| 12 | 20% | 68% | Median |
 | 13 | 10% | 48% |  |
 | 14 | 19% | 38% |  |
 | 15 | 11% | 20% |  |
