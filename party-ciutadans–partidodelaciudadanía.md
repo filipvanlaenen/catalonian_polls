@@ -59,7 +59,7 @@ Last result: **25** seats (General Election of 27 September 2015)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 26 | 23–30 | 22–31 | 21–33 | 20–34 |
 | [15–18 November 2017](2017-11-18-GESOP.html) | GESOP <br> El Periódico | 25 | 23–28 | 22–28 | 21–29 | 20–31 |
-| [13–16 November 2017](2017-11-16-GAD3.html) | GAD3 <br> ABC | 31 | 27–33 | 26–34 | 26–34 | 25–36 |
+| [13–16 November 2017](2017-11-16-GAD3.html) | GAD3 <br> ABC | 31 | 27–33 | 26–34 | 26–35 | 25–36 |
 | [30 October–3 November 2017](2017-11-03-NCReport.html) | NC Report <br> La Razón | 26 | 24–30 | 24–30 | 23–31 | 21–33 |
 | [30 October–3 November 2017](2017-11-03-GAD3.html) | GAD3 <br> La Vanguardia | 27 | 25–30 | 25–31 | 25–32 | 23–33 |
 | [27–31 October 2017](2017-10-31-SocioMétrica.html) | SocioMétrica <br> El Español | 25 | 23–27 | 22–28 | 21–28 | 20–30 |
@@ -89,13 +89,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 24 | 12% | 87% |  |
 | 25 | 22% | 75% | Last Result |
 | 26 | 18% | 53% | Median |
-| 27 | 8% | 36% |  |
+| 27 | 8% | 35% |  |
 | 28 | 7% | 28% |  |
 | 29 | 5% | 20% |  |
-| 30 | 6% | 16% |  |
+| 30 | 6% | 15% |  |
 | 31 | 5% | 10% |  |
 | 32 | 2% | 5% |  |
-| 33 | 1.3% | 3% |  |
+| 33 | 1.4% | 3% |  |
 | 34 | 0.9% | 1.3% |  |
 | 35 | 0.2% | 0.4% |  |
 | 36 | 0.1% | 0.2% |  |
