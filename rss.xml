@@ -8,7 +8,27 @@
     <title>All Registered Polls for the Parliament of Catalonia</title>
     <link>https://filipvanlaenen.github.io/catalonian_polls</link>
     <description>All Registered Polls for the Parliament of Catalonia</description>
-    <pubDate>Sun, 19 Nov 2017 12:05:37 +0100</pubDate>
+    <pubDate>Mon, 20 Nov 2017 07:31:12 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by GESOP for El Periódico, 15–18 November 2017 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/catalonian_polls/2017-11-18-GESOP.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Esquerra Republicana de Catalunya–Catalunya Sí: 32–42 seats&lt;/li&gt;&lt;li&gt;Ciutadans–Partido de la Ciudadanía: 21–29 seats&lt;/li&gt;&lt;li&gt;Partit dels Socialistes de Catalunya (PSC-PSOE): 21–28 seats&lt;/li&gt;&lt;li&gt;Catalunya en Comú: 8–13 seats&lt;/li&gt;&lt;li&gt;Partit Popular: 4–10 seats&lt;/li&gt;&lt;li&gt;Candidatura d’Unitat Popular: 5–10 seats&lt;/li&gt;&lt;li&gt;Junts per Catalunya: 21–29 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/catalonian_polls/2017-11-18-GESOP-seats.png"
+        length="181983"
+        type="image/png"/>
+      <pubDate>Mon, 20 Nov 2017 06:50:26 +0100</pubDate>
+      <dc:date>2017-11-20T06:50:26.852555+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by GESOP for El Periódico, 15–18 November 2017 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/catalonian_polls/2017-11-18-GESOP.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Esquerra Republicana de Catalunya–Catalunya Sí: 21.0–27.0%&lt;/li&gt;&lt;li&gt;Ciutadans–Partido de la Ciudadanía: 16.1–21.5%&lt;/li&gt;&lt;li&gt;Partit dels Socialistes de Catalunya (PSC-PSOE): 15.6–21.0%&lt;/li&gt;&lt;li&gt;Catalunya en Comú: 6.9–10.8%&lt;/li&gt;&lt;li&gt;Partit Popular: 4.3–7.6%&lt;/li&gt;&lt;li&gt;Candidatura d’Unitat Popular: 4.8–8.2%&lt;/li&gt;&lt;li&gt;Junts per Catalunya: 14.1–19.2%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/catalonian_polls/2017-11-18-GESOP.png"
+        length="230258"
+        type="image/png"/>
+      <pubDate>Mon, 20 Nov 2017 06:50:26 +0100</pubDate>
+      <dc:date>2017-11-20T06:50:26.852555+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by GAD3 for ABC, 13–16 November 2017 – Seat Projections</title>
       <link>https://filipvanlaenen.github.io/catalonian_polls/2017-11-16-GAD3.html#seats</link>
@@ -16,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/catalonian_polls/2017-11-16-GAD3-seats.png"
         length="198168"
         type="image/png"/>
-      <pubDate>Sun, 19 Nov 2017 10:53:16 +0100</pubDate>
-      <dc:date>2017-11-19T10:53:16.661206+01:00</dc:date>
+      <pubDate>Mon, 20 Nov 2017 07:31:12 +0100</pubDate>
+      <dc:date>2017-11-20T07:31:12.688857+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by GAD3 for ABC, 13–16 November 2017 – Voting Intentions</title>
@@ -26,8 +46,8 @@
       <enclosure url="https://filipvanlaenen.github.io/catalonian_polls/2017-11-16-GAD3.png"
         length="232424"
         type="image/png"/>
-      <pubDate>Sun, 19 Nov 2017 10:53:16 +0100</pubDate>
-      <dc:date>2017-11-19T10:53:16.661206+01:00</dc:date>
+      <pubDate>Mon, 20 Nov 2017 07:31:12 +0100</pubDate>
+      <dc:date>2017-11-20T07:31:12.688857+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by NC Report for La Razón, 30 October–3 November 2017 – Seat Projections</title>
@@ -249,6 +269,6 @@
       <pubDate>Mon, 13 Nov 2017 18:31:10 +0100</pubDate>
       <dc:date>2017-11-13T18:31:10.415733+01:00</dc:date>
     </item>
-    <dc:date>2017-11-19T12:05:37.343409+01:00</dc:date>
+    <dc:date>2017-11-20T07:31:12.688857+01:00</dc:date>
   </channel>
 </rss>
