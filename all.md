@@ -5,6 +5,7 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | JxSí | PDeCAT | JuntsxCat | ERC | Cs | PSC | CatComú | PP | CUP |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 27 September 2015 | General Election | 39.6% <br> 62 | 39.6% <br> 29 | 39.6% <br> 29 | 39.6% <br> 20 | 17.9% <br> 25 | 12.7% <br> 16 | 8.9% <br> 11 | 8.5% <br> 11 | 8.2% <br> 10 |
+| [15–18 November 2017](2017-11-18-GESOP.html) | GESOP <br> El Periódico | N/A <br> N/A | N/A <br> N/A | 14–19% <br> 21–29 | 21–27% <br> 32–42 | 16–21% <br> 21–29 | 16–21% <br> 21–28 | 7–11% <br> 8–13 | 4–8% <br> 4–10 | 5–8% <br> 5–10 |
 | [13–16 November 2017](2017-11-16-GAD3.html) | GAD3 <br> ABC | N/A <br> N/A | N/A <br> N/A | 14–19% <br> 21–29 | 20–26% <br> 30–40 | 20–25% <br> 26–34 | 13–18% <br> 16–24 | 6–10% <br> 6–11 | 6–10% <br> 7–13 | 4–7% <br> 3–9 |
 | [30 October–3 November 2017](2017-11-03-NCReport.html) | NC Report <br> La Razón | N/A <br> N/A | 9–13% <br> 12–19 | N/A <br> N/A | 23–30% <br> 36–46 | 17–23% <br> 23–31 | 11–16% <br> 14–22 | 8–13% <br> 9–16 | 9–13% <br> 10–18 | 5–8% <br> 5–10 |
 | [30 October–3 November 2017](2017-11-03-GAD3.html) | GAD3 <br> La Vanguardia | N/A <br> N/A | 9–12% <br> 12–18 | N/A <br> N/A | 27–32% <br> 40–50 | 18–23% <br> 25–32 | 13–17% <br> 16–23 | 7–10% <br> 7–12 | 7–11% <br> 9–13 | 5–8% <br> 5–10 |
