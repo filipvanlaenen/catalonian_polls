@@ -11,6 +11,7 @@ Last result: **39.6%** (General Election of 27 September 2015)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 10.7% | 9.1–14.0% | 8.7–14.7% | 8.4–15.3% | 7.9–16.3% |
+| [15–18 November 2017](2017-11-18-GESOP.html) | GESOP <br> El Periódico | 0.0% | N/A | N/A | N/A | N/A |
 | [13–16 November 2017](2017-11-16-GAD3.html) | GAD3 <br> ABC | 0.0% | N/A | N/A | N/A | N/A |
 | [30 October–3 November 2017](2017-11-03-NCReport.html) | NC Report <br> La Razón | 10.7% | 9.3–12.3% | 9.0–12.8% | 8.6–13.2% | 8.0–14.0% |
 | [30 October–3 November 2017](2017-11-03-GAD3.html) | GAD3 <br> La Vanguardia | 10.4% | 9.3–11.8% | 8.9–12.1% | 8.7–12.5% | 8.1–13.1% |
@@ -76,6 +77,7 @@ Last result: **29** seats (General Election of 27 September 2015)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 15 | 13–21 | 13–22 | 11–23 | 11–24 |
+| [15–18 November 2017](2017-11-18-GESOP.html) | GESOP <br> El Periódico |  |  |  |  |  |
 | [13–16 November 2017](2017-11-16-GAD3.html) | GAD3 <br> ABC |  |  |  |  |  |
 | [30 October–3 November 2017](2017-11-03-NCReport.html) | NC Report <br> La Razón | 15 | 13–18 | 13–18 | 12–19 | 11–21 |
 | [30 October–3 November 2017](2017-11-03-GAD3.html) | GAD3 <br> La Vanguardia | 15 | 13–17 | 13–17 | 12–18 | 11–19 |
