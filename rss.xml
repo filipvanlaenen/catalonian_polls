@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Parliament of Catalonia</title>
     <link>https://filipvanlaenen.github.io/catalonian_polls</link>
     <description>All Registered Polls for the Parliament of Catalonia</description>
-    <pubDate>Mon, 20 Nov 2017 19:03:05 +0100</pubDate>
+    <pubDate>Tue, 21 Nov 2017 10:02:59 +0100</pubDate>
     <item>
       <title>Opinion Poll by GESOP for El Periódico, 15–18 November 2017 – Seat Projections</title>
       <link>https://filipvanlaenen.github.io/catalonian_polls/2017-11-18-GESOP.html#seats</link>
@@ -92,12 +92,12 @@
     <item>
       <title>Opinion Poll by SocioMétrica for El Español, 27–31 October 2017 – Seat Projections</title>
       <link>https://filipvanlaenen.github.io/catalonian_polls/2017-10-31-SocioMétrica.html#seats</link>
-      <description>&lt;ul&gt;&lt;li&gt;Partit Demòcrata Europeu Català: 11–18 seats&lt;/li&gt;&lt;li&gt;Esquerra Republicana de Catalunya–Catalunya Sí: 44–53 seats&lt;/li&gt;&lt;li&gt;Ciutadans–Partido de la Ciudadanía: 21–28 seats&lt;/li&gt;&lt;li&gt;Partit dels Socialistes de Catalunya (PSC-PSOE): 14–19 seats&lt;/li&gt;&lt;li&gt;Catalunya en Comú: 9–15 seats&lt;/li&gt;&lt;li&gt;Partit Popular: 10–14 seats&lt;/li&gt;&lt;li&gt;Candidatura d’Unitat Popular: 4–9 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <description>&lt;ul&gt;&lt;li&gt;Partit Demòcrata Europeu Català: 11–18 seats&lt;/li&gt;&lt;li&gt;Esquerra Republicana de Catalunya–Catalunya Sí: 44–53 seats&lt;/li&gt;&lt;li&gt;Ciutadans–Partido de la Ciudadanía: 21–29 seats&lt;/li&gt;&lt;li&gt;Partit dels Socialistes de Catalunya (PSC-PSOE): 14–19 seats&lt;/li&gt;&lt;li&gt;Catalunya en Comú: 9–15 seats&lt;/li&gt;&lt;li&gt;Partit Popular: 10–14 seats&lt;/li&gt;&lt;li&gt;Candidatura d’Unitat Popular: 4–9 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/catalonian_polls/2017-10-31-SocioMétrica-seats.png"
-        length="170507"
+        length="172571"
         type="image/png"/>
-      <pubDate>Wed, 08 Nov 2017 09:20:28 +0100</pubDate>
-      <dc:date>2017-11-08T09:20:28.964916+01:00</dc:date>
+      <pubDate>Tue, 21 Nov 2017 10:02:59 +0100</pubDate>
+      <dc:date>2017-11-21T10:02:59.710067+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by SocioMétrica for El Español, 27–31 October 2017 – Voting Intentions</title>
@@ -106,8 +106,8 @@
       <enclosure url="https://filipvanlaenen.github.io/catalonian_polls/2017-10-31-SocioMétrica.png"
         length="225522"
         type="image/png"/>
-      <pubDate>Wed, 08 Nov 2017 09:20:28 +0100</pubDate>
-      <dc:date>2017-11-08T09:20:28.964916+01:00</dc:date>
+      <pubDate>Tue, 21 Nov 2017 10:02:59 +0100</pubDate>
+      <dc:date>2017-11-21T10:02:59.710067+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by GESOP for CEO, 16–29 October 2017 – Seat Projections</title>
@@ -269,6 +269,6 @@
       <pubDate>Mon, 13 Nov 2017 18:31:10 +0100</pubDate>
       <dc:date>2017-11-13T18:31:10.415733+01:00</dc:date>
     </item>
-    <dc:date>2017-11-20T19:03:05.050495+01:00</dc:date>
+    <dc:date>2017-11-21T10:02:59.710067+01:00</dc:date>
   </channel>
 </rss>
