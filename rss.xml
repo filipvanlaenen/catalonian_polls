@@ -8,7 +8,37 @@
     <title>All Registered Polls for the Parliament of Catalonia</title>
     <link>https://filipvanlaenen.github.io/catalonian_polls</link>
     <description>All Registered Polls for the Parliament of Catalonia</description>
-    <pubDate>Tue, 21 Nov 2017 10:02:59 +0100</pubDate>
+    <pubDate>Sun, 26 Nov 2017 16:03:42 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by NC Report for La Razón, 13–23 November 2017 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/catalonian_polls/2017-11-23-NCReport.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Esquerra Republicana de Catalunya–Catalunya Sí: 21.0–27.3%&lt;/li&gt;&lt;li&gt;Ciutadans–Partido de la Ciudadanía: 18.1–24.1%&lt;/li&gt;&lt;li&gt;Partit dels Socialistes de Catalunya (PSC-PSOE): 12.3–17.6%&lt;/li&gt;&lt;li&gt;Catalunya en Comú: 6.6–10.7%&lt;/li&gt;&lt;li&gt;Partit Popular: 7.4–11.6%&lt;/li&gt;&lt;li&gt;Candidatura d’Unitat Popular: 4.3–7.7%&lt;/li&gt;&lt;li&gt;Junts per Catalunya: 11.3–16.4%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/catalonian_polls/2017-11-23-NCReport.png"
+        length="234513"
+        type="image/png"/>
+      <pubDate>Sun, 26 Nov 2017 15:18:59 +0100</pubDate>
+      <dc:date>2017-11-26T15:18:59.872+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Advice Strategic Consultants for El Confidencial, 13–23 November 2017 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/catalonian_polls/2017-11-23-AdviceStrategicConsultants.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Esquerra Republicana de Catalunya–Catalunya Sí: 24.8–28.8%&lt;/li&gt;&lt;li&gt;Ciutadans–Partido de la Ciudadanía: 16.6–20.1%&lt;/li&gt;&lt;li&gt;Partit dels Socialistes de Catalunya (PSC-PSOE): 12.5–15.7%&lt;/li&gt;&lt;li&gt;Catalunya en Comú: 8.0–10.6%&lt;/li&gt;&lt;li&gt;Partit Popular: 6.7–9.2%&lt;/li&gt;&lt;li&gt;Candidatura d’Unitat Popular: 5.1–7.3%&lt;/li&gt;&lt;li&gt;Junts per Catalunya: 10.8–13.7%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/catalonian_polls/2017-11-23-AdviceStrategicConsultants.png"
+        length="210918"
+        type="image/png"/>
+      <pubDate>Sun, 26 Nov 2017 15:07:36 +0100</pubDate>
+      <dc:date>2017-11-26T15:07:36.450224+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Metroscopia for El País, 20–22 November 2017 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/catalonian_polls/2017-11-22-Metroscopia.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Esquerra Republicana de Catalunya–Catalunya Sí: 24.3–28.9%&lt;/li&gt;&lt;li&gt;Ciutadans–Partido de la Ciudadanía: 23.1–27.6%&lt;/li&gt;&lt;li&gt;Partit dels Socialistes de Catalunya (PSC-PSOE): 13.2–16.9%&lt;/li&gt;&lt;li&gt;Catalunya en Comú: 5.5–8.1%&lt;/li&gt;&lt;li&gt;Partit Popular: 4.7–7.2%&lt;/li&gt;&lt;li&gt;Candidatura d’Unitat Popular: 4.8–7.3%&lt;/li&gt;&lt;li&gt;Junts per Catalunya: 11.9–15.5%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/catalonian_polls/2017-11-22-Metroscopia.png"
+        length="215330"
+        type="image/png"/>
+      <pubDate>Sun, 26 Nov 2017 16:03:42 +0100</pubDate>
+      <dc:date>2017-11-26T16:03:42.62371+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by GESOP for El Periódico, 15–18 November 2017 – Seat Projections</title>
       <link>https://filipvanlaenen.github.io/catalonian_polls/2017-11-18-GESOP.html#seats</link>
@@ -269,6 +299,6 @@
       <pubDate>Mon, 13 Nov 2017 18:31:10 +0100</pubDate>
       <dc:date>2017-11-13T18:31:10.415733+01:00</dc:date>
     </item>
-    <dc:date>2017-11-21T10:02:59.710067+01:00</dc:date>
+    <dc:date>2017-11-26T16:03:42.62371+01:00</dc:date>
   </channel>
 </rss>
