@@ -62,8 +62,8 @@ Last result: **25** seats (General Election of 27 September 2015)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 26 | 24–34 | 22–35 | 21–36 | 20–38 |
-| [13–23 November 2017](2017-11-23-NCReport.html) | NC Report <br> La Razón | 28 | 26–32 | 25–33 | 25–33 | 24–35 |
-| [13–23 November 2017](2017-11-23-AdviceStrategicConsultants.html) | Advice Strategic Consultants <br> El Confidencial | 25 | 24–27 | 24–28 | 24–28 | 22–30 |
+| [13–23 November 2017](2017-11-23-NCReport.html) | NC Report <br> La Razón | 29 | 26–32 | 25–33 | 25–33 | 24–35 |
+| [13–23 November 2017](2017-11-23-AdviceStrategicConsultants.html) | Advice Strategic Consultants <br> El Confidencial | 26 | 24–27 | 24–28 | 24–28 | 22–30 |
 | [20–22 November 2017](2017-11-22-Metroscopia.html) | Metroscopia <br> El País | 34 | 32–37 | 32–38 | 31–38 | 30–39 |
 | [15–18 November 2017](2017-11-18-GESOP.html) | GESOP <br> El Periódico | 25 | 23–28 | 22–28 | 21–29 | 20–31 |
 | [13–16 November 2017](2017-11-16-GAD3.html) | GAD3 <br> ABC | 31 | 27–33 | 26–34 | 26–35 | 25–36 |
@@ -95,19 +95,19 @@ The following table shows the probability mass function per seat for the [poll a
 | 23 | 3% | 94% |  |
 | 24 | 10% | 91% |  |
 | 25 | 19% | 81% | Last Result |
-| 26 | 18% | 62% | Median |
-| 27 | 8% | 45% |  |
-| 28 | 6% | 37% |  |
-| 29 | 4% | 31% |  |
+| 26 | 17% | 62% | Median |
+| 27 | 7% | 45% |  |
+| 28 | 6% | 38% |  |
+| 29 | 4% | 32% |  |
 | 30 | 5% | 27% |  |
 | 31 | 5% | 22% |  |
-| 32 | 3% | 17% |  |
-| 33 | 3% | 14% |  |
+| 32 | 4% | 17% |  |
+| 33 | 3% | 13% |  |
 | 34 | 5% | 10% |  |
-| 35 | 2% | 6% |  |
+| 35 | 2% | 5% |  |
 | 36 | 2% | 3% |  |
 | 37 | 0.9% | 2% |  |
-| 38 | 0.5% | 0.7% |  |
+| 38 | 0.5% | 0.8% |  |
 | 39 | 0.2% | 0.2% |  |
 | 40 | 0% | 0% |  |
 

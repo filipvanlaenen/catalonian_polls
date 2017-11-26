@@ -68,8 +68,8 @@ Last result: **20** seats (General Election of 27 September 2015)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 39 | 35–47 | 33–50 | 32–51 | 31–52 |
-| [13–23 November 2017](2017-11-23-NCReport.html) | NC Report <br> La Razón | 37 | 34–40 | 32–41 | 32–42 | 31–44 |
-| [13–23 November 2017](2017-11-23-AdviceStrategicConsultants.html) | Advice Strategic Consultants <br> El Confidencial | 43 | 41–45 | 40–45 | 40–46 | 38–47 |
+| [13–23 November 2017](2017-11-23-NCReport.html) | NC Report <br> La Razón | 37 | 34–41 | 33–42 | 32–43 | 31–44 |
+| [13–23 November 2017](2017-11-23-AdviceStrategicConsultants.html) | Advice Strategic Consultants <br> El Confidencial | 43 | 41–45 | 40–45 | 39–46 | 38–47 |
 | [20–22 November 2017](2017-11-22-Metroscopia.html) | Metroscopia <br> El País | 40 | 38–43 | 37–44 | 37–44 | 36–45 |
 | [15–18 November 2017](2017-11-18-GESOP.html) | GESOP <br> El Periódico | 37 | 33–39 | 32–40 | 32–41 | 31–43 |
 | [13–16 November 2017](2017-11-16-GAD3.html) | GAD3 <br> ABC | 35 | 32–38 | 31–39 | 30–40 | 29–42 |
@@ -105,19 +105,19 @@ The following table shows the probability mass function per seat for the [poll a
 | 29 | 0.1% | 100% |  |
 | 30 | 0.4% | 99.9% |  |
 | 31 | 0.9% | 99.5% |  |
-| 32 | 3% | 98.6% |  |
+| 32 | 2% | 98.6% |  |
 | 33 | 2% | 96% |  |
 | 34 | 3% | 94% |  |
-| 35 | 7% | 91% |  |
-| 36 | 7% | 84% |  |
+| 35 | 6% | 91% |  |
+| 36 | 7% | 85% |  |
 | 37 | 10% | 77% |  |
 | 38 | 12% | 67% |  |
 | 39 | 7% | 55% | Median |
 | 40 | 7% | 48% |  |
-| 41 | 6% | 41% |  |
+| 41 | 6% | 42% |  |
 | 42 | 7% | 35% |  |
 | 43 | 8% | 28% |  |
-| 44 | 6% | 20% |  |
+| 44 | 5% | 20% |  |
 | 45 | 2% | 14% |  |
 | 46 | 2% | 12% |  |
 | 47 | 1.4% | 10% |  |

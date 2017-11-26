@@ -77,9 +77,9 @@ Last result: **29** seats (General Election of 27 September 2015)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 21 | 18–26 | 17–27 | 17–28 | 16–30 |
-| [13–23 November 2017](2017-11-23-NCReport.html) | NC Report <br> La Razón | 21 | 18–23 | 17–24 | 17–24 | 15–26 |
+| [13–23 November 2017](2017-11-23-NCReport.html) | NC Report <br> La Razón | 21 | 17–23 | 17–24 | 17–24 | 15–26 |
 | [13–23 November 2017](2017-11-23-AdviceStrategicConsultants.html) | Advice Strategic Consultants <br> El Confidencial | 18 | 17–20 | 17–21 | 17–21 | 15–22 |
-| [20–22 November 2017](2017-11-22-Metroscopia.html) | Metroscopia <br> El País | 20 | 18–22 | 17–23 | 17–23 | 16–24 |
+| [20–22 November 2017](2017-11-22-Metroscopia.html) | Metroscopia <br> El País | 20 | 18–22 | 17–23 | 17–23 | 17–24 |
 | [15–18 November 2017](2017-11-18-GESOP.html) | GESOP <br> El Periódico | 25 | 22–27 | 21–28 | 21–29 | 20–31 |
 | [13–16 November 2017](2017-11-16-GAD3.html) | GAD3 <br> ABC | 24 | 23–28 | 22–29 | 21–29 | 20–30 |
 | [30 October–3 November 2017](2017-11-03-NCReport.html) | NC Report <br> La Razón |  |  |  |  |  |
@@ -102,16 +102,17 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 15 | 0.3% | 100% |  |
+| 14 | 0% | 100% |  |
+| 15 | 0.3% | 99.9% |  |
 | 16 | 0.5% | 99.7% |  |
 | 17 | 8% | 99.2% |  |
 | 18 | 18% | 91% |  |
 | 19 | 7% | 73% |  |
-| 20 | 4% | 65% |  |
-| 21 | 13% | 61% | Median |
-| 22 | 5% | 48% |  |
-| 23 | 13% | 42% |  |
-| 24 | 10% | 30% |  |
+| 20 | 5% | 66% |  |
+| 21 | 12% | 60% | Median |
+| 22 | 6% | 48% |  |
+| 23 | 12% | 42% |  |
+| 24 | 11% | 30% |  |
 | 25 | 6% | 19% |  |
 | 26 | 5% | 14% |  |
 | 27 | 3% | 8% |  |
