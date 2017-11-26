@@ -10,7 +10,10 @@ Last result: **39.6%** (General Election of 27 September 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 10.7% | 9.1–14.0% | 8.7–14.7% | 8.4–15.3% | 7.9–16.3% |
+| N/A | [Poll Average](average.html) | 10.7% | 9.0–14.3% | 8.7–15.0% | 8.4–15.5% | 7.8–16.5% |
+| [13–23 November 2017](2017-11-23-NCReport.html) | NC Report <br> La Razón | 0.0% | N/A | N/A | N/A | N/A |
+| [13–23 November 2017](2017-11-23-AdviceStrategicConsultants.html) | Advice Strategic Consultants <br> El Confidencial | 0.0% | N/A | N/A | N/A | N/A |
+| [20–22 November 2017](2017-11-22-Metroscopia.html) | Metroscopia <br> El País | 0.0% | N/A | N/A | N/A | N/A |
 | [15–18 November 2017](2017-11-18-GESOP.html) | GESOP <br> El Periódico | 0.0% | N/A | N/A | N/A | N/A |
 | [13–16 November 2017](2017-11-16-GAD3.html) | GAD3 <br> ABC | 0.0% | N/A | N/A | N/A | N/A |
 | [30 October–3 November 2017](2017-11-03-NCReport.html) | NC Report <br> La Razón | 10.7% | 9.3–12.3% | 9.0–12.8% | 8.6–13.2% | 8.0–14.0% |
@@ -33,17 +36,17 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 5.5–6.5% | 0% | 100% |  |
 | 6.5–7.5% | 0.2% | 100% |  |
-| 7.5–8.5% | 3% | 99.8% |  |
-| 8.5–9.5% | 16% | 97% |  |
-| 9.5–10.5% | 27% | 81% |  |
-| 10.5–11.5% | 20% | 54% | Median |
-| 11.5–12.5% | 11% | 34% |  |
-| 12.5–13.5% | 9% | 23% |  |
-| 13.5–14.5% | 8% | 14% |  |
-| 14.5–15.5% | 4% | 6% |  |
-| 15.5–16.5% | 1.4% | 2% |  |
-| 16.5–17.5% | 0.3% | 0.3% |  |
-| 17.5–18.5% | 0% | 0% |  |
+| 7.5–8.5% | 4% | 99.8% |  |
+| 8.5–9.5% | 17% | 96% |  |
+| 9.5–10.5% | 26% | 79% |  |
+| 10.5–11.5% | 16% | 52% | Median |
+| 11.5–12.5% | 8% | 36% |  |
+| 12.5–13.5% | 10% | 28% |  |
+| 13.5–14.5% | 10% | 18% |  |
+| 14.5–15.5% | 6% | 8% |  |
+| 15.5–16.5% | 2% | 2% |  |
+| 16.5–17.5% | 0.4% | 0.4% |  |
+| 17.5–18.5% | 0% | 0.1% |  |
 | 18.5–19.5% | 0% | 0% |  |
 | 19.5–20.5% | 0% | 0% |  |
 | 20.5–21.5% | 0% | 0% |  |
@@ -76,7 +79,10 @@ Last result: **29** seats (General Election of 27 September 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 15 | 13–21 | 13–22 | 11–23 | 11–24 |
+| N/A | [Poll Average](average.html) | 15 | 13–21 | 12–22 | 11–23 | 11–24 |
+| [13–23 November 2017](2017-11-23-NCReport.html) | NC Report <br> La Razón |  |  |  |  |  |
+| [13–23 November 2017](2017-11-23-AdviceStrategicConsultants.html) | Advice Strategic Consultants <br> El Confidencial |  |  |  |  |  |
+| [20–22 November 2017](2017-11-22-Metroscopia.html) | Metroscopia <br> El País |  |  |  |  |  |
 | [15–18 November 2017](2017-11-18-GESOP.html) | GESOP <br> El Periódico |  |  |  |  |  |
 | [13–16 November 2017](2017-11-16-GAD3.html) | GAD3 <br> ABC |  |  |  |  |  |
 | [30 October–3 November 2017](2017-11-03-NCReport.html) | NC Report <br> La Razón | 15 | 13–18 | 13–18 | 12–19 | 11–21 |
@@ -102,20 +108,20 @@ The following table shows the probability mass function per seat for the [poll a
 | 10 | 0.1% | 100% |  |
 | 11 | 3% | 99.9% |  |
 | 12 | 2% | 97% |  |
-| 13 | 18% | 95% |  |
-| 14 | 12% | 77% |  |
-| 15 | 18% | 65% | Median |
-| 16 | 7% | 47% |  |
-| 17 | 14% | 40% |  |
-| 18 | 7% | 26% |  |
-| 19 | 4% | 19% |  |
-| 20 | 3% | 15% |  |
-| 21 | 7% | 12% |  |
-| 22 | 2% | 5% |  |
-| 23 | 2% | 3% |  |
-| 24 | 0.7% | 0.9% |  |
+| 13 | 19% | 95% |  |
+| 14 | 13% | 76% |  |
+| 15 | 16% | 62% | Median |
+| 16 | 6% | 47% |  |
+| 17 | 10% | 40% |  |
+| 18 | 7% | 31% |  |
+| 19 | 4% | 24% |  |
+| 20 | 4% | 20% |  |
+| 21 | 9% | 16% |  |
+| 22 | 3% | 7% |  |
+| 23 | 3% | 4% |  |
+| 24 | 0.9% | 1.2% |  |
 | 25 | 0.1% | 0.2% |  |
-| 26 | 0% | 0.1% |  |
+| 26 | 0.1% | 0.1% |  |
 | 27 | 0% | 0% |  |
 | 28 | 0% | 0% |  |
 | 29 | 0% | 0% | Last Result |
