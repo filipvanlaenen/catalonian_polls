@@ -8,16 +8,16 @@
     <title>All Registered Polls for the Parliament of Catalonia</title>
     <link>https://filipvanlaenen.github.io/catalonian_polls</link>
     <description>All Registered Polls for the Parliament of Catalonia</description>
-    <pubDate>Sun, 26 Nov 2017 18:32:38 +0100</pubDate>
+    <pubDate>Mon, 27 Nov 2017 09:14:51 +0100</pubDate>
     <item>
       <title>Opinion Poll by NC Report for La Razón, 13–23 November 2017 – Seat Projections</title>
       <link>https://filipvanlaenen.github.io/catalonian_polls/2017-11-23-NCReport.html#seats</link>
-      <description>&lt;ul&gt;&lt;li&gt;Esquerra Republicana de Catalunya–Catalunya Sí: 32–43 seats&lt;/li&gt;&lt;li&gt;Ciutadans–Partido de la Ciudadanía: 25–33 seats&lt;/li&gt;&lt;li&gt;Partit dels Socialistes de Catalunya (PSC-PSOE): 16–23 seats&lt;/li&gt;&lt;li&gt;Catalunya en Comú: 7–13 seats&lt;/li&gt;&lt;li&gt;Partit Popular: 9–15 seats&lt;/li&gt;&lt;li&gt;Candidatura d’Unitat Popular: 3–10 seats&lt;/li&gt;&lt;li&gt;Junts per Catalunya: 17–24 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <description>&lt;ul&gt;&lt;li&gt;Esquerra Republicana de Catalunya–Catalunya Sí: 32–43 seats&lt;/li&gt;&lt;li&gt;Ciutadans–Partido de la Ciudadanía: 25–33 seats&lt;/li&gt;&lt;li&gt;Partit dels Socialistes de Catalunya (PSC-PSOE): 15–24 seats&lt;/li&gt;&lt;li&gt;Catalunya en Comú: 7–13 seats&lt;/li&gt;&lt;li&gt;Partit Popular: 9–15 seats&lt;/li&gt;&lt;li&gt;Candidatura d’Unitat Popular: 3–10 seats&lt;/li&gt;&lt;li&gt;Junts per Catalunya: 17–24 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/catalonian_polls/2017-11-23-NCReport-seats.png"
-        length="191740"
+        length="197048"
         type="image/png"/>
-      <pubDate>Sun, 26 Nov 2017 17:58:44 +0100</pubDate>
-      <dc:date>2017-11-26T17:58:44.107775+01:00</dc:date>
+      <pubDate>Mon, 27 Nov 2017 09:14:51 +0100</pubDate>
+      <dc:date>2017-11-27T09:14:51.252314+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by NC Report for La Razón, 13–23 November 2017 – Voting Intentions</title>
@@ -26,8 +26,8 @@
       <enclosure url="https://filipvanlaenen.github.io/catalonian_polls/2017-11-23-NCReport.png"
         length="234513"
         type="image/png"/>
-      <pubDate>Sun, 26 Nov 2017 17:58:44 +0100</pubDate>
-      <dc:date>2017-11-26T17:58:44.107775+01:00</dc:date>
+      <pubDate>Mon, 27 Nov 2017 09:14:51 +0100</pubDate>
+      <dc:date>2017-11-27T09:14:51.252314+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Advice Strategic Consultants for El Confidencial, 13–23 November 2017 – Seat Projections</title>
@@ -329,6 +329,6 @@
       <pubDate>Mon, 13 Nov 2017 18:31:10 +0100</pubDate>
       <dc:date>2017-11-13T18:31:10.415733+01:00</dc:date>
     </item>
-    <dc:date>2017-11-26T18:32:38.732166+01:00</dc:date>
+    <dc:date>2017-11-27T09:14:51.252314+01:00</dc:date>
   </channel>
 </rss>
