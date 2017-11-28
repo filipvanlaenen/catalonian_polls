@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Parliament of Catalonia</title>
     <link>https://filipvanlaenen.github.io/catalonian_polls</link>
     <description>All Registered Polls for the Parliament of Catalonia</description>
-    <pubDate>Tue, 28 Nov 2017 14:42:22 +0100</pubDate>
+    <pubDate>Tue, 28 Nov 2017 19:40:29 +0100</pubDate>
     <item>
       <title>Opinion Poll by NC Report for La Razón, 13–23 November 2017 – Seat Projections</title>
       <link>https://filipvanlaenen.github.io/catalonian_polls/2017-11-23-NCReport.html#seats</link>
@@ -36,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/catalonian_polls/2017-11-23-AdviceStrategicConsultants-seats.png"
         length="161626"
         type="image/png"/>
-      <pubDate>Tue, 28 Nov 2017 14:42:22 +0100</pubDate>
-      <dc:date>2017-11-28T14:42:22.487502+01:00</dc:date>
+      <pubDate>Tue, 28 Nov 2017 19:40:29 +0100</pubDate>
+      <dc:date>2017-11-28T19:40:29.365521+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Advice Strategic Consultants for El Confidencial, 13–23 November 2017 – Voting Intentions</title>
@@ -46,8 +46,8 @@
       <enclosure url="https://filipvanlaenen.github.io/catalonian_polls/2017-11-23-AdviceStrategicConsultants.png"
         length="210918"
         type="image/png"/>
-      <pubDate>Tue, 28 Nov 2017 14:42:22 +0100</pubDate>
-      <dc:date>2017-11-28T14:42:22.487502+01:00</dc:date>
+      <pubDate>Tue, 28 Nov 2017 19:40:29 +0100</pubDate>
+      <dc:date>2017-11-28T19:40:29.365521+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Metroscopia for El País, 20–22 November 2017 – Seat Projections</title>
@@ -329,6 +329,6 @@
       <pubDate>Mon, 13 Nov 2017 18:31:10 +0100</pubDate>
       <dc:date>2017-11-13T18:31:10.415733+01:00</dc:date>
     </item>
-    <dc:date>2017-11-28T14:42:22.487502+01:00</dc:date>
+    <dc:date>2017-11-28T19:40:29.365521+01:00</dc:date>
   </channel>
 </rss>
