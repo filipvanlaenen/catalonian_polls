@@ -68,7 +68,7 @@ Last result: **20** seats (General Election of 27 September 2015)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 39 | 35–47 | 33–50 | 32–51 | 30–52 |
-| [13–23 November 2017](2017-11-23-NCReport.html) | NC Report <br> La Razón | 37 | 34–40 | 33–42 | 32–43 | 31–44 |
+| [13–23 November 2017](2017-11-23-NCReport.html) | NC Report <br> La Razón | 37 | 34–41 | 33–42 | 32–43 | 31–44 |
 | [13–23 November 2017](2017-11-23-AdviceStrategicConsultants.html) | Advice Strategic Consultants <br> El Confidencial | 43 | 41–45 | 40–45 | 39–46 | 38–47 |
 | [20–22 November 2017](2017-11-22-Metroscopia.html) | Metroscopia <br> El País | 40 | 38–43 | 37–44 | 37–44 | 36–45 |
 | [15–18 November 2017](2017-11-18-GESOP.html) | GESOP <br> El Periódico | 37 | 33–39 | 32–40 | 32–41 | 31–43 |
