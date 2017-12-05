@@ -12,7 +12,7 @@ Last result: **12.7%** (General Election of 27 September 2015)
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 15.2% | 13.6–17.4% | 13.1–18.4% | 12.8–19.2% | 12.1–20.6% |
 | [27–30 November 2017](2017-11-30-SocioMétrica.html) | SocioMétrica <br> El Español | 15.2% | 13.7–17.0% | 13.3–17.5% | 12.9–17.9% | 12.2–18.8% |
-| [23–27 November 2017](2017-11-27-IMOP.html) | IMOP <br> CIS | 16.0% | 15.2–16.9% | 14.9–17.1% | 14.7–17.4% | 14.3–17.8% |
+| [23–27 November 2017](2017-11-27-IMOP.html) | IMOP Insights <br> CIS | 16.0% | 15.2–16.9% | 14.9–17.1% | 14.7–17.4% | 14.3–17.8% |
 | [13–23 November 2017](2017-11-23-NCReport.html) | NC Report <br> La Razón | 14.8% | 13.2–16.6% | 12.7–17.1% | 12.3–17.6% | 11.6–18.5% |
 | [13–23 November 2017](2017-11-23-AdviceStrategicConsultants.html) | Advice Strategic Consultants <br> El Confidencial | 14.0% | 13.0–15.1% | 12.8–15.4% | 12.5–15.7% | 12.1–16.2% |
 | [20–22 November 2017](2017-11-22-Metroscopia.html) | Metroscopia <br> El País | 14.9% | 13.8–16.2% | 13.5–16.6% | 13.2–16.9% | 12.7–17.5% |
@@ -62,7 +62,7 @@ Last result: **16** seats (General Election of 27 September 2015)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 20 | 17–23 | 16–24 | 16–25 | 15–28 |
 | [27–30 November 2017](2017-11-30-SocioMétrica.html) | SocioMétrica <br> El Español | 21 | 17–23 | 17–24 | 16–24 | 16–25 |
-| [23–27 November 2017](2017-11-27-IMOP.html) | IMOP <br> CIS | 22 | 21–23 | 20–23 | 19–23 | 18–24 |
+| [23–27 November 2017](2017-11-27-IMOP.html) | IMOP Insights <br> CIS | 22 | 21–23 | 20–23 | 19–23 | 18–24 |
 | [13–23 November 2017](2017-11-23-NCReport.html) | NC Report <br> La Razón | 20 | 16–23 | 16–23 | 15–23 | 15–24 |
 | [13–23 November 2017](2017-11-23-AdviceStrategicConsultants.html) | Advice Strategic Consultants <br> El Confidencial | 19 | 17–21 | 16–21 | 16–22 | 16–23 |
 | [20–22 November 2017](2017-11-22-Metroscopia.html) | Metroscopia <br> El País | 19 | 17–22 | 16–22 | 16–23 | 16–23 |
@@ -96,7 +96,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 19 | 12% | 73% |  |
 | 20 | 14% | 61% | Median |
 | 21 | 10% | 48% |  |
-| 22 | 17% | 37% |  |
+| 22 | 18% | 37% |  |
 | 23 | 11% | 20% |  |
 | 24 | 5% | 9% |  |
 | 25 | 3% | 4% |  |

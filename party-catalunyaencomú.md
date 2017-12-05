@@ -12,7 +12,7 @@ Last result: **8.9%** (General Election of 27 September 2015)
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 8.6% | 6.4–11.8% | 6.0–12.6% | 5.6–13.3% | 5.1–14.4% |
 | [27–30 November 2017](2017-11-30-SocioMétrica.html) | SocioMétrica <br> El Español | 6.4% | 5.4–7.6% | 5.1–8.0% | 4.9–8.3% | 4.5–8.9% |
-| [23–27 November 2017](2017-11-27-IMOP.html) | IMOP <br> CIS | 8.6% | 8.0–9.3% | 7.8–9.5% | 7.6–9.7% | 7.3–10.0% |
+| [23–27 November 2017](2017-11-27-IMOP.html) | IMOP Insights <br> CIS | 8.6% | 8.0–9.3% | 7.8–9.5% | 7.6–9.7% | 7.3–10.0% |
 | [13–23 November 2017](2017-11-23-NCReport.html) | NC Report <br> La Razón | 8.4% | 7.2–9.9% | 6.9–10.3% | 6.6–10.7% | 6.1–11.5% |
 | [13–23 November 2017](2017-11-23-AdviceStrategicConsultants.html) | Advice Strategic Consultants <br> El Confidencial | 9.2% | 8.4–10.1% | 8.2–10.3% | 8.0–10.6% | 7.6–11.0% |
 | [20–22 November 2017](2017-11-22-Metroscopia.html) | Metroscopia <br> El País | 6.7% | 5.9–7.6% | 5.7–7.8% | 5.5–8.1% | 5.1–8.6% |
@@ -63,7 +63,7 @@ Last result: **11** seats (General Election of 27 September 2015)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 9 | 6–14 | 6–16 | 5–17 | 5–18 |
 | [27–30 November 2017](2017-11-30-SocioMétrica.html) | SocioMétrica <br> El Español | 7 | 5–8 | 5–9 | 5–9 | 4–11 |
-| [23–27 November 2017](2017-11-27-IMOP.html) | IMOP <br> CIS | 9 | 9–11 | 8–11 | 8–11 | 8–12 |
+| [23–27 November 2017](2017-11-27-IMOP.html) | IMOP Insights <br> CIS | 9 | 9–11 | 8–11 | 8–11 | 8–12 |
 | [13–23 November 2017](2017-11-23-NCReport.html) | NC Report <br> La Razón | 9 | 8–12 | 8–13 | 7–13 | 6–14 |
 | [13–23 November 2017](2017-11-23-AdviceStrategicConsultants.html) | Advice Strategic Consultants <br> El Confidencial | 11 | 9–12 | 9–12 | 9–13 | 9–14 |
 | [20–22 November 2017](2017-11-22-Metroscopia.html) | Metroscopia <br> El País | 7 | 5–8 | 5–8 | 5–9 | 5–9 |
@@ -95,8 +95,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 7 | 6% | 89% |  |
 | 8 | 16% | 83% |  |
 | 9 | 19% | 67% | Median |
-| 10 | 5% | 48% |  |
-| 11 | 15% | 43% | Last Result |
+| 10 | 6% | 48% |  |
+| 11 | 14% | 43% | Last Result |
 | 12 | 8% | 28% |  |
 | 13 | 3% | 20% |  |
 | 14 | 7% | 17% |  |

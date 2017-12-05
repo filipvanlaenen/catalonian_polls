@@ -12,7 +12,7 @@ Last result: **8.2%** (General Election of 27 September 2015)
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 6.1% | 5.1–7.2% | 4.8–7.5% | 4.6–7.7% | 4.1–8.3% |
 | [27–30 November 2017](2017-11-30-SocioMétrica.html) | SocioMétrica <br> El Español | 6.0% | 5.0–7.2% | 4.8–7.6% | 4.6–7.9% | 4.1–8.5% |
-| [23–27 November 2017](2017-11-27-IMOP.html) | IMOP <br> CIS | 6.7% | 6.1–7.3% | 6.0–7.5% | 5.9–7.7% | 5.6–8.0% |
+| [23–27 November 2017](2017-11-27-IMOP.html) | IMOP Insights <br> CIS | 6.7% | 6.1–7.3% | 6.0–7.5% | 5.9–7.7% | 5.6–8.0% |
 | [13–23 November 2017](2017-11-23-NCReport.html) | NC Report <br> La Razón | 5.8% | 4.8–7.1% | 4.5–7.4% | 4.3–7.7% | 3.8–8.4% |
 | [13–23 November 2017](2017-11-23-AdviceStrategicConsultants.html) | Advice Strategic Consultants <br> El Confidencial | 6.1% | 5.4–6.9% | 5.3–7.1% | 5.1–7.3% | 4.8–7.6% |
 | [20–22 November 2017](2017-11-22-Metroscopia.html) | Metroscopia <br> El País | 5.9% | 5.2–6.8% | 5.0–7.0% | 4.8–7.3% | 4.5–7.7% |
@@ -56,7 +56,7 @@ Last result: **10** seats (General Election of 27 September 2015)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 8 | 6–9 | 5–9 | 4–10 | 3–10 |
 | [27–30 November 2017](2017-11-30-SocioMétrica.html) | SocioMétrica <br> El Español | 8 | 5–9 | 5–9 | 4–10 | 3–10 |
-| [23–27 November 2017](2017-11-27-IMOP.html) | IMOP <br> CIS | 9 | 8–9 | 8–9 | 8–9 | 8–10 |
+| [23–27 November 2017](2017-11-27-IMOP.html) | IMOP Insights <br> CIS | 9 | 8–9 | 8–9 | 8–9 | 8–10 |
 | [13–23 November 2017](2017-11-23-NCReport.html) | NC Report <br> La Razón | 8 | 5–9 | 4–9 | 3–10 | 3–10 |
 | [13–23 November 2017](2017-11-23-AdviceStrategicConsultants.html) | Advice Strategic Consultants <br> El Confidencial | 8 | 8–9 | 7–9 | 7–9 | 5–10 |
 | [20–22 November 2017](2017-11-22-Metroscopia.html) | Metroscopia <br> El País | 8 | 6–9 | 5–9 | 5–9 | 4–9 |

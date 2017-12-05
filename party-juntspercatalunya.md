@@ -12,7 +12,7 @@ Last result: **39.6%** (General Election of 27 September 2015)
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 15.8% | 12.2–18.8% | 11.8–19.7% | 11.4–20.4% | 10.8–21.7% |
 | [27–30 November 2017](2017-11-30-SocioMétrica.html) | SocioMétrica <br> El Español | 19.0% | 17.3–20.9% | 16.8–21.4% | 16.4–21.9% | 15.7–22.8% |
-| [23–27 November 2017](2017-11-27-IMOP.html) | IMOP <br> CIS | 16.9% | 16.0–17.8% | 15.8–18.1% | 15.6–18.3% | 15.2–18.7% |
+| [23–27 November 2017](2017-11-27-IMOP.html) | IMOP Insights <br> CIS | 16.9% | 16.0–17.8% | 15.8–18.1% | 15.6–18.3% | 15.2–18.7% |
 | [13–23 November 2017](2017-11-23-NCReport.html) | NC Report <br> La Razón | 13.6% | 12.1–15.4% | 11.7–15.9% | 11.3–16.4% | 10.6–17.3% |
 | [13–23 November 2017](2017-11-23-AdviceStrategicConsultants.html) | Advice Strategic Consultants <br> El Confidencial | 12.2% | 11.3–13.2% | 11.0–13.5% | 10.8–13.7% | 10.3–14.2% |
 | [20–22 November 2017](2017-11-22-Metroscopia.html) | Metroscopia <br> El País | 13.6% | 12.5–14.8% | 12.2–15.2% | 11.9–15.5% | 11.4–16.1% |
@@ -80,7 +80,7 @@ Last result: **29** seats (General Election of 27 September 2015)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 23 | 18–29 | 17–30 | 17–31 | 16–33 |
 | [27–30 November 2017](2017-11-30-SocioMétrica.html) | SocioMétrica <br> El Español | 29 | 26–32 | 25–32 | 24–34 | 23–35 |
-| [23–27 November 2017](2017-11-27-IMOP.html) | IMOP <br> CIS | 25 | 24–27 | 23–28 | 23–29 | 23–29 |
+| [23–27 November 2017](2017-11-27-IMOP.html) | IMOP Insights <br> CIS | 25 | 24–27 | 24–28 | 23–29 | 23–29 |
 | [13–23 November 2017](2017-11-23-NCReport.html) | NC Report <br> La Razón | 21 | 17–23 | 17–24 | 17–24 | 15–26 |
 | [13–23 November 2017](2017-11-23-AdviceStrategicConsultants.html) | Advice Strategic Consultants <br> El Confidencial | 18 | 17–20 | 17–21 | 17–21 | 15–22 |
 | [20–22 November 2017](2017-11-22-Metroscopia.html) | Metroscopia <br> El País | 20 | 18–22 | 17–23 | 17–23 | 17–24 |
