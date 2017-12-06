@@ -71,7 +71,7 @@ Last result: **20** seats (General Election of 27 September 2015)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 38 | 32–43 | 31–44 | 31–44 | 30–46 |
 | [27–30 November 2017](2017-11-30-SocioMétrica.html) | SocioMétrica <br> El Español | 36 | 32–39 | 32–39 | 31–40 | 30–42 |
-| [23–27 November 2017](2017-11-27-IMOP.html) | IMOP Insights <br> CIS | 32 | 30–33 | 30–34 | 29–35 | 29–35 |
+| [23–27 November 2017](2017-11-27-IMOP.html) | IMOP Insights <br> CIS | 32 | 30–33 | 30–34 | 30–35 | 29–35 |
 | [13–23 November 2017](2017-11-23-NCReport.html) | NC Report <br> La Razón | 37 | 34–41 | 33–42 | 32–43 | 31–44 |
 | [13–23 November 2017](2017-11-23-AdviceStrategicConsultants.html) | Advice Strategic Consultants <br> El Confidencial | 43 | 41–44 | 40–45 | 39–46 | 38–47 |
 | [20–22 November 2017](2017-11-22-Metroscopia.html) | Metroscopia <br> El País | 40 | 38–43 | 37–44 | 37–44 | 36–45 |
@@ -110,7 +110,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 30 | 1.4% | 99.6% |  |
 | 31 | 4% | 98% |  |
 | 32 | 7% | 94% |  |
-| 33 | 4% | 87% |  |
+| 33 | 5% | 87% |  |
 | 34 | 5% | 82% |  |
 | 35 | 7% | 77% |  |
 | 36 | 8% | 70% |  |

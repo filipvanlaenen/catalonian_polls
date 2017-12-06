@@ -63,7 +63,7 @@ Last result: **11** seats (General Election of 27 September 2015)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 9 | 6–14 | 6–16 | 5–17 | 5–18 |
 | [27–30 November 2017](2017-11-30-SocioMétrica.html) | SocioMétrica <br> El Español | 7 | 5–8 | 5–9 | 5–9 | 4–11 |
-| [23–27 November 2017](2017-11-27-IMOP.html) | IMOP Insights <br> CIS | 9 | 9–11 | 8–11 | 8–11 | 8–12 |
+| [23–27 November 2017](2017-11-27-IMOP.html) | IMOP Insights <br> CIS | 9 | 9–11 | 9–11 | 8–11 | 8–12 |
 | [13–23 November 2017](2017-11-23-NCReport.html) | NC Report <br> La Razón | 9 | 8–12 | 8–13 | 7–13 | 6–14 |
 | [13–23 November 2017](2017-11-23-AdviceStrategicConsultants.html) | Advice Strategic Consultants <br> El Confidencial | 11 | 9–12 | 9–12 | 9–13 | 9–14 |
 | [20–22 November 2017](2017-11-22-Metroscopia.html) | Metroscopia <br> El País | 7 | 5–8 | 5–8 | 5–9 | 5–9 |
