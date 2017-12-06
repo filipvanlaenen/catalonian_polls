@@ -11,7 +11,7 @@ The table below lists the polls on which the average is based. They are the most
 | 27 September 2015 | General Election | 39.6% <br> 62 | 39.6% <br> 29 | 39.6% <br> 29 | 39.6% <br> 20 | 17.9% <br> 25 | 12.7% <br> 16 | 8.9% <br> 11 | 8.5% <br> 11 | 8.2% <br> 10 |
 | N/A | Poll Average | N/A <br> N/A | 8–16% <br> 11–23 | 11–20% <br> 17–31 | 20–28% <br> 31–44 | 16–26% <br> 22–36 | 13–19% <br> 16–25 | 6–13% <br> 5–17 | 5–11% <br> 5–14 | 5–8% <br> 4–10 |
 | [27–30 November 2017](2017-11-30-SocioMétrica.html) | SocioMétrica <br> El Español | N/A <br> N/A | N/A <br> N/A | 16–22% <br> 24–34 | 20–26% <br> 31–40 | 18–23% <br> 25–32 | 13–18% <br> 16–24 | 5–8% <br> 5–9 | 5–8% <br> 5–10 | 5–8% <br> 4–10 |
-| [23–27 November 2017](2017-11-27-IMOP.html) | IMOP Insights <br> CIS | N/A <br> N/A | N/A <br> N/A | 16–18% <br> 23–29 | 19–22% <br> 29–35 | 21–24% <br> 29–33 | 15–17% <br> 19–23 | 8–10% <br> 8–11 | 5–7% <br> 5–8 | 6–8% <br> 8–9 |
+| [23–27 November 2017](2017-11-27-IMOP.html) | IMOP Insights <br> CIS | N/A <br> N/A | N/A <br> N/A | 16–18% <br> 23–29 | 19–22% <br> 30–35 | 21–24% <br> 29–33 | 15–17% <br> 19–23 | 8–10% <br> 8–11 | 5–7% <br> 5–8 | 6–8% <br> 8–9 |
 | [13–23 November 2017](2017-11-23-NCReport.html) | NC Report <br> La Razón | N/A <br> N/A | N/A <br> N/A | 11–16% <br> 17–24 | 21–27% <br> 32–43 | 18–24% <br> 25–33 | 12–18% <br> 15–23 | 7–11% <br> 7–13 | 7–12% <br> 9–15 | 4–8% <br> 3–10 |
 | [13–23 November 2017](2017-11-23-AdviceStrategicConsultants.html) | Advice Strategic Consultants <br> El Confidencial | N/A <br> N/A | N/A <br> N/A | 11–14% <br> 17–21 | 25–29% <br> 39–46 | 17–20% <br> 24–28 | 13–16% <br> 16–22 | 8–11% <br> 9–13 | 7–9% <br> 8–12 | 5–7% <br> 7–9 |
 | [20–22 November 2017](2017-11-22-Metroscopia.html) | Metroscopia <br> El País | N/A <br> N/A | N/A <br> N/A | 12–15% <br> 17–23 | 24–29% <br> 37–44 | 23–28% <br> 31–38 | 13–17% <br> 16–23 | 5–8% <br> 5–9 | 5–7% <br> 5–9 | 5–7% <br> 5–9 |
@@ -308,7 +308,7 @@ Only polls for which at least the sample size has been published are included in
 | 30 | 1.4% | 99.6% |  |
 | 31 | 4% | 98% |  |
 | 32 | 7% | 94% |  |
-| 33 | 4% | 87% |  |
+| 33 | 5% | 87% |  |
 | 34 | 5% | 82% |  |
 | 35 | 7% | 77% |  |
 | 36 | 8% | 70% |  |
@@ -409,7 +409,7 @@ Only polls for which at least the sample size has been published are included in
 | 28 | 7% | 50% | Median |
 | 29 | 6% | 44% |  |
 | 30 | 8% | 38% |  |
-| 31 | 11% | 29% |  |
+| 31 | 11% | 30% |  |
 | 32 | 5% | 19% |  |
 | 33 | 4% | 14% |  |
 | 34 | 4% | 9% |  |
@@ -689,7 +689,7 @@ Only polls for which at least the sample size has been published are included in
 | 54 | 2% | 98.8% |  |
 | 55 | 4% | 97% |  |
 | 56 | 6% | 93% |  |
-| 57 | 9% | 87% |  |
+| 57 | 8% | 87% |  |
 | 58 | 8% | 78% |  |
 | 59 | 11% | 70% |  |
 | 60 | 12% | 59% |  |
