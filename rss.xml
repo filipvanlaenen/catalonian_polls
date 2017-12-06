@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Parliament of Catalonia</title>
     <link>https://filipvanlaenen.github.io/catalonian_polls</link>
     <description>All Registered Polls for the Parliament of Catalonia</description>
-    <pubDate>Mon, 04 Dec 2017 20:19:18 +0100</pubDate>
+    <pubDate>Tue, 05 Dec 2017 20:31:18 +0100</pubDate>
     <item>
       <title>Opinion Poll by SocioMétrica for El Español, 27–30 November 2017 – Seat Projections</title>
       <link>https://filipvanlaenen.github.io/catalonian_polls/2017-11-30-SocioMétrica.html#seats</link>
@@ -32,12 +32,12 @@
     <item>
       <title>Opinion Poll by IMOP Insights for CIS, 23–27 November 2017 – Seat Projections</title>
       <link>https://filipvanlaenen.github.io/catalonian_polls/2017-11-27-IMOP.html#seats</link>
-      <description>&lt;ul&gt;&lt;li&gt;Esquerra Republicana de Catalunya–Catalunya Sí: 29–35 seats&lt;/li&gt;&lt;li&gt;Ciutadans–Partido de la Ciudadanía: 29–33 seats&lt;/li&gt;&lt;li&gt;Partit dels Socialistes de Catalunya (PSC-PSOE): 19–23 seats&lt;/li&gt;&lt;li&gt;Catalunya en Comú: 8–11 seats&lt;/li&gt;&lt;li&gt;Partit Popular: 5–8 seats&lt;/li&gt;&lt;li&gt;Candidatura d’Unitat Popular: 8–9 seats&lt;/li&gt;&lt;li&gt;Junts per Catalunya: 23–29 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <description>&lt;ul&gt;&lt;li&gt;Esquerra Republicana de Catalunya–Catalunya Sí: 30–35 seats&lt;/li&gt;&lt;li&gt;Ciutadans–Partido de la Ciudadanía: 29–33 seats&lt;/li&gt;&lt;li&gt;Partit dels Socialistes de Catalunya (PSC-PSOE): 19–23 seats&lt;/li&gt;&lt;li&gt;Catalunya en Comú: 8–11 seats&lt;/li&gt;&lt;li&gt;Partit Popular: 5–8 seats&lt;/li&gt;&lt;li&gt;Candidatura d’Unitat Popular: 8–9 seats&lt;/li&gt;&lt;li&gt;Junts per Catalunya: 23–29 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/catalonian_polls/2017-11-27-IMOP-seats.png"
-        length="168713"
+        length="164963"
         type="image/png"/>
-      <pubDate>Mon, 04 Dec 2017 20:19:18 +0100</pubDate>
-      <dc:date>2017-12-04T20:19:18.142838+01:00</dc:date>
+      <pubDate>Tue, 05 Dec 2017 20:31:18 +0100</pubDate>
+      <dc:date>2017-12-05T20:31:18.724047+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by IMOP Insights for CIS, 23–27 November 2017 – Voting Intentions</title>
@@ -46,8 +46,8 @@
       <enclosure url="https://filipvanlaenen.github.io/catalonian_polls/2017-11-27-IMOP.png"
         length="202988"
         type="image/png"/>
-      <pubDate>Mon, 04 Dec 2017 20:19:18 +0100</pubDate>
-      <dc:date>2017-12-04T20:19:18.142838+01:00</dc:date>
+      <pubDate>Tue, 05 Dec 2017 20:31:18 +0100</pubDate>
+      <dc:date>2017-12-05T20:31:18.724047+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by NC Report for La Razón, 13–23 November 2017 – Seat Projections</title>
@@ -369,6 +369,6 @@
       <pubDate>Mon, 13 Nov 2017 18:31:10 +0100</pubDate>
       <dc:date>2017-11-13T18:31:10.415733+01:00</dc:date>
     </item>
-    <dc:date>2017-12-04T20:19:18.142838+01:00</dc:date>
+    <dc:date>2017-12-05T20:31:18.724047+01:00</dc:date>
   </channel>
 </rss>
