@@ -10,7 +10,9 @@ Last result: **8.9%** (General Election of 27 September 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8.6% | 6.4–11.8% | 6.0–12.6% | 5.6–13.3% | 5.1–14.4% |
+| N/A | [Poll Average](average.html) | 8.7% | 6.5–11.7% | 6.0–12.5% | 5.7–13.2% | 5.1–14.3% |
+| [1–5 December 2017](2017-12-05-Feedback.html) | Feedback <br> El Nacional | 9.3% | 8.2–10.6% | 7.9–10.9% | 7.7–11.3% | 7.2–11.9% |
+| [29 November–2 December 2017](2017-12-02-GESOP.html) | GESOP <br> El Periódico | 8.5% | 7.3–9.9% | 7.0–10.3% | 6.8–10.6% | 6.2–11.4% |
 | [27–30 November 2017](2017-11-30-SocioMétrica.html) | SocioMétrica <br> El Español | 6.4% | 5.4–7.6% | 5.1–8.0% | 4.9–8.3% | 4.5–8.9% |
 | [23–27 November 2017](2017-11-27-IMOP.html) | IMOP Insights <br> CIS | 8.6% | 8.0–9.3% | 7.8–9.5% | 7.6–9.7% | 7.3–10.0% |
 | [13–23 November 2017](2017-11-23-NCReport.html) | NC Report <br> La Razón | 8.4% | 7.2–9.9% | 6.9–10.3% | 6.6–10.7% | 6.1–11.5% |
@@ -39,17 +41,17 @@ The following table shows the probability mass function per percentage block of 
 | 2.5–3.5% | 0% | 100% |  |
 | 3.5–4.5% | 0.1% | 100% |  |
 | 4.5–5.5% | 2% | 99.9% |  |
-| 5.5–6.5% | 10% | 98% |  |
-| 6.5–7.5% | 16% | 88% |  |
-| 7.5–8.5% | 20% | 72% |  |
-| 8.5–9.5% | 22% | 52% | Last Result, Median |
-| 9.5–10.5% | 10% | 30% |  |
-| 10.5–11.5% | 8% | 19% |  |
-| 11.5–12.5% | 6% | 12% |  |
-| 12.5–13.5% | 4% | 6% |  |
-| 13.5–14.5% | 1.4% | 2% |  |
-| 14.5–15.5% | 0.3% | 0.4% |  |
-| 15.5–16.5% | 0% | 0.1% |  |
+| 5.5–6.5% | 9% | 98% |  |
+| 6.5–7.5% | 15% | 89% |  |
+| 7.5–8.5% | 20% | 74% |  |
+| 8.5–9.5% | 24% | 54% | Last Result, Median |
+| 9.5–10.5% | 12% | 31% |  |
+| 10.5–11.5% | 8% | 18% |  |
+| 11.5–12.5% | 6% | 11% |  |
+| 12.5–13.5% | 3% | 5% |  |
+| 13.5–14.5% | 1.3% | 2% |  |
+| 14.5–15.5% | 0.3% | 0.3% |  |
+| 15.5–16.5% | 0% | 0% |  |
 | 16.5–17.5% | 0% | 0% |  |
 
 
@@ -61,7 +63,9 @@ Last result: **11** seats (General Election of 27 September 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9 | 6–14 | 6–16 | 5–17 | 5–18 |
+| N/A | [Poll Average](average.html) | 10 | 6–14 | 6–15 | 5–17 | 5–18 |
+| [1–5 December 2017](2017-12-05-Feedback.html) | Feedback <br> El Nacional | 11 | 9–12 | 8–13 | 8–14 | 8–14 |
+| [29 November–2 December 2017](2017-12-02-GESOP.html) | GESOP <br> El Periódico | 9 | 8–11 | 8–12 | 7–12 | 6–14 |
 | [27–30 November 2017](2017-11-30-SocioMétrica.html) | SocioMétrica <br> El Español | 7 | 5–8 | 5–9 | 5–9 | 4–11 |
 | [23–27 November 2017](2017-11-27-IMOP.html) | IMOP Insights <br> CIS | 9 | 9–11 | 9–11 | 8–11 | 8–12 |
 | [13–23 November 2017](2017-11-23-NCReport.html) | NC Report <br> La Razón | 9 | 8–12 | 8–13 | 7–13 | 6–14 |
@@ -90,20 +94,20 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 4 | 0.2% | 100% |  |
-| 5 | 4% | 99.8% |  |
-| 6 | 7% | 96% |  |
-| 7 | 6% | 89% |  |
-| 8 | 16% | 83% |  |
-| 9 | 19% | 67% | Median |
-| 10 | 6% | 48% |  |
-| 11 | 14% | 43% | Last Result |
-| 12 | 8% | 28% |  |
-| 13 | 3% | 20% |  |
-| 14 | 7% | 17% |  |
-| 15 | 5% | 10% |  |
-| 16 | 1.3% | 5% |  |
-| 17 | 3% | 4% |  |
-| 18 | 0.9% | 1.1% |  |
+| 5 | 3% | 99.8% |  |
+| 6 | 7% | 97% |  |
+| 7 | 5% | 90% |  |
+| 8 | 15% | 85% |  |
+| 9 | 19% | 69% |  |
+| 10 | 6% | 50% | Median |
+| 11 | 16% | 44% | Last Result |
+| 12 | 9% | 28% |  |
+| 13 | 3% | 19% |  |
+| 14 | 7% | 16% |  |
+| 15 | 4% | 9% |  |
+| 16 | 1.2% | 5% |  |
+| 17 | 2% | 3% |  |
+| 18 | 0.8% | 1.0% |  |
 | 19 | 0.2% | 0.2% |  |
 | 20 | 0% | 0% |  |
 

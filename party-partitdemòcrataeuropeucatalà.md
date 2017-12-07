@@ -11,6 +11,8 @@ Last result: **39.6%** (General Election of 27 September 2015)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 11.6% | 9.1–14.7% | 8.7–15.3% | 8.4–15.8% | 7.8–16.7% |
+| [1–5 December 2017](2017-12-05-Feedback.html) | Feedback <br> El Nacional | 0.0% | N/A | N/A | N/A | N/A |
+| [29 November–2 December 2017](2017-12-02-GESOP.html) | GESOP <br> El Periódico | 0.0% | N/A | N/A | N/A | N/A |
 | [27–30 November 2017](2017-11-30-SocioMétrica.html) | SocioMétrica <br> El Español | 0.0% | N/A | N/A | N/A | N/A |
 | [23–27 November 2017](2017-11-27-IMOP.html) | IMOP Insights <br> CIS | 0.0% | N/A | N/A | N/A | N/A |
 | [13–23 November 2017](2017-11-23-NCReport.html) | NC Report <br> La Razón | 0.0% | N/A | N/A | N/A | N/A |
@@ -82,6 +84,8 @@ Last result: **29** seats (General Election of 27 September 2015)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 17 | 13–22 | 13–23 | 11–23 | 11–24 |
+| [1–5 December 2017](2017-12-05-Feedback.html) | Feedback <br> El Nacional |  |  |  |  |  |
+| [29 November–2 December 2017](2017-12-02-GESOP.html) | GESOP <br> El Periódico |  |  |  |  |  |
 | [27–30 November 2017](2017-11-30-SocioMétrica.html) | SocioMétrica <br> El Español |  |  |  |  |  |
 | [23–27 November 2017](2017-11-27-IMOP.html) | IMOP Insights <br> CIS |  |  |  |  |  |
 | [13–23 November 2017](2017-11-23-NCReport.html) | NC Report <br> La Razón |  |  |  |  |  |
