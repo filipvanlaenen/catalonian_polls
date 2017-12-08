@@ -10,7 +10,7 @@ The table below lists the polls on which the average is based. They are the most
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 27 September 2015 | General Election | 39.6% <br> 62 | 39.6% <br> 29 | 39.6% <br> 29 | 39.6% <br> 20 | 17.9% <br> 25 | 12.7% <br> 16 | 8.9% <br> 11 | 8.5% <br> 11 | 8.2% <br> 10 |
 | N/A | Poll Average | N/A <br> N/A | 8–16% <br> 11–23 | 12–21% <br> 17–32 | 19–28% <br> 29–44 | 16–26% <br> 22–36 | 13–20% <br> 16–26 | 5–13% <br> 5–17 | 5–11% <br> 5–14 | 5–8% <br> 5–10 |
-| [3–7 December 2017](2017-12-07-Feedback.html) | Feedback <br> El Nacional | N/A <br> N/A | N/A <br> N/A | 15–19% <br> 22–30 | 21–26% <br> 31–39 | 20–26% <br> 28–36 | 13–18% <br> 16–24 | 4–7% <br> 4–8 | 5–8% <br> 5–10 | 6–9% <br> 8–11 |
+| [3–7 December 2017](2017-12-07-Feedback.html) | Feedback <br> El Nacional | N/A <br> N/A | N/A <br> N/A | 15–19% <br> 22–30 | 21–26% <br> 31–40 | 20–26% <br> 27–36 | 13–18% <br> 16–24 | 4–7% <br> 4–8 | 5–8% <br> 5–10 | 6–9% <br> 8–11 |
 | [29 November–2 December 2017](2017-12-02-GESOP.html) | GESOP <br> El Periódico | N/A <br> N/A | N/A <br> N/A | 17–22% <br> 25–33 | 18–23% <br> 27–36 | 16–22% <br> 22–30 | 16–22% <br> 22–29 | 7–11% <br> 7–12 | 4–8% <br> 4–10 | 5–8% <br> 5–10 |
 | [27–30 November 2017](2017-11-30-SocioMétrica.html) | SocioMétrica <br> El Español | N/A <br> N/A | N/A <br> N/A | 16–22% <br> 24–34 | 20–26% <br> 31–40 | 18–23% <br> 25–32 | 13–18% <br> 16–24 | 5–8% <br> 5–9 | 5–8% <br> 5–10 | 5–8% <br> 4–10 |
 | [23–27 November 2017](2017-11-27-IMOP.html) | IMOP Insights <br> CIS | N/A <br> N/A | N/A <br> N/A | 16–18% <br> 23–29 | 19–22% <br> 30–35 | 21–24% <br> 29–33 | 15–17% <br> 19–23 | 8–10% <br> 8–11 | 5–7% <br> 5–8 | 6–8% <br> 8–9 |
@@ -313,14 +313,14 @@ Only polls for which at least the sample size has been published are included in
 | 30 | 2% | 97% |  |
 | 31 | 6% | 95% |  |
 | 32 | 9% | 88% |  |
-| 33 | 5% | 80% |  |
+| 33 | 5% | 79% |  |
 | 34 | 5% | 74% |  |
 | 35 | 7% | 69% |  |
 | 36 | 8% | 62% |  |
-| 37 | 9% | 54% | Median |
+| 37 | 8% | 53% | Median |
 | 38 | 11% | 45% |  |
 | 39 | 6% | 34% |  |
-| 40 | 5% | 28% |  |
+| 40 | 6% | 28% |  |
 | 41 | 5% | 23% |  |
 | 42 | 5% | 18% |  |
 | 43 | 6% | 12% |  |
@@ -348,14 +348,14 @@ Only polls for which at least the sample size has been published are included in
 | 21 | 8% | 76% |  |
 | 22 | 3% | 68% |  |
 | 23 | 7% | 65% |  |
-| 24 | 11% | 57% | Median |
-| 25 | 8% | 46% |  |
-| 26 | 8% | 39% |  |
-| 27 | 7% | 31% |  |
+| 24 | 10% | 57% | Median |
+| 25 | 8% | 47% |  |
+| 26 | 9% | 39% |  |
+| 27 | 7% | 30% |  |
 | 28 | 7% | 24% |  |
 | 29 | 6% | 17% | Last Result |
-| 30 | 4% | 12% |  |
-| 31 | 4% | 7% |  |
+| 30 | 4% | 11% |  |
+| 31 | 4% | 8% |  |
 | 32 | 2% | 3% |  |
 | 33 | 0.6% | 1.2% |  |
 | 34 | 0.4% | 0.6% |  |
@@ -419,7 +419,7 @@ Only polls for which at least the sample size has been published are included in
 | 33 | 5% | 15% |  |
 | 34 | 5% | 10% |  |
 | 35 | 2% | 5% |  |
-| 36 | 1.5% | 3% |  |
+| 36 | 2% | 3% |  |
 | 37 | 0.8% | 1.4% |  |
 | 38 | 0.5% | 0.7% |  |
 | 39 | 0.2% | 0.2% |  |
@@ -441,7 +441,7 @@ Only polls for which at least the sample size has been published are included in
 | 19 | 12% | 74% |  |
 | 20 | 14% | 62% | Median |
 | 21 | 10% | 48% |  |
-| 22 | 17% | 38% |  |
+| 22 | 18% | 38% |  |
 | 23 | 10% | 20% |  |
 | 24 | 4% | 10% |  |
 | 25 | 3% | 6% |  |
@@ -462,7 +462,7 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 4 | 1.5% | 100% |  |
-| 5 | 8% | 98% |  |
+| 5 | 8% | 98.5% |  |
 | 6 | 9% | 91% |  |
 | 7 | 6% | 82% |  |
 | 8 | 15% | 75% |  |
@@ -488,13 +488,13 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 3 | 0.3% | 100% |  |
-| 4 | 0.2% | 99.7% |  |
+| 4 | 0.3% | 99.7% |  |
 | 5 | 7% | 99.5% |  |
 | 6 | 17% | 92% |  |
 | 7 | 11% | 75% |  |
 | 8 | 10% | 64% |  |
 | 9 | 8% | 54% | Median |
-| 10 | 19% | 46% |  |
+| 10 | 18% | 46% |  |
 | 11 | 5% | 28% | Last Result |
 | 12 | 13% | 23% |  |
 | 13 | 8% | 11% |  |
@@ -519,7 +519,7 @@ Only polls for which at least the sample size has been published are included in
 | 8 | 46% | 80% | Median |
 | 9 | 29% | 34% |  |
 | 10 | 5% | 5% | Last Result |
-| 11 | 0.2% | 0.4% |  |
+| 11 | 0.3% | 0.4% |  |
 | 12 | 0.2% | 0.2% |  |
 | 13 | 0% | 0% |  |
 
@@ -534,10 +534,10 @@ Only polls for which at least the sample size has been published are included in
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | Esquerra Republicana de Catalunya–Catalunya Sí – Partit Demòcrata Europeu Català – Catalunya en Comú | 60 | 71 | 83% | 66–75 | 65–77 | 64–78 | 63–80 |
 | Esquerra Republicana de Catalunya–Catalunya Sí – Junts per Catalunya – Catalunya en Comú | 60 | 69 | 61% | 65–73 | 64–74 | 63–75 | 61–77 |
-| Esquerra Republicana de Catalunya–Catalunya Sí – Junts per Catalunya – Candidatura d’Unitat Popular | 59 | 68 | 58% | 64–73 | 63–74 | 62–75 | 60–77 |
+| Esquerra Republicana de Catalunya–Catalunya Sí – Junts per Catalunya – Candidatura d’Unitat Popular | 59 | 68 | 58% | 64–72 | 63–74 | 62–75 | 60–77 |
 | Ciutadans–Partido de la Ciudadanía – Partit dels Socialistes de Catalunya (PSC-PSOE) – Catalunya en Comú – Partit Popular | 63 | 68 | 51% | 63–72 | 61–73 | 60–74 | 58–77 |
 | Esquerra Republicana de Catalunya–Catalunya Sí – Partit Demòcrata Europeu Català – Candidatura d’Unitat Popular | 59 | 64 | 12% | 61–68 | 60–69 | 59–70 | 57–72 |
-| Esquerra Republicana de Catalunya–Catalunya Sí – Junts per Catalunya | 49 | 60 | 2% | 56–65 | 55–66 | 54–67 | 52–69 |
+| Esquerra Republicana de Catalunya–Catalunya Sí – Junts per Catalunya | 49 | 60 | 2% | 56–64 | 55–66 | 54–67 | 52–69 |
 | Ciutadans–Partido de la Ciudadanía – Partit dels Socialistes de Catalunya (PSC-PSOE) – Partit Popular | 52 | 58 | 0.1% | 54–62 | 52–63 | 51–64 | 49–66 |
 | Esquerra Republicana de Catalunya–Catalunya Sí – Partit Demòcrata Europeu Català | 49 | 56 | 0% | 53–60 | 52–61 | 51–62 | 50–64 |
 
@@ -577,15 +577,15 @@ Only polls for which at least the sample size has been published are included in
 | 59 | 0.1% | 100% |  |
 | 60 | 0.1% | 99.9% | Last Result |
 | 61 | 0.4% | 99.8% |  |
-| 62 | 1.1% | 99.3% |  |
-| 63 | 3% | 98% |  |
+| 62 | 1.0% | 99.3% |  |
+| 63 | 2% | 98% |  |
 | 64 | 4% | 96% |  |
-| 65 | 7% | 91% |  |
+| 65 | 7% | 92% |  |
 | 66 | 11% | 84% |  |
 | 67 | 12% | 73% |  |
 | 68 | 11% | 61% | Majority |
 | 69 | 11% | 50% |  |
-| 70 | 10% | 40% | Median |
+| 70 | 10% | 39% | Median |
 | 71 | 9% | 29% |  |
 | 72 | 7% | 20% |  |
 | 73 | 5% | 13% |  |
@@ -614,15 +614,15 @@ Only polls for which at least the sample size has been published are included in
 | 67 | 11% | 69% |  |
 | 68 | 12% | 58% | Majority |
 | 69 | 13% | 47% | Median |
-| 70 | 10% | 34% |  |
+| 70 | 11% | 34% |  |
 | 71 | 8% | 24% |  |
 | 72 | 5% | 15% |  |
 | 73 | 3% | 10% |  |
-| 74 | 3% | 7% |  |
+| 74 | 3% | 6% |  |
 | 75 | 2% | 4% |  |
 | 76 | 1.1% | 2% |  |
-| 77 | 0.6% | 1.0% |  |
-| 78 | 0.3% | 0.4% |  |
+| 77 | 0.6% | 1.1% |  |
+| 78 | 0.2% | 0.4% |  |
 | 79 | 0.1% | 0.2% |  |
 | 80 | 0.1% | 0.1% |  |
 | 81 | 0% | 0% |  |
@@ -692,19 +692,19 @@ Only polls for which at least the sample size has been published are included in
 | 51 | 0.1% | 99.9% |  |
 | 52 | 0.4% | 99.8% |  |
 | 53 | 0.6% | 99.4% |  |
-| 54 | 1.4% | 98.9% |  |
+| 54 | 1.5% | 98.9% |  |
 | 55 | 4% | 97% |  |
 | 56 | 6% | 93% |  |
 | 57 | 9% | 87% |  |
-| 58 | 9% | 79% |  |
-| 59 | 12% | 70% |  |
+| 58 | 8% | 79% |  |
+| 59 | 11% | 70% |  |
 | 60 | 12% | 59% |  |
 | 61 | 14% | 47% | Median |
 | 62 | 10% | 33% |  |
 | 63 | 8% | 23% |  |
 | 64 | 5% | 15% |  |
 | 65 | 4% | 10% |  |
-| 66 | 3% | 6% |  |
+| 66 | 2% | 6% |  |
 | 67 | 2% | 4% |  |
 | 68 | 1.2% | 2% | Majority |
 | 69 | 0.5% | 1.0% |  |
