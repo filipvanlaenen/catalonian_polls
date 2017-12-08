@@ -10,7 +10,8 @@ Last result: **12.7%** (General Election of 27 September 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 15.1% | 13.3–17.6% | 12.8–19.1% | 12.4–20.0% | 11.7–21.4% |
+| N/A | [Poll Average](average.html) | 15.3% | 13.6–17.7% | 13.2–19.1% | 12.8–20.0% | 12.2–21.4% |
+| [3–7 December 2017](2017-12-07-Feedback.html) | Feedback <br> El Nacional | 15.3% | 13.9–16.9% | 13.5–17.3% | 13.2–17.7% | 12.6–18.4% |
 | [1–5 December 2017](2017-12-05-Feedback.html) | Feedback <br> El Nacional | 13.5% | 12.2–15.0% | 11.8–15.4% | 11.5–15.8% | 10.9–16.5% |
 | [29 November–2 December 2017](2017-12-02-GESOP.html) | GESOP <br> El Periódico | 19.0% | 17.3–20.9% | 16.8–21.4% | 16.4–21.9% | 15.7–22.8% |
 | [27–30 November 2017](2017-11-30-SocioMétrica.html) | SocioMétrica <br> El Español | 15.2% | 13.7–17.0% | 13.3–17.5% | 12.9–17.9% | 12.2–18.8% |
@@ -39,14 +40,14 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 9.5–10.5% | 0% | 100% |  |
-| 10.5–11.5% | 0.3% | 100% |  |
-| 11.5–12.5% | 3% | 99.6% |  |
-| 12.5–13.5% | 11% | 97% | Last Result |
-| 13.5–14.5% | 22% | 86% |  |
-| 14.5–15.5% | 25% | 64% | Median |
-| 15.5–16.5% | 20% | 38% |  |
-| 16.5–17.5% | 8% | 19% |  |
-| 17.5–18.5% | 4% | 10% |  |
+| 10.5–11.5% | 0.1% | 100% |  |
+| 11.5–12.5% | 1.2% | 99.9% |  |
+| 12.5–13.5% | 8% | 98.7% | Last Result |
+| 13.5–14.5% | 21% | 91% |  |
+| 14.5–15.5% | 27% | 70% | Median |
+| 15.5–16.5% | 22% | 42% |  |
+| 16.5–17.5% | 9% | 20% |  |
+| 17.5–18.5% | 4% | 11% |  |
 | 18.5–19.5% | 3% | 7% |  |
 | 19.5–20.5% | 2% | 4% |  |
 | 20.5–21.5% | 1.1% | 1.5% |  |
@@ -63,7 +64,8 @@ Last result: **16** seats (General Election of 27 September 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 20 | 16–23 | 16–25 | 15–26 | 15–29 |
+| N/A | [Poll Average](average.html) | 20 | 17–24 | 16–25 | 16–26 | 15–29 |
+| [3–7 December 2017](2017-12-07-Feedback.html) | Feedback <br> El Nacional | 20 | 17–23 | 17–23 | 16–24 | 16–24 |
 | [1–5 December 2017](2017-12-05-Feedback.html) | Feedback <br> El Nacional | 16 | 15–19 | 15–20 | 14–21 | 14–22 |
 | [29 November–2 December 2017](2017-12-02-GESOP.html) | GESOP <br> El Periódico | 25 | 23–28 | 23–29 | 22–29 | 21–31 |
 | [27–30 November 2017](2017-11-30-SocioMétrica.html) | SocioMétrica <br> El Español | 21 | 17–23 | 17–24 | 16–24 | 16–25 |
@@ -93,16 +95,16 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 14 | 0.3% | 100% |  |
-| 15 | 2% | 99.7% |  |
-| 16 | 9% | 97% | Last Result |
-| 17 | 11% | 89% |  |
-| 18 | 10% | 78% |  |
-| 19 | 11% | 67% |  |
-| 20 | 13% | 56% | Median |
-| 21 | 9% | 44% |  |
-| 22 | 16% | 34% |  |
-| 23 | 9% | 19% |  |
+| 14 | 0.1% | 100% |  |
+| 15 | 0.8% | 99.9% |  |
+| 16 | 6% | 99.2% | Last Result |
+| 17 | 10% | 94% |  |
+| 18 | 10% | 84% |  |
+| 19 | 12% | 74% |  |
+| 20 | 14% | 62% | Median |
+| 21 | 10% | 48% |  |
+| 22 | 17% | 38% |  |
+| 23 | 10% | 20% |  |
 | 24 | 4% | 10% |  |
 | 25 | 3% | 6% |  |
 | 26 | 1.2% | 3% |  |

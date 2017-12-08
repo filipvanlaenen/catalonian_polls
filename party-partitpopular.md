@@ -11,6 +11,7 @@ Last result: **8.5%** (General Election of 27 September 2015)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 7.2% | 5.4–9.7% | 5.2–10.2% | 4.9–10.7% | 4.4–11.6% |
+| [3–7 December 2017](2017-12-07-Feedback.html) | Feedback <br> El Nacional | 6.2% | 5.3–7.3% | 5.1–7.6% | 4.9–7.9% | 4.5–8.4% |
 | [1–5 December 2017](2017-12-05-Feedback.html) | Feedback <br> El Nacional | 6.2% | 5.3–7.3% | 5.1–7.6% | 4.9–7.9% | 4.5–8.4% |
 | [29 November–2 December 2017](2017-12-02-GESOP.html) | GESOP <br> El Periódico | 5.8% | 4.8–7.0% | 4.6–7.3% | 4.3–7.6% | 3.9–8.2% |
 | [27–30 November 2017](2017-11-30-SocioMétrica.html) | SocioMétrica <br> El Español | 6.2% | 5.3–7.5% | 5.0–7.8% | 4.8–8.2% | 4.3–8.8% |
@@ -61,7 +62,8 @@ Last result: **11** seats (General Election of 27 September 2015)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 9 | 6–13 | 5–13 | 5–14 | 4–15 |
-| [1–5 December 2017](2017-12-05-Feedback.html) | Feedback <br> El Nacional | 7 | 5–9 | 5–9 | 5–10 | 5–10 |
+| [3–7 December 2017](2017-12-07-Feedback.html) | Feedback <br> El Nacional | 7 | 6–9 | 5–10 | 5–10 | 5–10 |
+| [1–5 December 2017](2017-12-05-Feedback.html) | Feedback <br> El Nacional | 7 | 5–9 | 5–10 | 5–10 | 5–10 |
 | [29 November–2 December 2017](2017-12-02-GESOP.html) | GESOP <br> El Periódico | 6 | 5–9 | 5–9 | 4–10 | 3–10 |
 | [27–30 November 2017](2017-11-30-SocioMétrica.html) | SocioMétrica <br> El Español | 7 | 6–10 | 5–10 | 5–10 | 4–12 |
 | [23–27 November 2017](2017-11-27-IMOP.html) | IMOP Insights <br> CIS | 7 | 5–8 | 5–8 | 5–8 | 5–9 |
@@ -91,13 +93,13 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 3 | 0.3% | 100% |  |
-| 4 | 0.3% | 99.7% |  |
-| 5 | 8% | 99.5% |  |
+| 4 | 0.2% | 99.7% |  |
+| 5 | 7% | 99.5% |  |
 | 6 | 17% | 92% |  |
-| 7 | 12% | 75% |  |
-| 8 | 10% | 63% |  |
+| 7 | 11% | 75% |  |
+| 8 | 10% | 64% |  |
 | 9 | 8% | 54% | Median |
-| 10 | 18% | 46% |  |
+| 10 | 19% | 46% |  |
 | 11 | 5% | 28% | Last Result |
 | 12 | 13% | 23% |  |
 | 13 | 8% | 11% |  |
