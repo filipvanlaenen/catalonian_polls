@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Parliament of Catalonia</title>
     <link>https://filipvanlaenen.github.io/catalonian_polls</link>
     <description>All Registered Polls for the Parliament of Catalonia</description>
-    <pubDate>Fri, 08 Dec 2017 13:18:16 +0100</pubDate>
+    <pubDate>Fri, 08 Dec 2017 15:21:26 +0100</pubDate>
     <item>
       <title>Opinion Poll by Feedback for El Nacional, 3–7 December 2017 – Seat Projections</title>
       <link>https://filipvanlaenen.github.io/catalonian_polls/2017-12-07-Feedback.html#seats</link>
@@ -16,8 +16,8 @@
       <enclosure url="https://filipvanlaenen.github.io/catalonian_polls/2017-12-07-Feedback-seats.png"
         length="180394"
         type="image/png"/>
-      <pubDate>Fri, 08 Dec 2017 13:18:16 +0100</pubDate>
-      <dc:date>2017-12-08T13:18:16.097722+01:00</dc:date>
+      <pubDate>Fri, 08 Dec 2017 15:21:26 +0100</pubDate>
+      <dc:date>2017-12-08T15:21:26.122501+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Feedback for El Nacional, 3–7 December 2017 – Voting Intentions</title>
@@ -26,8 +26,8 @@
       <enclosure url="https://filipvanlaenen.github.io/catalonian_polls/2017-12-07-Feedback.png"
         length="223197"
         type="image/png"/>
-      <pubDate>Fri, 08 Dec 2017 13:18:16 +0100</pubDate>
-      <dc:date>2017-12-08T13:18:16.097722+01:00</dc:date>
+      <pubDate>Fri, 08 Dec 2017 15:21:26 +0100</pubDate>
+      <dc:date>2017-12-08T15:21:26.122501+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Feedback for El Nacional, 1–5 December 2017 – Seat Projections</title>
@@ -429,6 +429,6 @@
       <pubDate>Mon, 13 Nov 2017 18:31:10 +0100</pubDate>
       <dc:date>2017-11-13T18:31:10.415733+01:00</dc:date>
     </item>
-    <dc:date>2017-12-08T13:18:16.097722+01:00</dc:date>
+    <dc:date>2017-12-08T15:21:26.122501+01:00</dc:date>
   </channel>
 </rss>
