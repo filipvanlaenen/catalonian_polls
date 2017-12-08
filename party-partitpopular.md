@@ -61,7 +61,7 @@ Last result: **11** seats (General Election of 27 September 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9 | 6–13 | 5–13 | 5–14 | 4–15 |
+| N/A | [Poll Average](average.html) | 9 | 6–13 | 5–13 | 5–14 | 5–15 |
 | [3–7 December 2017](2017-12-07-Feedback.html) | Feedback <br> El Nacional | 7 | 6–9 | 5–10 | 5–10 | 5–10 |
 | [1–5 December 2017](2017-12-05-Feedback.html) | Feedback <br> El Nacional | 7 | 5–9 | 5–10 | 5–10 | 5–10 |
 | [29 November–2 December 2017](2017-12-02-GESOP.html) | GESOP <br> El Periódico | 6 | 5–9 | 5–9 | 4–10 | 3–10 |
@@ -69,7 +69,7 @@ Last result: **11** seats (General Election of 27 September 2015)
 | [23–27 November 2017](2017-11-27-IMOP.html) | IMOP Insights <br> CIS | 7 | 5–8 | 5–8 | 5–8 | 5–9 |
 | [13–23 November 2017](2017-11-23-NCReport.html) | NC Report <br> La Razón | 12 | 10–14 | 10–14 | 9–15 | 8–16 |
 | [13–23 November 2017](2017-11-23-AdviceStrategicConsultants.html) | Advice Strategic Consultants <br> El Confidencial | 10 | 9–12 | 9–12 | 8–12 | 8–13 |
-| [20–22 November 2017](2017-11-22-Metroscopia.html) | Metroscopia <br> El País | 6 | 5–8 | 5–9 | 5–9 | 4–10 |
+| [20–22 November 2017](2017-11-22-Metroscopia.html) | Metroscopia <br> El País | 6 | 5–9 | 5–9 | 5–9 | 4–10 |
 | [15–18 November 2017](2017-11-18-GESOP.html) | GESOP <br> El Periódico | 6 | 5–9 | 5–9 | 4–10 | 3–10 |
 | [13–16 November 2017](2017-11-16-GAD3.html) | GAD3 <br> ABC | 10 | 8–12 | 7–12 | 7–13 | 6–13 |
 | [30 October–3 November 2017](2017-11-03-NCReport.html) | NC Report <br> La Razón | 13 | 12–16 | 12–16 | 10–18 | 10–19 |
@@ -93,12 +93,12 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 3 | 0.3% | 100% |  |
-| 4 | 0.3% | 99.7% |  |
+| 4 | 0.2% | 99.7% |  |
 | 5 | 7% | 99.5% |  |
-| 6 | 17% | 92% |  |
+| 6 | 17% | 93% |  |
 | 7 | 11% | 75% |  |
-| 8 | 10% | 64% |  |
-| 9 | 8% | 54% | Median |
+| 8 | 9% | 64% |  |
+| 9 | 9% | 55% | Median |
 | 10 | 18% | 46% |  |
 | 11 | 5% | 28% | Last Result |
 | 12 | 13% | 23% |  |

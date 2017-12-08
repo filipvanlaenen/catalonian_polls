@@ -82,14 +82,14 @@ Last result: **29** seats (General Election of 27 September 2015)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 24 | 18–30 | 17–31 | 17–32 | 16–34 |
-| [3–7 December 2017](2017-12-07-Feedback.html) | Feedback <br> El Nacional | 25 | 23–28 | 23–29 | 22–30 | 21–31 |
+| [3–7 December 2017](2017-12-07-Feedback.html) | Feedback <br> El Nacional | 25 | 23–29 | 23–29 | 22–30 | 21–31 |
 | [1–5 December 2017](2017-12-05-Feedback.html) | Feedback <br> El Nacional | 25 | 23–28 | 23–29 | 22–29 | 21–30 |
 | [29 November–2 December 2017](2017-12-02-GESOP.html) | GESOP <br> El Periódico | 29 | 26–32 | 26–32 | 25–33 | 23–35 |
 | [27–30 November 2017](2017-11-30-SocioMétrica.html) | SocioMétrica <br> El Español | 29 | 26–32 | 25–32 | 24–34 | 23–35 |
 | [23–27 November 2017](2017-11-27-IMOP.html) | IMOP Insights <br> CIS | 25 | 24–27 | 24–28 | 23–29 | 23–29 |
 | [13–23 November 2017](2017-11-23-NCReport.html) | NC Report <br> La Razón | 21 | 17–23 | 17–24 | 17–24 | 15–26 |
 | [13–23 November 2017](2017-11-23-AdviceStrategicConsultants.html) | Advice Strategic Consultants <br> El Confidencial | 18 | 17–20 | 17–21 | 17–21 | 15–22 |
-| [20–22 November 2017](2017-11-22-Metroscopia.html) | Metroscopia <br> El País | 20 | 18–22 | 17–23 | 17–23 | 17–24 |
+| [20–22 November 2017](2017-11-22-Metroscopia.html) | Metroscopia <br> El País | 19 | 18–22 | 17–23 | 17–23 | 17–24 |
 | [15–18 November 2017](2017-11-18-GESOP.html) | GESOP <br> El Periódico | 25 | 22–27 | 21–28 | 21–29 | 20–31 |
 | [13–16 November 2017](2017-11-16-GAD3.html) | GAD3 <br> ABC | 24 | 23–28 | 22–29 | 21–29 | 20–30 |
 | [30 October–3 November 2017](2017-11-03-NCReport.html) | NC Report <br> La Razón |  |  |  |  |  |
@@ -115,16 +115,16 @@ The following table shows the probability mass function per seat for the [poll a
 | 15 | 0.2% | 100% |  |
 | 16 | 0.3% | 99.8% |  |
 | 17 | 5% | 99.5% |  |
-| 18 | 11% | 94% |  |
-| 19 | 4% | 84% |  |
-| 20 | 3% | 79% |  |
-| 21 | 8% | 76% |  |
-| 22 | 3% | 68% |  |
-| 23 | 7% | 65% |  |
+| 18 | 10% | 94% |  |
+| 19 | 5% | 84% |  |
+| 20 | 4% | 80% |  |
+| 21 | 6% | 75% |  |
+| 22 | 4% | 69% |  |
+| 23 | 8% | 65% |  |
 | 24 | 10% | 57% | Median |
 | 25 | 8% | 47% |  |
 | 26 | 9% | 40% |  |
-| 27 | 7% | 31% |  |
+| 27 | 7% | 30% |  |
 | 28 | 7% | 24% |  |
 | 29 | 6% | 17% | Last Result |
 | 30 | 4% | 11% |  |
