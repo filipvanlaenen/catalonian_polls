@@ -72,7 +72,7 @@ Last result: **16** seats (General Election of 27 September 2015)
 | [23–27 November 2017](2017-11-27-IMOP.html) | IMOP Insights <br> CIS | 22 | 21–23 | 20–23 | 19–23 | 18–24 |
 | [13–23 November 2017](2017-11-23-NCReport.html) | NC Report <br> La Razón | 20 | 16–23 | 16–23 | 15–23 | 15–24 |
 | [13–23 November 2017](2017-11-23-AdviceStrategicConsultants.html) | Advice Strategic Consultants <br> El Confidencial | 19 | 17–21 | 16–21 | 16–22 | 16–23 |
-| [20–22 November 2017](2017-11-22-Metroscopia.html) | Metroscopia <br> El País | 19 | 17–22 | 16–23 | 16–23 | 16–23 |
+| [20–22 November 2017](2017-11-22-Metroscopia.html) | Metroscopia <br> El País | 19 | 17–22 | 16–22 | 16–23 | 16–23 |
 | [15–18 November 2017](2017-11-18-GESOP.html) | GESOP <br> El Periódico | 24 | 22–26 | 21–27 | 21–29 | 19–30 |
 | [13–16 November 2017](2017-11-16-GAD3.html) | GAD3 <br> ABC | 20 | 17–23 | 16–23 | 16–24 | 15–24 |
 | [30 October–3 November 2017](2017-11-03-NCReport.html) | NC Report <br> La Razón | 17 | 15–21 | 15–22 | 14–22 | 14–23 |
@@ -98,13 +98,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 14 | 0.1% | 100% |  |
 | 15 | 0.8% | 99.9% |  |
 | 16 | 6% | 99.2% | Last Result |
-| 17 | 9% | 94% |  |
-| 18 | 11% | 84% |  |
-| 19 | 11% | 73% |  |
-| 20 | 14% | 63% | Median |
-| 21 | 11% | 48% |  |
+| 17 | 10% | 94% |  |
+| 18 | 10% | 84% |  |
+| 19 | 12% | 74% |  |
+| 20 | 14% | 62% | Median |
+| 21 | 10% | 48% |  |
 | 22 | 17% | 38% |  |
-| 23 | 10% | 21% |  |
+| 23 | 10% | 20% |  |
 | 24 | 4% | 10% |  |
 | 25 | 3% | 6% |  |
 | 26 | 1.2% | 3% |  |

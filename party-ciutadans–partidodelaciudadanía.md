@@ -66,7 +66,7 @@ Last result: **25** seats (General Election of 27 September 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 28 | 24–34 | 23–34 | 22–36 | 20–37 |
+| N/A | [Poll Average](average.html) | 28 | 24–34 | 23–35 | 22–36 | 20–38 |
 | [3–7 December 2017](2017-12-07-Feedback.html) | Feedback <br> El Nacional | 31 | 29–34 | 28–35 | 27–36 | 26–37 |
 | [1–5 December 2017](2017-12-05-Feedback.html) | Feedback <br> El Nacional | 31 | 28–33 | 27–34 | 26–34 | 26–36 |
 | [29 November–2 December 2017](2017-12-02-GESOP.html) | GESOP <br> El Periódico | 25 | 24–28 | 22–29 | 22–30 | 20–31 |
@@ -74,7 +74,7 @@ Last result: **25** seats (General Election of 27 September 2015)
 | [23–27 November 2017](2017-11-27-IMOP.html) | IMOP Insights <br> CIS | 31 | 30–33 | 29–33 | 29–33 | 28–34 |
 | [13–23 November 2017](2017-11-23-NCReport.html) | NC Report <br> La Razón | 29 | 26–32 | 25–33 | 25–33 | 23–35 |
 | [13–23 November 2017](2017-11-23-AdviceStrategicConsultants.html) | Advice Strategic Consultants <br> El Confidencial | 26 | 24–27 | 24–28 | 24–28 | 22–30 |
-| [20–22 November 2017](2017-11-22-Metroscopia.html) | Metroscopia <br> El País | 34 | 32–37 | 31–38 | 31–38 | 30–39 |
+| [20–22 November 2017](2017-11-22-Metroscopia.html) | Metroscopia <br> El País | 34 | 32–37 | 32–38 | 31–38 | 30–39 |
 | [15–18 November 2017](2017-11-18-GESOP.html) | GESOP <br> El Periódico | 25 | 23–28 | 22–28 | 21–29 | 20–31 |
 | [13–16 November 2017](2017-11-16-GAD3.html) | GAD3 <br> ABC | 31 | 27–33 | 26–34 | 26–35 | 25–36 |
 | [30 October–3 November 2017](2017-11-03-NCReport.html) | NC Report <br> La Razón | 26 | 24–30 | 24–30 | 23–31 | 21–33 |
@@ -112,13 +112,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 30 | 9% | 43% |  |
 | 31 | 12% | 34% |  |
 | 32 | 7% | 22% |  |
-| 33 | 4% | 15% |  |
-| 34 | 7% | 11% |  |
-| 35 | 1.2% | 4% |  |
-| 36 | 0.9% | 3% |  |
-| 37 | 2% | 2% |  |
-| 38 | 0.2% | 0.3% |  |
-| 39 | 0.1% | 0.1% |  |
+| 33 | 5% | 15% |  |
+| 34 | 5% | 10% |  |
+| 35 | 2% | 5% |  |
+| 36 | 2% | 3% |  |
+| 37 | 0.8% | 1.5% |  |
+| 38 | 0.4% | 0.6% |  |
+| 39 | 0.2% | 0.2% |  |
 | 40 | 0% | 0% |  |
 
 
