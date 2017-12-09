@@ -66,7 +66,7 @@ Last result: **10** seats (General Election of 27 September 2015)
 | [23–27 November 2017](2017-11-27-IMOP.html) | IMOP Insights <br> CIS | 9 | 8–9 | 8–9 | 8–9 | 8–10 |
 | [13–23 November 2017](2017-11-23-NCReport.html) | NC Report <br> La Razón | 8 | 5–9 | 4–9 | 3–10 | 3–10 |
 | [13–23 November 2017](2017-11-23-AdviceStrategicConsultants.html) | Advice Strategic Consultants <br> El Confidencial | 8 | 8–9 | 7–9 | 7–9 | 5–10 |
-| [20–22 November 2017](2017-11-22-Metroscopia.html) | Metroscopia <br> El País | 8 | 5–9 | 5–9 | 5–9 | 4–9 |
+| [20–22 November 2017](2017-11-22-Metroscopia.html) | Metroscopia <br> El País | 8 | 6–9 | 5–9 | 5–9 | 4–9 |
 | [15–18 November 2017](2017-11-18-GESOP.html) | GESOP <br> El Periódico | 8 | 7–9 | 5–10 | 5–10 | 3–11 |
 | [13–16 November 2017](2017-11-16-GAD3.html) | GAD3 <br> ABC | 8 | 5–9 | 4–9 | 3–9 | 3–10 |
 | [30 October–3 November 2017](2017-11-03-NCReport.html) | NC Report <br> La Razón | 8 | 7–9 | 6–10 | 5–10 | 3–12 |
