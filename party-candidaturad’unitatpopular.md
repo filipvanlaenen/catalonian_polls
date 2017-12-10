@@ -10,9 +10,10 @@ Last result: **8.2%** (General Election of 27 September 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6.2% | 5.1–7.4% | 4.8–7.8% | 4.5–8.2% | 4.1–8.9% |
+| N/A | [Poll Average](average.html) | 6.1% | 4.9–7.3% | 4.6–7.8% | 4.4–8.2% | 3.9–8.9% |
 | [27 November–8 December 2017](2017-12-08-SocioMétrica.html) | SocioMétrica <br> El Español | 5.5% | 4.8–6.5% | 4.5–6.8% | 4.3–7.1% | 4.0–7.6% |
 | [4–8 December 2017](2017-12-08-Feedback.html) | Feedback <br> El Nacional | 7.4% | 6.4–8.6% | 6.2–8.9% | 5.9–9.2% | 5.5–9.8% |
+| [4–7 December 2017](2017-12-07-GAD3.html) | GAD3 <br> La Vanguardia | 5.0% | 4.2–6.0% | 4.0–6.3% | 3.8–6.5% | 3.5–7.1% |
 | [3–7 December 2017](2017-12-07-Feedback.html) | Feedback <br> El Nacional | 7.1% | 6.2–8.3% | 5.9–8.6% | 5.7–8.9% | 5.2–9.4% |
 | [1–5 December 2017](2017-12-05-Feedback.html) | Feedback <br> El Nacional | 6.4% | 5.5–7.5% | 5.3–7.8% | 5.0–8.1% | 4.6–8.7% |
 | [29 November–2 December 2017](2017-12-02-GESOP.html) | GESOP <br> El Periódico | 6.0% | 5.0–7.2% | 4.8–7.6% | 4.6–7.9% | 4.1–8.5% |
@@ -41,11 +42,12 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 2.5–3.5% | 0% | 100% |  |
-| 3.5–4.5% | 2% | 100% |  |
-| 4.5–5.5% | 21% | 97% |  |
-| 5.5–6.5% | 43% | 76% | Median |
-| 6.5–7.5% | 26% | 33% |  |
+| 1.5–2.5% | 0% | 100% |  |
+| 2.5–3.5% | 0.1% | 100% |  |
+| 3.5–4.5% | 4% | 99.9% |  |
+| 4.5–5.5% | 23% | 96% |  |
+| 5.5–6.5% | 41% | 73% | Median |
+| 6.5–7.5% | 25% | 32% |  |
 | 7.5–8.5% | 6% | 7% | Last Result |
 | 8.5–9.5% | 1.1% | 1.2% |  |
 | 9.5–10.5% | 0.1% | 0.1% |  |
@@ -60,9 +62,10 @@ Last result: **10** seats (General Election of 27 September 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8 | 6–9 | 5–10 | 4–11 | 3–11 |
+| N/A | [Poll Average](average.html) | 8 | 5–9 | 5–9 | 3–10 | 3–11 |
 | [27 November–8 December 2017](2017-12-08-SocioMétrica.html) | SocioMétrica <br> El Español | 8 | 5–9 | 4–9 | 3–9 | 3–9 |
-| [4–8 December 2017](2017-12-08-Feedback.html) | Feedback <br> El Nacional | 9 | 8–11 | 8–11 | 8–11 | 6–12 |
+| [4–8 December 2017](2017-12-08-Feedback.html) | Feedback <br> El Nacional | 9 | 8–10 | 8–11 | 8–11 | 7–12 |
+| [4–7 December 2017](2017-12-07-GAD3.html) | GAD3 <br> La Vanguardia | 5 | 3–8 | 3–8 | 3–8 | 3–9 |
 | [3–7 December 2017](2017-12-07-Feedback.html) | Feedback <br> El Nacional | 9 | 8–10 | 8–10 | 8–11 | 6–12 |
 | [1–5 December 2017](2017-12-05-Feedback.html) | Feedback <br> El Nacional | 8 | 7–9 | 6–9 | 5–10 | 4–10 |
 | [29 November–2 December 2017](2017-12-02-GESOP.html) | GESOP <br> El Periódico | 8 | 5–9 | 5–9 | 5–10 | 3–10 |
@@ -93,16 +96,16 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 3 | 1.4% | 100% |  |
-| 4 | 1.2% | 98.5% |  |
-| 5 | 7% | 97% |  |
-| 6 | 4% | 90% |  |
-| 7 | 8% | 86% |  |
-| 8 | 46% | 78% | Median |
-| 9 | 26% | 33% |  |
-| 10 | 3% | 7% | Last Result |
-| 11 | 4% | 4% |  |
-| 12 | 0.1% | 0.1% |  |
+| 3 | 3% | 100% |  |
+| 4 | 2% | 97% |  |
+| 5 | 8% | 96% |  |
+| 6 | 4% | 87% |  |
+| 7 | 8% | 83% |  |
+| 8 | 44% | 75% | Median |
+| 9 | 27% | 31% |  |
+| 10 | 4% | 5% | Last Result |
+| 11 | 0.4% | 0.6% |  |
+| 12 | 0.2% | 0.3% |  |
 | 13 | 0% | 0% |  |
 
 

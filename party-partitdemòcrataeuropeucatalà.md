@@ -13,6 +13,7 @@ Last result: **39.6%** (General Election of 27 September 2015)
 | N/A | [Poll Average](average.html) | 11.6% | 9.1–14.7% | 8.7–15.3% | 8.4–15.8% | 7.8–16.7% |
 | [27 November–8 December 2017](2017-12-08-SocioMétrica.html) | SocioMétrica <br> El Español | 0.0% | N/A | N/A | N/A | N/A |
 | [4–8 December 2017](2017-12-08-Feedback.html) | Feedback <br> El Nacional | 0.0% | N/A | N/A | N/A | N/A |
+| [4–7 December 2017](2017-12-07-GAD3.html) | GAD3 <br> La Vanguardia | 0.0% | N/A | N/A | N/A | N/A |
 | [3–7 December 2017](2017-12-07-Feedback.html) | Feedback <br> El Nacional | 0.0% | N/A | N/A | N/A | N/A |
 | [1–5 December 2017](2017-12-05-Feedback.html) | Feedback <br> El Nacional | 0.0% | N/A | N/A | N/A | N/A |
 | [29 November–2 December 2017](2017-12-02-GESOP.html) | GESOP <br> El Periódico | 0.0% | N/A | N/A | N/A | N/A |
@@ -89,6 +90,7 @@ Last result: **29** seats (General Election of 27 September 2015)
 | N/A | [Poll Average](average.html) | 17 | 13–22 | 13–23 | 11–23 | 11–24 |
 | [27 November–8 December 2017](2017-12-08-SocioMétrica.html) | SocioMétrica <br> El Español |  |  |  |  |  |
 | [4–8 December 2017](2017-12-08-Feedback.html) | Feedback <br> El Nacional |  |  |  |  |  |
+| [4–7 December 2017](2017-12-07-GAD3.html) | GAD3 <br> La Vanguardia |  |  |  |  |  |
 | [3–7 December 2017](2017-12-07-Feedback.html) | Feedback <br> El Nacional |  |  |  |  |  |
 | [1–5 December 2017](2017-12-05-Feedback.html) | Feedback <br> El Nacional |  |  |  |  |  |
 | [29 November–2 December 2017](2017-12-02-GESOP.html) | GESOP <br> El Periódico |  |  |  |  |  |
