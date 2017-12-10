@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Parliament of Catalonia</title>
     <link>https://filipvanlaenen.github.io/catalonian_polls</link>
     <description>All Registered Polls for the Parliament of Catalonia</description>
-    <pubDate>Sun, 10 Dec 2017 14:48:29 +0100</pubDate>
+    <pubDate>Sun, 10 Dec 2017 20:08:54 +0100</pubDate>
     <item>
       <title>Opinion Poll by SocioMétrica for El Español, 27 November–8 December 2017 – Seat Projections</title>
       <link>https://filipvanlaenen.github.io/catalonian_polls/2017-12-08-SocioMétrica.html#seats</link>
@@ -52,12 +52,12 @@
     <item>
       <title>Opinion Poll by GAD3 for La Vanguardia, 4–7 December 2017 – Seat Projections</title>
       <link>https://filipvanlaenen.github.io/catalonian_polls/2017-12-07-GAD3.html#seats</link>
-      <description>&lt;ul&gt;&lt;li&gt;Esquerra Republicana de Catalunya–Catalunya Sí: 29–37 seats&lt;/li&gt;&lt;li&gt;Ciutadans–Partido de la Ciudadanía: 27–35 seats&lt;/li&gt;&lt;li&gt;Partit dels Socialistes de Catalunya (PSC-PSOE): 18–25 seats&lt;/li&gt;&lt;li&gt;Catalunya en Comú: 6–11 seats&lt;/li&gt;&lt;li&gt;Partit Popular: 6–11 seats&lt;/li&gt;&lt;li&gt;Candidatura d’Unitat Popular: 3–8 seats&lt;/li&gt;&lt;li&gt;Junts per Catalunya: 23–31 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <description>&lt;ul&gt;&lt;li&gt;Esquerra Republicana de Catalunya–Catalunya Sí: 29–37 seats&lt;/li&gt;&lt;li&gt;Ciutadans–Partido de la Ciudadanía: 27–35 seats&lt;/li&gt;&lt;li&gt;Partit dels Socialistes de Catalunya (PSC-PSOE): 18–25 seats&lt;/li&gt;&lt;li&gt;Catalunya en Comú: 5–11 seats&lt;/li&gt;&lt;li&gt;Partit Popular: 6–11 seats&lt;/li&gt;&lt;li&gt;Candidatura d’Unitat Popular: 3–8 seats&lt;/li&gt;&lt;li&gt;Junts per Catalunya: 23–31 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/catalonian_polls/2017-12-07-GAD3-seats.png"
-        length="194426"
+        length="198292"
         type="image/png"/>
-      <pubDate>Sun, 10 Dec 2017 14:48:29 +0100</pubDate>
-      <dc:date>2017-12-10T14:48:29.909638+01:00</dc:date>
+      <pubDate>Sun, 10 Dec 2017 20:08:54 +0100</pubDate>
+      <dc:date>2017-12-10T20:08:54.617857+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by GAD3 for La Vanguardia, 4–7 December 2017 – Voting Intentions</title>
@@ -66,8 +66,8 @@
       <enclosure url="https://filipvanlaenen.github.io/catalonian_polls/2017-12-07-GAD3.png"
         length="225247"
         type="image/png"/>
-      <pubDate>Sun, 10 Dec 2017 14:48:29 +0100</pubDate>
-      <dc:date>2017-12-10T14:48:29.909638+01:00</dc:date>
+      <pubDate>Sun, 10 Dec 2017 20:08:54 +0100</pubDate>
+      <dc:date>2017-12-10T20:08:54.617857+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Feedback for El Nacional, 3–7 December 2017 – Seat Projections</title>
@@ -489,6 +489,6 @@
       <pubDate>Mon, 13 Nov 2017 18:31:10 +0100</pubDate>
       <dc:date>2017-11-13T18:31:10.415733+01:00</dc:date>
     </item>
-    <dc:date>2017-12-10T14:48:29.909638+01:00</dc:date>
+    <dc:date>2017-12-10T20:08:54.617857+01:00</dc:date>
   </channel>
 </rss>
