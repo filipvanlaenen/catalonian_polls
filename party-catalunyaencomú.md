@@ -69,7 +69,7 @@ Last result: **11** seats (General Election of 27 September 2015)
 | N/A | [Poll Average](average.html) | 9 | 7–14 | 6–15 | 6–17 | 5–18 |
 | [27 November–8 December 2017](2017-12-08-SocioMétrica.html) | SocioMétrica <br> El Español | 8 | 6–9 | 6–10 | 6–11 | 5–11 |
 | [4–8 December 2017](2017-12-08-Feedback.html) | Feedback <br> El Nacional | 8 | 6–9 | 6–9 | 5–11 | 5–11 |
-| [4–7 December 2017](2017-12-07-GAD3.html) | GAD3 <br> La Vanguardia | 8 | 6–9 | 6–10 | 6–11 | 5–11 |
+| [4–7 December 2017](2017-12-07-GAD3.html) | GAD3 <br> La Vanguardia | 8 | 6–9 | 6–10 | 5–11 | 5–11 |
 | [3–7 December 2017](2017-12-07-Feedback.html) | Feedback <br> El Nacional | 5 | 4–7 | 4–8 | 4–8 | 4–8 |
 | [1–5 December 2017](2017-12-05-Feedback.html) | Feedback <br> El Nacional | 11 | 9–12 | 8–13 | 8–14 | 8–14 |
 | [29 November–2 December 2017](2017-12-02-GESOP.html) | GESOP <br> El Periódico | 9 | 8–12 | 8–12 | 7–12 | 6–14 |
