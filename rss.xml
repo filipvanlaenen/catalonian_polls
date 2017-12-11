@@ -8,7 +8,17 @@
     <title>All Registered Polls for the Parliament of Catalonia</title>
     <link>https://filipvanlaenen.github.io/catalonian_polls</link>
     <description>All Registered Polls for the Parliament of Catalonia</description>
-    <pubDate>Mon, 11 Dec 2017 20:09:13 +0100</pubDate>
+    <pubDate>Mon, 11 Dec 2017 21:04:34 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by SocioMétrica for El Español, 1–9 December 2017 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/catalonian_polls/2017-12-09-SocioMétrica.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Esquerra Republicana de Catalunya–Catalunya Sí: 29–37 seats&lt;/li&gt;&lt;li&gt;Ciutadans–Partido de la Ciudadanía: 25–32 seats&lt;/li&gt;&lt;li&gt;Partit dels Socialistes de Catalunya (PSC-PSOE): 15–22 seats&lt;/li&gt;&lt;li&gt;Catalunya en Comú: 7–12 seats&lt;/li&gt;&lt;li&gt;Partit Popular: 5–10 seats&lt;/li&gt;&lt;li&gt;Candidatura d’Unitat Popular: 5–9 seats&lt;/li&gt;&lt;li&gt;Junts per Catalunya: 29–37 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/catalonian_polls/2017-12-09-SocioMétrica-seats.png"
+        length="187005"
+        type="image/png"/>
+      <pubDate>Mon, 11 Dec 2017 21:04:34 +0100</pubDate>
+      <dc:date>2017-12-11T21:04:34.931571+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by SocioMétrica for El Español, 1–9 December 2017 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/catalonian_polls/2017-12-09-SocioMétrica.html</link>
@@ -16,8 +26,8 @@
       <enclosure url="https://filipvanlaenen.github.io/catalonian_polls/2017-12-09-SocioMétrica.png"
         length="223261"
         type="image/png"/>
-      <pubDate>Mon, 11 Dec 2017 20:09:13 +0100</pubDate>
-      <dc:date>2017-12-11T20:09:13.774473+01:00</dc:date>
+      <pubDate>Mon, 11 Dec 2017 21:04:34 +0100</pubDate>
+      <dc:date>2017-12-11T21:04:34.931571+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by SocioMétrica for El Español, 27 November–8 December 2017 – Seat Projections</title>
@@ -499,6 +509,6 @@
       <pubDate>Mon, 13 Nov 2017 18:31:10 +0100</pubDate>
       <dc:date>2017-11-13T18:31:10.415733+01:00</dc:date>
     </item>
-    <dc:date>2017-12-11T20:09:13.774473+01:00</dc:date>
+    <dc:date>2017-12-11T21:04:34.931571+01:00</dc:date>
   </channel>
 </rss>
