@@ -10,7 +10,8 @@ Last result: **17.9%** (General Election of 27 September 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 21.0% | 17.7–24.4% | 17.0–25.4% | 16.4–26.1% | 15.3–27.2% |
+| N/A | [Poll Average](average.html) | 20.9% | 17.7–24.4% | 17.0–25.4% | 16.4–26.1% | 15.3–27.2% |
+| [1–9 December 2017](2017-12-09-SocioMétrica.html) | SocioMétrica <br> El Español | 21.2% | 19.7–22.8% | 19.2–23.3% | 18.9–23.7% | 18.2–24.5% |
 | [27 November–8 December 2017](2017-12-08-SocioMétrica.html) | SocioMétrica <br> El Español | 21.5% | 20.0–23.2% | 19.6–23.7% | 19.2–24.1% | 18.5–24.9% |
 | [4–8 December 2017](2017-12-08-Feedback.html) | Feedback <br> El Nacional | 21.3% | 19.7–23.0% | 19.3–23.5% | 18.9–24.0% | 18.1–24.8% |
 | [4–7 December 2017](2017-12-07-GAD3.html) | GAD3 <br> La Vanguardia | 23.1% | 21.4–24.9% | 21.0–25.4% | 20.6–25.8% | 19.8–26.7% |
@@ -49,11 +50,11 @@ The following table shows the probability mass function per percentage block of 
 | 16.5–17.5% | 6% | 97% |  |
 | 17.5–18.5% | 11% | 91% | Last Result |
 | 18.5–19.5% | 13% | 80% |  |
-| 19.5–20.5% | 12% | 67% |  |
-| 20.5–21.5% | 13% | 55% | Median |
-| 21.5–22.5% | 15% | 42% |  |
-| 22.5–23.5% | 11% | 27% |  |
-| 23.5–24.5% | 6% | 16% |  |
+| 19.5–20.5% | 13% | 67% |  |
+| 20.5–21.5% | 14% | 54% | Median |
+| 21.5–22.5% | 14% | 41% |  |
+| 22.5–23.5% | 11% | 26% |  |
+| 23.5–24.5% | 6% | 15% |  |
 | 24.5–25.5% | 5% | 9% |  |
 | 25.5–26.5% | 3% | 5% |  |
 | 26.5–27.5% | 1.2% | 1.5% |  |
@@ -70,6 +71,7 @@ Last result: **25** seats (General Election of 27 September 2015)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 28 | 24–33 | 23–34 | 22–36 | 20–38 |
+| [1–9 December 2017](2017-12-09-SocioMétrica.html) | SocioMétrica <br> El Español | 29 | 26–31 | 26–32 | 25–33 | 25–34 |
 | [27 November–8 December 2017](2017-12-08-SocioMétrica.html) | SocioMétrica <br> El Español | 30 | 27–32 | 26–33 | 26–34 | 25–34 |
 | [4–8 December 2017](2017-12-08-Feedback.html) | Feedback <br> El Nacional | 28 | 26–31 | 26–32 | 25–32 | 24–34 |
 | [4–7 December 2017](2017-12-07-GAD3.html) | GAD3 <br> La Vanguardia | 31 | 29–34 | 28–34 | 27–35 | 26–37 |
@@ -111,14 +113,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 23 | 2% | 96% |  |
 | 24 | 6% | 94% |  |
 | 25 | 12% | 88% | Last Result |
-| 26 | 13% | 77% |  |
-| 27 | 7% | 64% |  |
-| 28 | 8% | 57% | Median |
-| 29 | 7% | 49% |  |
-| 30 | 9% | 42% |  |
-| 31 | 12% | 32% |  |
-| 32 | 6% | 20% |  |
-| 33 | 5% | 14% |  |
+| 26 | 14% | 76% |  |
+| 27 | 8% | 63% |  |
+| 28 | 8% | 55% | Median |
+| 29 | 7% | 47% |  |
+| 30 | 10% | 40% |  |
+| 31 | 11% | 31% |  |
+| 32 | 6% | 19% |  |
+| 33 | 4% | 14% |  |
 | 34 | 4% | 9% |  |
 | 35 | 2% | 5% |  |
 | 36 | 1.4% | 3% |  |
