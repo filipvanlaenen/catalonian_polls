@@ -5,7 +5,7 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | JxSí | PDeCAT | JuntsxCat | ERC | Cs | PSC | CatComú | PP | CUP |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 27 September 2015 | General Election | 39.6% <br> 62 | 39.6% <br> 29 | 39.6% <br> 29 | 39.6% <br> 20 | 17.9% <br> 25 | 12.7% <br> 16 | 8.9% <br> 11 | 8.5% <br> 11 | 8.2% <br> 10 |
-| [1–9 December 2017](2017-12-09-SocioMétrica.html) | SocioMétrica <br> El Español | N/A <br> N/A | N/A <br> N/A | 19–24% <br> 29–37 | 19–24% <br> 29–37 | 19–24% <br> 25–33 | 12–16% <br> 15–22 | 7–10% <br> 7–12 | 5–8% <br> 5–10 | 5–7% <br> 5–9 |
+| [1–9 December 2017](2017-12-09-SocioMétrica.html) | SocioMétrica <br> El Español | N/A <br> N/A | N/A <br> N/A | 19–24% <br> 29–37 | 19–24% <br> 29–37 | 19–24% <br> 25–32 | 12–16% <br> 15–22 | 7–10% <br> 7–12 | 5–8% <br> 5–10 | 5–7% <br> 5–9 |
 | [27 November–8 December 2017](2017-12-08-SocioMétrica.html) | SocioMétrica <br> El Español | N/A <br> N/A | N/A <br> N/A | 18–22% <br> 26–35 | 20–25% <br> 31–39 | 19–24% <br> 26–34 | 12–17% <br> 16–23 | 6–9% <br> 6–11 | 4–7% <br> 3–8 | 4–7% <br> 4–9 |
 | [4–8 December 2017](2017-12-08-Feedback.html) | Feedback <br> El Nacional | N/A <br> N/A | N/A <br> N/A | 17–21% <br> 24–32 | 20–25% <br> 30–38 | 19–24% <br> 25–32 | 14–18% <br> 17–24 | 6–9% <br> 5–11 | 5–8% <br> 5–10 | 6–9% <br> 8–11 |
 | [4–7 December 2017](2017-12-07-GAD3.html) | GAD3 <br> La Vanguardia | N/A <br> N/A | N/A <br> N/A | 16–21% <br> 23–31 | 19–24% <br> 29–37 | 21–26% <br> 27–35 | 14–19% <br> 18–25 | 6–9% <br> 5–11 | 6–9% <br> 6–11 | 4–7% <br> 3–8 |
