@@ -70,7 +70,7 @@ Last result: **10** seats (General Election of 27 September 2015)
 | [4–8 December 2017](2017-12-08-Feedback.html) | Feedback <br> El Nacional | 9 | 8–10 | 8–11 | 8–11 | 7–12 |
 | [4–7 December 2017](2017-12-07-GAD3.html) | GAD3 <br> La Vanguardia | 5 | 3–8 | 3–8 | 3–8 | 3–9 |
 | [3–7 December 2017](2017-12-07-Feedback.html) | Feedback <br> El Nacional | 9 | 8–10 | 8–10 | 8–11 | 6–12 |
-| [30 November–7 December 2017](2017-12-07-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 8 | 7–10 | 6–10 | 5–10 | 4–12 |
+| [30 November–7 December 2017](2017-12-07-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 8 | 7–10 | 6–10 | 5–10 | 5–12 |
 | [1–5 December 2017](2017-12-05-Feedback.html) | Feedback <br> El Nacional | 8 | 7–9 | 6–9 | 5–10 | 4–10 |
 | [29 November–2 December 2017](2017-12-02-GESOP.html) | GESOP <br> El Periódico | 8 | 5–9 | 5–9 | 5–10 | 3–10 |
 | [27–30 November 2017](2017-11-30-SocioMétrica.html) | SocioMétrica <br> El Español | 8 | 5–9 | 5–9 | 4–10 | 3–10 |
@@ -103,7 +103,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 3 | 2% | 100% |  |
 | 4 | 1.3% | 98% |  |
 | 5 | 7% | 96% |  |
-| 6 | 3% | 89% |  |
+| 6 | 4% | 89% |  |
 | 7 | 8% | 86% |  |
 | 8 | 44% | 78% | Median |
 | 9 | 29% | 34% |  |

@@ -71,7 +71,7 @@ Last result: **11** seats (General Election of 27 September 2015)
 | [4–8 December 2017](2017-12-08-Feedback.html) | Feedback <br> El Nacional | 7 | 5–9 | 5–9 | 5–10 | 4–10 |
 | [4–7 December 2017](2017-12-07-GAD3.html) | GAD3 <br> La Vanguardia | 9 | 7–10 | 6–10 | 6–11 | 5–12 |
 | [3–7 December 2017](2017-12-07-Feedback.html) | Feedback <br> El Nacional | 7 | 6–9 | 5–10 | 5–10 | 5–10 |
-| [30 November–7 December 2017](2017-12-07-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 8 | 6–10 | 5–10 | 5–10 | 5–12 |
+| [30 November–7 December 2017](2017-12-07-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 8 | 6–10 | 6–10 | 5–11 | 5–12 |
 | [1–5 December 2017](2017-12-05-Feedback.html) | Feedback <br> El Nacional | 7 | 5–9 | 5–10 | 5–10 | 5–10 |
 | [29 November–2 December 2017](2017-12-02-GESOP.html) | GESOP <br> El Periódico | 6 | 5–9 | 5–9 | 4–10 | 3–10 |
 | [27–30 November 2017](2017-11-30-SocioMétrica.html) | SocioMétrica <br> El Español | 7 | 6–10 | 5–10 | 5–10 | 4–12 |
