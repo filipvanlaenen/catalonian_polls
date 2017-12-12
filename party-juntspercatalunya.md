@@ -16,6 +16,7 @@ Last result: **39.6%** (General Election of 27 September 2015)
 | [4–8 December 2017](2017-12-08-Feedback.html) | Feedback <br> El Nacional | 18.9% | 17.4–20.6% | 16.9–21.0% | 16.6–21.5% | 15.9–22.3% |
 | [4–7 December 2017](2017-12-07-GAD3.html) | GAD3 <br> La Vanguardia | 18.2% | 16.7–19.8% | 16.3–20.3% | 15.9–20.7% | 15.2–21.5% |
 | [3–7 December 2017](2017-12-07-Feedback.html) | Feedback <br> El Nacional | 17.0% | 15.5–18.6% | 15.1–19.1% | 14.8–19.5% | 14.1–20.3% |
+| [30 November–7 December 2017](2017-12-07-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 16.2% | N/A | N/A | N/A | N/A |
 | [1–5 December 2017](2017-12-05-Feedback.html) | Feedback <br> El Nacional | 17.1% | 15.7–18.7% | 15.2–19.2% | 14.9–19.6% | 14.2–20.4% |
 | [29 November–2 December 2017](2017-12-02-GESOP.html) | GESOP <br> El Periódico | 19.2% | 17.5–21.1% | 17.1–21.7% | 16.7–22.1% | 15.9–23.1% |
 | [27–30 November 2017](2017-11-30-SocioMétrica.html) | SocioMétrica <br> El Español | 19.0% | 17.3–20.9% | 16.8–21.4% | 16.4–21.9% | 15.7–22.8% |
@@ -91,8 +92,9 @@ Last result: **29** seats (General Election of 27 September 2015)
 | [4–8 December 2017](2017-12-08-Feedback.html) | Feedback <br> El Nacional | 28 | 26–31 | 25–32 | 24–32 | 23–33 |
 | [4–7 December 2017](2017-12-07-GAD3.html) | GAD3 <br> La Vanguardia | 27 | 24–30 | 24–30 | 23–31 | 23–32 |
 | [3–7 December 2017](2017-12-07-Feedback.html) | Feedback <br> El Nacional | 25 | 23–29 | 23–29 | 22–30 | 21–31 |
+| [30 November–7 December 2017](2017-12-07-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es |  |  |  |  |  |
 | [1–5 December 2017](2017-12-05-Feedback.html) | Feedback <br> El Nacional | 25 | 23–28 | 23–29 | 22–29 | 21–30 |
-| [29 November–2 December 2017](2017-12-02-GESOP.html) | GESOP <br> El Periódico | 29 | 26–32 | 26–32 | 25–33 | 23–35 |
+| [29 November–2 December 2017](2017-12-02-GESOP.html) | GESOP <br> El Periódico | 29 | 26–32 | 25–32 | 25–33 | 23–35 |
 | [27–30 November 2017](2017-11-30-SocioMétrica.html) | SocioMétrica <br> El Español | 29 | 26–32 | 25–32 | 24–34 | 23–35 |
 | [23–27 November 2017](2017-11-27-IMOP.html) | IMOP Insights <br> CIS | 25 | 24–27 | 24–28 | 23–29 | 23–29 |
 | [13–23 November 2017](2017-11-23-NCReport.html) | NC Report <br> La Razón | 21 | 17–23 | 17–24 | 17–24 | 15–26 |
@@ -131,15 +133,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 23 | 4% | 66% |  |
 | 24 | 5% | 62% |  |
 | 25 | 6% | 57% |  |
-| 26 | 9% | 51% | Median |
+| 26 | 8% | 51% | Median |
 | 27 | 6% | 42% |  |
-| 28 | 6% | 36% |  |
-| 29 | 8% | 30% | Last Result |
+| 28 | 5% | 36% |  |
+| 29 | 9% | 31% | Last Result |
 | 30 | 6% | 22% |  |
-| 31 | 6% | 16% |  |
+| 31 | 5% | 16% |  |
 | 32 | 5% | 11% |  |
 | 33 | 2% | 5% |  |
-| 34 | 1.2% | 3% |  |
+| 34 | 1.2% | 4% |  |
 | 35 | 1.3% | 2% |  |
 | 36 | 0.6% | 0.9% |  |
 | 37 | 0.2% | 0.4% |  |

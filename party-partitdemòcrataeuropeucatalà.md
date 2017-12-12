@@ -10,12 +10,13 @@ Last result: **39.6%** (General Election of 27 September 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 11.6% | 9.1–14.7% | 8.7–15.3% | 8.4–15.8% | 7.8–16.7% |
+| N/A | [Poll Average](average.html) | 9.9% | 8.7–11.1% | 8.4–11.5% | 8.1–11.8% | 7.6–12.5% |
 | [1–9 December 2017](2017-12-09-SocioMétrica.html) | SocioMétrica <br> El Español | 0.0% | N/A | N/A | N/A | N/A |
 | [27 November–8 December 2017](2017-12-08-SocioMétrica.html) | SocioMétrica <br> El Español | 0.0% | N/A | N/A | N/A | N/A |
 | [4–8 December 2017](2017-12-08-Feedback.html) | Feedback <br> El Nacional | 0.0% | N/A | N/A | N/A | N/A |
 | [4–7 December 2017](2017-12-07-GAD3.html) | GAD3 <br> La Vanguardia | 0.0% | N/A | N/A | N/A | N/A |
 | [3–7 December 2017](2017-12-07-Feedback.html) | Feedback <br> El Nacional | 0.0% | N/A | N/A | N/A | N/A |
+| [30 November–7 December 2017](2017-12-07-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 0.0% | N/A | N/A | N/A | N/A |
 | [1–5 December 2017](2017-12-05-Feedback.html) | Feedback <br> El Nacional | 0.0% | N/A | N/A | N/A | N/A |
 | [29 November–2 December 2017](2017-12-02-GESOP.html) | GESOP <br> El Periódico | 0.0% | N/A | N/A | N/A | N/A |
 | [27–30 November 2017](2017-11-30-SocioMétrica.html) | SocioMétrica <br> El Español | 0.0% | N/A | N/A | N/A | N/A |
@@ -44,18 +45,18 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 5.5–6.5% | 0% | 100% |  |
-| 6.5–7.5% | 0.2% | 100% |  |
-| 7.5–8.5% | 4% | 99.8% |  |
-| 8.5–9.5% | 15% | 96% |  |
-| 9.5–10.5% | 20% | 81% |  |
-| 10.5–11.5% | 11% | 62% |  |
-| 11.5–12.5% | 9% | 50% | Median |
-| 12.5–13.5% | 15% | 42% |  |
-| 13.5–14.5% | 15% | 27% |  |
-| 14.5–15.5% | 9% | 12% |  |
-| 15.5–16.5% | 3% | 3% |  |
-| 16.5–17.5% | 0.6% | 0.6% |  |
-| 17.5–18.5% | 0.1% | 0.1% |  |
+| 6.5–7.5% | 0.4% | 100% |  |
+| 7.5–8.5% | 7% | 99.6% |  |
+| 8.5–9.5% | 30% | 93% |  |
+| 9.5–10.5% | 39% | 62% | Median |
+| 10.5–11.5% | 19% | 24% |  |
+| 11.5–12.5% | 4% | 4% |  |
+| 12.5–13.5% | 0.4% | 0.4% |  |
+| 13.5–14.5% | 0% | 0% |  |
+| 14.5–15.5% | 0% | 0% |  |
+| 15.5–16.5% | 0% | 0% |  |
+| 16.5–17.5% | 0% | 0% |  |
+| 17.5–18.5% | 0% | 0% |  |
 | 18.5–19.5% | 0% | 0% |  |
 | 19.5–20.5% | 0% | 0% |  |
 | 20.5–21.5% | 0% | 0% |  |
@@ -88,12 +89,13 @@ Last result: **29** seats (General Election of 27 September 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 17 | 13–22 | 13–23 | 11–23 | 11–24 |
+| N/A | [Poll Average](average.html) | 14 | 13–16 | 11–17 | 11–17 | 11–18 |
 | [1–9 December 2017](2017-12-09-SocioMétrica.html) | SocioMétrica <br> El Español |  |  |  |  |  |
 | [27 November–8 December 2017](2017-12-08-SocioMétrica.html) | SocioMétrica <br> El Español |  |  |  |  |  |
 | [4–8 December 2017](2017-12-08-Feedback.html) | Feedback <br> El Nacional |  |  |  |  |  |
 | [4–7 December 2017](2017-12-07-GAD3.html) | GAD3 <br> La Vanguardia |  |  |  |  |  |
 | [3–7 December 2017](2017-12-07-Feedback.html) | Feedback <br> El Nacional |  |  |  |  |  |
+| [30 November–7 December 2017](2017-12-07-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es |  |  |  |  |  |
 | [1–5 December 2017](2017-12-05-Feedback.html) | Feedback <br> El Nacional |  |  |  |  |  |
 | [29 November–2 December 2017](2017-12-02-GESOP.html) | GESOP <br> El Periódico |  |  |  |  |  |
 | [27–30 November 2017](2017-11-30-SocioMétrica.html) | SocioMétrica <br> El Español |  |  |  |  |  |
@@ -125,23 +127,23 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 9 | 0.1% | 100% |  |
 | 10 | 0.1% | 99.9% |  |
-| 11 | 3% | 99.9% |  |
-| 12 | 2% | 97% |  |
-| 13 | 17% | 95% |  |
-| 14 | 7% | 78% |  |
-| 15 | 14% | 71% |  |
-| 16 | 3% | 57% |  |
-| 17 | 10% | 54% | Median |
-| 18 | 8% | 44% |  |
-| 19 | 6% | 36% |  |
-| 20 | 6% | 30% |  |
-| 21 | 13% | 24% |  |
-| 22 | 4% | 11% |  |
-| 23 | 5% | 6% |  |
-| 24 | 1.4% | 2% |  |
-| 25 | 0.2% | 0.3% |  |
-| 26 | 0.1% | 0.2% |  |
-| 27 | 0.1% | 0.1% |  |
+| 11 | 6% | 99.8% |  |
+| 12 | 3% | 94% |  |
+| 13 | 34% | 90% |  |
+| 14 | 14% | 56% | Median |
+| 15 | 26% | 42% |  |
+| 16 | 6% | 16% |  |
+| 17 | 9% | 10% |  |
+| 18 | 0.9% | 1.1% |  |
+| 19 | 0.2% | 0.2% |  |
+| 20 | 0% | 0% |  |
+| 21 | 0% | 0% |  |
+| 22 | 0% | 0% |  |
+| 23 | 0% | 0% |  |
+| 24 | 0% | 0% |  |
+| 25 | 0% | 0% |  |
+| 26 | 0% | 0% |  |
+| 27 | 0% | 0% |  |
 | 28 | 0% | 0% |  |
 | 29 | 0% | 0% | Last Result |
 
