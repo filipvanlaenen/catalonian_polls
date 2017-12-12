@@ -10,13 +10,13 @@ Last result: **39.6%** (General Election of 27 September 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 17.2% | 12.4–21.0% | 11.9–21.8% | 11.5–22.4% | 10.8–23.6% |
+| N/A | [Poll Average](average.html) | 17.0% | 12.5–20.8% | 11.9–21.7% | 11.5–22.4% | 10.9–23.5% |
 | [1–9 December 2017](2017-12-09-SocioMétrica.html) | SocioMétrica <br> El Español | 21.3% | 19.8–22.9% | 19.3–23.4% | 18.9–23.8% | 18.2–24.6% |
 | [27 November–8 December 2017](2017-12-08-SocioMétrica.html) | SocioMétrica <br> El Español | 19.8% | 18.3–21.4% | 17.9–21.9% | 17.6–22.3% | 16.9–23.1% |
 | [4–8 December 2017](2017-12-08-Feedback.html) | Feedback <br> El Nacional | 18.9% | 17.4–20.6% | 16.9–21.0% | 16.6–21.5% | 15.9–22.3% |
 | [4–7 December 2017](2017-12-07-GAD3.html) | GAD3 <br> La Vanguardia | 18.2% | 16.7–19.8% | 16.3–20.3% | 15.9–20.7% | 15.2–21.5% |
 | [3–7 December 2017](2017-12-07-Feedback.html) | Feedback <br> El Nacional | 17.0% | 15.5–18.6% | 15.1–19.1% | 14.8–19.5% | 14.1–20.3% |
-| [30 November–7 December 2017](2017-12-07-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 16.2% | N/A | N/A | N/A | N/A |
+| [30 November–7 December 2017](2017-12-07-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 16.2% | 14.7–18.0% | 14.2–18.5% | 13.9–19.0% | 13.1–19.9% |
 | [1–5 December 2017](2017-12-05-Feedback.html) | Feedback <br> El Nacional | 17.1% | 15.7–18.7% | 15.2–19.2% | 14.9–19.6% | 14.2–20.4% |
 | [29 November–2 December 2017](2017-12-02-GESOP.html) | GESOP <br> El Periódico | 19.2% | 17.5–21.1% | 17.1–21.7% | 16.7–22.1% | 15.9–23.1% |
 | [27–30 November 2017](2017-11-30-SocioMétrica.html) | SocioMétrica <br> El Español | 19.0% | 17.3–20.9% | 16.8–21.4% | 16.4–21.9% | 15.7–22.8% |
@@ -46,20 +46,20 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 8.5–9.5% | 0% | 100% |  |
 | 9.5–10.5% | 0.2% | 100% |  |
-| 10.5–11.5% | 3% | 99.8% |  |
-| 11.5–12.5% | 9% | 97% |  |
-| 12.5–13.5% | 11% | 88% |  |
-| 13.5–14.5% | 9% | 77% |  |
-| 14.5–15.5% | 4% | 68% |  |
-| 15.5–16.5% | 6% | 63% |  |
-| 16.5–17.5% | 12% | 58% | Median |
-| 17.5–18.5% | 12% | 46% |  |
-| 18.5–19.5% | 12% | 34% |  |
-| 19.5–20.5% | 9% | 23% |  |
-| 20.5–21.5% | 7% | 13% |  |
+| 10.5–11.5% | 2% | 99.8% |  |
+| 11.5–12.5% | 8% | 97% |  |
+| 12.5–13.5% | 10% | 89% |  |
+| 13.5–14.5% | 9% | 79% |  |
+| 14.5–15.5% | 6% | 70% |  |
+| 15.5–16.5% | 9% | 64% |  |
+| 16.5–17.5% | 13% | 56% | Median |
+| 17.5–18.5% | 12% | 43% |  |
+| 18.5–19.5% | 11% | 31% |  |
+| 19.5–20.5% | 8% | 20% |  |
+| 20.5–21.5% | 6% | 12% |  |
 | 21.5–22.5% | 4% | 6% |  |
-| 22.5–23.5% | 2% | 2% |  |
-| 23.5–24.5% | 0.4% | 0.5% |  |
+| 22.5–23.5% | 1.5% | 2% |  |
+| 23.5–24.5% | 0.4% | 0.4% |  |
 | 24.5–25.5% | 0.1% | 0.1% |  |
 | 25.5–26.5% | 0% | 0% |  |
 | 26.5–27.5% | 0% | 0% |  |
@@ -86,13 +86,13 @@ Last result: **29** seats (General Election of 27 September 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 26 | 18–32 | 17–33 | 17–34 | 17–36 |
+| N/A | [Poll Average](average.html) | 25 | 18–31 | 17–32 | 17–34 | 17–36 |
 | [1–9 December 2017](2017-12-09-SocioMétrica.html) | SocioMétrica <br> El Español | 32 | 30–35 | 29–36 | 29–37 | 27–38 |
 | [27 November–8 December 2017](2017-12-08-SocioMétrica.html) | SocioMétrica <br> El Español | 30 | 28–33 | 27–34 | 26–35 | 25–36 |
 | [4–8 December 2017](2017-12-08-Feedback.html) | Feedback <br> El Nacional | 28 | 26–31 | 25–32 | 24–32 | 23–33 |
 | [4–7 December 2017](2017-12-07-GAD3.html) | GAD3 <br> La Vanguardia | 27 | 24–30 | 24–30 | 23–31 | 23–32 |
 | [3–7 December 2017](2017-12-07-Feedback.html) | Feedback <br> El Nacional | 25 | 23–29 | 23–29 | 22–30 | 21–31 |
-| [30 November–7 December 2017](2017-12-07-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es |  |  |  |  |  |
+| [30 November–7 December 2017](2017-12-07-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 24 | 21–27 | 21–28 | 20–29 | 18–30 |
 | [1–5 December 2017](2017-12-05-Feedback.html) | Feedback <br> El Nacional | 25 | 23–28 | 23–29 | 22–29 | 21–30 |
 | [29 November–2 December 2017](2017-12-02-GESOP.html) | GESOP <br> El Periódico | 29 | 26–32 | 25–32 | 25–33 | 23–35 |
 | [27–30 November 2017](2017-11-30-SocioMétrica.html) | SocioMétrica <br> El Español | 29 | 26–32 | 25–32 | 24–34 | 23–35 |
@@ -124,27 +124,27 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 15 | 0.2% | 100% |  |
 | 16 | 0.3% | 99.8% |  |
-| 17 | 5% | 99.5% |  |
-| 18 | 10% | 94% |  |
-| 19 | 4% | 84% |  |
-| 20 | 3% | 80% |  |
-| 21 | 8% | 76% |  |
-| 22 | 2% | 68% |  |
-| 23 | 4% | 66% |  |
-| 24 | 5% | 62% |  |
-| 25 | 6% | 57% |  |
-| 26 | 8% | 51% | Median |
-| 27 | 6% | 42% |  |
-| 28 | 5% | 36% |  |
-| 29 | 9% | 31% | Last Result |
-| 30 | 6% | 22% |  |
-| 31 | 5% | 16% |  |
-| 32 | 5% | 11% |  |
+| 17 | 5% | 99.6% |  |
+| 18 | 9% | 95% |  |
+| 19 | 4% | 86% |  |
+| 20 | 3% | 82% |  |
+| 21 | 8% | 79% |  |
+| 22 | 2% | 71% |  |
+| 23 | 7% | 68% |  |
+| 24 | 7% | 61% |  |
+| 25 | 7% | 54% | Median |
+| 26 | 9% | 47% |  |
+| 27 | 6% | 39% |  |
+| 28 | 5% | 33% |  |
+| 29 | 8% | 28% | Last Result |
+| 30 | 6% | 20% |  |
+| 31 | 5% | 14% |  |
+| 32 | 5% | 9% |  |
 | 33 | 2% | 5% |  |
-| 34 | 1.2% | 4% |  |
-| 35 | 1.3% | 2% |  |
-| 36 | 0.6% | 0.9% |  |
-| 37 | 0.2% | 0.4% |  |
+| 34 | 1.2% | 3% |  |
+| 35 | 1.2% | 2% |  |
+| 36 | 0.5% | 0.8% |  |
+| 37 | 0.2% | 0.3% |  |
 | 38 | 0.1% | 0.1% |  |
 | 39 | 0% | 0% |  |
 

@@ -10,13 +10,13 @@ Last result: **12.7%** (General Election of 27 September 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 15.4% | 13.6–18.1% | 13.1–19.3% | 12.8–20.1% | 12.1–21.5% |
+| N/A | [Poll Average](average.html) | 15.5% | 13.6–18.1% | 13.2–19.2% | 12.8–20.0% | 12.1–21.4% |
 | [1–9 December 2017](2017-12-09-SocioMétrica.html) | SocioMétrica <br> El Español | 14.1% | 12.8–15.5% | 12.5–15.9% | 12.1–16.3% | 11.6–17.0% |
 | [27 November–8 December 2017](2017-12-08-SocioMétrica.html) | SocioMétrica <br> El Español | 14.4% | 13.1–15.8% | 12.7–16.2% | 12.4–16.6% | 11.8–17.3% |
 | [4–8 December 2017](2017-12-08-Feedback.html) | Feedback <br> El Nacional | 15.9% | 14.5–17.5% | 14.1–17.9% | 13.8–18.3% | 13.1–19.1% |
 | [4–7 December 2017](2017-12-07-GAD3.html) | GAD3 <br> La Vanguardia | 16.5% | 15.1–18.1% | 14.7–18.5% | 14.3–18.9% | 13.7–19.7% |
 | [3–7 December 2017](2017-12-07-Feedback.html) | Feedback <br> El Nacional | 15.3% | 13.9–16.9% | 13.5–17.3% | 13.2–17.7% | 12.6–18.4% |
-| [30 November–7 December 2017](2017-12-07-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 16.1% | N/A | N/A | N/A | N/A |
+| [30 November–7 December 2017](2017-12-07-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 16.1% | 14.6–17.9% | 14.1–18.4% | 13.7–18.8% | 13.0–19.7% |
 | [1–5 December 2017](2017-12-05-Feedback.html) | Feedback <br> El Nacional | 13.5% | 12.2–15.0% | 11.8–15.4% | 11.5–15.8% | 10.9–16.5% |
 | [29 November–2 December 2017](2017-12-02-GESOP.html) | GESOP <br> El Periódico | 19.0% | 17.3–20.9% | 16.8–21.4% | 16.4–21.9% | 15.7–22.8% |
 | [27–30 November 2017](2017-11-30-SocioMétrica.html) | SocioMétrica <br> El Español | 15.2% | 13.7–17.0% | 13.3–17.5% | 12.9–17.9% | 12.2–18.8% |
@@ -46,17 +46,17 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 9.5–10.5% | 0% | 100% |  |
 | 10.5–11.5% | 0.1% | 100% |  |
-| 11.5–12.5% | 1.4% | 99.9% |  |
-| 12.5–13.5% | 8% | 98.5% | Last Result |
-| 13.5–14.5% | 19% | 90% |  |
-| 14.5–15.5% | 24% | 71% | Median |
-| 15.5–16.5% | 22% | 47% |  |
-| 16.5–17.5% | 12% | 25% |  |
+| 11.5–12.5% | 1.2% | 99.9% |  |
+| 12.5–13.5% | 8% | 98.7% | Last Result |
+| 13.5–14.5% | 18% | 91% |  |
+| 14.5–15.5% | 24% | 73% |  |
+| 15.5–16.5% | 23% | 49% | Median |
+| 16.5–17.5% | 13% | 27% |  |
 | 17.5–18.5% | 6% | 14% |  |
 | 18.5–19.5% | 4% | 8% |  |
 | 19.5–20.5% | 2% | 4% |  |
-| 20.5–21.5% | 1.2% | 2% |  |
-| 21.5–22.5% | 0.4% | 0.4% |  |
+| 20.5–21.5% | 1.1% | 1.5% |  |
+| 21.5–22.5% | 0.3% | 0.4% |  |
 | 22.5–23.5% | 0.1% | 0.1% |  |
 | 23.5–24.5% | 0% | 0% |  |
 
@@ -69,13 +69,13 @@ Last result: **16** seats (General Election of 27 September 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 21 | 17–24 | 16–25 | 16–27 | 15–29 |
+| N/A | [Poll Average](average.html) | 21 | 17–24 | 16–25 | 16–26 | 15–29 |
 | [1–9 December 2017](2017-12-09-SocioMétrica.html) | SocioMétrica <br> El Español | 17 | 16–21 | 16–22 | 15–22 | 15–23 |
 | [27 November–8 December 2017](2017-12-08-SocioMétrica.html) | SocioMétrica <br> El Español | 19 | 16–22 | 16–22 | 16–23 | 15–23 |
 | [4–8 December 2017](2017-12-08-Feedback.html) | Feedback <br> El Nacional | 21 | 18–23 | 17–24 | 17–24 | 16–25 |
 | [4–7 December 2017](2017-12-07-GAD3.html) | GAD3 <br> La Vanguardia | 22 | 19–24 | 18–24 | 18–25 | 17–26 |
 | [3–7 December 2017](2017-12-07-Feedback.html) | Feedback <br> El Nacional | 20 | 17–23 | 17–23 | 16–24 | 16–24 |
-| [30 November–7 December 2017](2017-12-07-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es |  |  |  |  |  |
+| [30 November–7 December 2017](2017-12-07-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 22 | 18–24 | 17–24 | 17–24 | 16–25 |
 | [1–5 December 2017](2017-12-05-Feedback.html) | Feedback <br> El Nacional | 16 | 15–19 | 15–20 | 14–21 | 14–22 |
 | [29 November–2 December 2017](2017-12-02-GESOP.html) | GESOP <br> El Periódico | 25 | 23–28 | 23–29 | 22–30 | 21–31 |
 | [27–30 November 2017](2017-11-30-SocioMétrica.html) | SocioMétrica <br> El Español | 21 | 17–23 | 17–24 | 16–24 | 16–25 |
@@ -105,24 +105,24 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 14 | 0.1% | 100% |  |
+| 14 | 0% | 100% |  |
 | 15 | 0.8% | 99.9% |  |
-| 16 | 6% | 99.1% | Last Result |
-| 17 | 9% | 93% |  |
-| 18 | 9% | 84% |  |
-| 19 | 11% | 75% |  |
-| 20 | 12% | 64% |  |
-| 21 | 9% | 52% | Median |
-| 22 | 19% | 43% |  |
-| 23 | 11% | 24% |  |
-| 24 | 5% | 12% |  |
+| 16 | 5% | 99.2% | Last Result |
+| 17 | 9% | 94% |  |
+| 18 | 9% | 85% |  |
+| 19 | 11% | 76% |  |
+| 20 | 12% | 65% |  |
+| 21 | 9% | 53% | Median |
+| 22 | 20% | 44% |  |
+| 23 | 12% | 24% |  |
+| 24 | 6% | 12% |  |
 | 25 | 3% | 7% |  |
-| 26 | 1.2% | 4% |  |
-| 27 | 1.1% | 3% |  |
-| 28 | 0.5% | 1.4% |  |
-| 29 | 0.7% | 0.9% |  |
+| 26 | 1.1% | 3% |  |
+| 27 | 1.0% | 2% |  |
+| 28 | 0.4% | 1.3% |  |
+| 29 | 0.6% | 0.9% |  |
 | 30 | 0.2% | 0.3% |  |
-| 31 | 0.1% | 0.1% |  |
+| 31 | 0% | 0.1% |  |
 | 32 | 0% | 0% |  |
 
 
