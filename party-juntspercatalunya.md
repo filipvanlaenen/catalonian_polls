@@ -89,13 +89,13 @@ Last result: **29** seats (General Election of 27 September 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 25 | 18–30 | 18–32 | 17–33 | 17–35 |
+| N/A | [Poll Average](average.html) | 26 | 18–31 | 18–32 | 17–33 | 17–35 |
 | [5–12 December 2017](2017-12-12-Feedback.html) | Feedback <br> El Nacional | 28 | 25–30 | 24–31 | 23–31 | 23–32 |
 | [3–11 December 2017](2017-12-11-SocioMétrica.html) | SocioMétrica <br> El Español | 31 | 29–35 | 29–35 | 28–35 | 26–37 |
 | [1–9 December 2017](2017-12-09-SocioMétrica.html) | SocioMétrica <br> El Español | 32 | 30–35 | 29–36 | 29–37 | 27–38 |
 | [27 November–8 December 2017](2017-12-08-SocioMétrica.html) | SocioMétrica <br> El Español | 30 | 28–33 | 27–34 | 26–35 | 25–36 |
 | [4–8 December 2017](2017-12-08-Feedback.html) | Feedback <br> El Nacional | 28 | 26–31 | 25–32 | 24–32 | 23–33 |
-| [7 December 2017](2017-12-07-Infortécnica.html) | Infortécnica <br> Segre | 28 | 25–30 | 25–30 | 24–31 | 23–32 |
+| [7 December 2017](2017-12-07-Infortécnica.html) | Infortécnica <br> Segre | 28 | 25–30 | 25–30 | 24–31 | 24–32 |
 | [4–7 December 2017](2017-12-07-GAD3.html) | GAD3 <br> La Vanguardia | 27 | 24–30 | 24–30 | 23–31 | 23–32 |
 | [3–7 December 2017](2017-12-07-Feedback.html) | Feedback <br> El Nacional | 25 | 23–29 | 23–29 | 22–30 | 21–31 |
 | [30 November–7 December 2017](2017-12-07-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 24 | 21–27 | 21–28 | 20–29 | 18–30 |
@@ -138,19 +138,19 @@ The following table shows the probability mass function per seat for the [poll a
 | 22 | 2% | 74% |  |
 | 23 | 6% | 71% |  |
 | 24 | 7% | 65% |  |
-| 25 | 8% | 58% | Median |
-| 26 | 10% | 50% |  |
+| 25 | 8% | 58% |  |
+| 26 | 10% | 50% | Median |
 | 27 | 6% | 40% |  |
-| 28 | 7% | 34% |  |
+| 28 | 6% | 34% |  |
 | 29 | 10% | 28% | Last Result |
-| 30 | 7% | 17% |  |
+| 30 | 7% | 18% |  |
 | 31 | 4% | 10% |  |
-| 32 | 2% | 6% |  |
+| 32 | 3% | 6% |  |
 | 33 | 1.1% | 3% |  |
-| 34 | 0.6% | 2% |  |
-| 35 | 1.4% | 2% |  |
+| 34 | 0.7% | 2% |  |
+| 35 | 1.0% | 1.3% |  |
 | 36 | 0.2% | 0.3% |  |
-| 37 | 0.1% | 0.1% |  |
+| 37 | 0% | 0.1% |  |
 | 38 | 0% | 0% |  |
 
 

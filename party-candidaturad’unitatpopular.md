@@ -68,12 +68,12 @@ Last result: **10** seats (General Election of 27 September 2015)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 8 | 5–9 | 5–10 | 3–10 | 3–12 |
-| [5–12 December 2017](2017-12-12-Feedback.html) | Feedback <br> El Nacional | 9 | 8–11 | 8–12 | 8–12 | 8–14 |
+| [5–12 December 2017](2017-12-12-Feedback.html) | Feedback <br> El Nacional | 9 | 8–11 | 8–12 | 8–12 | 8–13 |
 | [3–11 December 2017](2017-12-11-SocioMétrica.html) | SocioMétrica <br> El Español | 7 | 4–8 | 3–8 | 3–9 | 3–9 |
 | [1–9 December 2017](2017-12-09-SocioMétrica.html) | SocioMétrica <br> El Español | 8 | 5–9 | 5–9 | 5–9 | 3–10 |
 | [27 November–8 December 2017](2017-12-08-SocioMétrica.html) | SocioMétrica <br> El Español | 8 | 5–9 | 4–9 | 4–9 | 3–9 |
 | [4–8 December 2017](2017-12-08-Feedback.html) | Feedback <br> El Nacional | 9 | 8–10 | 8–11 | 8–11 | 7–12 |
-| [7 December 2017](2017-12-07-Infortécnica.html) | Infortécnica <br> Segre | 8 | 7–9 | 5–9 | 5–10 | 4–10 |
+| [7 December 2017](2017-12-07-Infortécnica.html) | Infortécnica <br> Segre | 8 | 7–9 | 5–9 | 5–9 | 4–10 |
 | [4–7 December 2017](2017-12-07-GAD3.html) | GAD3 <br> La Vanguardia | 5 | 3–8 | 3–8 | 3–8 | 3–9 |
 | [3–7 December 2017](2017-12-07-Feedback.html) | Feedback <br> El Nacional | 9 | 8–10 | 8–10 | 8–11 | 6–12 |
 | [30 November–7 December 2017](2017-12-07-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 8 | 7–10 | 6–10 | 5–10 | 5–12 |
@@ -109,15 +109,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 3 | 3% | 100% |  |
 | 4 | 2% | 97% |  |
 | 5 | 8% | 95% |  |
-| 6 | 4% | 87% |  |
-| 7 | 8% | 83% |  |
-| 8 | 42% | 75% | Median |
+| 6 | 4% | 88% |  |
+| 7 | 8% | 84% |  |
+| 8 | 43% | 76% | Median |
 | 9 | 26% | 33% |  |
-| 10 | 5% | 6% | Last Result |
-| 11 | 0.4% | 1.1% |  |
-| 12 | 0.5% | 0.7% |  |
+| 10 | 6% | 7% | Last Result |
+| 11 | 0.5% | 1.1% |  |
+| 12 | 0.5% | 0.6% |  |
 | 13 | 0% | 0.1% |  |
-| 14 | 0% | 0.1% |  |
-| 15 | 0% | 0% |  |
+| 14 | 0% | 0% |  |
 
 

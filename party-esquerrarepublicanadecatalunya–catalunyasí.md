@@ -82,13 +82,13 @@ Last result: **20** seats (General Election of 27 September 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 34 | 30–43 | 30–44 | 29–44 | 27–46 |
-| [5–12 December 2017](2017-12-12-Feedback.html) | Feedback <br> El Nacional | 31 | 30–35 | 29–35 | 28–36 | 26–37 |
-| [3–11 December 2017](2017-12-11-SocioMétrica.html) | SocioMétrica <br> El Español | 32 | 30–36 | 30–36 | 29–37 | 28–39 |
+| N/A | [Poll Average](average.html) | 35 | 30–43 | 29–44 | 29–44 | 27–46 |
+| [5–12 December 2017](2017-12-12-Feedback.html) | Feedback <br> El Nacional | 31 | 29–34 | 29–35 | 28–36 | 26–37 |
+| [3–11 December 2017](2017-12-11-SocioMétrica.html) | SocioMétrica <br> El Español | 32 | 30–36 | 29–36 | 29–37 | 28–38 |
 | [1–9 December 2017](2017-12-09-SocioMétrica.html) | SocioMétrica <br> El Español | 32 | 30–35 | 29–36 | 29–37 | 28–38 |
 | [27 November–8 December 2017](2017-12-08-SocioMétrica.html) | SocioMétrica <br> El Español | 35 | 32–38 | 31–38 | 31–39 | 30–40 |
 | [4–8 December 2017](2017-12-08-Feedback.html) | Feedback <br> El Nacional | 33 | 31–37 | 30–37 | 30–38 | 28–39 |
-| [7 December 2017](2017-12-07-Infortécnica.html) | Infortécnica <br> Segre | 34 | 32–37 | 32–38 | 31–38 | 30–40 |
+| [7 December 2017](2017-12-07-Infortécnica.html) | Infortécnica <br> Segre | 34 | 32–37 | 32–38 | 32–38 | 30–40 |
 | [4–7 December 2017](2017-12-07-GAD3.html) | GAD3 <br> La Vanguardia | 32 | 30–35 | 29–36 | 29–37 | 27–38 |
 | [3–7 December 2017](2017-12-07-Feedback.html) | Feedback <br> El Nacional | 36 | 32–38 | 32–39 | 31–40 | 30–41 |
 | [30 November–7 December 2017](2017-12-07-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 35 | 31–38 | 31–38 | 30–39 | 29–41 |
@@ -128,16 +128,16 @@ The following table shows the probability mass function per seat for the [poll a
 | 24 | 0% | 100% |  |
 | 25 | 0.1% | 100% |  |
 | 26 | 0.2% | 99.9% |  |
-| 27 | 0.5% | 99.7% |  |
-| 28 | 0.8% | 99.2% |  |
-| 29 | 3% | 98% |  |
+| 27 | 0.4% | 99.7% |  |
+| 28 | 0.8% | 99.3% |  |
+| 29 | 4% | 98% |  |
 | 30 | 6% | 95% |  |
-| 31 | 11% | 90% |  |
-| 32 | 16% | 78% |  |
-| 33 | 6% | 62% |  |
-| 34 | 6% | 56% | Median |
-| 35 | 7% | 50% |  |
-| 36 | 5% | 43% |  |
+| 31 | 11% | 89% |  |
+| 32 | 15% | 78% |  |
+| 33 | 7% | 64% |  |
+| 34 | 6% | 57% |  |
+| 35 | 8% | 51% | Median |
+| 36 | 5% | 42% |  |
 | 37 | 5% | 37% |  |
 | 38 | 6% | 32% |  |
 | 39 | 4% | 27% |  |

@@ -72,12 +72,12 @@ Last result: **16** seats (General Election of 27 September 2015)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 21 | 17–24 | 17–25 | 16–26 | 15–29 |
-| [5–12 December 2017](2017-12-12-Feedback.html) | Feedback <br> El Nacional | 20 | 17–23 | 16–23 | 16–23 | 15–24 |
-| [3–11 December 2017](2017-12-11-SocioMétrica.html) | SocioMétrica <br> El Español | 19 | 16–22 | 16–22 | 16–23 | 15–24 |
+| [5–12 December 2017](2017-12-12-Feedback.html) | Feedback <br> El Nacional | 20 | 17–22 | 16–23 | 16–23 | 15–24 |
+| [3–11 December 2017](2017-12-11-SocioMétrica.html) | SocioMétrica <br> El Español | 19 | 16–22 | 16–22 | 16–23 | 15–23 |
 | [1–9 December 2017](2017-12-09-SocioMétrica.html) | SocioMétrica <br> El Español | 17 | 16–21 | 16–22 | 15–22 | 15–23 |
 | [27 November–8 December 2017](2017-12-08-SocioMétrica.html) | SocioMétrica <br> El Español | 19 | 16–22 | 16–22 | 16–23 | 15–23 |
 | [4–8 December 2017](2017-12-08-Feedback.html) | Feedback <br> El Nacional | 21 | 18–23 | 17–24 | 17–24 | 16–25 |
-| [7 December 2017](2017-12-07-Infortécnica.html) | Infortécnica <br> Segre | 22 | 19–23 | 18–23 | 17–24 | 16–25 |
+| [7 December 2017](2017-12-07-Infortécnica.html) | Infortécnica <br> Segre | 21 | 19–23 | 18–24 | 17–24 | 16–25 |
 | [4–7 December 2017](2017-12-07-GAD3.html) | GAD3 <br> La Vanguardia | 22 | 19–24 | 18–24 | 18–25 | 17–26 |
 | [3–7 December 2017](2017-12-07-Feedback.html) | Feedback <br> El Nacional | 20 | 17–23 | 17–23 | 16–24 | 16–24 |
 | [30 November–7 December 2017](2017-12-07-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 22 | 18–24 | 17–24 | 17–24 | 16–25 |
@@ -112,13 +112,13 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 15 | 0.5% | 100% |  |
 | 16 | 4% | 99.5% | Last Result |
-| 17 | 7% | 95% |  |
-| 18 | 10% | 88% |  |
-| 19 | 12% | 78% |  |
-| 20 | 11% | 66% |  |
-| 21 | 11% | 56% | Median |
-| 22 | 21% | 45% |  |
-| 23 | 13% | 24% |  |
+| 17 | 8% | 95% |  |
+| 18 | 9% | 87% |  |
+| 19 | 11% | 78% |  |
+| 20 | 12% | 66% |  |
+| 21 | 11% | 54% | Median |
+| 22 | 20% | 44% |  |
+| 23 | 12% | 24% |  |
 | 24 | 5% | 11% |  |
 | 25 | 3% | 6% |  |
 | 26 | 1.0% | 3% |  |
