@@ -73,7 +73,7 @@ Last result: **10** seats (General Election of 27 September 2015)
 | [1–9 December 2017](2017-12-09-SocioMétrica.html) | SocioMétrica <br> El Español | 8 | 5–9 | 5–9 | 5–9 | 3–10 |
 | [27 November–8 December 2017](2017-12-08-SocioMétrica.html) | SocioMétrica <br> El Español | 8 | 5–9 | 4–9 | 4–9 | 3–9 |
 | [4–8 December 2017](2017-12-08-Feedback.html) | Feedback <br> El Nacional | 9 | 8–10 | 8–11 | 8–11 | 7–12 |
-| [7 December 2017](2017-12-07-Infortécnica.html) | Infortécnica <br> Segre | 8 | 7–9 | 5–9 | 5–9 | 4–10 |
+| [7 December 2017](2017-12-07-Infortécnica.html) | Infortécnica <br> Segre | 8 | 7–9 | 6–9 | 5–9 | 5–10 |
 | [4–7 December 2017](2017-12-07-GAD3.html) | GAD3 <br> La Vanguardia | 5 | 3–8 | 3–8 | 3–8 | 3–9 |
 | [3–7 December 2017](2017-12-07-Feedback.html) | Feedback <br> El Nacional | 9 | 8–10 | 8–10 | 8–11 | 6–12 |
 | [30 November–7 December 2017](2017-12-07-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 8 | 7–10 | 6–10 | 5–10 | 5–12 |
