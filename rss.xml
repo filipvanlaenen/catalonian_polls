@@ -8,7 +8,27 @@
     <title>All Registered Polls for the Parliament of Catalonia</title>
     <link>https://filipvanlaenen.github.io/catalonian_polls</link>
     <description>All Registered Polls for the Parliament of Catalonia</description>
-    <pubDate>Fri, 15 Dec 2017 10:38:09 +0100</pubDate>
+    <pubDate>Fri, 15 Dec 2017 20:16:23 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Metroscopia for El País, 4–13 December 2017 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/catalonian_polls/2017-12-13-Metroscopia.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Esquerra Republicana de Catalunya–Catalunya Sí: 33–38 seats&lt;/li&gt;&lt;li&gt;Ciutadans–Partido de la Ciudadanía: 33–37 seats&lt;/li&gt;&lt;li&gt;Partit dels Socialistes de Catalunya (PSC-PSOE): 16–21 seats&lt;/li&gt;&lt;li&gt;Catalunya en Comú: 9–13 seats&lt;/li&gt;&lt;li&gt;Partit Popular: 5–7 seats&lt;/li&gt;&lt;li&gt;Candidatura d’Unitat Popular: 8–9 seats&lt;/li&gt;&lt;li&gt;Junts per Catalunya: 18–23 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/catalonian_polls/2017-12-13-Metroscopia-seats.png"
+        length="156027"
+        type="image/png"/>
+      <pubDate>Fri, 15 Dec 2017 20:16:23 +0100</pubDate>
+      <dc:date>2017-12-15T20:16:23.363821+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Metroscopia for El País, 4–13 December 2017 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/catalonian_polls/2017-12-13-Metroscopia.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Esquerra Republicana de Catalunya–Catalunya Sí: 21.7–24.6%&lt;/li&gt;&lt;li&gt;Ciutadans–Partido de la Ciudadanía: 23.7–26.7%&lt;/li&gt;&lt;li&gt;Partit dels Socialistes de Catalunya (PSC-PSOE): 13.1–15.5%&lt;/li&gt;&lt;li&gt;Catalunya en Comú: 8.4–10.3%&lt;/li&gt;&lt;li&gt;Partit Popular: 4.7–6.2%&lt;/li&gt;&lt;li&gt;Candidatura d’Unitat Popular: 5.6–7.3%&lt;/li&gt;&lt;li&gt;Junts per Catalunya: 13.1–15.5%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/catalonian_polls/2017-12-13-Metroscopia.png"
+        length="201157"
+        type="image/png"/>
+      <pubDate>Fri, 15 Dec 2017 20:16:23 +0100</pubDate>
+      <dc:date>2017-12-15T20:16:23.363821+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Feedback for El Nacional, 5–12 December 2017 – Seat Projections</title>
       <link>https://filipvanlaenen.github.io/catalonian_polls/2017-12-12-Feedback.html#seats</link>
@@ -36,8 +56,8 @@
       <enclosure url="https://filipvanlaenen.github.io/catalonian_polls/2017-12-11-SocioMétrica-seats.png"
         length="194341"
         type="image/png"/>
-      <pubDate>Fri, 15 Dec 2017 10:38:09 +0100</pubDate>
-      <dc:date>2017-12-15T10:38:09.026588+01:00</dc:date>
+      <pubDate>Fri, 15 Dec 2017 17:02:37 +0100</pubDate>
+      <dc:date>2017-12-15T17:02:37.76827+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by SocioMétrica for El Español, 3–11 December 2017 – Voting Intentions</title>
@@ -46,8 +66,8 @@
       <enclosure url="https://filipvanlaenen.github.io/catalonian_polls/2017-12-11-SocioMétrica.png"
         length="222335"
         type="image/png"/>
-      <pubDate>Fri, 15 Dec 2017 10:38:09 +0100</pubDate>
-      <dc:date>2017-12-15T10:38:09.026588+01:00</dc:date>
+      <pubDate>Fri, 15 Dec 2017 17:02:37 +0100</pubDate>
+      <dc:date>2017-12-15T17:02:37.76827+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by SocioMétrica for El Español, 1–9 December 2017 – Seat Projections</title>
@@ -176,8 +196,8 @@
       <enclosure url="https://filipvanlaenen.github.io/catalonian_polls/2017-12-07-Celeste-Tel-seats.png"
         length="202836"
         type="image/png"/>
-      <pubDate>Wed, 13 Dec 2017 20:34:26 +0100</pubDate>
-      <dc:date>2017-12-13T20:34:26.779736+01:00</dc:date>
+      <pubDate>Fri, 15 Dec 2017 18:39:24 +0100</pubDate>
+      <dc:date>2017-12-15T18:39:24.002242+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Celeste-Tel for eldiario.es, 30 November–7 December 2017 – Voting Intentions</title>
@@ -186,8 +206,8 @@
       <enclosure url="https://filipvanlaenen.github.io/catalonian_polls/2017-12-07-Celeste-Tel.png"
         length="232863"
         type="image/png"/>
-      <pubDate>Wed, 13 Dec 2017 20:34:26 +0100</pubDate>
-      <dc:date>2017-12-13T20:34:26.779736+01:00</dc:date>
+      <pubDate>Fri, 15 Dec 2017 18:39:24 +0100</pubDate>
+      <dc:date>2017-12-15T18:39:24.002242+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Feedback for El Nacional, 1–5 December 2017 – Seat Projections</title>
@@ -589,6 +609,6 @@
       <pubDate>Mon, 13 Nov 2017 18:31:10 +0100</pubDate>
       <dc:date>2017-11-13T18:31:10.415733+01:00</dc:date>
     </item>
-    <dc:date>2017-12-15T10:38:09.026588+01:00</dc:date>
+    <dc:date>2017-12-15T20:16:23.363821+01:00</dc:date>
   </channel>
 </rss>
