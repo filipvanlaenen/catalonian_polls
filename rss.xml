@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Parliament of Catalonia</title>
     <link>https://filipvanlaenen.github.io/catalonian_polls</link>
     <description>All Registered Polls for the Parliament of Catalonia</description>
-    <pubDate>Thu, 14 Dec 2017 22:23:23 +0100</pubDate>
+    <pubDate>Fri, 15 Dec 2017 10:38:09 +0100</pubDate>
     <item>
       <title>Opinion Poll by Feedback for El Nacional, 5–12 December 2017 – Seat Projections</title>
       <link>https://filipvanlaenen.github.io/catalonian_polls/2017-12-12-Feedback.html#seats</link>
@@ -34,10 +34,10 @@
       <link>https://filipvanlaenen.github.io/catalonian_polls/2017-12-11-SocioMétrica.html#seats</link>
       <description>&lt;ul&gt;&lt;li&gt;Esquerra Republicana de Catalunya–Catalunya Sí: 29–37 seats&lt;/li&gt;&lt;li&gt;Ciutadans–Partido de la Ciudadanía: 26–34 seats&lt;/li&gt;&lt;li&gt;Partit dels Socialistes de Catalunya (PSC-PSOE): 16–23 seats&lt;/li&gt;&lt;li&gt;Catalunya en Comú: 8–14 seats&lt;/li&gt;&lt;li&gt;Partit Popular: 3–8 seats&lt;/li&gt;&lt;li&gt;Candidatura d’Unitat Popular: 3–9 seats&lt;/li&gt;&lt;li&gt;Junts per Catalunya: 28–35 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/catalonian_polls/2017-12-11-SocioMétrica-seats.png"
-        length="195259"
+        length="194341"
         type="image/png"/>
-      <pubDate>Thu, 14 Dec 2017 08:55:57 +0100</pubDate>
-      <dc:date>2017-12-14T08:55:57.988434+01:00</dc:date>
+      <pubDate>Fri, 15 Dec 2017 10:38:09 +0100</pubDate>
+      <dc:date>2017-12-15T10:38:09.026588+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by SocioMétrica for El Español, 3–11 December 2017 – Voting Intentions</title>
@@ -46,8 +46,8 @@
       <enclosure url="https://filipvanlaenen.github.io/catalonian_polls/2017-12-11-SocioMétrica.png"
         length="222335"
         type="image/png"/>
-      <pubDate>Thu, 14 Dec 2017 08:55:57 +0100</pubDate>
-      <dc:date>2017-12-14T08:55:57.988434+01:00</dc:date>
+      <pubDate>Fri, 15 Dec 2017 10:38:09 +0100</pubDate>
+      <dc:date>2017-12-15T10:38:09.026588+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by SocioMétrica for El Español, 1–9 December 2017 – Seat Projections</title>
@@ -589,6 +589,6 @@
       <pubDate>Mon, 13 Nov 2017 18:31:10 +0100</pubDate>
       <dc:date>2017-11-13T18:31:10.415733+01:00</dc:date>
     </item>
-    <dc:date>2017-12-14T22:23:23.087779+01:00</dc:date>
+    <dc:date>2017-12-15T10:38:09.026588+01:00</dc:date>
   </channel>
 </rss>
