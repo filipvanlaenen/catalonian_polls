@@ -84,7 +84,7 @@ Last result: **20** seats (General Election of 27 September 2015)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 35 | 30–43 | 29–44 | 29–44 | 27–46 |
 | [5–12 December 2017](2017-12-12-Feedback.html) | Feedback <br> El Nacional | 31 | 29–34 | 29–35 | 28–36 | 26–37 |
-| [3–11 December 2017](2017-12-11-SocioMétrica.html) | SocioMétrica <br> El Español | 32 | 30–36 | 29–36 | 29–37 | 28–38 |
+| [3–11 December 2017](2017-12-11-SocioMétrica.html) | SocioMétrica <br> El Español | 33 | 30–36 | 30–36 | 29–37 | 28–38 |
 | [1–9 December 2017](2017-12-09-SocioMétrica.html) | SocioMétrica <br> El Español | 32 | 30–35 | 29–36 | 29–37 | 28–38 |
 | [27 November–8 December 2017](2017-12-08-SocioMétrica.html) | SocioMétrica <br> El Español | 35 | 32–38 | 31–38 | 31–39 | 30–40 |
 | [4–8 December 2017](2017-12-08-Feedback.html) | Feedback <br> El Nacional | 33 | 31–37 | 30–37 | 30–38 | 28–39 |
