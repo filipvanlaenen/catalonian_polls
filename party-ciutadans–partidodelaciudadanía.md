@@ -10,7 +10,12 @@ Last result: **17.9%** (General Election of 27 September 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 22.2% | 18.4–25.1% | 17.8–25.8% | 17.4–26.4% | 16.5–27.4% |
+| N/A | [Poll Average](average.html) | 22.0% | 18.3–25.0% | 17.7–25.6% | 17.3–26.0% | 16.5–26.7% |
+| [11–13 December 2017](2017-12-13-SigmaDos.html) | Sigma Dos <br> El Mundo | 22.8% | N/A | N/A | N/A | N/A |
+| [4–13 December 2017](2017-12-13-NCReport.html) | NC Report <br> La Razón | 21.8% | N/A | N/A | N/A | N/A |
+| [5–13 December 2017](2017-12-13-MyWord.html) | MyWord <br> Cadena SER | 22.4% | N/A | N/A | N/A | N/A |
+| [4–13 December 2017](2017-12-13-Metroscopia.html) | Metroscopia <br> El País | 25.2% | 24.2–26.2% | 24.0–26.5% | 23.7–26.7% | 23.3–27.2% |
+| [4–13 December 2017](2017-12-13-Infortécnica.html) | Infortécnica <br> Segre | 23.6% | N/A | N/A | N/A | N/A |
 | [5–12 December 2017](2017-12-12-Feedback.html) | Feedback <br> El Nacional | 23.6% | 21.9–25.4% | 21.5–25.9% | 21.1–26.3% | 20.3–27.2% |
 | [3–11 December 2017](2017-12-11-SocioMétrica.html) | SocioMétrica <br> El Español | 21.9% | 20.4–23.6% | 19.9–24.1% | 19.6–24.5% | 18.8–25.3% |
 | [1–9 December 2017](2017-12-09-SocioMétrica.html) | SocioMétrica <br> El Español | 21.2% | 19.7–22.8% | 19.2–23.3% | 18.9–23.7% | 18.2–24.5% |
@@ -48,19 +53,19 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 14.5–15.5% | 0% | 100% |  |
-| 15.5–16.5% | 0.5% | 100% |  |
-| 16.5–17.5% | 3% | 99.5% |  |
-| 17.5–18.5% | 8% | 97% | Last Result |
-| 18.5–19.5% | 10% | 89% |  |
-| 19.5–20.5% | 9% | 80% |  |
-| 20.5–21.5% | 11% | 70% |  |
-| 21.5–22.5% | 16% | 59% | Median |
-| 22.5–23.5% | 16% | 44% |  |
-| 23.5–24.5% | 12% | 28% |  |
-| 24.5–25.5% | 9% | 16% |  |
-| 25.5–26.5% | 5% | 7% |  |
-| 26.5–27.5% | 2% | 2% |  |
-| 27.5–28.5% | 0.3% | 0.3% |  |
+| 15.5–16.5% | 0.6% | 99.9% |  |
+| 16.5–17.5% | 3% | 99.4% |  |
+| 17.5–18.5% | 9% | 96% | Last Result |
+| 18.5–19.5% | 10% | 87% |  |
+| 19.5–20.5% | 9% | 77% |  |
+| 20.5–21.5% | 11% | 68% |  |
+| 21.5–22.5% | 16% | 57% | Median |
+| 22.5–23.5% | 16% | 41% |  |
+| 23.5–24.5% | 11% | 25% |  |
+| 24.5–25.5% | 9% | 14% |  |
+| 25.5–26.5% | 5% | 5% |  |
+| 26.5–27.5% | 0.7% | 0.8% |  |
+| 27.5–28.5% | 0% | 0.1% |  |
 | 28.5–29.5% | 0% | 0% |  |
 
 
@@ -72,7 +77,12 @@ Last result: **25** seats (General Election of 27 September 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 30 | 25–34 | 25–35 | 24–36 | 22–38 |
+| N/A | [Poll Average](average.html) | 30 | 25–34 | 25–35 | 24–35 | 22–37 |
+| [11–13 December 2017](2017-12-13-SigmaDos.html) | Sigma Dos <br> El Mundo |  |  |  |  |  |
+| [4–13 December 2017](2017-12-13-NCReport.html) | NC Report <br> La Razón |  |  |  |  |  |
+| [5–13 December 2017](2017-12-13-MyWord.html) | MyWord <br> Cadena SER |  |  |  |  |  |
+| [4–13 December 2017](2017-12-13-Metroscopia.html) | Metroscopia <br> El País | 34 | 33–36 | 33–37 | 33–37 | 32–38 |
+| [4–13 December 2017](2017-12-13-Infortécnica.html) | Infortécnica <br> Segre |  |  |  |  |  |
 | [5–12 December 2017](2017-12-12-Feedback.html) | Feedback <br> El Nacional | 32 | 29–34 | 29–35 | 28–36 | 26–38 |
 | [3–11 December 2017](2017-12-11-SocioMétrica.html) | SocioMétrica <br> El Español | 30 | 27–33 | 26–33 | 26–34 | 25–35 |
 | [1–9 December 2017](2017-12-09-SocioMétrica.html) | SocioMétrica <br> El Español | 29 | 26–31 | 26–32 | 25–32 | 25–34 |
@@ -112,25 +122,24 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 20 | 0.1% | 100% |  |
-| 21 | 0.1% | 99.9% |  |
-| 22 | 0.5% | 99.8% |  |
-| 23 | 0.6% | 99.3% |  |
-| 24 | 3% | 98.7% |  |
-| 25 | 9% | 96% | Last Result |
-| 26 | 11% | 87% |  |
-| 27 | 6% | 77% |  |
-| 28 | 6% | 71% |  |
-| 29 | 6% | 64% |  |
-| 30 | 11% | 58% | Median |
-| 31 | 15% | 47% |  |
-| 32 | 10% | 32% |  |
-| 33 | 8% | 22% |  |
-| 34 | 7% | 14% |  |
-| 35 | 3% | 6% |  |
-| 36 | 2% | 3% |  |
-| 37 | 0.9% | 2% |  |
-| 38 | 0.5% | 0.7% |  |
-| 39 | 0.2% | 0.2% |  |
-| 40 | 0% | 0% |  |
+| 21 | 0.2% | 99.9% |  |
+| 22 | 0.6% | 99.7% |  |
+| 23 | 0.7% | 99.2% |  |
+| 24 | 3% | 98.5% |  |
+| 25 | 10% | 95% | Last Result |
+| 26 | 11% | 85% |  |
+| 27 | 6% | 74% |  |
+| 28 | 6% | 68% |  |
+| 29 | 6% | 62% |  |
+| 30 | 11% | 56% | Median |
+| 31 | 15% | 45% |  |
+| 32 | 7% | 30% |  |
+| 33 | 8% | 23% |  |
+| 34 | 8% | 14% |  |
+| 35 | 4% | 6% |  |
+| 36 | 2% | 2% |  |
+| 37 | 0.5% | 0.8% |  |
+| 38 | 0.3% | 0.3% |  |
+| 39 | 0% | 0% |  |
 
 

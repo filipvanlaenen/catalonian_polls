@@ -11,6 +11,11 @@ Last result: **39.6%** (General Election of 27 September 2015)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 9.9% | 8.7–11.1% | 8.4–11.5% | 8.1–11.8% | 7.6–12.5% |
+| [11–13 December 2017](2017-12-13-SigmaDos.html) | Sigma Dos <br> El Mundo | 0.0% | N/A | N/A | N/A | N/A |
+| [4–13 December 2017](2017-12-13-NCReport.html) | NC Report <br> La Razón | 0.0% | N/A | N/A | N/A | N/A |
+| [5–13 December 2017](2017-12-13-MyWord.html) | MyWord <br> Cadena SER | 0.0% | N/A | N/A | N/A | N/A |
+| [4–13 December 2017](2017-12-13-Metroscopia.html) | Metroscopia <br> El País | 0.0% | N/A | N/A | N/A | N/A |
+| [4–13 December 2017](2017-12-13-Infortécnica.html) | Infortécnica <br> Segre | 0.0% | N/A | N/A | N/A | N/A |
 | [5–12 December 2017](2017-12-12-Feedback.html) | Feedback <br> El Nacional | 0.0% | N/A | N/A | N/A | N/A |
 | [3–11 December 2017](2017-12-11-SocioMétrica.html) | SocioMétrica <br> El Español | 0.0% | N/A | N/A | N/A | N/A |
 | [1–9 December 2017](2017-12-09-SocioMétrica.html) | SocioMétrica <br> El Español | 0.0% | N/A | N/A | N/A | N/A |
@@ -93,6 +98,11 @@ Last result: **29** seats (General Election of 27 September 2015)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 14 | 13–16 | 11–17 | 11–17 | 11–18 |
+| [11–13 December 2017](2017-12-13-SigmaDos.html) | Sigma Dos <br> El Mundo |  |  |  |  |  |
+| [4–13 December 2017](2017-12-13-NCReport.html) | NC Report <br> La Razón |  |  |  |  |  |
+| [5–13 December 2017](2017-12-13-MyWord.html) | MyWord <br> Cadena SER |  |  |  |  |  |
+| [4–13 December 2017](2017-12-13-Metroscopia.html) | Metroscopia <br> El País |  |  |  |  |  |
+| [4–13 December 2017](2017-12-13-Infortécnica.html) | Infortécnica <br> Segre |  |  |  |  |  |
 | [5–12 December 2017](2017-12-12-Feedback.html) | Feedback <br> El Nacional |  |  |  |  |  |
 | [3–11 December 2017](2017-12-11-SocioMétrica.html) | SocioMétrica <br> El Español |  |  |  |  |  |
 | [1–9 December 2017](2017-12-09-SocioMétrica.html) | SocioMétrica <br> El Español |  |  |  |  |  |
