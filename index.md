@@ -5,7 +5,7 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | Period     | Polling firm/Commissioner(s) | JxSí | PDeCAT | JuntsxCat | ERC | Cs | PSC | CatComú | PP | CUP |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 27 September 2015 | General Election | 39.6% <br> 62 | 39.6% <br> 29 | 39.6% <br> 29 | 39.6% <br> 20 | 17.9% <br> 25 | 12.7% <br> 16 | 8.9% <br> 11 | 8.5% <br> 11 | 8.2% <br> 10 |
-| N/A | [Poll Average](average.html) | N/A <br> N/A | N/A <br> N/A | 12–23% <br> 18–37 | 18–27% <br> 27–44 | 18–26% <br> 25–37 | 11–18% <br> 15–24 | 5–10% <br> 5–12 | 4–8% <br> 4–11 | 4–8% <br> 4–10 |
+| N/A | [Poll Average](average.html) | N/A <br> N/A | N/A <br> N/A | 12–23% <br> 18–37 | 18–27% <br> 27–44 | 18–26% <br> 25–37 | 11–18% <br> 15–24 | 5–10% <br> 5–12 | 4–8% <br> 4–11 | 4–8% <br> 3–10 |
 | [11–15 December 2017](2017-12-15-GAD3.html) | GAD3 <br> ABC | N/A <br> N/A | N/A <br> N/A | 17–21% <br> 26–32 | 18–22% <br> 27–34 | 23–27% <br> 31–38 | 14–18% <br> 18–24 | 6–9% <br> 5–9 | 4–7% <br> 4–8 | 4–7% <br> 4–9 |
 | [11–14 December 2017](2017-12-14-TopPosition.html) | Top Position | N/A <br> N/A | N/A <br> N/A | 20–25% <br> 32–39 | 16–20% <br> 25–32 | 22–27% <br> 31–39 | 10–14% <br> 13–18 | 5–7% <br> 4–8 | 4–7% <br> 5–9 | 6–9% <br> 8–11 |
 | [1–14 December 2017](2017-12-14-SocioMétrica.html) | SocioMétrica <br> El Español | N/A <br> N/A | N/A <br> N/A | 18–22% <br> 28–34 | 19–23% <br> 29–35 | 21–25% <br> 27–34 | 12–16% <br> 15–22 | 8–11% <br> 8–13 | 4–7% <br> 5–8 | 5–7% <br> 5–9 |
