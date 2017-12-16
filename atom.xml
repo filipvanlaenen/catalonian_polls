@@ -6,7 +6,15 @@
   </author>
   <id>https://filipvanlaenen.github.io/catalonian_polls</id>
   <title>All Registered Polls for the Parliament of Catalonia</title>
-  <updated>2017-12-15T20:16:23.363821+01:00</updated>
+  <updated>2017-12-16T08:02:31.519684+01:00</updated>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Esquerra Republicana de Catalunya–Catalunya Sí: 19.5–25.3%, 29–38 seats</li><li>Ciutadans–Partido de la Ciudadanía: 18.5–24.2%, 25–33 seats</li><li>Partit dels Socialistes de Catalunya (PSC-PSOE): 14.4–19.6%, 18–26 seats</li><li>Catalunya en Comú: 7.1–11.1%, 8–14 seats</li><li>Partit Popular: 4.2–7.5%, 3–9 seats</li><li>Candidatura d’Unitat Popular: 4.1–7.3%, 3–9 seats</li><li>Junts per Catalunya: 15.4–20.7%, 23–31 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/catalonian_polls/2017-12-14-GESOP.html</id>
+    <link href="https://filipvanlaenen.github.io/catalonian_polls/2017-12-14-GESOP.html"/>
+    <title>Opinion Poll by GESOP for El Periódico, 12–14 December 2017</title>
+    <updated>2017-12-16T08:02:31.519684+01:00</updated>
+    <dc:date>2017-12-16T08:02:31.519684+01:00</dc:date>
+  </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Esquerra Republicana de Catalunya–Catalunya Sí: 21.7–24.6%, 33–38 seats</li><li>Ciutadans–Partido de la Ciudadanía: 23.7–26.7%, 33–37 seats</li><li>Partit dels Socialistes de Catalunya (PSC-PSOE): 13.1–15.5%, 16–21 seats</li><li>Catalunya en Comú: 8.4–10.3%, 9–13 seats</li><li>Partit Popular: 4.7–6.2%, 5–7 seats</li><li>Candidatura d’Unitat Popular: 5.6–7.3%, 8–9 seats</li><li>Junts per Catalunya: 13.1–15.5%, 18–23 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/catalonian_polls/2017-12-13-Metroscopia.html</id>
@@ -247,5 +255,5 @@
     <updated>2017-11-13T18:31:10.415733+01:00</updated>
     <dc:date>2017-11-13T18:31:10.415733+01:00</dc:date>
   </entry>
-  <dc:date>2017-12-15T20:16:23.363821+01:00</dc:date>
+  <dc:date>2017-12-16T08:02:31.519684+01:00</dc:date>
 </feed>
