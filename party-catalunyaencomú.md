@@ -78,16 +78,16 @@ Last result: **11** seats (General Election of 27 September 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9 | 5–11 | 4–12 | 4–12 | 4–14 |
+| N/A | [Poll Average](average.html) | 9 | 6–11 | 5–12 | 5–12 | 4–14 |
 | [11–14 December 2017](2017-12-14-TopPosition.html) | Top Position | 6 | 5–8 | 5–8 | 4–8 | 4–9 |
 | [12–14 December 2017](2017-12-14-GESOP.html) | GESOP <br> El Periódico | 10 | 8–12 | 8–13 | 8–14 | 7–14 |
 | [12–14 December 2017](2017-12-14-GAD3.html) | GAD3 <br> ABC | 8 | 8–11 | 8–11 | 7–11 | 5–11 |
 | [7–14 December 2017](2017-12-14-Feedback.html) | Feedback <br> El Nacional | 6 | 6 | 6–8 | 6–8 | 5–9 |
-| [11–13 December 2017](2017-12-13-SigmaDos.html) | Sigma Dos <br> El Mundo | 8 | 8–11 | 8–11 | 8–11 | 7–11 |
+| [11–13 December 2017](2017-12-13-SigmaDos.html) | Sigma Dos <br> El Mundo | 8 | 8–9 | 7–10 | 6–11 | 6–11 |
 | [4–13 December 2017](2017-12-13-NCReport.html) | NC Report <br> La Razón | 8 | 7–10 | 6–11 | 6–11 | 5–12 |
 | [5–13 December 2017](2017-12-13-MyWord.html) | MyWord <br> Cadena SER | 10 | 9–12 | 8–13 | 8–14 | 7–14 |
 | [4–13 December 2017](2017-12-13-Metroscopia.html) | Metroscopia <br> El País | 11 | 9–12 | 9–12 | 9–13 | 9–13 |
-| [4–13 December 2017](2017-12-13-Infortécnica.html) | Infortécnica <br> Segre | 4 | 4 | 4 | 4 | 4–5 |
+| [4–13 December 2017](2017-12-13-Infortécnica.html) | Infortécnica <br> Segre | 5 | 4–6 | 4–7 | 4–7 | 3–8 |
 | [11–13 December 2017](2017-12-13-AM.html) | A+M <br> 20minutos | 6 | 5–6 | 5–6 | 5–6 | 5–7 |
 | [5–12 December 2017](2017-12-12-Feedback.html) | Feedback <br> El Nacional | 9 | 8–11 | 7–11 | 7–12 | 6–13 |
 | [3–11 December 2017](2017-12-11-SocioMétrica.html) | SocioMétrica <br> El Español | 10 | 9–12 | 8–13 | 8–14 | 8–14 |
@@ -127,12 +127,12 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 4 | 7% | 100% |  |
-| 5 | 3% | 93% |  |
-| 6 | 16% | 89% |  |
-| 7 | 2% | 73% |  |
-| 8 | 20% | 71% |  |
-| 9 | 19% | 51% | Median |
+| 4 | 2% | 100% |  |
+| 5 | 7% | 98% |  |
+| 6 | 18% | 91% |  |
+| 7 | 3% | 73% |  |
+| 8 | 17% | 70% |  |
+| 9 | 21% | 53% | Median |
 | 10 | 6% | 32% |  |
 | 11 | 18% | 26% | Last Result |
 | 12 | 6% | 8% |  |

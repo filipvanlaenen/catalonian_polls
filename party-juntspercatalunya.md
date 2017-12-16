@@ -104,11 +104,11 @@ Last result: **29** seats (General Election of 27 September 2015)
 | [12–14 December 2017](2017-12-14-GESOP.html) | GESOP <br> El Periódico | 27 | 24–30 | 23–30 | 23–31 | 22–32 |
 | [12–14 December 2017](2017-12-14-GAD3.html) | GAD3 <br> ABC | 30 | 29–32 | 26–32 | 26–32 | 23–35 |
 | [7–14 December 2017](2017-12-14-Feedback.html) | Feedback <br> El Nacional | 29 | 29 | 28–29 | 28–30 | 26–31 |
-| [11–13 December 2017](2017-12-13-SigmaDos.html) | Sigma Dos <br> El Mundo | 28 | 24–28 | 24–28 | 24–29 | 23–29 |
-| [4–13 December 2017](2017-12-13-NCReport.html) | NC Report <br> La Razón | 24 | 22–27 | 21–28 | 21–29 | 19–29 |
+| [11–13 December 2017](2017-12-13-SigmaDos.html) | Sigma Dos <br> El Mundo | 25 | 23–27 | 23–28 | 23–29 | 21–29 |
+| [4–13 December 2017](2017-12-13-NCReport.html) | NC Report <br> La Razón | 24 | 22–27 | 21–28 | 21–28 | 19–29 |
 | [5–13 December 2017](2017-12-13-MyWord.html) | MyWord <br> Cadena SER | 27 | 24–29 | 24–30 | 23–30 | 23–32 |
 | [4–13 December 2017](2017-12-13-Metroscopia.html) | Metroscopia <br> El País | 22 | 20–23 | 19–23 | 18–23 | 18–24 |
-| [4–13 December 2017](2017-12-13-Infortécnica.html) | Infortécnica <br> Segre | 26 | 26 | 26 | 26 | 26 |
+| [4–13 December 2017](2017-12-13-Infortécnica.html) | Infortécnica <br> Segre | 27 | 25–29 | 24–30 | 24–30 | 23–32 |
 | [11–13 December 2017](2017-12-13-AM.html) | A+M <br> 20minutos | 25 | 25–28 | 25–28 | 25–29 | 25–31 |
 | [5–12 December 2017](2017-12-12-Feedback.html) | Feedback <br> El Nacional | 28 | 25–30 | 24–31 | 23–31 | 23–32 |
 | [3–11 December 2017](2017-12-11-SocioMétrica.html) | SocioMétrica <br> El Español | 31 | 29–35 | 29–35 | 28–35 | 26–37 |
@@ -156,17 +156,17 @@ The following table shows the probability mass function per seat for the [poll a
 | 20 | 1.2% | 94% |  |
 | 21 | 3% | 92% |  |
 | 22 | 4% | 89% |  |
-| 23 | 7% | 85% |  |
-| 24 | 9% | 79% |  |
-| 25 | 10% | 70% |  |
-| 26 | 15% | 60% | Median |
-| 27 | 3% | 45% |  |
-| 28 | 9% | 42% |  |
-| 29 | 12% | 33% | Last Result |
-| 30 | 8% | 21% |  |
-| 31 | 1.5% | 13% |  |
+| 23 | 8% | 85% |  |
+| 24 | 10% | 78% |  |
+| 25 | 12% | 67% |  |
+| 26 | 10% | 55% | Median |
+| 27 | 5% | 45% |  |
+| 28 | 5% | 40% |  |
+| 29 | 13% | 34% | Last Result |
+| 30 | 9% | 21% |  |
+| 31 | 2% | 13% |  |
 | 32 | 3% | 11% |  |
-| 33 | 1.3% | 8% |  |
+| 33 | 1.4% | 8% |  |
 | 34 | 1.3% | 7% |  |
 | 35 | 1.4% | 6% |  |
 | 36 | 1.1% | 4% |  |

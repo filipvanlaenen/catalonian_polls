@@ -82,11 +82,11 @@ Last result: **11** seats (General Election of 27 September 2015)
 | [12–14 December 2017](2017-12-14-GESOP.html) | GESOP <br> El Periódico | 6 | 5–8 | 5–9 | 3–9 | 3–10 |
 | [12–14 December 2017](2017-12-14-GAD3.html) | GAD3 <br> ABC | 9 | 5–9 | 5–9 | 5–9 | 5–9 |
 | [7–14 December 2017](2017-12-14-Feedback.html) | Feedback <br> El Nacional | 6 | 6 | 6–8 | 6–8 | 5–8 |
-| [11–13 December 2017](2017-12-13-SigmaDos.html) | Sigma Dos <br> El Mundo | 7 | 6–7 | 6–7 | 5–8 | 5–10 |
+| [11–13 December 2017](2017-12-13-SigmaDos.html) | Sigma Dos <br> El Mundo | 6 | 5–8 | 5–9 | 5–9 | 4–10 |
 | [4–13 December 2017](2017-12-13-NCReport.html) | NC Report <br> La Razón | 9 | 7–10 | 7–11 | 6–12 | 6–13 |
 | [5–13 December 2017](2017-12-13-MyWord.html) | MyWord <br> Cadena SER | 5 | 3–6 | 3–7 | 3–7 | 3–8 |
 | [4–13 December 2017](2017-12-13-Metroscopia.html) | Metroscopia <br> El País | 6 | 5–7 | 5–7 | 5–7 | 5–8 |
-| [4–13 December 2017](2017-12-13-Infortécnica.html) | Infortécnica <br> Segre | 6 | 6 | 6 | 6 | 6 |
+| [4–13 December 2017](2017-12-13-Infortécnica.html) | Infortécnica <br> Segre | 7 | 6–9 | 5–10 | 5–10 | 5–10 |
 | [11–13 December 2017](2017-12-13-AM.html) | A+M <br> 20minutos | 5 | 3–5 | 3–6 | 3–6 | 3–7 |
 | [5–12 December 2017](2017-12-12-Feedback.html) | Feedback <br> El Nacional | 6 | 5–7 | 4–8 | 3–9 | 3–9 |
 | [3–11 December 2017](2017-12-11-SocioMétrica.html) | SocioMétrica <br> El Español | 5 | 3–7 | 3–7 | 3–8 | 3–8 |
@@ -127,13 +127,13 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 3 | 5% | 100% |  |
-| 4 | 1.0% | 95% |  |
-| 5 | 21% | 94% |  |
-| 6 | 31% | 73% | Median |
-| 7 | 14% | 42% |  |
-| 8 | 6% | 27% |  |
-| 9 | 10% | 22% |  |
-| 10 | 8% | 12% |  |
+| 4 | 1.1% | 95% |  |
+| 5 | 22% | 94% |  |
+| 6 | 28% | 72% | Median |
+| 7 | 12% | 44% |  |
+| 8 | 9% | 32% |  |
+| 9 | 11% | 23% |  |
+| 10 | 9% | 12% |  |
 | 11 | 1.3% | 3% | Last Result |
 | 12 | 2% | 2% |  |
 | 13 | 0.2% | 0.2% |  |

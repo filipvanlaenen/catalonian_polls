@@ -93,16 +93,16 @@ Last result: **20** seats (General Election of 27 September 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 36 | 29–40 | 27–42 | 27–44 | 26–45 |
+| N/A | [Poll Average](average.html) | 35 | 29–40 | 27–42 | 27–44 | 26–45 |
 | [11–14 December 2017](2017-12-14-TopPosition.html) | Top Position | 28 | 26–31 | 25–31 | 25–32 | 24–33 |
 | [12–14 December 2017](2017-12-14-GESOP.html) | GESOP <br> El Periódico | 34 | 31–37 | 30–38 | 29–38 | 28–40 |
 | [12–14 December 2017](2017-12-14-GAD3.html) | GAD3 <br> ABC | 27 | 27–31 | 27–31 | 27–31 | 26–34 |
 | [7–14 December 2017](2017-12-14-Feedback.html) | Feedback <br> El Nacional | 38 | 35–38 | 33–38 | 30–38 | 29–38 |
-| [11–13 December 2017](2017-12-13-SigmaDos.html) | Sigma Dos <br> El Mundo | 38 | 32–38 | 31–38 | 31–38 | 31–42 |
+| [11–13 December 2017](2017-12-13-SigmaDos.html) | Sigma Dos <br> El Mundo | 35 | 32–37 | 32–38 | 31–38 | 31–39 |
 | [4–13 December 2017](2017-12-13-NCReport.html) | NC Report <br> La Razón | 35 | 32–37 | 31–38 | 30–38 | 29–40 |
 | [5–13 December 2017](2017-12-13-MyWord.html) | MyWord <br> Cadena SER | 37 | 35–40 | 34–41 | 32–42 | 31–43 |
 | [4–13 December 2017](2017-12-13-Metroscopia.html) | Metroscopia <br> El País | 35 | 34–37 | 33–38 | 33–38 | 32–39 |
-| [4–13 December 2017](2017-12-13-Infortécnica.html) | Infortécnica <br> Segre | 36 | 36 | 36 | 36 | 31–36 |
+| [4–13 December 2017](2017-12-13-Infortécnica.html) | Infortécnica <br> Segre | 36 | 32–38 | 32–38 | 31–39 | 30–40 |
 | [11–13 December 2017](2017-12-13-AM.html) | A+M <br> 20minutos | 40 | 38–42 | 37–42 | 37–44 | 32–44 |
 | [5–12 December 2017](2017-12-12-Feedback.html) | Feedback <br> El Nacional | 31 | 29–34 | 29–35 | 28–36 | 26–37 |
 | [3–11 December 2017](2017-12-11-SocioMétrica.html) | SocioMétrica <br> El Español | 33 | 30–36 | 29–36 | 29–37 | 28–38 |
@@ -154,15 +154,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 29 | 2% | 91% |  |
 | 30 | 4% | 89% |  |
 | 31 | 7% | 84% |  |
-| 32 | 8% | 77% |  |
-| 33 | 5% | 69% |  |
-| 34 | 5% | 64% |  |
-| 35 | 9% | 60% |  |
-| 36 | 13% | 50% | Median |
-| 37 | 5% | 37% |  |
-| 38 | 16% | 32% |  |
+| 32 | 10% | 78% |  |
+| 33 | 6% | 68% |  |
+| 34 | 7% | 61% |  |
+| 35 | 11% | 55% | Median |
+| 36 | 10% | 44% |  |
+| 37 | 7% | 34% |  |
+| 38 | 10% | 27% |  |
 | 39 | 2% | 16% |  |
-| 40 | 5% | 14% |  |
+| 40 | 5% | 15% |  |
 | 41 | 1.2% | 9% |  |
 | 42 | 4% | 8% |  |
 | 43 | 2% | 4% |  |
