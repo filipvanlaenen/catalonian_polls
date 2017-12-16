@@ -101,10 +101,10 @@ Last result: **20** seats (General Election of 27 September 2015)
 | [1–14 December 2017](2017-12-14-SocioMétrica.html) | SocioMétrica <br> El Español | 32 | 30–34 | 29–35 | 29–35 | 29–36 |
 | [12–14 December 2017](2017-12-14-GESOP.html) | GESOP <br> El Periódico | 34 | 31–37 | 30–38 | 29–38 | 28–40 |
 | [12–14 December 2017](2017-12-14-GAD3.html) | GAD3 <br> ABC | 31 | 28–33 | 27–34 | 26–35 | 25–36 |
-| [7–14 December 2017](2017-12-14-Feedback.html) | Feedback <br> El Nacional | 32 | 30–35 | 29–36 | 29–36 | 26–37 |
+| [7–14 December 2017](2017-12-14-Feedback.html) | Feedback <br> El Nacional | 32 | 29–35 | 29–36 | 28–36 | 26–38 |
 | [11–13 December 2017](2017-12-13-SigmaDos.html) | Sigma Dos <br> El Mundo | 35 | 32–37 | 32–38 | 31–38 | 31–39 |
 | [4–13 December 2017](2017-12-13-NCReport.html) | NC Report <br> La Razón | 35 | 32–37 | 31–38 | 30–38 | 29–40 |
-| [5–13 December 2017](2017-12-13-MyWord.html) | MyWord <br> Cadena SER | 37 | 35–40 | 34–41 | 32–42 | 31–43 |
+| [5–13 December 2017](2017-12-13-MyWord.html) | MyWord <br> Cadena SER | 37 | 35–40 | 33–41 | 32–42 | 31–43 |
 | [4–13 December 2017](2017-12-13-Metroscopia.html) | Metroscopia <br> El País | 35 | 34–37 | 33–38 | 33–38 | 32–39 |
 | [4–13 December 2017](2017-12-13-Infortécnica.html) | Infortécnica <br> Segre | 36 | 32–38 | 32–38 | 31–39 | 30–40 |
 | [11–13 December 2017](2017-12-13-AM.html) | A+M <br> 20minutos | 37 | 35–40 | 34–41 | 33–41 | 32–42 |
@@ -153,21 +153,21 @@ The following table shows the probability mass function per seat for the [poll a
 | 24 | 0.1% | 100% |  |
 | 25 | 0.3% | 99.9% |  |
 | 26 | 1.2% | 99.6% |  |
-| 27 | 1.1% | 98% |  |
+| 27 | 1.2% | 98% |  |
 | 28 | 2% | 97% |  |
 | 29 | 4% | 95% |  |
 | 30 | 5% | 91% |  |
-| 31 | 11% | 86% |  |
-| 32 | 13% | 75% |  |
-| 33 | 7% | 62% |  |
+| 31 | 10% | 86% |  |
+| 32 | 14% | 75% |  |
+| 33 | 8% | 62% |  |
 | 34 | 7% | 54% | Median |
 | 35 | 11% | 47% |  |
 | 36 | 11% | 36% |  |
 | 37 | 8% | 25% |  |
 | 38 | 6% | 17% |  |
 | 39 | 2% | 11% |  |
-| 40 | 1.5% | 9% |  |
-| 41 | 1.4% | 8% |  |
+| 40 | 2% | 9% |  |
+| 41 | 1.5% | 8% |  |
 | 42 | 2% | 6% |  |
 | 43 | 2% | 4% |  |
 | 44 | 2% | 3% |  |
