@@ -11,7 +11,7 @@ Last result: **8.2%** (General Election of 27 September 2015)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 6.1% | 4.9–7.4% | 4.6–7.9% | 4.4–8.3% | 3.9–9.1% |
-| [11–14 December 2017](2017-12-14-TopPosition.html) | Top Position <br> Commissioners | 7.0% | 6.1–8.0% | 5.9–8.3% | 5.7–8.6% | 5.3–9.1% |
+| [11–14 December 2017](2017-12-14-TopPosition.html) | Top Position | 7.0% | 6.1–8.0% | 5.9–8.3% | 5.7–8.6% | 5.3–9.1% |
 | [12–14 December 2017](2017-12-14-GESOP.html) | GESOP <br> El Periódico | 5.5% | 4.6–6.7% | 4.3–7.0% | 4.1–7.3% | 3.7–7.9% |
 | [12–14 December 2017](2017-12-14-GAD3.html) | GAD3 <br> ABC | 5.6% | 4.8–6.6% | 4.5–7.0% | 4.3–7.2% | 4.0–7.7% |
 | [7–14 December 2017](2017-12-14-Feedback.html) | Feedback <br> El Nacional | 7.6% | 6.6–8.8% | 6.3–9.1% | 6.1–9.4% | 5.7–10.0% |
@@ -76,14 +76,14 @@ Last result: **10** seats (General Election of 27 September 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8 | 5–9 | 4–9 | 3–10 | 3–11 |
-| [11–14 December 2017](2017-12-14-TopPosition.html) | Top Position <br> Commissioners | 9 | 8–10 | 8–10 | 8–10 | 7–12 |
+| N/A | [Poll Average](average.html) | 8 | 5–9 | 5–9 | 3–10 | 3–11 |
+| [11–14 December 2017](2017-12-14-TopPosition.html) | Top Position | 9 | 8–10 | 8–10 | 8–11 | 7–12 |
 | [12–14 December 2017](2017-12-14-GESOP.html) | GESOP <br> El Periódico | 8 | 5–9 | 3–9 | 3–9 | 3–10 |
 | [12–14 December 2017](2017-12-14-GAD3.html) | GAD3 <br> ABC | 5 | 3–7 | 3–8 | 3–8 | 3–10 |
 | [7–14 December 2017](2017-12-14-Feedback.html) | Feedback <br> El Nacional | 8 | 8 | 8 | 8–12 | 8–12 |
 | [11–13 December 2017](2017-12-13-SigmaDos.html) | Sigma Dos <br> El Mundo | 8 | 8 | 8–9 | 7–9 | 5–10 |
-| [4–13 December 2017](2017-12-13-NCReport.html) | NC Report <br> La Razón | 4 | 4–7 | 4–8 | 4–9 | 3–9 |
-| [5–13 December 2017](2017-12-13-MyWord.html) | MyWord <br> Cadena SER | 9 | 5–9 | 3–9 | 3–9 | 0–9 |
+| [4–13 December 2017](2017-12-13-NCReport.html) | NC Report <br> La Razón | 8 | 5–9 | 5–9 | 4–9 | 3–10 |
+| [5–13 December 2017](2017-12-13-MyWord.html) | MyWord <br> Cadena SER | 6 | 3–8 | 3–8 | 3–8 | 3–9 |
 | [4–13 December 2017](2017-12-13-Metroscopia.html) | Metroscopia <br> El País | 8 | 8–9 | 8–9 | 8–9 | 7–9 |
 | [4–13 December 2017](2017-12-13-Infortécnica.html) | Infortécnica <br> Segre | 8 | 8 | 8 | 8 | 7–8 |
 | [11–13 December 2017](2017-12-13-AM.html) | A+M <br> 20minutos | 8 | 5–8 | 5–8 | 4–8 | 4–8 |
@@ -95,7 +95,7 @@ Last result: **10** seats (General Election of 27 September 2015)
 | [7 December 2017](2017-12-07-Infortécnica.html) | Infortécnica <br> Segre | 8 | 7–9 | 6–9 | 5–9 | 5–10 |
 | [4–7 December 2017](2017-12-07-GAD3.html) | GAD3 <br> La Vanguardia | 5 | 3–8 | 3–8 | 3–8 | 3–9 |
 | [3–7 December 2017](2017-12-07-Feedback.html) | Feedback <br> El Nacional | 9 | 8–10 | 8–10 | 8–11 | 6–12 |
-| [30 November–7 December 2017](2017-12-07-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 8 | 8–10 | 6–10 | 5–10 | 5–12 |
+| [30 November–7 December 2017](2017-12-07-Celeste-Tel.html) | Celeste-Tel <br> eldiario.es | 8 | 8–10 | 7–10 | 5–10 | 5–12 |
 | [1–5 December 2017](2017-12-05-Feedback.html) | Feedback <br> El Nacional | 8 | 7–9 | 6–9 | 5–10 | 4–10 |
 | [29 November–2 December 2017](2017-12-02-GESOP.html) | GESOP <br> El Periódico | 8 | 5–9 | 5–9 | 5–10 | 3–10 |
 | [27–30 November 2017](2017-11-30-SocioMétrica.html) | SocioMétrica <br> El Español | 8 | 5–9 | 5–9 | 4–10 | 3–10 |
@@ -125,16 +125,15 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 0.1% | 100% |  |
-| 3 | 2% | 99.8% |  |
-| 4 | 5% | 97% |  |
-| 5 | 12% | 93% |  |
-| 6 | 1.3% | 80% |  |
-| 7 | 6% | 79% |  |
-| 8 | 48% | 73% | Median |
-| 9 | 22% | 25% |  |
+| 3 | 3% | 100% |  |
+| 4 | 2% | 97% |  |
+| 5 | 12% | 95% |  |
+| 6 | 2% | 83% |  |
+| 7 | 6% | 81% |  |
+| 8 | 53% | 74% | Median |
+| 9 | 18% | 21% |  |
 | 10 | 3% | 4% | Last Result |
-| 11 | 0.1% | 0.5% |  |
+| 11 | 0.1% | 0.6% |  |
 | 12 | 0.4% | 0.4% |  |
 | 13 | 0% | 0% |  |
 

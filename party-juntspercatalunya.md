@@ -11,7 +11,7 @@ Last result: **39.6%** (General Election of 27 September 2015)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 17.6% | 14.1–21.2% | 12.6–22.3% | 11.9–23.0% | 11.1–24.3% |
-| [11–14 December 2017](2017-12-14-TopPosition.html) | Top Position <br> Commissioners | 22.4% | 20.9–24.0% | 20.5–24.5% | 20.1–24.9% | 19.4–25.7% |
+| [11–14 December 2017](2017-12-14-TopPosition.html) | Top Position | 22.4% | 20.9–24.0% | 20.5–24.5% | 20.1–24.9% | 19.4–25.7% |
 | [12–14 December 2017](2017-12-14-GESOP.html) | GESOP <br> El Periódico | 17.9% | 16.2–19.7% | 15.8–20.2% | 15.4–20.7% | 14.6–21.6% |
 | [12–14 December 2017](2017-12-14-GAD3.html) | GAD3 <br> ABC | 19.5% | 18.0–21.2% | 17.5–21.7% | 17.2–22.1% | 16.4–22.9% |
 | [7–14 December 2017](2017-12-14-Feedback.html) | Feedback <br> El Nacional | 19.6% | 18.1–21.3% | 17.6–21.8% | 17.3–22.2% | 16.5–23.0% |
@@ -99,14 +99,14 @@ Last result: **29** seats (General Election of 27 September 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 26 | 21–32 | 18–35 | 18–37 | 17–38 |
-| [11–14 December 2017](2017-12-14-TopPosition.html) | Top Position <br> Commissioners | 36 | 32–38 | 32–38 | 31–39 | 31–40 |
+| N/A | [Poll Average](average.html) | 26 | 21–32 | 19–35 | 18–37 | 17–38 |
+| [11–14 December 2017](2017-12-14-TopPosition.html) | Top Position | 36 | 32–38 | 32–38 | 32–39 | 31–40 |
 | [12–14 December 2017](2017-12-14-GESOP.html) | GESOP <br> El Periódico | 27 | 24–30 | 23–30 | 23–31 | 22–32 |
 | [12–14 December 2017](2017-12-14-GAD3.html) | GAD3 <br> ABC | 30 | 29–32 | 26–32 | 26–32 | 23–35 |
 | [7–14 December 2017](2017-12-14-Feedback.html) | Feedback <br> El Nacional | 29 | 29 | 28–29 | 28–30 | 26–31 |
 | [11–13 December 2017](2017-12-13-SigmaDos.html) | Sigma Dos <br> El Mundo | 28 | 24–28 | 24–28 | 24–29 | 23–29 |
-| [4–13 December 2017](2017-12-13-NCReport.html) | NC Report <br> La Razón | 25 | 21–26 | 21–26 | 21–26 | 18–28 |
-| [5–13 December 2017](2017-12-13-MyWord.html) | MyWord <br> Cadena SER | 23 | 23–30 | 23–30 | 23–30 | 23–30 |
+| [4–13 December 2017](2017-12-13-NCReport.html) | NC Report <br> La Razón | 24 | 22–27 | 21–28 | 21–29 | 19–29 |
+| [5–13 December 2017](2017-12-13-MyWord.html) | MyWord <br> Cadena SER | 27 | 24–29 | 24–30 | 23–30 | 23–32 |
 | [4–13 December 2017](2017-12-13-Metroscopia.html) | Metroscopia <br> El País | 22 | 20–23 | 19–23 | 18–23 | 18–24 |
 | [4–13 December 2017](2017-12-13-Infortécnica.html) | Infortécnica <br> Segre | 26 | 26 | 26 | 26 | 26 |
 | [11–13 December 2017](2017-12-13-AM.html) | A+M <br> 20minutos | 25 | 25–28 | 25–28 | 25–29 | 25–31 |
@@ -153,26 +153,26 @@ The following table shows the probability mass function per seat for the [poll a
 | 17 | 2% | 99.8% |  |
 | 18 | 3% | 98% |  |
 | 19 | 2% | 95% |  |
-| 20 | 1.1% | 93% |  |
-| 21 | 5% | 92% |  |
-| 22 | 4% | 88% |  |
-| 23 | 9% | 84% |  |
-| 24 | 7% | 75% |  |
-| 25 | 9% | 68% |  |
-| 26 | 16% | 58% | Median |
-| 27 | 2% | 42% |  |
-| 28 | 8% | 40% |  |
-| 29 | 11% | 32% | Last Result |
+| 20 | 1.2% | 94% |  |
+| 21 | 3% | 92% |  |
+| 22 | 4% | 89% |  |
+| 23 | 7% | 85% |  |
+| 24 | 9% | 79% |  |
+| 25 | 10% | 70% |  |
+| 26 | 15% | 60% | Median |
+| 27 | 3% | 45% |  |
+| 28 | 9% | 42% |  |
+| 29 | 12% | 33% | Last Result |
 | 30 | 8% | 21% |  |
-| 31 | 1.4% | 12% |  |
+| 31 | 1.5% | 13% |  |
 | 32 | 3% | 11% |  |
-| 33 | 1.4% | 8% |  |
-| 34 | 1.2% | 7% |  |
-| 35 | 1.2% | 6% |  |
-| 36 | 1.2% | 5% |  |
+| 33 | 1.3% | 8% |  |
+| 34 | 1.3% | 7% |  |
+| 35 | 1.4% | 6% |  |
+| 36 | 1.1% | 4% |  |
 | 37 | 2% | 3% |  |
-| 38 | 1.0% | 1.2% |  |
-| 39 | 0.2% | 0.2% |  |
+| 38 | 1.0% | 1.3% |  |
+| 39 | 0.2% | 0.3% |  |
 | 40 | 0% | 0.1% |  |
 | 41 | 0% | 0% |  |
 
