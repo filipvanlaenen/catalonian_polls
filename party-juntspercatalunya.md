@@ -101,13 +101,13 @@ Last result: **29** seats (General Election of 27 September 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 26 | 21–31 | 19–34 | 18–37 | 17–38 |
+| N/A | [Poll Average](average.html) | 26 | 21–32 | 19–34 | 18–37 | 17–38 |
 | [11–15 December 2017](2017-12-15-GAD3.html) | GAD3 <br> ABC | 29 | 26–31 | 26–32 | 26–32 | 25–34 |
 | [11–14 December 2017](2017-12-14-TopPosition.html) | Top Position | 36 | 32–38 | 32–38 | 32–39 | 31–40 |
 | [1–14 December 2017](2017-12-14-SocioMétrica.html) | SocioMétrica <br> El Español | 30 | 29–33 | 29–33 | 28–34 | 26–35 |
 | [12–14 December 2017](2017-12-14-GESOP.html) | GESOP <br> El Periódico | 27 | 24–30 | 23–30 | 23–31 | 22–32 |
 | [12–14 December 2017](2017-12-14-GAD3.html) | GAD3 <br> ABC | 29 | 26–31 | 26–32 | 26–32 | 24–35 |
-| [7–14 December 2017](2017-12-14-Feedback.html) | Feedback <br> El Nacional | 29 | 29 | 28–29 | 28–30 | 26–31 |
+| [7–14 December 2017](2017-12-14-Feedback.html) | Feedback <br> El Nacional | 29 | 27–32 | 26–32 | 25–33 | 24–35 |
 | [11–13 December 2017](2017-12-13-SigmaDos.html) | Sigma Dos <br> El Mundo | 25 | 23–27 | 23–28 | 23–29 | 21–29 |
 | [4–13 December 2017](2017-12-13-NCReport.html) | NC Report <br> La Razón | 24 | 22–27 | 21–28 | 21–28 | 19–29 |
 | [5–13 December 2017](2017-12-13-MyWord.html) | MyWord <br> Cadena SER | 27 | 24–29 | 24–30 | 23–30 | 23–32 |
@@ -165,13 +165,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 25 | 8% | 66% |  |
 | 26 | 10% | 57% | Median |
 | 27 | 7% | 47% |  |
-| 28 | 6% | 41% |  |
-| 29 | 16% | 34% | Last Result |
-| 30 | 5% | 18% |  |
-| 31 | 3% | 13% |  |
-| 32 | 3% | 10% |  |
-| 33 | 1.4% | 7% |  |
-| 34 | 1.0% | 6% |  |
+| 28 | 6% | 39% |  |
+| 29 | 12% | 33% | Last Result |
+| 30 | 7% | 21% |  |
+| 31 | 4% | 14% |  |
+| 32 | 3% | 11% |  |
+| 33 | 2% | 8% |  |
+| 34 | 1.1% | 6% |  |
 | 35 | 0.9% | 5% |  |
 | 36 | 1.0% | 4% |  |
 | 37 | 2% | 3% |  |

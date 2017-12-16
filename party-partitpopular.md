@@ -80,12 +80,12 @@ Last result: **11** seats (General Election of 27 September 2015)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 6 | 5–10 | 5–10 | 4–11 | 3–12 |
-| [11–15 December 2017](2017-12-15-GAD3.html) | GAD3 <br> ABC | 6 | 5–7 | 4–7 | 4–8 | 3–9 |
+| [11–15 December 2017](2017-12-15-GAD3.html) | GAD3 <br> ABC | 6 | 5–7 | 5–8 | 4–8 | 3–9 |
 | [11–14 December 2017](2017-12-14-TopPosition.html) | Top Position | 6 | 5–8 | 5–9 | 5–9 | 3–10 |
 | [1–14 December 2017](2017-12-14-SocioMétrica.html) | SocioMétrica <br> El Español | 6 | 5–7 | 5–8 | 5–8 | 3–9 |
 | [12–14 December 2017](2017-12-14-GESOP.html) | GESOP <br> El Periódico | 6 | 5–8 | 5–9 | 3–9 | 3–10 |
 | [12–14 December 2017](2017-12-14-GAD3.html) | GAD3 <br> ABC | 7 | 5–9 | 5–10 | 5–10 | 4–10 |
-| [7–14 December 2017](2017-12-14-Feedback.html) | Feedback <br> El Nacional | 6 | 6 | 6–8 | 6–8 | 5–8 |
+| [7–14 December 2017](2017-12-14-Feedback.html) | Feedback <br> El Nacional | 6 | 5–8 | 5–9 | 4–9 | 3–10 |
 | [11–13 December 2017](2017-12-13-SigmaDos.html) | Sigma Dos <br> El Mundo | 6 | 5–8 | 5–9 | 5–9 | 4–10 |
 | [4–13 December 2017](2017-12-13-NCReport.html) | NC Report <br> La Razón | 9 | 7–10 | 7–11 | 6–12 | 6–13 |
 | [5–13 December 2017](2017-12-13-MyWord.html) | MyWord <br> Cadena SER | 5 | 3–6 | 3–7 | 3–7 | 3–8 |
@@ -131,12 +131,12 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 3 | 2% | 100% |  |
-| 4 | 1.3% | 98% |  |
-| 5 | 20% | 97% |  |
-| 6 | 34% | 76% | Median |
-| 7 | 14% | 42% |  |
+| 4 | 1.4% | 98% |  |
+| 5 | 23% | 96% |  |
+| 6 | 29% | 74% | Median |
+| 7 | 16% | 45% |  |
 | 8 | 10% | 28% |  |
-| 9 | 6% | 18% |  |
+| 9 | 6% | 19% |  |
 | 10 | 9% | 12% |  |
 | 11 | 1.3% | 3% | Last Result |
 | 12 | 2% | 2% |  |
