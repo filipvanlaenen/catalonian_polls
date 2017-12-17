@@ -94,7 +94,7 @@ Last result: **11** seats (General Election of 27 September 2015)
 | [4–13 December 2017](2017-12-13-NCReport.html) | NC Report <br> La Razón | 9 | 7–10 | 7–11 | 6–12 | 6–13 |
 | [5–13 December 2017](2017-12-13-MyWord.html) | MyWord <br> Cadena SER | 5 | 3–6 | 3–7 | 3–7 | 3–8 |
 | [4–13 December 2017](2017-12-13-Metroscopia.html) | Metroscopia <br> El País | 6 | 5–7 | 5–7 | 5–7 | 5–8 |
-| [4–13 December 2017](2017-12-13-Infortécnica.html) | Infortécnica <br> Segre | 7 | 6–9 | 5–10 | 5–10 | 5–10 |
+| [4–13 December 2017](2017-12-13-Infortécnica.html) | Infortécnica <br> Segre | 7 | 5–9 | 5–10 | 5–10 | 5–10 |
 | [11–13 December 2017](2017-12-13-AM.html) | A+M <br> 20minutos | 6 | 5–7 | 4–8 | 4–8 | 3–8 |
 | [5–12 December 2017](2017-12-12-Feedback.html) | Feedback <br> El Nacional | 6 | 5–7 | 4–8 | 3–9 | 3–9 |
 | [3–11 December 2017](2017-12-11-SocioMétrica.html) | SocioMétrica <br> El Español | 5 | 3–7 | 3–7 | 3–8 | 3–8 |

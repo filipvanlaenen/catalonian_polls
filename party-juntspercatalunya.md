@@ -116,7 +116,7 @@ Last result: **29** seats (General Election of 27 September 2015)
 | [4–13 December 2017](2017-12-13-NCReport.html) | NC Report <br> La Razón | 24 | 22–27 | 21–28 | 21–28 | 19–29 |
 | [5–13 December 2017](2017-12-13-MyWord.html) | MyWord <br> Cadena SER | 27 | 24–29 | 24–30 | 23–30 | 23–32 |
 | [4–13 December 2017](2017-12-13-Metroscopia.html) | Metroscopia <br> El País | 22 | 20–23 | 19–23 | 18–23 | 18–24 |
-| [4–13 December 2017](2017-12-13-Infortécnica.html) | Infortécnica <br> Segre | 27 | 25–29 | 24–30 | 24–30 | 23–32 |
+| [4–13 December 2017](2017-12-13-Infortécnica.html) | Infortécnica <br> Segre | 27 | 25–30 | 24–30 | 24–30 | 23–32 |
 | [11–13 December 2017](2017-12-13-AM.html) | A+M <br> 20minutos | 26 | 24–29 | 24–29 | 23–30 | 23–30 |
 | [5–12 December 2017](2017-12-12-Feedback.html) | Feedback <br> El Nacional | 28 | 25–30 | 24–31 | 23–31 | 23–32 |
 | [3–11 December 2017](2017-12-11-SocioMétrica.html) | SocioMétrica <br> El Español | 31 | 29–35 | 29–35 | 28–35 | 26–37 |
@@ -169,8 +169,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 25 | 9% | 65% |  |
 | 26 | 10% | 56% | Median |
 | 27 | 7% | 46% |  |
-| 28 | 6% | 38% |  |
-| 29 | 12% | 32% | Last Result |
+| 28 | 6% | 39% |  |
+| 29 | 12% | 33% | Last Result |
 | 30 | 6% | 21% |  |
 | 31 | 5% | 15% |  |
 | 32 | 3% | 11% |  |
