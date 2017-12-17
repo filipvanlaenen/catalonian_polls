@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Parliament of Catalonia</title>
     <link>https://filipvanlaenen.github.io/catalonian_polls</link>
     <description>All Registered Polls for the Parliament of Catalonia</description>
-    <pubDate>Sun, 17 Dec 2017 11:46:16 +0100</pubDate>
+    <pubDate>Sun, 17 Dec 2017 14:15:22 +0100</pubDate>
     <item>
       <title>Opinion Poll by GESOP for El Periódico, 13–15 December 2017 – Seat Projections</title>
       <link>https://filipvanlaenen.github.io/catalonian_polls/2017-12-15-GESOP.html#seats</link>
@@ -252,12 +252,12 @@
     <item>
       <title>Opinion Poll by Infortécnica for Segre, 4–13 December 2017 – Seat Projections</title>
       <link>https://filipvanlaenen.github.io/catalonian_polls/2017-12-13-Infortécnica.html#seats</link>
-      <description>&lt;ul&gt;&lt;li&gt;Esquerra Republicana de Catalunya–Catalunya Sí: 31–39 seats&lt;/li&gt;&lt;li&gt;Ciutadans–Partido de la Ciudadanía: 28–35 seats&lt;/li&gt;&lt;li&gt;Partit dels Socialistes de Catalunya (PSC-PSOE): 19–25 seats&lt;/li&gt;&lt;li&gt;Catalunya en Comú: 4–7 seats&lt;/li&gt;&lt;li&gt;Partit Popular: 5–10 seats&lt;/li&gt;&lt;li&gt;Candidatura d’Unitat Popular: 3–8 seats&lt;/li&gt;&lt;li&gt;Junts per Catalunya: 24–30 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <description>&lt;ul&gt;&lt;li&gt;Esquerra Republicana de Catalunya–Catalunya Sí: 31–39 seats&lt;/li&gt;&lt;li&gt;Ciutadans–Partido de la Ciudadanía: 27–35 seats&lt;/li&gt;&lt;li&gt;Partit dels Socialistes de Catalunya (PSC-PSOE): 19–25 seats&lt;/li&gt;&lt;li&gt;Catalunya en Comú: 4–7 seats&lt;/li&gt;&lt;li&gt;Partit Popular: 5–10 seats&lt;/li&gt;&lt;li&gt;Candidatura d’Unitat Popular: 3–8 seats&lt;/li&gt;&lt;li&gt;Junts per Catalunya: 24–30 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/catalonian_polls/2017-12-13-Infortécnica-seats.png"
-        length="181931"
+        length="181598"
         type="image/png"/>
-      <pubDate>Sat, 16 Dec 2017 11:33:20 +0100</pubDate>
-      <dc:date>2017-12-16T11:33:20.595422+01:00</dc:date>
+      <pubDate>Sun, 17 Dec 2017 14:15:22 +0100</pubDate>
+      <dc:date>2017-12-17T14:15:22.437088+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Infortécnica for Segre, 4–13 December 2017 – Voting Intentions</title>
@@ -266,8 +266,8 @@
       <enclosure url="https://filipvanlaenen.github.io/catalonian_polls/2017-12-13-Infortécnica.png"
         length="219402"
         type="image/png"/>
-      <pubDate>Sat, 16 Dec 2017 11:33:20 +0100</pubDate>
-      <dc:date>2017-12-16T11:33:20.595422+01:00</dc:date>
+      <pubDate>Sun, 17 Dec 2017 14:15:22 +0100</pubDate>
+      <dc:date>2017-12-17T14:15:22.437088+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by A+M for 20minutos, 11–13 December 2017 – Seat Projections</title>
@@ -869,6 +869,6 @@
       <pubDate>Mon, 13 Nov 2017 18:31:10 +0100</pubDate>
       <dc:date>2017-11-13T18:31:10.415733+01:00</dc:date>
     </item>
-    <dc:date>2017-12-17T11:46:16.924802+01:00</dc:date>
+    <dc:date>2017-12-17T14:15:22.437088+01:00</dc:date>
   </channel>
 </rss>
