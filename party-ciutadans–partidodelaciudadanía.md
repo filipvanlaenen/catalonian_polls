@@ -94,12 +94,12 @@ Last result: **25** seats (General Election of 27 September 2015)
 | [1–14 December 2017](2017-12-14-SocioMétrica.html) | SocioMétrica <br> El Español | 31 | 29–33 | 28–34 | 27–34 | 27–35 |
 | [12–14 December 2017](2017-12-14-GESOP.html) | GESOP <br> El Periódico | 29 | 26–31 | 25–32 | 25–33 | 24–34 |
 | [12–14 December 2017](2017-12-14-GAD3.html) | GAD3 <br> ABC | 31 | 29–34 | 28–34 | 27–35 | 26–37 |
-| [7–14 December 2017](2017-12-14-Feedback.html) | Feedback <br> El Nacional | 31 | 29–34 | 28–34 | 27–35 | 26–37 |
+| [7–14 December 2017](2017-12-14-Feedback.html) | Feedback <br> El Nacional | 31 | 29–34 | 28–34 | 27–35 | 26–36 |
 | [11–13 December 2017](2017-12-13-SigmaDos.html) | Sigma Dos <br> El Mundo | 31 | 29–33 | 29–34 | 28–34 | 27–35 |
 | [4–13 December 2017](2017-12-13-NCReport.html) | NC Report <br> La Razón | 30 | 27–32 | 26–33 | 26–34 | 25–35 |
 | [5–13 December 2017](2017-12-13-MyWord.html) | MyWord <br> Cadena SER | 31 | 27–33 | 27–34 | 26–34 | 26–36 |
 | [4–13 December 2017](2017-12-13-Metroscopia.html) | Metroscopia <br> El País | 34 | 33–36 | 33–37 | 33–37 | 32–38 |
-| [4–13 December 2017](2017-12-13-Infortécnica.html) | Infortécnica <br> Segre | 31 | 30–34 | 28–34 | 27–35 | 27–36 |
+| [4–13 December 2017](2017-12-13-Infortécnica.html) | Infortécnica <br> Segre | 31 | 30–34 | 29–35 | 28–35 | 27–36 |
 | [11–13 December 2017](2017-12-13-AM.html) | A+M <br> 20minutos | 33 | 31–35 | 31–36 | 30–37 | 28–38 |
 | [5–12 December 2017](2017-12-12-Feedback.html) | Feedback <br> El Nacional | 32 | 29–34 | 29–35 | 28–36 | 26–38 |
 | [3–11 December 2017](2017-12-11-SocioMétrica.html) | SocioMétrica <br> El Español | 30 | 27–33 | 26–33 | 26–34 | 25–35 |
