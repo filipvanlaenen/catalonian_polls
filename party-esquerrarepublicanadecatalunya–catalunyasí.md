@@ -11,7 +11,9 @@ Last result: **39.6%** (General Election of 27 September 2015)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 22.4% | 19.6–25.6% | 18.6–26.5% | 17.7–27.2% | 16.6–28.3% |
+| [13–15 December 2017](2017-12-15-GESOP.html) | GESOP <br> El Periódico | 22.1% | 20.3–24.1% | 19.8–24.6% | 19.4–25.1% | 18.5–26.1% |
 | [11–15 December 2017](2017-12-15-GAD3.html) | GAD3 <br> ABC | 20.3% | 19.1–21.7% | 18.7–22.1% | 18.4–22.5% | 17.8–23.1% |
+| [8–15 December 2017](2017-12-15-Feedback.html) | Feedback <br> El Nacional | 20.9% | 19.3–22.6% | 18.9–23.1% | 18.5–23.5% | 17.8–24.4% |
 | [11–14 December 2017](2017-12-14-TopPosition.html) | Top Position | 18.2% | 16.8–19.7% | 16.4–20.1% | 16.1–20.5% | 15.4–21.2% |
 | [1–14 December 2017](2017-12-14-SocioMétrica.html) | SocioMétrica <br> El Español | 21.1% | 19.8–22.5% | 19.4–22.9% | 19.1–23.3% | 18.5–24.0% |
 | [12–14 December 2017](2017-12-14-GESOP.html) | GESOP <br> El Periódico | 22.2% | 20.4–24.2% | 19.9–24.8% | 19.5–25.3% | 18.7–26.2% |
@@ -66,7 +68,7 @@ The following table shows the probability mass function per percentage block of 
 | 18.5–19.5% | 5% | 95% |  |
 | 19.5–20.5% | 10% | 90% |  |
 | 20.5–21.5% | 16% | 80% |  |
-| 21.5–22.5% | 17% | 65% | Median |
+| 21.5–22.5% | 16% | 64% | Median |
 | 22.5–23.5% | 17% | 48% |  |
 | 23.5–24.5% | 13% | 31% |  |
 | 24.5–25.5% | 8% | 18% |  |
@@ -96,7 +98,9 @@ Last result: **20** seats (General Election of 27 September 2015)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 34 | 30–39 | 29–42 | 27–44 | 26–45 |
+| [13–15 December 2017](2017-12-15-GESOP.html) | GESOP <br> El Periódico | 34 | 31–37 | 30–38 | 29–38 | 28–40 |
 | [11–15 December 2017](2017-12-15-GAD3.html) | GAD3 <br> ABC | 31 | 29–32 | 28–33 | 27–34 | 26–35 |
+| [8–15 December 2017](2017-12-15-Feedback.html) | Feedback <br> El Nacional | 31 | 29–35 | 29–35 | 28–36 | 26–37 |
 | [11–14 December 2017](2017-12-14-TopPosition.html) | Top Position | 28 | 26–31 | 25–31 | 25–32 | 24–33 |
 | [1–14 December 2017](2017-12-14-SocioMétrica.html) | SocioMétrica <br> El Español | 32 | 30–34 | 29–35 | 29–35 | 29–36 |
 | [12–14 December 2017](2017-12-14-GESOP.html) | GESOP <br> El Periódico | 34 | 31–37 | 30–38 | 29–38 | 28–40 |
@@ -157,9 +161,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 28 | 2% | 97% |  |
 | 29 | 4% | 95% |  |
 | 30 | 5% | 91% |  |
-| 31 | 10% | 86% |  |
+| 31 | 10% | 85% |  |
 | 32 | 14% | 75% |  |
-| 33 | 8% | 62% |  |
+| 33 | 7% | 61% |  |
 | 34 | 7% | 54% | Median |
 | 35 | 11% | 47% |  |
 | 36 | 11% | 36% |  |
@@ -167,7 +171,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 38 | 6% | 17% |  |
 | 39 | 2% | 11% |  |
 | 40 | 2% | 9% |  |
-| 41 | 1.5% | 8% |  |
+| 41 | 1.4% | 8% |  |
 | 42 | 2% | 6% |  |
 | 43 | 2% | 4% |  |
 | 44 | 2% | 3% |  |
