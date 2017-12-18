@@ -11,7 +11,7 @@ The table below lists the polls on which the average is based. They are the most
 | 27 September 2015 | General Election | 39.6% <br> 62 | 39.6% <br> 29 | 39.6% <br> 29 | 39.6% <br> 20 | 17.9% <br> 25 | 12.7% <br> 16 | 8.9% <br> 11 | 8.5% <br> 11 | 8.2% <br> 10 |
 | N/A | Poll Average | N/A <br> N/A | N/A <br> N/A | 12–23% <br> 18–37 | 18–27% <br> 27–44 | 18–26% <br> 25–37 | 11–18% <br> 15–24 | 5–10% <br> 5–12 | 4–8% <br> 4–11 | 4–9% <br> 4–11 |
 | [14–16 December 2017](2017-12-16-GESOP.html) | GESOP <br> El Periódico | N/A <br> N/A | N/A <br> N/A | 15–21% <br> 23–31 | 19–24% <br> 28–37 | 19–24% <br> 25–33 | 14–20% <br> 18–25 | 7–11% <br> 8–13 | 4–7% <br> 3–9 | 5–8% <br> 5–10 |
-| [9–16 December 2017](2017-12-16-Feedback.html) | Feedback <br> El Nacional | N/A <br> N/A | N/A <br> N/A | 17–22% <br> 25–32 | 18–23% <br> 28–35 | 22–27% <br> 29–37 | 12–17% <br> 15–22 | 6–9% <br> 5–10 | 4–7% <br> 4–9 | 7–10% <br> 9–13 |
+| [9–16 December 2017](2017-12-16-Feedback.html) | Feedback <br> El Nacional | N/A <br> N/A | N/A <br> N/A | 17–22% <br> 25–32 | 18–23% <br> 27–35 | 22–27% <br> 29–37 | 12–17% <br> 15–22 | 6–9% <br> 5–10 | 4–7% <br> 4–9 | 7–10% <br> 9–13 |
 | [11–15 December 2017](2017-12-15-GAD3.html) | GAD3 <br> ABC | N/A <br> N/A | N/A <br> N/A | 17–21% <br> 26–32 | 18–22% <br> 27–34 | 23–27% <br> 31–38 | 14–18% <br> 18–24 | 6–9% <br> 5–9 | 4–7% <br> 4–8 | 4–7% <br> 4–9 |
 | [11–14 December 2017](2017-12-14-TopPosition.html) | Top Position | N/A <br> N/A | N/A <br> N/A | 20–25% <br> 32–39 | 16–20% <br> 25–32 | 22–27% <br> 31–39 | 10–14% <br> 13–18 | 5–7% <br> 4–8 | 4–7% <br> 5–9 | 6–9% <br> 8–11 |
 | [1–14 December 2017](2017-12-14-SocioMétrica.html) | SocioMétrica <br> El Español | N/A <br> N/A | N/A <br> N/A | 18–22% <br> 28–34 | 19–23% <br> 29–35 | 21–25% <br> 27–34 | 12–16% <br> 15–22 | 8–11% <br> 8–13 | 4–7% <br> 5–8 | 5–7% <br> 5–9 |
@@ -262,7 +262,7 @@ Only polls for which at least the sample size has been published are included in
 | 24 | 0.1% | 100% |  |
 | 25 | 0.3% | 99.9% |  |
 | 26 | 1.2% | 99.5% |  |
-| 27 | 1.2% | 98% |  |
+| 27 | 1.3% | 98% |  |
 | 28 | 2% | 97% |  |
 | 29 | 5% | 95% |  |
 | 30 | 6% | 90% |  |
@@ -307,7 +307,7 @@ Only polls for which at least the sample size has been published are included in
 | 26 | 10% | 57% | Median |
 | 27 | 8% | 46% |  |
 | 28 | 6% | 39% |  |
-| 29 | 12% | 32% | Last Result |
+| 29 | 12% | 33% | Last Result |
 | 30 | 6% | 20% |  |
 | 31 | 4% | 14% |  |
 | 32 | 3% | 10% |  |
@@ -339,7 +339,7 @@ Only polls for which at least the sample size has been published are included in
 | 30 | 10% | 77% |  |
 | 31 | 19% | 67% | Median |
 | 32 | 12% | 48% |  |
-| 33 | 12% | 36% |  |
+| 33 | 12% | 37% |  |
 | 34 | 13% | 25% |  |
 | 35 | 6% | 12% |  |
 | 36 | 3% | 6% |  |
@@ -363,7 +363,7 @@ Only polls for which at least the sample size has been published are included in
 | 15 | 3% | 98% |  |
 | 16 | 8% | 95% | Last Result |
 | 17 | 9% | 87% |  |
-| 18 | 11% | 78% |  |
+| 18 | 10% | 78% |  |
 | 19 | 12% | 68% |  |
 | 20 | 10% | 56% | Median |
 | 21 | 8% | 46% |  |
@@ -387,7 +387,7 @@ Only polls for which at least the sample size has been published are included in
 | 5 | 10% | 98% |  |
 | 6 | 10% | 88% |  |
 | 7 | 6% | 79% |  |
-| 8 | 19% | 72% |  |
+| 8 | 20% | 72% |  |
 | 9 | 22% | 53% | Median |
 | 10 | 6% | 31% |  |
 | 11 | 17% | 25% | Last Result |
@@ -434,7 +434,7 @@ Only polls for which at least the sample size has been published are included in
 | 9 | 24% | 35% |  |
 | 10 | 7% | 10% | Last Result |
 | 11 | 1.5% | 3% |  |
-| 12 | 1.3% | 2% |  |
+| 12 | 2% | 2% |  |
 | 13 | 0.1% | 0.3% |  |
 | 14 | 0.1% | 0.2% |  |
 | 15 | 0.1% | 0.1% |  |
@@ -467,7 +467,7 @@ Only polls for which at least the sample size has been published are included in
 | 64 | 3% | 98% |  |
 | 65 | 6% | 95% |  |
 | 66 | 9% | 89% |  |
-| 67 | 12% | 80% |  |
+| 67 | 12% | 79% |  |
 | 68 | 13% | 67% | Majority |
 | 69 | 13% | 54% | Median |
 | 70 | 11% | 41% |  |
@@ -497,7 +497,7 @@ Only polls for which at least the sample size has been published are included in
 | 65 | 8% | 90% |  |
 | 66 | 10% | 82% |  |
 | 67 | 12% | 72% |  |
-| 68 | 13% | 60% | Median, Majority |
+| 68 | 12% | 60% | Median, Majority |
 | 69 | 13% | 47% |  |
 | 70 | 10% | 35% |  |
 | 71 | 7% | 24% |  |
@@ -524,7 +524,7 @@ Only polls for which at least the sample size has been published are included in
 | 64 | 7% | 83% |  |
 | 65 | 10% | 76% |  |
 | 66 | 13% | 65% | Median |
-| 67 | 13% | 53% |  |
+| 67 | 12% | 53% |  |
 | 68 | 12% | 40% | Majority |
 | 69 | 10% | 28% |  |
 | 70 | 8% | 18% |  |
@@ -550,8 +550,8 @@ Only polls for which at least the sample size has been published are included in
 | 51 | 1.4% | 95% |  |
 | 52 | 0.9% | 93% |  |
 | 53 | 0.8% | 92% |  |
-| 54 | 1.0% | 92% |  |
-| 55 | 2% | 91% |  |
+| 54 | 1.0% | 91% |  |
+| 55 | 2% | 90% |  |
 | 56 | 3% | 89% |  |
 | 57 | 4% | 86% |  |
 | 58 | 4% | 82% |  |
@@ -563,10 +563,10 @@ Only polls for which at least the sample size has been published are included in
 | 64 | 11% | 42% |  |
 | 65 | 10% | 31% |  |
 | 66 | 7% | 21% |  |
-| 67 | 5% | 13% |  |
+| 67 | 5% | 14% |  |
 | 68 | 3% | 8% | Majority |
 | 69 | 2% | 5% |  |
-| 70 | 1.2% | 2% |  |
+| 70 | 1.3% | 2% |  |
 | 71 | 0.6% | 1.2% |  |
 | 72 | 0.3% | 0.5% |  |
 | 73 | 0.1% | 0.2% |  |
@@ -588,8 +588,8 @@ Only polls for which at least the sample size has been published are included in
 | 57 | 8% | 89% |  |
 | 58 | 9% | 81% |  |
 | 59 | 11% | 73% |  |
-| 60 | 13% | 62% | Median |
-| 61 | 14% | 50% |  |
+| 60 | 12% | 62% | Median |
+| 61 | 14% | 49% |  |
 | 62 | 10% | 36% |  |
 | 63 | 7% | 26% |  |
 | 64 | 6% | 18% |  |
@@ -609,7 +609,7 @@ Only polls for which at least the sample size has been published are included in
 | 48 | 0.1% | 100% |  |
 | 49 | 0.2% | 99.9% |  |
 | 50 | 0.4% | 99.8% |  |
-| 51 | 1.1% | 99.4% |  |
+| 51 | 1.1% | 99.3% |  |
 | 52 | 2% | 98% | Last Result |
 | 53 | 4% | 96% |  |
 | 54 | 6% | 92% |  |
@@ -617,7 +617,7 @@ Only polls for which at least the sample size has been published are included in
 | 56 | 10% | 78% |  |
 | 57 | 11% | 68% | Median |
 | 58 | 11% | 56% |  |
-| 59 | 11% | 45% |  |
+| 59 | 12% | 45% |  |
 | 60 | 11% | 33% |  |
 | 61 | 9% | 23% |  |
 | 62 | 6% | 14% |  |
