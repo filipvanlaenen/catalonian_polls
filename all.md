@@ -5,6 +5,8 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | JxSí | PDeCAT | JuntsxCat | ERC | Cs | PSC | CatComú | PP | CUP |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 27 September 2015 | General Election | 39.6% <br> 62 | 39.6% <br> 29 | 39.6% <br> 29 | 39.6% <br> 20 | 17.9% <br> 25 | 12.7% <br> 16 | 8.9% <br> 11 | 8.5% <br> 11 | 8.2% <br> 10 |
+| [14–16 December 2017](2017-12-16-GESOP.html) | GESOP <br> El Periódico | N/A <br> N/A | N/A <br> N/A | 15–21% <br> 23–31 | 19–24% <br> 28–37 | 19–24% <br> 25–33 | 14–20% <br> 18–25 | 7–11% <br> 8–13 | 4–7% <br> 3–9 | 5–8% <br> 5–10 |
+| [9–16 December 2017](2017-12-16-Feedback.html) | Feedback <br> El Nacional | N/A <br> N/A | N/A <br> N/A | 17–22% <br> 25–32 | 18–23% <br> 28–35 | 22–27% <br> 29–37 | 12–17% <br> 15–22 | 6–9% <br> 5–10 | 4–7% <br> 4–9 | 7–10% <br> 9–13 |
 | [13–15 December 2017](2017-12-15-GESOP.html) | GESOP <br> El Periódico | N/A <br> N/A | N/A <br> N/A | 15–20% <br> 23–31 | 19–25% <br> 29–38 | 19–24% <br> 25–33 | 15–20% <br> 19–26 | 7–11% <br> 7–13 | 4–7% <br> 3–9 | 5–8% <br> 5–10 |
 | [11–15 December 2017](2017-12-15-GAD3.html) | GAD3 <br> ABC | N/A <br> N/A | N/A <br> N/A | 17–21% <br> 26–32 | 18–22% <br> 27–34 | 23–27% <br> 31–38 | 14–18% <br> 18–24 | 6–9% <br> 5–9 | 4–7% <br> 4–8 | 4–7% <br> 4–9 |
 | [8–15 December 2017](2017-12-15-Feedback.html) | Feedback <br> El Nacional | N/A <br> N/A | N/A <br> N/A | 17–22% <br> 25–33 | 18–24% <br> 28–36 | 22–27% <br> 29–38 | 12–16% <br> 15–22 | 6–9% <br> 5–10 | 4–7% <br> 4–9 | 7–10% <br> 9–13 |
