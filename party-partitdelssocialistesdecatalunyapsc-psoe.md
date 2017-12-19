@@ -90,7 +90,7 @@ Last result: **16** seats (General Election of 27 September 2015)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 20 | 16–23 | 15–23 | 15–24 | 14–25 |
 | [15–17 December 2017](2017-12-17-GESOP.html) | GESOP <br> El Periòdic | 22 | 18–23 | 17–24 | 17–24 | 16–25 |
-| [10–17 December 2017](2017-12-17-Feedback.html) | Feedback <br> The National | 18 | 16–20 | 15–22 | 15–22 | 14–23 |
+| [10–17 December 2017](2017-12-17-Feedback.html) | Feedback <br> The National | 18 | 16–21 | 15–22 | 15–22 | 14–23 |
 | [14–16 December 2017](2017-12-16-GESOP.html) | GESOP <br> El Periòdic | 23 | 20–24 | 19–25 | 18–25 | 17–27 |
 | [9–16 December 2017](2017-12-16-Feedback.html) | Feedback <br> The National | 18 | 16–21 | 15–22 | 15–22 | 15–23 |
 | [13–15 December 2017](2017-12-15-GESOP.html) | GESOP <br> El Periódico | 23 | 21–25 | 19–25 | 19–26 | 17–28 |
@@ -150,7 +150,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 14 | 1.5% | 99.8% |  |
 | 15 | 4% | 98% |  |
 | 16 | 8% | 95% | Last Result |
-| 17 | 10% | 87% |  |
+| 17 | 9% | 87% |  |
 | 18 | 11% | 77% |  |
 | 19 | 12% | 67% |  |
 | 20 | 10% | 54% | Median |
