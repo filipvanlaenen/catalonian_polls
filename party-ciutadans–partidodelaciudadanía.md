@@ -10,9 +10,11 @@ Last result: **17.9%** (General Election of 27 September 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 23.1% | 20.2–25.5% | 18.7–26.0% | 18.0–26.4% | 17.0–27.3% |
-| [14–16 December 2017](2017-12-16-GESOP.html) | GESOP <br> El Periódico | 21.2% | 19.5–23.2% | 19.0–23.7% | 18.5–24.2% | 17.7–25.2% |
-| [9–16 December 2017](2017-12-16-Feedback.html) | Feedback <br> El Nacional | 24.1% | 22.4–25.9% | 21.9–26.4% | 21.6–26.9% | 20.8–27.7% |
+| N/A | [Poll Average](average.html) | 23.2% | 20.5–25.5% | 18.8–26.0% | 18.0–26.4% | 17.1–27.3% |
+| [15–17 December 2017](2017-12-17-GESOP.html) | GESOP <br> El Periòdic | 22.5% | 20.7–24.5% | 20.2–25.0% | 19.7–25.5% | 18.9–26.5% |
+| [10–17 December 2017](2017-12-17-Feedback.html) | Feedback <br> The National | 24.0% | 22.3–25.8% | 21.9–26.3% | 21.4–26.7% | 20.7–27.6% |
+| [14–16 December 2017](2017-12-16-GESOP.html) | GESOP <br> El Periòdic | 21.2% | 19.5–23.2% | 19.0–23.7% | 18.5–24.2% | 17.7–25.2% |
+| [9–16 December 2017](2017-12-16-Feedback.html) | Feedback <br> The National | 24.1% | 22.4–25.9% | 21.9–26.4% | 21.6–26.9% | 20.8–27.7% |
 | [13–15 December 2017](2017-12-15-GESOP.html) | GESOP <br> El Periódico | 21.4% | 19.6–23.3% | 19.1–23.9% | 18.7–24.4% | 17.8–25.3% |
 | [11–15 December 2017](2017-12-15-GAD3.html) | GAD3 <br> ABC | 25.1% | 23.7–26.6% | 23.3–27.0% | 23.0–27.4% | 22.3–28.1% |
 | [8–15 December 2017](2017-12-15-Feedback.html) | Feedback <br> El Nacional | 24.2% | 22.5–26.0% | 22.1–26.5% | 21.6–27.0% | 20.9–27.8% |
@@ -68,11 +70,11 @@ The following table shows the probability mass function per percentage block of 
 | 16.5–17.5% | 1.2% | 99.9% |  |
 | 17.5–18.5% | 3% | 98.7% | Last Result |
 | 18.5–19.5% | 3% | 96% |  |
-| 19.5–20.5% | 4% | 92% |  |
-| 20.5–21.5% | 9% | 88% |  |
-| 21.5–22.5% | 17% | 79% |  |
-| 22.5–23.5% | 20% | 62% | Median |
-| 23.5–24.5% | 18% | 42% |  |
+| 19.5–20.5% | 3% | 93% |  |
+| 20.5–21.5% | 8% | 90% |  |
+| 21.5–22.5% | 17% | 81% |  |
+| 22.5–23.5% | 21% | 64% | Median |
+| 23.5–24.5% | 19% | 43% |  |
 | 24.5–25.5% | 15% | 24% |  |
 | 25.5–26.5% | 7% | 9% |  |
 | 26.5–27.5% | 2% | 2% |  |
@@ -89,8 +91,10 @@ Last result: **25** seats (General Election of 27 September 2015)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 31 | 27–35 | 26–36 | 25–37 | 24–38 |
-| [14–16 December 2017](2017-12-16-GESOP.html) | GESOP <br> El Periódico | 29 | 26–31 | 25–33 | 25–33 | 24–34 |
-| [9–16 December 2017](2017-12-16-Feedback.html) | Feedback <br> El Nacional | 33 | 30–35 | 30–36 | 29–37 | 27–38 |
+| [15–17 December 2017](2017-12-17-GESOP.html) | GESOP <br> El Periòdic | 31 | 27–33 | 27–34 | 26–35 | 25–36 |
+| [10–17 December 2017](2017-12-17-Feedback.html) | Feedback <br> The National | 33 | 30–35 | 30–36 | 29–37 | 27–38 |
+| [14–16 December 2017](2017-12-16-GESOP.html) | GESOP <br> El Periòdic | 29 | 26–31 | 25–33 | 25–33 | 24–34 |
+| [9–16 December 2017](2017-12-16-Feedback.html) | Feedback <br> The National | 33 | 30–35 | 30–36 | 29–37 | 27–38 |
 | [13–15 December 2017](2017-12-15-GESOP.html) | GESOP <br> El Periódico | 29 | 26–32 | 25–33 | 25–33 | 24–34 |
 | [11–15 December 2017](2017-12-15-GAD3.html) | GAD3 <br> ABC | 34 | 32–36 | 31–37 | 31–38 | 30–39 |
 | [8–15 December 2017](2017-12-15-Feedback.html) | Feedback <br> El Nacional | 33 | 30–35 | 30–36 | 29–38 | 28–38 |
@@ -144,21 +148,21 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 23 | 0.1% | 100% |  |
-| 24 | 0.8% | 99.9% |  |
-| 25 | 3% | 99.1% | Last Result |
-| 26 | 5% | 96% |  |
-| 27 | 4% | 91% |  |
-| 28 | 4% | 88% |  |
-| 29 | 6% | 83% |  |
-| 30 | 10% | 77% |  |
-| 31 | 19% | 67% | Median |
-| 32 | 12% | 48% |  |
+| 24 | 0.7% | 99.9% |  |
+| 25 | 3% | 99.2% | Last Result |
+| 26 | 4% | 96% |  |
+| 27 | 3% | 92% |  |
+| 28 | 3% | 89% |  |
+| 29 | 6% | 85% |  |
+| 30 | 10% | 79% |  |
+| 31 | 19% | 69% | Median |
+| 32 | 12% | 50% |  |
 | 33 | 12% | 37% |  |
 | 34 | 13% | 25% |  |
 | 35 | 6% | 12% |  |
 | 36 | 3% | 6% |  |
 | 37 | 1.4% | 3% |  |
-| 38 | 1.0% | 1.5% |  |
+| 38 | 1.0% | 1.4% |  |
 | 39 | 0.4% | 0.4% |  |
 | 40 | 0.1% | 0.1% |  |
 | 41 | 0% | 0% |  |

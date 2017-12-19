@@ -10,9 +10,11 @@ Last result: **8.9%** (General Election of 27 September 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8.0% | 5.8–9.6% | 5.4–10.0% | 5.1–10.3% | 4.6–10.9% |
-| [14–16 December 2017](2017-12-16-GESOP.html) | GESOP <br> El Periódico | 8.8% | 7.6–10.2% | 7.3–10.6% | 7.0–10.9% | 6.5–11.6% |
-| [9–16 December 2017](2017-12-16-Feedback.html) | Feedback <br> El Nacional | 7.1% | 6.2–8.3% | 5.9–8.6% | 5.7–8.9% | 5.2–9.4% |
+| N/A | [Poll Average](average.html) | 8.0% | 5.8–9.6% | 5.4–10.0% | 5.1–10.3% | 4.6–11.0% |
+| [15–17 December 2017](2017-12-17-GESOP.html) | GESOP <br> El Periòdic | 9.0% | 7.8–10.4% | 7.5–10.8% | 7.2–11.2% | 6.7–11.9% |
+| [10–17 December 2017](2017-12-17-Feedback.html) | Feedback <br> The National | 6.8% | 5.9–7.9% | 5.6–8.3% | 5.4–8.5% | 5.0–9.1% |
+| [14–16 December 2017](2017-12-16-GESOP.html) | GESOP <br> El Periòdic | 8.8% | 7.6–10.2% | 7.3–10.6% | 7.0–10.9% | 6.5–11.6% |
+| [9–16 December 2017](2017-12-16-Feedback.html) | Feedback <br> The National | 7.1% | 6.2–8.3% | 5.9–8.6% | 5.7–8.9% | 5.2–9.4% |
 | [13–15 December 2017](2017-12-15-GESOP.html) | GESOP <br> El Periódico | 8.5% | 7.3–9.9% | 7.0–10.3% | 6.8–10.6% | 6.2–11.4% |
 | [11–15 December 2017](2017-12-15-GAD3.html) | GAD3 <br> ABC | 7.1% | 6.3–8.0% | 6.1–8.3% | 5.9–8.5% | 5.5–9.0% |
 | [8–15 December 2017](2017-12-15-Feedback.html) | Feedback <br> El Nacional | 7.1% | 6.2–8.3% | 5.9–8.6% | 5.7–8.9% | 5.2–9.4% |
@@ -66,12 +68,12 @@ The following table shows the probability mass function per percentage block of 
 | 2.5–3.5% | 0% | 100% |  |
 | 3.5–4.5% | 0.5% | 100% |  |
 | 4.5–5.5% | 7% | 99.5% |  |
-| 5.5–6.5% | 15% | 93% |  |
-| 6.5–7.5% | 18% | 78% |  |
-| 7.5–8.5% | 23% | 60% | Median |
-| 8.5–9.5% | 25% | 36% | Last Result |
-| 9.5–10.5% | 10% | 11% |  |
-| 10.5–11.5% | 1.2% | 1.3% |  |
+| 5.5–6.5% | 16% | 93% |  |
+| 6.5–7.5% | 18% | 77% |  |
+| 7.5–8.5% | 22% | 59% | Median |
+| 8.5–9.5% | 25% | 37% | Last Result |
+| 9.5–10.5% | 10% | 12% |  |
+| 10.5–11.5% | 1.4% | 2% |  |
 | 11.5–12.5% | 0.1% | 0.1% |  |
 | 12.5–13.5% | 0% | 0% |  |
 
@@ -85,8 +87,10 @@ Last result: **11** seats (General Election of 27 September 2015)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 9 | 5–11 | 5–12 | 5–12 | 4–14 |
-| [14–16 December 2017](2017-12-16-GESOP.html) | GESOP <br> El Periódico | 10 | 8–12 | 8–13 | 8–13 | 6–14 |
-| [9–16 December 2017](2017-12-16-Feedback.html) | Feedback <br> El Nacional | 8 | 6–9 | 5–9 | 5–10 | 5–11 |
+| [15–17 December 2017](2017-12-17-GESOP.html) | GESOP <br> El Periòdic | 10 | 9–12 | 8–13 | 8–14 | 7–15 |
+| [10–17 December 2017](2017-12-17-Feedback.html) | Feedback <br> The National | 7 | 5–8 | 5–9 | 5–9 | 5–11 |
+| [14–16 December 2017](2017-12-16-GESOP.html) | GESOP <br> El Periòdic | 10 | 8–12 | 8–13 | 8–13 | 6–14 |
+| [9–16 December 2017](2017-12-16-Feedback.html) | Feedback <br> The National | 8 | 6–9 | 5–9 | 5–10 | 5–11 |
 | [13–15 December 2017](2017-12-15-GESOP.html) | GESOP <br> El Periódico | 9 | 8–12 | 8–12 | 7–13 | 6–14 |
 | [11–15 December 2017](2017-12-15-GAD3.html) | GAD3 <br> ABC | 8 | 6–9 | 6–9 | 5–9 | 5–10 |
 | [8–15 December 2017](2017-12-15-Feedback.html) | Feedback <br> El Nacional | 8 | 6–9 | 5–9 | 5–10 | 5–11 |
@@ -142,14 +146,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 4 | 2% | 100% |  |
 | 5 | 10% | 98% |  |
 | 6 | 10% | 88% |  |
-| 7 | 6% | 79% |  |
-| 8 | 20% | 72% |  |
+| 7 | 6% | 78% |  |
+| 8 | 19% | 72% |  |
 | 9 | 22% | 53% | Median |
 | 10 | 6% | 31% |  |
 | 11 | 17% | 25% | Last Result |
-| 12 | 6% | 7% |  |
+| 12 | 6% | 8% |  |
 | 13 | 1.2% | 2% |  |
-| 14 | 0.5% | 0.6% |  |
-| 15 | 0% | 0% |  |
+| 14 | 0.6% | 0.7% |  |
+| 15 | 0.1% | 0.1% |  |
+| 16 | 0% | 0% |  |
 
 
