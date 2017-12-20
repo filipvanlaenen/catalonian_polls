@@ -73,7 +73,7 @@ The following table shows the probability mass function per percentage block of 
 | 15.5–16.5% | 0.4% | 100% |  |
 | 16.5–17.5% | 1.4% | 99.6% |  |
 | 17.5–18.5% | 3% | 98% |  |
-| 18.5–19.5% | 4% | 95% |  |
+| 18.5–19.5% | 4% | 96% |  |
 | 19.5–20.5% | 9% | 91% |  |
 | 20.5–21.5% | 15% | 82% |  |
 | 21.5–22.5% | 17% | 67% |  |
@@ -105,13 +105,13 @@ Last result: **20** seats (General Election of 27 September 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 35 | 30–39 | 29–42 | 27–44 | 26–45 |
-| [12–19 December 2017](2017-12-19-Feedback.html) | Feedback <br> The National | 35 | 34–35 | 32–35 | 29–35 | 29–36 |
-| [16–18 December 2017](2017-12-18-GESOP.html) | GESOP <br> El Periòdic | 36 | 32–39 | 31–40 | 30–41 | 29–42 |
+| N/A | [Poll Average](average.html) | 34 | 30–39 | 29–42 | 27–43 | 26–45 |
+| [12–19 December 2017](2017-12-19-Feedback.html) | Feedback <br> The National | 33 | 30–36 | 30–37 | 29–37 | 28–38 |
+| [16–18 December 2017](2017-12-18-GESOP.html) | GESOP <br> El Periòdic | 36 | 32–38 | 31–40 | 31–41 | 29–42 |
 | [11–18 December 2017](2017-12-18-Feedback.html) | Feedback <br> The National | 32 | 29–35 | 29–36 | 28–37 | 26–38 |
 | [15–17 December 2017](2017-12-17-GESOP.html) | GESOP <br> El Periòdic | 32 | 29–35 | 29–37 | 28–37 | 27–38 |
 | [10–17 December 2017](2017-12-17-Feedback.html) | Feedback <br> The National | 32 | 29–35 | 29–35 | 28–36 | 26–37 |
-| [12–16 December 2017](2017-12-16-Netquest.html) | Netquest <br> L’Indépendant | 35 | 31–37 | 31–37 | 31–38 | 28–40 |
+| [12–16 December 2017](2017-12-16-Netquest.html) | Netquest <br> L’Indépendant | 34 | 31–37 | 31–38 | 30–38 | 29–40 |
 | [14–16 December 2017](2017-12-16-GESOP.html) | GESOP <br> El Periòdic | 32 | 29–35 | 29–36 | 28–37 | 26–38 |
 | [9–16 December 2017](2017-12-16-Feedback.html) | Feedback <br> The National | 31 | 29–34 | 28–35 | 27–35 | 26–37 |
 | [13–15 December 2017](2017-12-15-GESOP.html) | GESOP <br> El Periódico | 34 | 31–37 | 30–38 | 29–38 | 28–40 |
@@ -173,25 +173,25 @@ The following table shows the probability mass function per seat for the [poll a
 | 24 | 0.1% | 100% |  |
 | 25 | 0.3% | 99.9% |  |
 | 26 | 1.1% | 99.6% |  |
-| 27 | 1.1% | 98% |  |
+| 27 | 1.0% | 98.5% |  |
 | 28 | 2% | 97% |  |
-| 29 | 3% | 95% |  |
+| 29 | 3% | 96% |  |
 | 30 | 5% | 92% |  |
-| 31 | 8% | 88% |  |
-| 32 | 11% | 79% |  |
-| 33 | 6% | 68% |  |
-| 34 | 9% | 61% |  |
-| 35 | 15% | 52% | Median |
+| 31 | 9% | 88% |  |
+| 32 | 14% | 79% |  |
+| 33 | 7% | 65% |  |
+| 34 | 8% | 58% | Median |
+| 35 | 12% | 50% |  |
 | 36 | 11% | 38% |  |
 | 37 | 9% | 27% |  |
-| 38 | 6% | 18% |  |
-| 39 | 2% | 12% |  |
+| 38 | 6% | 17% |  |
+| 39 | 2% | 11% |  |
 | 40 | 2% | 9% |  |
-| 41 | 2% | 8% |  |
+| 41 | 1.5% | 7% |  |
 | 42 | 2% | 6% |  |
 | 43 | 2% | 4% |  |
-| 44 | 2% | 3% |  |
-| 45 | 0.5% | 0.7% |  |
+| 44 | 2% | 2% |  |
+| 45 | 0.4% | 0.6% |  |
 | 46 | 0.2% | 0.2% |  |
 | 47 | 0% | 0.1% |  |
 | 48 | 0% | 0% |  |
