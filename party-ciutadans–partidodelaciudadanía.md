@@ -10,7 +10,9 @@ Last result: **17.9%** (General Election of 27 September 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 23.2% | 20.5–25.5% | 18.8–26.0% | 18.0–26.4% | 17.1–27.3% |
+| N/A | [Poll Average](average.html) | 23.3% | 20.5–25.5% | 18.8–26.0% | 18.0–26.5% | 17.1–27.3% |
+| [16–18 December 2017](2017-12-18-GESOP.html) | GESOP <br> El Periòdic | 23.2% | 21.4–25.3% | 20.9–25.8% | 20.5–26.3% | 19.6–27.3% |
+| [11–18 December 2017](2017-12-18-Feedback.html) | Feedback <br> The National | 24.0% | 22.3–25.8% | 21.9–26.3% | 21.4–26.7% | 20.7–27.6% |
 | [15–17 December 2017](2017-12-17-GESOP.html) | GESOP <br> El Periòdic | 22.5% | 20.7–24.5% | 20.2–25.0% | 19.7–25.5% | 18.9–26.5% |
 | [10–17 December 2017](2017-12-17-Feedback.html) | Feedback <br> The National | 24.0% | 22.3–25.8% | 21.9–26.3% | 21.4–26.7% | 20.7–27.6% |
 | [14–16 December 2017](2017-12-16-GESOP.html) | GESOP <br> El Periòdic | 21.2% | 19.5–23.2% | 19.0–23.7% | 18.5–24.2% | 17.7–25.2% |
@@ -72,13 +74,13 @@ The following table shows the probability mass function per percentage block of 
 | 18.5–19.5% | 3% | 96% |  |
 | 19.5–20.5% | 3% | 93% |  |
 | 20.5–21.5% | 8% | 90% |  |
-| 21.5–22.5% | 17% | 81% |  |
-| 22.5–23.5% | 21% | 64% | Median |
-| 23.5–24.5% | 19% | 43% |  |
-| 24.5–25.5% | 15% | 24% |  |
-| 25.5–26.5% | 7% | 9% |  |
+| 21.5–22.5% | 17% | 82% |  |
+| 22.5–23.5% | 21% | 65% | Median |
+| 23.5–24.5% | 19% | 44% |  |
+| 24.5–25.5% | 15% | 25% |  |
+| 25.5–26.5% | 8% | 10% |  |
 | 26.5–27.5% | 2% | 2% |  |
-| 27.5–28.5% | 0.2% | 0.3% |  |
+| 27.5–28.5% | 0.3% | 0.3% |  |
 | 28.5–29.5% | 0% | 0% |  |
 
 
@@ -91,6 +93,8 @@ Last result: **25** seats (General Election of 27 September 2015)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 31 | 27–35 | 26–36 | 25–37 | 24–38 |
+| [16–18 December 2017](2017-12-18-GESOP.html) | GESOP <br> El Periòdic | 31 | 31–37 | 28–37 | 28–37 | 26–37 |
+| [11–18 December 2017](2017-12-18-Feedback.html) | Feedback <br> The National | 32 | 30–35 | 29–36 | 29–37 | 27–38 |
 | [15–17 December 2017](2017-12-17-GESOP.html) | GESOP <br> El Periòdic | 31 | 27–33 | 27–34 | 26–35 | 25–36 |
 | [10–17 December 2017](2017-12-17-Feedback.html) | Feedback <br> The National | 33 | 30–35 | 30–36 | 29–37 | 27–38 |
 | [14–16 December 2017](2017-12-16-GESOP.html) | GESOP <br> El Periòdic | 29 | 26–31 | 25–33 | 25–33 | 24–34 |
@@ -152,17 +156,17 @@ The following table shows the probability mass function per seat for the [poll a
 | 25 | 3% | 99.2% | Last Result |
 | 26 | 4% | 96% |  |
 | 27 | 3% | 92% |  |
-| 28 | 4% | 89% |  |
-| 29 | 6% | 85% |  |
-| 30 | 10% | 79% |  |
-| 31 | 19% | 69% | Median |
-| 32 | 12% | 50% |  |
+| 28 | 4% | 90% |  |
+| 29 | 5% | 86% |  |
+| 30 | 9% | 81% |  |
+| 31 | 23% | 72% | Median |
+| 32 | 12% | 49% |  |
 | 33 | 12% | 37% |  |
-| 34 | 13% | 25% |  |
-| 35 | 7% | 12% |  |
-| 36 | 3% | 6% |  |
-| 37 | 1.4% | 3% |  |
-| 38 | 1.0% | 1.4% |  |
+| 34 | 12% | 25% |  |
+| 35 | 6% | 13% |  |
+| 36 | 3% | 7% |  |
+| 37 | 2% | 4% |  |
+| 38 | 1.0% | 1.5% |  |
 | 39 | 0.4% | 0.4% |  |
 | 40 | 0.1% | 0.1% |  |
 | 41 | 0% | 0% |  |
