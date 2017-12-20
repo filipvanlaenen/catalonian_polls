@@ -5,9 +5,10 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | Period     | Polling firm/Commissioner(s) | JxSí | PDeCAT | JuntsxCat | ERC | Cs | PSC | CatComú | PP | CUP |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 27 September 2015 | General Election | 39.6% <br> 62 | 39.6% <br> 29 | 39.6% <br> 29 | 39.6% <br> 20 | 17.9% <br> 25 | 12.7% <br> 16 | 8.9% <br> 11 | 8.5% <br> 11 | 8.2% <br> 10 |
-| N/A | [Poll Average](average.html) | N/A <br> N/A | N/A <br> N/A | 12–23% <br> 18–37 | 18–27% <br> 27–44 | 18–26% <br> 25–37 | 11–18% <br> 15–24 | 5–10% <br> 5–12 | 4–8% <br> 3–11 | 4–8% <br> 4–10 |
-| [16–18 December 2017](2017-12-18-GESOP.html) | GESOP <br> El Periòdic | N/A <br> N/A | N/A <br> N/A | 15–21% <br> 24–31 | 20–26% <br> 32–41 | 20–26% <br> 28–37 | 13–18% <br> 16–25 | 7–11% <br> 8–12 | 3–6% <br> 3–5 | 4–7% <br> 5–9 |
-| [11–18 December 2017](2017-12-18-Feedback.html) | Feedback <br> The National | N/A <br> N/A | N/A <br> N/A | 17–22% <br> 25–32 | 19–24% <br> 28–35 | 21–27% <br> 29–37 | 13–17% <br> 16–23 | 5–8% <br> 5–9 | 5–7% <br> 5–9 | 6–9% <br> 8–12 |
+| N/A | [Poll Average](average.html) | N/A <br> N/A | N/A <br> N/A | 12–23% <br> 18–37 | 18–27% <br> 27–44 | 18–26% <br> 25–37 | 11–18% <br> 15–24 | 5–10% <br> 5–12 | 4–8% <br> 3–11 | 4–8% <br> 3–10 |
+| [12–19 December 2017](2017-12-19-Feedback.html) | Feedback <br> The National | N/A <br> N/A | N/A <br> N/A | 18–23% <br> 27–34 | 19–25% <br> 29–35 | 21–26% <br> 31–35 | 12–16% <br> 17–23 | 5–8% <br> 5–9 | 5–8% <br> 3–9 | 6–9% <br> 8–10 |
+| [16–18 December 2017](2017-12-18-GESOP.html) | GESOP <br> El Periòdic | N/A <br> N/A | N/A <br> N/A | 15–21% <br> 23–31 | 20–26% <br> 30–41 | 20–26% <br> 27–36 | 13–18% <br> 16–24 | 7–11% <br> 8–14 | 3–6% <br> 3–8 | 4–7% <br> 3–8 |
+| [12–16 December 2017](2017-12-16-Netquest.html) | Netquest <br> L’Indépendant | N/A <br> N/A | N/A <br> N/A | 15–20% <br> N/A | 19–25% <br> N/A | 21–26% <br> N/A | 13–18% <br> N/A | 5–8% <br> N/A | 4–7% <br> N/A | 5–9% <br> N/A |
 | [11–15 December 2017](2017-12-15-GAD3.html) | GAD3 <br> ABC | N/A <br> N/A | N/A <br> N/A | 17–21% <br> 26–32 | 18–22% <br> 27–34 | 23–27% <br> 31–38 | 14–18% <br> 18–24 | 6–9% <br> 5–9 | 4–7% <br> 4–8 | 4–7% <br> 4–9 |
 | [11–14 December 2017](2017-12-14-TopPosition.html) | Top Position | N/A <br> N/A | N/A <br> N/A | 20–25% <br> 32–39 | 16–20% <br> 25–32 | 22–27% <br> 31–39 | 10–14% <br> 13–18 | 5–7% <br> 4–8 | 4–7% <br> 5–9 | 6–9% <br> 8–11 |
 | [1–14 December 2017](2017-12-14-SocioMétrica.html) | SocioMétrica <br> El Español | N/A <br> N/A | N/A <br> N/A | 18–22% <br> 28–34 | 19–23% <br> 29–35 | 21–25% <br> 27–34 | 12–16% <br> 15–22 | 8–11% <br> 8–13 | 4–7% <br> 5–8 | 5–7% <br> 5–9 |
