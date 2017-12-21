@@ -91,7 +91,7 @@ Last result: **11** seats (General Election of 27 September 2015)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 6 | 5–10 | 4–10 | 3–11 | 3–12 |
-| [13–20 December 2017](2017-12-20-Feedback.html) | Feedback <br> The National | 7 | 5–9 | 5–9 | 5–10 | 3–10 |
+| [13–20 December 2017](2017-12-20-Feedback.html) | Feedback <br> The National | 7 | 5–9 | 5–9 | 5–10 | 4–10 |
 | [12–19 December 2017](2017-12-19-Feedback.html) | Feedback <br> The National | 6 | 5–9 | 5–9 | 5–10 | 4–10 |
 | [16–18 December 2017](2017-12-18-GESOP.html) | GESOP <br> El Periòdic | 5 | 3–6 | 3–7 | 3–8 | 2–9 |
 | [11–18 December 2017](2017-12-18-Feedback.html) | Feedback <br> The National | 6 | 5–8 | 5–9 | 5–9 | 3–10 |
@@ -154,12 +154,12 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 0.1% | 100% |  |
 | 3 | 3% | 99.9% |  |
-| 4 | 2% | 96% |  |
+| 4 | 2% | 97% |  |
 | 5 | 24% | 95% |  |
-| 6 | 28% | 71% | Median |
-| 7 | 15% | 43% |  |
+| 6 | 29% | 71% | Median |
+| 7 | 15% | 42% |  |
 | 8 | 10% | 27% |  |
-| 9 | 6% | 18% |  |
+| 9 | 6% | 17% |  |
 | 10 | 8% | 11% |  |
 | 11 | 1.2% | 3% | Last Result |
 | 12 | 2% | 2% |  |
