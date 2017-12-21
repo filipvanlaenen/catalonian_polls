@@ -112,7 +112,7 @@ Last result: **16** seats (General Election of 27 September 2015)
 | [12–14 December 2017](2017-12-14-GAD3.html) | GAD3 <br> ABC | 22 | 20–23 | 19–24 | 18–24 | 17–25 |
 | [7–14 December 2017](2017-12-14-Feedback.html) | Feedback <br> El Nacional | 19 | 16–22 | 16–23 | 16–23 | 15–24 |
 | [11–13 December 2017](2017-12-13-SigmaDos.html) | Sigma Dos <br> El Mundo | 21 | 18–23 | 18–23 | 17–23 | 16–24 |
-| [4–13 December 2017](2017-12-13-NCReport.html) | NC Report <br> La Razón | 22 | 19–23 | 18–24 | 17–24 | 16–25 |
+| [4–13 December 2017](2017-12-13-NCReport.html) | NC Report <br> La Razón | 22 | 19–24 | 18–24 | 17–24 | 16–25 |
 | [5–13 December 2017](2017-12-13-MyWord.html) | MyWord <br> Cadena SER | 20 | 17–22 | 16–23 | 16–23 | 15–24 |
 | [4–13 December 2017](2017-12-13-Metroscopia.html) | Metroscopia <br> El País | 18 | 17–20 | 16–20 | 16–21 | 16–22 |
 | [4–13 December 2017](2017-12-13-Infortécnica.html) | Infortécnica <br> Segre | 23 | 21–24 | 20–25 | 19–25 | 18–26 |
