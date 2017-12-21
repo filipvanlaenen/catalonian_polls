@@ -243,7 +243,7 @@ Only polls for which at least the sample size has been published are included in
 | <a href="#partit-dels-socialistes-de-catalunya-(psc-psoe)">Partit dels Socialistes de Catalunya (PSC-PSOE)</a> | 16 | 20 | 16–23 |16–23 | 15–24 | 14–25 |
 | <a href="#catalunya-en-comú">Catalunya en Comú</a> | 11 | 9 | 5–11 |5–12 | 5–12 | 4–14 |
 | <a href="#partit-popular">Partit Popular</a> | 11 | 6 | 5–10 |4–10 | 3–11 | 3–12 |
-| <a href="#candidatura-d’unitat-popular">Candidatura d’Unitat Popular</a> | 10 | 8 | 5–9 |4–10 | 3–10 | 3–11 |
+| <a href="#candidatura-d’unitat-popular">Candidatura d’Unitat Popular</a> | 10 | 8 | 5–9 |4–10 | 3–10 | 3–10 |
 
 ### Esquerra Republicana de Catalunya–Catalunya Sí
 
@@ -264,7 +264,7 @@ Only polls for which at least the sample size has been published are included in
 | 28 | 2% | 97% |  |
 | 29 | 4% | 95% |  |
 | 30 | 5% | 92% |  |
-| 31 | 9% | 86% |  |
+| 31 | 9% | 87% |  |
 | 32 | 14% | 77% |  |
 | 33 | 7% | 63% |  |
 | 34 | 7% | 56% | Median |
@@ -306,11 +306,11 @@ Only polls for which at least the sample size has been published are included in
 | 27 | 7% | 47% |  |
 | 28 | 6% | 39% |  |
 | 29 | 12% | 33% | Last Result |
-| 30 | 6% | 22% |  |
+| 30 | 7% | 21% |  |
 | 31 | 4% | 15% |  |
-| 32 | 4% | 11% |  |
-| 33 | 2% | 8% |  |
-| 34 | 1.3% | 6% |  |
+| 32 | 3% | 11% |  |
+| 33 | 2% | 7% |  |
+| 34 | 1.1% | 6% |  |
 | 35 | 0.9% | 5% |  |
 | 36 | 1.0% | 4% |  |
 | 37 | 2% | 3% |  |
@@ -334,9 +334,9 @@ Only polls for which at least the sample size has been published are included in
 | 27 | 3% | 93% |  |
 | 28 | 4% | 89% |  |
 | 29 | 6% | 86% |  |
-| 30 | 10% | 80% |  |
+| 30 | 10% | 79% |  |
 | 31 | 20% | 69% | Median |
-| 32 | 13% | 49% |  |
+| 32 | 13% | 50% |  |
 | 33 | 12% | 37% |  |
 | 34 | 13% | 25% |  |
 | 35 | 6% | 12% |  |
@@ -386,7 +386,7 @@ Only polls for which at least the sample size has been published are included in
 | 6 | 10% | 88% |  |
 | 7 | 6% | 78% |  |
 | 8 | 20% | 72% |  |
-| 9 | 23% | 52% | Median |
+| 9 | 22% | 52% | Median |
 | 10 | 6% | 30% |  |
 | 11 | 16% | 23% | Last Result |
 | 12 | 5% | 7% |  |
@@ -404,12 +404,12 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 0.1% | 100% |  |
 | 3 | 3% | 99.9% |  |
-| 4 | 2% | 96% |  |
+| 4 | 2% | 97% |  |
 | 5 | 24% | 95% |  |
-| 6 | 28% | 71% | Median |
-| 7 | 15% | 43% |  |
+| 6 | 29% | 71% | Median |
+| 7 | 15% | 42% |  |
 | 8 | 10% | 27% |  |
-| 9 | 6% | 18% |  |
+| 9 | 6% | 17% |  |
 | 10 | 8% | 11% |  |
 | 11 | 1.2% | 3% | Last Result |
 | 12 | 2% | 2% |  |
@@ -429,9 +429,9 @@ Only polls for which at least the sample size has been published are included in
 | 4 | 2% | 96% |  |
 | 5 | 10% | 94% |  |
 | 6 | 4% | 85% |  |
-| 7 | 8% | 80% |  |
-| 8 | 42% | 73% | Median |
-| 9 | 25% | 31% |  |
+| 7 | 7% | 80% |  |
+| 8 | 43% | 73% | Median |
+| 9 | 25% | 30% |  |
 | 10 | 5% | 5% | Last Result |
 | 11 | 0.3% | 0.5% |  |
 | 12 | 0.2% | 0.2% |  |
@@ -467,9 +467,9 @@ Only polls for which at least the sample size has been published are included in
 | 67 | 11% | 81% |  |
 | 68 | 11% | 69% | Majority |
 | 69 | 12% | 58% | Median |
-| 70 | 11% | 46% |  |
-| 71 | 10% | 35% |  |
-| 72 | 8% | 25% |  |
+| 70 | 11% | 45% |  |
+| 71 | 10% | 34% |  |
+| 72 | 7% | 25% |  |
 | 73 | 6% | 17% |  |
 | 74 | 4% | 12% |  |
 | 75 | 3% | 7% |  |
@@ -494,15 +494,15 @@ Only polls for which at least the sample size has been published are included in
 | 65 | 8% | 91% |  |
 | 66 | 10% | 83% |  |
 | 67 | 12% | 73% |  |
-| 68 | 12% | 61% | Median, Majority |
+| 68 | 13% | 61% | Median, Majority |
 | 69 | 13% | 49% |  |
-| 70 | 11% | 36% |  |
+| 70 | 11% | 35% |  |
 | 71 | 7% | 25% |  |
-| 72 | 6% | 18% |  |
+| 72 | 6% | 17% |  |
 | 73 | 5% | 12% |  |
-| 74 | 4% | 7% |  |
+| 74 | 3% | 6% |  |
 | 75 | 2% | 3% |  |
-| 76 | 0.7% | 1.1% |  |
+| 76 | 0.8% | 1.1% |  |
 | 77 | 0.2% | 0.4% |  |
 | 78 | 0.1% | 0.1% |  |
 | 79 | 0% | 0% |  |
@@ -513,15 +513,15 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 57 | 0.1% | 100% |  |
 | 58 | 0.2% | 99.9% |  |
-| 59 | 0.7% | 99.6% |  |
+| 59 | 0.8% | 99.6% |  |
 | 60 | 2% | 98.9% |  |
-| 61 | 4% | 97% |  |
-| 62 | 5% | 93% |  |
+| 61 | 3% | 97% |  |
+| 62 | 5% | 94% |  |
 | 63 | 6% | 88% | Last Result |
-| 64 | 7% | 82% |  |
+| 64 | 7% | 83% |  |
 | 65 | 11% | 75% |  |
-| 66 | 13% | 64% | Median |
-| 67 | 12% | 51% |  |
+| 66 | 13% | 65% | Median |
+| 67 | 13% | 51% |  |
 | 68 | 12% | 39% | Majority |
 | 69 | 10% | 27% |  |
 | 70 | 8% | 17% |  |
@@ -546,16 +546,16 @@ Only polls for which at least the sample size has been published are included in
 | 50 | 1.1% | 96% |  |
 | 51 | 1.2% | 95% |  |
 | 52 | 0.7% | 94% |  |
-| 53 | 0.5% | 93% |  |
-| 54 | 0.4% | 93% |  |
-| 55 | 0.8% | 92% |  |
+| 53 | 0.6% | 93% |  |
+| 54 | 0.5% | 93% |  |
+| 55 | 0.7% | 92% |  |
 | 56 | 2% | 91% |  |
-| 57 | 4% | 89% |  |
-| 58 | 5% | 85% |  |
-| 59 | 5% | 81% |  |
-| 60 | 6% | 76% |  |
+| 57 | 3% | 89% |  |
+| 58 | 5% | 86% |  |
+| 59 | 6% | 82% |  |
+| 60 | 7% | 76% |  |
 | 61 | 8% | 69% |  |
-| 62 | 9% | 61% |  |
+| 62 | 9% | 62% |  |
 | 63 | 11% | 53% | Median |
 | 64 | 11% | 42% |  |
 | 65 | 10% | 31% |  |
@@ -588,14 +588,14 @@ Only polls for which at least the sample size has been published are included in
 | 60 | 11% | 66% | Median |
 | 61 | 14% | 55% |  |
 | 62 | 11% | 41% |  |
-| 63 | 9% | 30% |  |
+| 63 | 8% | 30% |  |
 | 64 | 7% | 21% |  |
 | 65 | 6% | 14% |  |
 | 66 | 4% | 8% |  |
 | 67 | 3% | 4% |  |
 | 68 | 1.0% | 2% | Majority |
 | 69 | 0.5% | 0.7% |  |
-| 70 | 0.2% | 0.3% |  |
+| 70 | 0.2% | 0.2% |  |
 | 71 | 0.1% | 0.1% |  |
 | 72 | 0% | 0% |  |
 
@@ -607,13 +607,13 @@ Only polls for which at least the sample size has been published are included in
 | 49 | 0.2% | 99.9% |  |
 | 50 | 0.5% | 99.7% |  |
 | 51 | 1.2% | 99.3% |  |
-| 52 | 2% | 98% | Last Result |
+| 52 | 3% | 98% | Last Result |
 | 53 | 4% | 96% |  |
 | 54 | 6% | 92% |  |
 | 55 | 8% | 86% |  |
-| 56 | 10% | 77% |  |
-| 57 | 11% | 67% | Median |
-| 58 | 11% | 56% |  |
+| 56 | 10% | 78% |  |
+| 57 | 11% | 68% | Median |
+| 58 | 12% | 56% |  |
 | 59 | 11% | 45% |  |
 | 60 | 11% | 33% |  |
 | 61 | 9% | 23% |  |
