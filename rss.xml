@@ -8,7 +8,17 @@
     <title>All Registered Polls for the Parliament of Catalonia</title>
     <link>https://filipvanlaenen.github.io/catalonian_polls</link>
     <description>All Registered Polls for the Parliament of Catalonia</description>
-    <pubDate>Wed, 20 Dec 2017 20:01:58 +0100</pubDate>
+    <pubDate>Thu, 21 Dec 2017 06:57:42 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Feedback for The National, 13–20 December 2017 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/catalonian_polls/2017-12-20-Feedback.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Esquerra Republicana de Catalunya–Catalunya Sí: 18.8–23.9%&lt;/li&gt;&lt;li&gt;Ciutadans–Partido de la Ciudadanía: 20.0–25.2%&lt;/li&gt;&lt;li&gt;Partit dels Socialistes de Catalunya (PSC-PSOE): 12.8–17.3%&lt;/li&gt;&lt;li&gt;Catalunya en Comú: 6.3–9.6%&lt;/li&gt;&lt;li&gt;Partit Popular: 4.7–7.7%&lt;/li&gt;&lt;li&gt;Candidatura d’Unitat Popular: 5.1–8.2%&lt;/li&gt;&lt;li&gt;Junts per Catalunya: 17.6–22.6%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/catalonian_polls/2017-12-20-Feedback.png"
+        length="225776"
+        type="image/png"/>
+      <pubDate>Thu, 21 Dec 2017 06:57:42 +0100</pubDate>
+      <dc:date>2017-12-21T06:57:42.976005+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Feedback for The National, 12–19 December 2017 – Seat Projections</title>
       <link>https://filipvanlaenen.github.io/catalonian_polls/2017-12-19-Feedback.html#seats</link>
@@ -1029,6 +1039,6 @@
       <pubDate>Mon, 13 Nov 2017 18:31:10 +0100</pubDate>
       <dc:date>2017-11-13T18:31:10.415733+01:00</dc:date>
     </item>
-    <dc:date>2017-12-20T20:01:58.28895+01:00</dc:date>
+    <dc:date>2017-12-21T06:57:42.976005+01:00</dc:date>
   </channel>
 </rss>
