@@ -6,7 +6,7 @@ The table below lists the most recent polls (less than 90 days old) registered a
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 27 September 2015 | General Election | 39.6% <br> 62 | 39.6% <br> 29 | 39.6% <br> 29 | 39.6% <br> 20 | 17.9% <br> 25 | 12.7% <br> 16 | 8.9% <br> 11 | 8.5% <br> 11 | 8.2% <br> 10 |
 | N/A | [Poll Average](average.html) | N/A <br> N/A | N/A <br> N/A | 12–23% <br> 18–37 | 18–27% <br> 27–43 | 18–26% <br> 25–37 | 11–18% <br> 15–24 | 5–10% <br> 5–12 | 4–8% <br> 3–11 | 4–8% <br> 3–10 |
-| [12–19 December 2017](2017-12-19-Feedback.html) | Feedback <br> The National | N/A <br> N/A | N/A <br> N/A | 18–23% <br> 26–34 | 19–25% <br> 29–37 | 21–26% <br> 28–36 | 12–16% <br> 15–22 | 5–8% <br> 4–8 | 5–8% <br> 5–10 | 6–9% <br> 8–12 |
+| [13–20 December 2017](2017-12-20-Feedback.html) | Feedback <br> The National | N/A <br> N/A | N/A <br> N/A | 18–23% <br> 26–34 | 19–24% <br> 28–36 | 20–25% <br> 26–34 | 13–17% <br> 16–23 | 6–10% <br> 6–11 | 5–8% <br> 5–10 | 5–8% <br> 5–10 |
 | [16–18 December 2017](2017-12-18-GESOP.html) | GESOP <br> El Periòdic | N/A <br> N/A | N/A <br> N/A | 15–21% <br> 23–31 | 20–26% <br> 31–41 | 20–26% <br> 27–36 | 13–18% <br> 16–24 | 7–11% <br> 8–14 | 3–6% <br> 3–8 | 4–7% <br> 3–8 |
 | [12–16 December 2017](2017-12-16-Netquest.html) | Netquest <br> L’Indépendant | N/A <br> N/A | N/A <br> N/A | 15–20% <br> 23–30 | 19–25% <br> 30–38 | 21–26% <br> 29–37 | 13–18% <br> 16–24 | 5–8% <br> 5–9 | 4–7% <br> 3–9 | 5–9% <br> 7–11 |
 | [11–15 December 2017](2017-12-15-GAD3.html) | GAD3 <br> ABC | N/A <br> N/A | N/A <br> N/A | 17–21% <br> 26–32 | 18–22% <br> 27–34 | 23–27% <br> 31–38 | 14–18% <br> 18–24 | 6–9% <br> 5–9 | 4–7% <br> 4–8 | 4–7% <br> 4–9 |
