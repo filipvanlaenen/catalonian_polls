@@ -11,6 +11,7 @@ Last result: **39.6%** (General Election of 27 September 2015)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 17.6% | 14.2–21.0% | 12.7–22.1% | 12.0–22.9% | 11.1–24.2% |
+| [13–20 December 2017](2017-12-20-Feedback.html) | Feedback <br> The National | 20.0% | 18.4–21.7% | 18.0–22.2% | 17.6–22.6% | 16.9–23.4% |
 | [12–19 December 2017](2017-12-19-Feedback.html) | Feedback <br> The National | 20.1% | 18.5–21.8% | 18.1–22.3% | 17.7–22.7% | 17.0–23.5% |
 | [16–18 December 2017](2017-12-18-GESOP.html) | GESOP <br> El Periòdic | 18.0% | 16.4–19.8% | 15.9–20.4% | 15.5–20.8% | 14.7–21.7% |
 | [11–18 December 2017](2017-12-18-Feedback.html) | Feedback <br> The National | 19.1% | 17.6–20.8% | 17.1–21.2% | 16.8–21.7% | 16.1–22.5% |
@@ -111,6 +112,7 @@ Last result: **29** seats (General Election of 27 September 2015)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 26 | 21–32 | 19–34 | 18–37 | 17–38 |
+| [13–20 December 2017](2017-12-20-Feedback.html) | Feedback <br> The National | 30 | 27–33 | 26–34 | 26–34 | 24–36 |
 | [12–19 December 2017](2017-12-19-Feedback.html) | Feedback <br> The National | 30 | 28–33 | 27–34 | 26–34 | 25–36 |
 | [16–18 December 2017](2017-12-18-GESOP.html) | GESOP <br> El Periòdic | 27 | 24–30 | 23–30 | 23–31 | 22–33 |
 | [11–18 December 2017](2017-12-18-Feedback.html) | Feedback <br> The National | 29 | 26–31 | 25–32 | 25–32 | 24–34 |
@@ -182,15 +184,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 23 | 8% | 86% |  |
 | 24 | 12% | 78% |  |
 | 25 | 9% | 66% |  |
-| 26 | 10% | 57% | Median |
+| 26 | 11% | 57% | Median |
 | 27 | 7% | 47% |  |
-| 28 | 6% | 40% |  |
+| 28 | 6% | 39% |  |
 | 29 | 12% | 33% | Last Result |
 | 30 | 6% | 22% |  |
 | 31 | 4% | 15% |  |
-| 32 | 3% | 11% |  |
+| 32 | 4% | 11% |  |
 | 33 | 2% | 8% |  |
-| 34 | 1.2% | 6% |  |
+| 34 | 1.3% | 6% |  |
 | 35 | 0.9% | 5% |  |
 | 36 | 1.0% | 4% |  |
 | 37 | 2% | 3% |  |

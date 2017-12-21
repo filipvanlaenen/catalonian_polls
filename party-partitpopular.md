@@ -11,6 +11,7 @@ Last result: **8.5%** (General Election of 27 September 2015)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 5.8% | 4.7–7.5% | 4.4–8.0% | 4.2–8.4% | 3.7–9.1% |
+| [13–20 December 2017](2017-12-20-Feedback.html) | Feedback <br> The National | 6.0% | 5.1–7.1% | 4.9–7.4% | 4.7–7.7% | 4.3–8.2% |
 | [12–19 December 2017](2017-12-19-Feedback.html) | Feedback <br> The National | 6.0% | 5.1–7.1% | 4.9–7.4% | 4.7–7.7% | 4.3–8.2% |
 | [16–18 December 2017](2017-12-18-GESOP.html) | GESOP <br> El Periòdic | 4.8% | 3.9–5.9% | 3.7–6.2% | 3.5–6.5% | 3.1–7.0% |
 | [11–18 December 2017](2017-12-18-Feedback.html) | Feedback <br> The National | 5.8% | 5.0–6.9% | 4.7–7.2% | 4.5–7.4% | 4.1–8.0% |
@@ -90,6 +91,7 @@ Last result: **11** seats (General Election of 27 September 2015)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 6 | 5–10 | 4–10 | 3–11 | 3–12 |
+| [13–20 December 2017](2017-12-20-Feedback.html) | Feedback <br> The National | 7 | 5–9 | 5–9 | 5–10 | 3–10 |
 | [12–19 December 2017](2017-12-19-Feedback.html) | Feedback <br> The National | 6 | 5–9 | 5–9 | 5–10 | 4–10 |
 | [16–18 December 2017](2017-12-18-GESOP.html) | GESOP <br> El Periòdic | 5 | 3–6 | 3–7 | 3–8 | 2–9 |
 | [11–18 December 2017](2017-12-18-Feedback.html) | Feedback <br> The National | 6 | 5–8 | 5–9 | 5–9 | 3–10 |
@@ -152,10 +154,10 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 0.1% | 100% |  |
 | 3 | 3% | 99.9% |  |
-| 4 | 2% | 97% |  |
-| 5 | 23% | 95% |  |
-| 6 | 29% | 71% | Median |
-| 7 | 15% | 42% |  |
+| 4 | 2% | 96% |  |
+| 5 | 24% | 95% |  |
+| 6 | 28% | 71% | Median |
+| 7 | 15% | 43% |  |
 | 8 | 10% | 27% |  |
 | 9 | 6% | 18% |  |
 | 10 | 8% | 11% |  |
