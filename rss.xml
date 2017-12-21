@@ -8,7 +8,17 @@
     <title>All Registered Polls for the Parliament of Catalonia</title>
     <link>https://filipvanlaenen.github.io/catalonian_polls</link>
     <description>All Registered Polls for the Parliament of Catalonia</description>
-    <pubDate>Thu, 21 Dec 2017 06:57:42 +0100</pubDate>
+    <pubDate>Thu, 21 Dec 2017 11:17:57 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Feedback for The National, 13–20 December 2017 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/catalonian_polls/2017-12-20-Feedback.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Esquerra Republicana de Catalunya–Catalunya Sí: 28–36 seats&lt;/li&gt;&lt;li&gt;Ciutadans–Partido de la Ciudadanía: 26–34 seats&lt;/li&gt;&lt;li&gt;Partit dels Socialistes de Catalunya (PSC-PSOE): 16–23 seats&lt;/li&gt;&lt;li&gt;Catalunya en Comú: 6–11 seats&lt;/li&gt;&lt;li&gt;Partit Popular: 5–10 seats&lt;/li&gt;&lt;li&gt;Candidatura d’Unitat Popular: 5–10 seats&lt;/li&gt;&lt;li&gt;Junts per Catalunya: 26–34 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/catalonian_polls/2017-12-20-Feedback-seats.png"
+        length="197336"
+        type="image/png"/>
+      <pubDate>Thu, 21 Dec 2017 11:17:57 +0100</pubDate>
+      <dc:date>2017-12-21T11:17:57.742456+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Feedback for The National, 13–20 December 2017 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/catalonian_polls/2017-12-20-Feedback.html</link>
@@ -16,8 +26,8 @@
       <enclosure url="https://filipvanlaenen.github.io/catalonian_polls/2017-12-20-Feedback.png"
         length="225776"
         type="image/png"/>
-      <pubDate>Thu, 21 Dec 2017 06:57:42 +0100</pubDate>
-      <dc:date>2017-12-21T06:57:42.976005+01:00</dc:date>
+      <pubDate>Thu, 21 Dec 2017 11:17:57 +0100</pubDate>
+      <dc:date>2017-12-21T11:17:57.742456+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Feedback for The National, 12–19 December 2017 – Seat Projections</title>
@@ -1039,6 +1049,6 @@
       <pubDate>Mon, 13 Nov 2017 18:31:10 +0100</pubDate>
       <dc:date>2017-11-13T18:31:10.415733+01:00</dc:date>
     </item>
-    <dc:date>2017-12-21T06:57:42.976005+01:00</dc:date>
+    <dc:date>2017-12-21T11:17:57.742456+01:00</dc:date>
   </channel>
 </rss>
