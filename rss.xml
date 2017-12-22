@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Parliament of Catalonia</title>
     <link>https://filipvanlaenen.github.io/catalonian_polls</link>
     <description>All Registered Polls for the Parliament of Catalonia</description>
-    <pubDate>Fri, 22 Dec 2017 14:03:14 +0100</pubDate>
+    <pubDate>Fri, 22 Dec 2017 19:50:43 +0100</pubDate>
     <item>
       <title>Opinion Poll by Feedback for The National, 13–20 December 2017 – Seat Projections</title>
       <link>https://filipvanlaenen.github.io/catalonian_polls/2017-12-20-Feedback.html#seats</link>
@@ -276,8 +276,8 @@
       <enclosure url="https://filipvanlaenen.github.io/catalonian_polls/2017-12-14-SocioMétrica-seats.png"
         length="177970"
         type="image/png"/>
-      <pubDate>Sat, 16 Dec 2017 14:57:28 +0100</pubDate>
-      <dc:date>2017-12-16T14:57:28.464485+01:00</dc:date>
+      <pubDate>Fri, 22 Dec 2017 19:50:43 +0100</pubDate>
+      <dc:date>2017-12-22T19:50:43.994052+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by SocioMétrica for El Español, 1–14 December 2017 – Voting Intentions</title>
@@ -286,8 +286,8 @@
       <enclosure url="https://filipvanlaenen.github.io/catalonian_polls/2017-12-14-SocioMétrica.png"
         length="214316"
         type="image/png"/>
-      <pubDate>Sat, 16 Dec 2017 14:57:28 +0100</pubDate>
-      <dc:date>2017-12-16T14:57:28.464485+01:00</dc:date>
+      <pubDate>Fri, 22 Dec 2017 19:50:43 +0100</pubDate>
+      <dc:date>2017-12-22T19:50:43.994052+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by GESOP for El Periódico, 12–14 December 2017 – Seat Projections</title>
@@ -316,8 +316,8 @@
       <enclosure url="https://filipvanlaenen.github.io/catalonian_polls/2017-12-14-GAD3-seats.png"
         length="208069"
         type="image/png"/>
-      <pubDate>Fri, 22 Dec 2017 14:03:14 +0100</pubDate>
-      <dc:date>2017-12-22T14:03:14.946113+01:00</dc:date>
+      <pubDate>Fri, 22 Dec 2017 17:23:51 +0100</pubDate>
+      <dc:date>2017-12-22T17:23:51.203602+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by GAD3 for ABC, 12–14 December 2017 – Voting Intentions</title>
@@ -326,8 +326,8 @@
       <enclosure url="https://filipvanlaenen.github.io/catalonian_polls/2017-12-14-GAD3.png"
         length="224664"
         type="image/png"/>
-      <pubDate>Fri, 22 Dec 2017 14:03:14 +0100</pubDate>
-      <dc:date>2017-12-22T14:03:14.946113+01:00</dc:date>
+      <pubDate>Fri, 22 Dec 2017 17:23:51 +0100</pubDate>
+      <dc:date>2017-12-22T17:23:51.203602+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Feedback for El Nacional, 7–14 December 2017 – Seat Projections</title>
@@ -1049,6 +1049,6 @@
       <pubDate>Mon, 13 Nov 2017 18:31:10 +0100</pubDate>
       <dc:date>2017-11-13T18:31:10.415733+01:00</dc:date>
     </item>
-    <dc:date>2017-12-22T14:03:14.946113+01:00</dc:date>
+    <dc:date>2017-12-22T19:50:43.994052+01:00</dc:date>
   </channel>
 </rss>
