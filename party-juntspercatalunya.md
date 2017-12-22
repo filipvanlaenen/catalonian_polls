@@ -113,7 +113,7 @@ Last result: **29** seats (General Election of 27 September 2015)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 26 | 21–32 | 19–34 | 18–37 | 17–38 |
 | [13–20 December 2017](2017-12-20-Feedback.html) | Feedback <br> The National | 30 | 28–32 | 26–33 | 26–34 | 25–36 |
-| [12–19 December 2017](2017-12-19-Feedback.html) | Feedback <br> The National | 30 | 28–33 | 27–34 | 26–34 | 25–36 |
+| [12–19 December 2017](2017-12-19-Feedback.html) | Feedback <br> The National | 30 | 28–32 | 27–34 | 26–35 | 25–36 |
 | [16–18 December 2017](2017-12-18-GESOP.html) | GESOP <br> El Periòdic | 27 | 24–30 | 23–30 | 23–31 | 22–33 |
 | [11–18 December 2017](2017-12-18-Feedback.html) | Feedback <br> The National | 29 | 26–31 | 25–32 | 25–32 | 24–34 |
 | [15–17 December 2017](2017-12-17-GESOP.html) | GESOP <br> El Periòdic | 29 | 25–31 | 24–32 | 24–33 | 23–35 |
@@ -130,7 +130,7 @@ Last result: **29** seats (General Election of 27 September 2015)
 | [12–14 December 2017](2017-12-14-GAD3.html) | GAD3 <br> ABC | 29 | 26–31 | 26–32 | 26–32 | 24–35 |
 | [7–14 December 2017](2017-12-14-Feedback.html) | Feedback <br> El Nacional | 29 | 27–32 | 26–32 | 25–33 | 24–35 |
 | [11–13 December 2017](2017-12-13-SigmaDos.html) | Sigma Dos <br> El Mundo | 25 | 23–27 | 23–28 | 23–29 | 21–29 |
-| [4–13 December 2017](2017-12-13-NCReport.html) | NC Report <br> La Razón | 24 | 22–27 | 21–28 | 21–28 | 19–29 |
+| [4–13 December 2017](2017-12-13-NCReport.html) | NC Report <br> La Razón | 24 | 22–27 | 21–28 | 21–29 | 19–29 |
 | [5–13 December 2017](2017-12-13-MyWord.html) | MyWord <br> Cadena SER | 27 | 24–29 | 24–30 | 23–30 | 23–32 |
 | [4–13 December 2017](2017-12-13-Metroscopia.html) | Metroscopia <br> El País | 22 | 20–23 | 19–23 | 18–23 | 18–24 |
 | [4–13 December 2017](2017-12-13-Infortécnica.html) | Infortécnica <br> Segre | 27 | 25–30 | 24–30 | 24–31 | 23–32 |
