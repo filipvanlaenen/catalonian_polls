@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Parliament of Catalonia</title>
     <link>https://filipvanlaenen.github.io/catalonian_polls</link>
     <description>All Registered Polls for the Parliament of Catalonia</description>
-    <pubDate>Fri, 22 Dec 2017 19:50:43 +0100</pubDate>
+    <pubDate>Sat, 23 Dec 2017 11:14:08 +0100</pubDate>
     <item>
       <title>Opinion Poll by Feedback for The National, 13–20 December 2017 – Seat Projections</title>
       <link>https://filipvanlaenen.github.io/catalonian_polls/2017-12-20-Feedback.html#seats</link>
@@ -276,8 +276,8 @@
       <enclosure url="https://filipvanlaenen.github.io/catalonian_polls/2017-12-14-SocioMétrica-seats.png"
         length="177970"
         type="image/png"/>
-      <pubDate>Fri, 22 Dec 2017 19:50:43 +0100</pubDate>
-      <dc:date>2017-12-22T19:50:43.994052+01:00</dc:date>
+      <pubDate>Fri, 22 Dec 2017 23:19:12 +0100</pubDate>
+      <dc:date>2017-12-22T23:19:12.626183+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by SocioMétrica for El Español, 1–14 December 2017 – Voting Intentions</title>
@@ -286,8 +286,8 @@
       <enclosure url="https://filipvanlaenen.github.io/catalonian_polls/2017-12-14-SocioMétrica.png"
         length="214316"
         type="image/png"/>
-      <pubDate>Fri, 22 Dec 2017 19:50:43 +0100</pubDate>
-      <dc:date>2017-12-22T19:50:43.994052+01:00</dc:date>
+      <pubDate>Fri, 22 Dec 2017 23:19:12 +0100</pubDate>
+      <dc:date>2017-12-22T23:19:12.626183+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by GESOP for El Periódico, 12–14 December 2017 – Seat Projections</title>
@@ -412,12 +412,12 @@
     <item>
       <title>Opinion Poll by Metroscopia for El País, 4–13 December 2017 – Seat Projections</title>
       <link>https://filipvanlaenen.github.io/catalonian_polls/2017-12-13-Metroscopia.html#seats</link>
-      <description>&lt;ul&gt;&lt;li&gt;Esquerra Republicana de Catalunya–Catalunya Sí: 33–38 seats&lt;/li&gt;&lt;li&gt;Ciutadans–Partido de la Ciudadanía: 33–37 seats&lt;/li&gt;&lt;li&gt;Partit dels Socialistes de Catalunya (PSC-PSOE): 16–21 seats&lt;/li&gt;&lt;li&gt;Catalunya en Comú: 9–13 seats&lt;/li&gt;&lt;li&gt;Partit Popular: 5–7 seats&lt;/li&gt;&lt;li&gt;Candidatura d’Unitat Popular: 8–9 seats&lt;/li&gt;&lt;li&gt;Junts per Catalunya: 18–23 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <description>&lt;ul&gt;&lt;li&gt;Esquerra Republicana de Catalunya–Catalunya Sí: 33–38 seats&lt;/li&gt;&lt;li&gt;Ciutadans–Partido de la Ciudadanía: 33–37 seats&lt;/li&gt;&lt;li&gt;Partit dels Socialistes de Catalunya (PSC-PSOE): 16–21 seats&lt;/li&gt;&lt;li&gt;Catalunya en Comú: 9–13 seats&lt;/li&gt;&lt;li&gt;Partit Popular: 5–7 seats&lt;/li&gt;&lt;li&gt;Candidatura d’Unitat Popular: 8–9 seats&lt;/li&gt;&lt;li&gt;Junts per Catalunya: 19–23 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/catalonian_polls/2017-12-13-Metroscopia-seats.png"
-        length="156027"
+        length="153162"
         type="image/png"/>
-      <pubDate>Fri, 15 Dec 2017 20:16:23 +0100</pubDate>
-      <dc:date>2017-12-15T20:16:23.363821+01:00</dc:date>
+      <pubDate>Sat, 23 Dec 2017 11:14:08 +0100</pubDate>
+      <dc:date>2017-12-23T11:14:08.911972+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Metroscopia for El País, 4–13 December 2017 – Voting Intentions</title>
@@ -426,8 +426,8 @@
       <enclosure url="https://filipvanlaenen.github.io/catalonian_polls/2017-12-13-Metroscopia.png"
         length="201157"
         type="image/png"/>
-      <pubDate>Fri, 15 Dec 2017 20:16:23 +0100</pubDate>
-      <dc:date>2017-12-15T20:16:23.363821+01:00</dc:date>
+      <pubDate>Sat, 23 Dec 2017 11:14:08 +0100</pubDate>
+      <dc:date>2017-12-23T11:14:08.911972+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Infortécnica for Segre, 4–13 December 2017 – Seat Projections</title>
@@ -1049,6 +1049,6 @@
       <pubDate>Mon, 13 Nov 2017 18:31:10 +0100</pubDate>
       <dc:date>2017-11-13T18:31:10.415733+01:00</dc:date>
     </item>
-    <dc:date>2017-12-22T19:50:43.994052+01:00</dc:date>
+    <dc:date>2017-12-23T11:14:08.911972+01:00</dc:date>
   </channel>
 </rss>
