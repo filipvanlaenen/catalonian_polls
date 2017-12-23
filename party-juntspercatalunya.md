@@ -132,7 +132,7 @@ Last result: **29** seats (General Election of 27 September 2015)
 | [11–13 December 2017](2017-12-13-SigmaDos.html) | Sigma Dos <br> El Mundo | 25 | 23–27 | 23–28 | 23–29 | 21–29 |
 | [4–13 December 2017](2017-12-13-NCReport.html) | NC Report <br> La Razón | 24 | 22–27 | 21–28 | 21–29 | 19–29 |
 | [5–13 December 2017](2017-12-13-MyWord.html) | MyWord <br> Cadena SER | 27 | 24–29 | 24–30 | 23–30 | 23–32 |
-| [4–13 December 2017](2017-12-13-Metroscopia.html) | Metroscopia <br> El País | 22 | 20–23 | 19–23 | 18–23 | 18–24 |
+| [4–13 December 2017](2017-12-13-Metroscopia.html) | Metroscopia <br> El País | 22 | 20–23 | 19–23 | 19–23 | 18–24 |
 | [4–13 December 2017](2017-12-13-Infortécnica.html) | Infortécnica <br> Segre | 27 | 25–30 | 24–30 | 24–31 | 23–32 |
 | [11–13 December 2017](2017-12-13-AM.html) | A+M <br> 20minutos | 26 | 24–29 | 24–29 | 23–30 | 23–30 |
 | [5–12 December 2017](2017-12-12-Feedback.html) | Feedback <br> El Nacional | 28 | 25–30 | 24–31 | 23–31 | 23–32 |
@@ -187,12 +187,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 26 | 11% | 57% | Median |
 | 27 | 7% | 47% |  |
 | 28 | 6% | 39% |  |
-| 29 | 12% | 33% | Last Result |
+| 29 | 12% | 34% | Last Result |
 | 30 | 7% | 22% |  |
 | 31 | 4% | 15% |  |
 | 32 | 3% | 11% |  |
-| 33 | 2% | 7% |  |
-| 34 | 1.1% | 6% |  |
+| 33 | 1.5% | 7% |  |
+| 34 | 1.2% | 6% |  |
 | 35 | 0.9% | 5% |  |
 | 36 | 1.0% | 4% |  |
 | 37 | 2% | 3% |  |
