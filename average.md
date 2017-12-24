@@ -270,7 +270,7 @@ Only polls for which at least the sample size has been published are included in
 | 34 | 8% | 57% | Median |
 | 35 | 12% | 49% |  |
 | 36 | 11% | 37% |  |
-| 37 | 9% | 26% |  |
+| 37 | 9% | 27% |  |
 | 38 | 6% | 17% |  |
 | 39 | 2% | 11% |  |
 | 40 | 2% | 9% |  |
@@ -305,7 +305,7 @@ Only polls for which at least the sample size has been published are included in
 | 26 | 11% | 57% | Median |
 | 27 | 7% | 47% |  |
 | 28 | 6% | 39% |  |
-| 29 | 12% | 34% | Last Result |
+| 29 | 12% | 33% | Last Result |
 | 30 | 7% | 22% |  |
 | 31 | 4% | 15% |  |
 | 32 | 3% | 11% |  |
@@ -407,7 +407,7 @@ Only polls for which at least the sample size has been published are included in
 | 4 | 2% | 97% |  |
 | 5 | 24% | 95% |  |
 | 6 | 28% | 70% | Median |
-| 7 | 15% | 42% |  |
+| 7 | 14% | 42% |  |
 | 8 | 10% | 28% |  |
 | 9 | 6% | 18% |  |
 | 10 | 8% | 11% |  |
@@ -465,7 +465,7 @@ Only polls for which at least the sample size has been published are included in
 | 65 | 6% | 95% |  |
 | 66 | 8% | 89% |  |
 | 67 | 11% | 81% |  |
-| 68 | 11% | 70% | Majority |
+| 68 | 12% | 70% | Majority |
 | 69 | 12% | 58% | Median |
 | 70 | 11% | 46% |  |
 | 71 | 10% | 34% |  |
@@ -493,7 +493,7 @@ Only polls for which at least the sample size has been published are included in
 | 64 | 5% | 96% |  |
 | 65 | 8% | 91% |  |
 | 66 | 10% | 83% |  |
-| 67 | 12% | 73% |  |
+| 67 | 11% | 73% |  |
 | 68 | 13% | 61% | Median, Majority |
 | 69 | 13% | 49% |  |
 | 70 | 11% | 36% |  |
@@ -522,7 +522,7 @@ Only polls for which at least the sample size has been published are included in
 | 65 | 11% | 75% |  |
 | 66 | 13% | 64% | Median |
 | 67 | 13% | 51% |  |
-| 68 | 12% | 39% | Majority |
+| 68 | 11% | 39% | Majority |
 | 69 | 10% | 27% |  |
 | 70 | 8% | 17% |  |
 | 71 | 5% | 9% |  |
@@ -556,7 +556,7 @@ Only polls for which at least the sample size has been published are included in
 | 60 | 7% | 76% |  |
 | 61 | 8% | 69% |  |
 | 62 | 9% | 62% |  |
-| 63 | 11% | 53% | Median |
+| 63 | 11% | 52% | Median |
 | 64 | 11% | 42% |  |
 | 65 | 10% | 31% |  |
 | 66 | 7% | 21% |  |
@@ -612,7 +612,7 @@ Only polls for which at least the sample size has been published are included in
 | 54 | 6% | 91% |  |
 | 55 | 8% | 86% |  |
 | 56 | 10% | 78% |  |
-| 57 | 12% | 68% | Median |
+| 57 | 11% | 67% | Median |
 | 58 | 12% | 56% |  |
 | 59 | 11% | 44% |  |
 | 60 | 11% | 33% |  |
