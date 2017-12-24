@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Parliament of Catalonia</title>
     <link>https://filipvanlaenen.github.io/catalonian_polls</link>
     <description>All Registered Polls for the Parliament of Catalonia</description>
-    <pubDate>Sun, 24 Dec 2017 11:56:32 +0100</pubDate>
+    <pubDate>Sun, 24 Dec 2017 15:41:23 +0100</pubDate>
     <item>
       <title>Opinion Poll by Feedback for The National, 13–20 December 2017 – Seat Projections</title>
       <link>https://filipvanlaenen.github.io/catalonian_polls/2017-12-20-Feedback.html#seats</link>
@@ -356,8 +356,8 @@
       <enclosure url="https://filipvanlaenen.github.io/catalonian_polls/2017-12-13-SigmaDos-seats.png"
         length="174535"
         type="image/png"/>
-      <pubDate>Sun, 24 Dec 2017 11:56:32 +0100</pubDate>
-      <dc:date>2017-12-24T11:56:32.297185+01:00</dc:date>
+      <pubDate>Sun, 24 Dec 2017 15:41:23 +0100</pubDate>
+      <dc:date>2017-12-24T15:41:23.799449+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Sigma Dos for El Mundo, 11–13 December 2017 – Voting Intentions</title>
@@ -366,8 +366,8 @@
       <enclosure url="https://filipvanlaenen.github.io/catalonian_polls/2017-12-13-SigmaDos.png"
         length="213858"
         type="image/png"/>
-      <pubDate>Sun, 24 Dec 2017 11:56:32 +0100</pubDate>
-      <dc:date>2017-12-24T11:56:32.297185+01:00</dc:date>
+      <pubDate>Sun, 24 Dec 2017 15:41:23 +0100</pubDate>
+      <dc:date>2017-12-24T15:41:23.799449+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by NC Report for La Razón, 4–13 December 2017 – Seat Projections</title>
@@ -1049,6 +1049,6 @@
       <pubDate>Mon, 13 Nov 2017 18:31:10 +0100</pubDate>
       <dc:date>2017-11-13T18:31:10.415733+01:00</dc:date>
     </item>
-    <dc:date>2017-12-24T11:56:32.297185+01:00</dc:date>
+    <dc:date>2017-12-24T15:41:23.799449+01:00</dc:date>
   </channel>
 </rss>
