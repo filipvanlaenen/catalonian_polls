@@ -116,7 +116,7 @@ Last result: **29** seats (General Election of 27 September 2015)
 | [12–19 December 2017](2017-12-19-Feedback.html) | Feedback <br> The National | 30 | 28–32 | 27–34 | 26–35 | 25–36 |
 | [16–18 December 2017](2017-12-18-GESOP.html) | GESOP <br> El Periòdic | 27 | 24–30 | 23–30 | 23–31 | 22–33 |
 | [11–18 December 2017](2017-12-18-Feedback.html) | Feedback <br> The National | 29 | 26–31 | 25–32 | 25–32 | 24–34 |
-| [15–17 December 2017](2017-12-17-GESOP.html) | GESOP <br> El Periòdic | 29 | 25–31 | 24–32 | 24–33 | 23–35 |
+| [15–17 December 2017](2017-12-17-GESOP.html) | GESOP <br> El Periòdic | 29 | 26–31 | 24–32 | 24–33 | 23–35 |
 | [10–17 December 2017](2017-12-17-Feedback.html) | Feedback <br> The National | 29 | 27–32 | 26–32 | 25–33 | 24–35 |
 | [12–16 December 2017](2017-12-16-Netquest.html) | Netquest <br> L’Indépendant | 26 | 23–29 | 23–30 | 23–30 | 21–32 |
 | [14–16 December 2017](2017-12-16-GESOP.html) | GESOP <br> El Periòdic | 27 | 24–30 | 23–31 | 23–31 | 22–32 |
@@ -187,7 +187,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 26 | 11% | 57% | Median |
 | 27 | 7% | 47% |  |
 | 28 | 6% | 39% |  |
-| 29 | 12% | 34% | Last Result |
+| 29 | 12% | 33% | Last Result |
 | 30 | 7% | 22% |  |
 | 31 | 4% | 15% |  |
 | 32 | 3% | 11% |  |
