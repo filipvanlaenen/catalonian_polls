@@ -113,7 +113,7 @@ Last result: **25** seats (General Election of 27 September 2015)
 | [12–14 December 2017](2017-12-14-GESOP.html) | GESOP <br> El Periódico | 29 | 26–31 | 25–33 | 25–33 | 24–34 |
 | [12–14 December 2017](2017-12-14-GAD3.html) | GAD3 <br> ABC | 31 | 29–34 | 28–34 | 27–35 | 26–37 |
 | [7–14 December 2017](2017-12-14-Feedback.html) | Feedback <br> El Nacional | 31 | 29–34 | 28–34 | 27–35 | 26–36 |
-| [11–13 December 2017](2017-12-13-SigmaDos.html) | Sigma Dos <br> El Mundo | 31 | 29–34 | 29–34 | 28–34 | 27–36 |
+| [11–13 December 2017](2017-12-13-SigmaDos.html) | Sigma Dos <br> El Mundo | 31 | 29–33 | 29–34 | 28–34 | 27–36 |
 | [4–13 December 2017](2017-12-13-NCReport.html) | NC Report <br> La Razón | 30 | 27–32 | 26–33 | 26–34 | 25–35 |
 | [5–13 December 2017](2017-12-13-MyWord.html) | MyWord <br> Cadena SER | 31 | 27–33 | 27–34 | 26–34 | 26–36 |
 | [4–13 December 2017](2017-12-13-Metroscopia.html) | Metroscopia <br> El País | 34 | 33–36 | 33–36 | 33–37 | 32–38 |
