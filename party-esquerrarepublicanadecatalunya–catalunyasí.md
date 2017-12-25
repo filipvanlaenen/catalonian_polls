@@ -119,7 +119,7 @@ Last result: **20** seats (General Election of 27 September 2015)
 | [13–15 December 2017](2017-12-15-GESOP.html) | GESOP <br> El Periódico | 34 | 31–37 | 30–38 | 29–38 | 28–40 |
 | [11–15 December 2017](2017-12-15-GAD3.html) | GAD3 <br> ABC | 31 | 29–32 | 28–33 | 27–34 | 26–35 |
 | [8–15 December 2017](2017-12-15-Feedback.html) | Feedback <br> El Nacional | 31 | 29–35 | 29–35 | 28–36 | 26–37 |
-| [11–14 December 2017](2017-12-14-TopPosition.html) | Top Position | 28 | 26–31 | 25–31 | 25–32 | 24–33 |
+| [11–14 December 2017](2017-12-14-TopPosition.html) | Top Position | 28 | 26–31 | 25–32 | 25–32 | 24–33 |
 | [1–14 December 2017](2017-12-14-SocioMétrica.html) | SocioMétrica <br> El Español | 32 | 30–34 | 29–35 | 29–35 | 28–37 |
 | [12–14 December 2017](2017-12-14-GESOP.html) | GESOP <br> El Periódico | 34 | 31–37 | 30–38 | 29–38 | 28–40 |
 | [12–14 December 2017](2017-12-14-GAD3.html) | GAD3 <br> ABC | 31 | 28–33 | 27–34 | 26–35 | 25–36 |
@@ -174,7 +174,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 23 | 0% | 100% |  |
 | 24 | 0.1% | 100% |  |
 | 25 | 0.3% | 99.9% |  |
-| 26 | 1.1% | 99.6% |  |
+| 26 | 1.1% | 99.5% |  |
 | 27 | 1.1% | 98% |  |
 | 28 | 2% | 97% |  |
 | 29 | 4% | 95% |  |
