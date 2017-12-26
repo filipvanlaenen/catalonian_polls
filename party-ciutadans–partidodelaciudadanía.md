@@ -102,7 +102,7 @@ Last result: **25** seats (General Election of 27 September 2015)
 | [11–18 December 2017](2017-12-18-Feedback.html) | Feedback <br> The National | 33 | 30–35 | 29–36 | 29–37 | 27–38 |
 | [15–17 December 2017](2017-12-17-GESOP.html) | GESOP <br> El Periòdic | 31 | 27–33 | 27–34 | 26–35 | 25–36 |
 | [10–17 December 2017](2017-12-17-Feedback.html) | Feedback <br> The National | 33 | 30–35 | 30–36 | 29–37 | 27–38 |
-| [12–16 December 2017](2017-12-16-Netquest.html) | Netquest <br> L’Indépendant | 33 | 30–36 | 29–36 | 29–37 | 27–39 |
+| [12–16 December 2017](2017-12-16-Netquest.html) | Netquest <br> L’Indépendant | 33 | 30–35 | 29–36 | 29–37 | 27–39 |
 | [14–16 December 2017](2017-12-16-GESOP.html) | GESOP <br> El Periòdic | 29 | 26–31 | 25–33 | 25–33 | 24–34 |
 | [9–16 December 2017](2017-12-16-Feedback.html) | Feedback <br> The National | 33 | 30–35 | 30–36 | 29–37 | 27–38 |
 | [13–15 December 2017](2017-12-15-GESOP.html) | GESOP <br> El Periódico | 29 | 26–32 | 25–33 | 25–33 | 24–34 |
@@ -118,7 +118,7 @@ Last result: **25** seats (General Election of 27 September 2015)
 | [5–13 December 2017](2017-12-13-MyWord.html) | MyWord <br> Cadena SER | 31 | 27–33 | 27–34 | 26–34 | 26–36 |
 | [4–13 December 2017](2017-12-13-Metroscopia.html) | Metroscopia <br> El País | 34 | 33–36 | 33–36 | 33–37 | 32–38 |
 | [4–13 December 2017](2017-12-13-Infortécnica.html) | Infortécnica <br> Segre | 31 | 30–34 | 29–35 | 28–35 | 27–36 |
-| [11–13 December 2017](2017-12-13-AM.html) | A+M <br> 20minutos | 33 | 31–35 | 31–36 | 30–37 | 28–38 |
+| [11–13 December 2017](2017-12-13-AM.html) | A+M <br> 20minutos | 33 | 31–35 | 31–36 | 30–36 | 29–37 |
 | [5–12 December 2017](2017-12-12-Feedback.html) | Feedback <br> El Nacional | 32 | 29–34 | 29–35 | 28–36 | 26–38 |
 | [3–11 December 2017](2017-12-11-SocioMétrica.html) | SocioMétrica <br> El Español | 30 | 27–33 | 26–33 | 26–34 | 25–35 |
 | [1–9 December 2017](2017-12-09-SocioMétrica.html) | SocioMétrica <br> El Español | 29 | 26–31 | 26–32 | 25–32 | 25–34 |

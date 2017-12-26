@@ -129,7 +129,7 @@ Last result: **20** seats (General Election of 27 September 2015)
 | [5–13 December 2017](2017-12-13-MyWord.html) | MyWord <br> Cadena SER | 37 | 35–40 | 33–41 | 32–42 | 31–43 |
 | [4–13 December 2017](2017-12-13-Metroscopia.html) | Metroscopia <br> El País | 35 | 34–37 | 33–38 | 33–38 | 32–39 |
 | [4–13 December 2017](2017-12-13-Infortécnica.html) | Infortécnica <br> Segre | 35 | 32–38 | 32–38 | 32–39 | 30–40 |
-| [11–13 December 2017](2017-12-13-AM.html) | A+M <br> 20minutos | 37 | 35–40 | 34–41 | 33–41 | 32–42 |
+| [11–13 December 2017](2017-12-13-AM.html) | A+M <br> 20minutos | 37 | 35–39 | 34–40 | 34–41 | 32–42 |
 | [5–12 December 2017](2017-12-12-Feedback.html) | Feedback <br> El Nacional | 31 | 29–34 | 29–35 | 28–36 | 26–37 |
 | [3–11 December 2017](2017-12-11-SocioMétrica.html) | SocioMétrica <br> El Español | 33 | 30–36 | 29–36 | 29–37 | 28–38 |
 | [1–9 December 2017](2017-12-09-SocioMétrica.html) | SocioMétrica <br> El Español | 32 | 30–35 | 29–36 | 29–37 | 28–38 |
@@ -185,11 +185,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 34 | 8% | 57% | Median |
 | 35 | 12% | 49% |  |
 | 36 | 11% | 37% |  |
-| 37 | 9% | 27% |  |
+| 37 | 9% | 26% |  |
 | 38 | 6% | 17% |  |
 | 39 | 2% | 11% |  |
 | 40 | 2% | 9% |  |
-| 41 | 1.5% | 7% |  |
+| 41 | 1.4% | 7% |  |
 | 42 | 2% | 6% |  |
 | 43 | 2% | 4% |  |
 | 44 | 2% | 2% |  |
