@@ -108,7 +108,7 @@ Last result: **20** seats (General Election of 27 September 2015)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 34 | 30–39 | 29–42 | 27–43 | 26–45 |
 | [13–20 December 2017](2017-12-20-Feedback.html) | Feedback <br> The National | 32 | 29–35 | 29–36 | 28–36 | 26–38 |
-| [12–19 December 2017](2017-12-19-Feedback.html) | Feedback <br> The National | 33 | 30–36 | 30–37 | 29–37 | 28–38 |
+| [12–19 December 2017](2017-12-19-Feedback.html) | Feedback <br> The National | 33 | 30–36 | 30–37 | 29–38 | 28–38 |
 | [16–18 December 2017](2017-12-18-GESOP.html) | GESOP <br> El Periòdic | 36 | 32–39 | 31–40 | 31–41 | 29–42 |
 | [11–18 December 2017](2017-12-18-Feedback.html) | Feedback <br> The National | 32 | 29–35 | 29–36 | 28–37 | 26–38 |
 | [15–17 December 2017](2017-12-17-GESOP.html) | GESOP <br> El Periòdic | 32 | 29–35 | 29–36 | 29–37 | 26–38 |
@@ -118,7 +118,7 @@ Last result: **20** seats (General Election of 27 September 2015)
 | [9–16 December 2017](2017-12-16-Feedback.html) | Feedback <br> The National | 31 | 29–34 | 28–35 | 27–35 | 26–37 |
 | [13–15 December 2017](2017-12-15-GESOP.html) | GESOP <br> El Periódico | 34 | 31–37 | 30–38 | 29–38 | 28–40 |
 | [11–15 December 2017](2017-12-15-GAD3.html) | GAD3 <br> ABC | 31 | 29–32 | 28–33 | 27–34 | 26–35 |
-| [8–15 December 2017](2017-12-15-Feedback.html) | Feedback <br> El Nacional | 31 | 29–35 | 29–35 | 28–36 | 26–37 |
+| [8–15 December 2017](2017-12-15-Feedback.html) | Feedback <br> El Nacional | 31 | 29–34 | 29–35 | 28–36 | 26–37 |
 | [11–14 December 2017](2017-12-14-TopPosition.html) | Top Position | 28 | 26–31 | 25–32 | 25–32 | 24–33 |
 | [1–14 December 2017](2017-12-14-SocioMétrica.html) | SocioMétrica <br> El Español | 32 | 30–34 | 29–35 | 29–35 | 28–37 |
 | [12–14 December 2017](2017-12-14-GESOP.html) | GESOP <br> El Periódico | 34 | 31–37 | 30–38 | 29–38 | 28–40 |

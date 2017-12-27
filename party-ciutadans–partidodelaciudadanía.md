@@ -107,7 +107,7 @@ Last result: **25** seats (General Election of 27 September 2015)
 | [9–16 December 2017](2017-12-16-Feedback.html) | Feedback <br> The National | 33 | 30–35 | 30–36 | 29–37 | 27–38 |
 | [13–15 December 2017](2017-12-15-GESOP.html) | GESOP <br> El Periódico | 29 | 26–32 | 25–33 | 25–33 | 24–34 |
 | [11–15 December 2017](2017-12-15-GAD3.html) | GAD3 <br> ABC | 34 | 32–36 | 31–37 | 31–38 | 30–39 |
-| [8–15 December 2017](2017-12-15-Feedback.html) | Feedback <br> El Nacional | 33 | 30–35 | 30–36 | 29–38 | 28–38 |
+| [8–15 December 2017](2017-12-15-Feedback.html) | Feedback <br> El Nacional | 33 | 30–35 | 30–36 | 29–38 | 28–39 |
 | [11–14 December 2017](2017-12-14-TopPosition.html) | Top Position | 34 | 32–38 | 32–38 | 31–39 | 30–40 |
 | [1–14 December 2017](2017-12-14-SocioMétrica.html) | SocioMétrica <br> El Español | 31 | 29–33 | 28–34 | 27–34 | 27–35 |
 | [12–14 December 2017](2017-12-14-GESOP.html) | GESOP <br> El Periódico | 29 | 26–31 | 25–33 | 25–33 | 24–34 |
