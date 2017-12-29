@@ -99,7 +99,7 @@ Last result: **25** seats (General Election of 27 September 2015)
 | [13–20 December 2017](2017-12-20-Feedback.html) | Feedback <br> The National | 31 | 28–33 | 27–34 | 26–34 | 26–35 |
 | [12–19 December 2017](2017-12-19-Feedback.html) | Feedback <br> The National | 32 | 30–34 | 29–35 | 28–36 | 26–38 |
 | [16–18 December 2017](2017-12-18-GESOP.html) | GESOP <br> El Periòdic | 32 | 29–34 | 28–36 | 27–36 | 26–38 |
-| [11–18 December 2017](2017-12-18-Feedback.html) | Feedback <br> The National | 33 | 30–35 | 29–36 | 29–37 | 27–38 |
+| [11–18 December 2017](2017-12-18-Feedback.html) | Feedback <br> The National | 32 | 30–35 | 29–36 | 29–37 | 27–38 |
 | [15–17 December 2017](2017-12-17-GESOP.html) | GESOP <br> El Periòdic | 31 | 27–33 | 27–34 | 26–35 | 25–36 |
 | [10–17 December 2017](2017-12-17-Feedback.html) | Feedback <br> The National | 33 | 30–35 | 30–36 | 29–37 | 27–38 |
 | [12–16 December 2017](2017-12-16-Netquest.html) | Netquest <br> L’Indépendant | 33 | 30–35 | 29–36 | 29–37 | 27–39 |
