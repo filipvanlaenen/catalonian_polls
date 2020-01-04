@@ -44,10 +44,10 @@ Last result: **17** seats (General Election of 21 December 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 24 | 21–26 | 20–27 | 20–28 | 18–28 |
-| [14 November–5 December 2019](2019-12-05-GESOP.html) | GESOP <br> CEO | 24 | 22–26 | 22–28 | 21–28 | 19–29 |
-| [27–30 November 2019](2019-11-30-electoPanel.html) | electoPanel <br> electomania.es | 25 | 24–27 | 23–28 | 23–28 | 21–29 |
-| [18–22 November 2019](2019-11-22-NCReport.html) | NC Report <br> La Razón | 23 | 20–25 | 19–26 | 18–26 | 17–27 |
+| N/A | [Poll Average](average.html) | 24 | 21–26 | 20–27 | 19–28 | 17–28 |
+| [14 November–5 December 2019](2019-12-05-GESOP.html) | GESOP <br> CEO | 25 | 23–26 | 22–27 | 21–28 | 19–29 |
+| [27–30 November 2019](2019-11-30-electoPanel.html) | electoPanel <br> electomania.es | 25 | 24–27 | 23–28 | 23–28 | 22–29 |
+| [18–22 November 2019](2019-11-22-NCReport.html) | NC Report <br> La Razón | 23 | 19–25 | 18–25 | 18–26 | 17–27 |
 | [25–17 July 2019](2019-07-17-GESOP.html) | GESOP <br> CEO | 25 | 20–28 | 20–28 | 20–28 | 20–28 |
 
 ### Probability Mass Function
@@ -59,20 +59,20 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 16 | 0.1% | 100% |  |
-| 17 | 0.3% | 99.9% | Last Result |
-| 18 | 0.7% | 99.6% |  |
-| 19 | 1.4% | 98.9% |  |
-| 20 | 4% | 98% |  |
-| 21 | 7% | 93% |  |
-| 22 | 6% | 86% |  |
-| 23 | 11% | 80% |  |
-| 24 | 25% | 69% | Median |
-| 25 | 23% | 44% |  |
-| 26 | 14% | 21% |  |
-| 27 | 2% | 7% |  |
-| 28 | 4% | 5% |  |
+| 17 | 0.7% | 99.9% | Last Result |
+| 18 | 1.2% | 99.2% |  |
+| 19 | 2% | 98% |  |
+| 20 | 3% | 96% |  |
+| 21 | 5% | 93% |  |
+| 22 | 5% | 87% |  |
+| 23 | 11% | 83% |  |
+| 24 | 27% | 71% | Median |
+| 25 | 25% | 44% |  |
+| 26 | 13% | 20% |  |
+| 27 | 4% | 7% |  |
+| 28 | 3% | 4% |  |
 | 29 | 0.3% | 0.5% |  |
-| 30 | 0.1% | 0.1% |  |
+| 30 | 0.1% | 0.2% |  |
 | 31 | 0% | 0% |  |
 
 
