@@ -44,7 +44,7 @@ Last result: **0** seats (General Election of 21 December 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8 | 0–10 | 0–11 | 0–12 | 0–12 |
+| N/A | [Poll Average](average.html) | 8 | 0–10 | 0–12 | 0–12 | 0–12 |
 | [14 November–5 December 2019](2019-12-05-GESOP.html) | GESOP <br> CEO | 0 | 0 | 0 | 0–2 | 0–3 |
 | [27–30 November 2019](2019-11-30-electoPanel.html) | electoPanel <br> electomania.es | 9 | 8–12 | 7–12 | 7–12 | 7–12 |
 | [18–22 November 2019](2019-11-22-NCReport.html) | NC Report <br> La Razón | 9 | 7–10 | 6–10 | 5–11 | 5–12 |
@@ -60,17 +60,17 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 32% | 100% | Last Result |
 | 1 | 0% | 68% |  |
-| 2 | 0.7% | 68% |  |
-| 3 | 0.4% | 67% |  |
+| 2 | 0.8% | 68% |  |
+| 3 | 0.6% | 67% |  |
 | 4 | 0% | 67% |  |
 | 5 | 2% | 67% |  |
 | 6 | 1.2% | 65% |  |
-| 7 | 12% | 64% |  |
-| 8 | 9% | 52% | Median |
-| 9 | 29% | 43% |  |
-| 10 | 5% | 14% |  |
-| 11 | 4% | 9% |  |
-| 12 | 4% | 5% |  |
+| 7 | 13% | 64% |  |
+| 8 | 7% | 51% | Median |
+| 9 | 30% | 44% |  |
+| 10 | 4% | 14% |  |
+| 11 | 4% | 10% |  |
+| 12 | 5% | 5% |  |
 | 13 | 0.1% | 0.1% |  |
 | 14 | 0% | 0% |  |
 
