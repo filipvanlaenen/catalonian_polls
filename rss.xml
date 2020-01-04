@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Parliament of Catalonia</title>
     <link>https://filipvanlaenen.github.io/catalonian_polls</link>
     <description>All Registered Polls for the Parliament of Catalonia</description>
-    <pubDate>Sat, 04 Jan 2020 18:23:07 +0100</pubDate>
+    <pubDate>Sat, 04 Jan 2020 19:55:10 +0100</pubDate>
     <item>
       <title>Opinion Poll by GESOP for CEO, 14 November–5 December 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/catalonian_polls/2019-12-05-GESOP.html</link>
@@ -16,8 +16,8 @@
       <enclosure url="https://filipvanlaenen.github.io/catalonian_polls/2019-12-05-GESOP.png"
         length="263473"
         type="image/png"/>
-      <pubDate>Sat, 04 Jan 2020 17:55:11 +0100</pubDate>
-      <dc:date>2020-01-04T17:55:11.030582+01:00</dc:date>
+      <pubDate>Sat, 04 Jan 2020 19:09:53 +0100</pubDate>
+      <dc:date>2020-01-04T19:09:53.231605+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by electoPanel for electomania.es, 27–30 November 2019 – Voting Intentions</title>
@@ -26,8 +26,8 @@
       <enclosure url="https://filipvanlaenen.github.io/catalonian_polls/2019-11-30-electoPanel.png"
         length="263512"
         type="image/png"/>
-      <pubDate>Sat, 04 Jan 2020 18:09:45 +0100</pubDate>
-      <dc:date>2020-01-04T18:09:45.958814+01:00</dc:date>
+      <pubDate>Sat, 04 Jan 2020 19:32:30 +0100</pubDate>
+      <dc:date>2020-01-04T19:32:30.057883+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by NC Report for La Razón, 18–22 November 2019 – Voting Intentions</title>
@@ -36,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/catalonian_polls/2019-11-22-NCReport.png"
         length="290204"
         type="image/png"/>
-      <pubDate>Sat, 04 Jan 2020 18:23:07 +0100</pubDate>
-      <dc:date>2020-01-04T18:23:07.981179+01:00</dc:date>
+      <pubDate>Sat, 04 Jan 2020 19:55:10 +0100</pubDate>
+      <dc:date>2020-01-04T19:55:10.835591+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by GESOP for CEO, 25–17 July 2019 – Voting Intentions</title>
@@ -49,6 +49,6 @@
       <pubDate>Fri, 03 Jan 2020 19:12:38 +0100</pubDate>
       <dc:date>2020-01-03T19:12:38.836863+01:00</dc:date>
     </item>
-    <dc:date>2020-01-04T18:23:07.981179+01:00</dc:date>
+    <dc:date>2020-01-04T19:55:10.835591+01:00</dc:date>
   </channel>
 </rss>
