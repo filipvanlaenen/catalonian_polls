@@ -47,8 +47,8 @@ Last result: **34** seats (General Election of 21 December 2017)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 29 | 24–32 | 23–33 | 23–34 | 22–36 |
-| [14 November–5 December 2019](2019-12-05-GESOP.html) | GESOP <br> CEO | 30 | 27–32 | 27–33 | 26–34 | 24–35 |
-| [27–30 November 2019](2019-11-30-electoPanel.html) | electoPanel <br> electomania.es | 24 | 23–27 | 23–28 | 22–29 | 20–29 |
+| [14 November–5 December 2019](2019-12-05-GESOP.html) | GESOP <br> CEO | 30 | 28–32 | 27–33 | 26–34 | 24–35 |
+| [27–30 November 2019](2019-11-30-electoPanel.html) | electoPanel <br> electomania.es | 25 | 23–27 | 23–28 | 22–29 | 21–29 |
 | [18–22 November 2019](2019-11-22-NCReport.html) | NC Report <br> La Razón | 31 | 26–33 | 26–34 | 26–36 | 24–36 |
 | [25–17 July 2019](2019-07-17-GESOP.html) | GESOP <br> CEO | 27 | 24–29 | 24–29 | 24–30 | 23–30 |
 
@@ -60,23 +60,23 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 20 | 0.2% | 100% |  |
-| 21 | 0.1% | 99.8% |  |
-| 22 | 1.3% | 99.6% |  |
-| 23 | 5% | 98% |  |
-| 24 | 13% | 93% |  |
-| 25 | 5% | 81% |  |
-| 26 | 13% | 76% |  |
-| 27 | 6% | 63% |  |
-| 28 | 4% | 58% |  |
-| 29 | 13% | 53% | Median |
-| 30 | 8% | 41% |  |
-| 31 | 16% | 33% |  |
-| 32 | 10% | 16% |  |
-| 33 | 3% | 7% |  |
-| 34 | 2% | 3% | Last Result |
-| 35 | 0.3% | 2% |  |
-| 36 | 1.2% | 1.3% |  |
+| 20 | 0.1% | 100% |  |
+| 21 | 0.2% | 99.9% |  |
+| 22 | 0.7% | 99.6% |  |
+| 23 | 6% | 99.0% |  |
+| 24 | 9% | 93% |  |
+| 25 | 6% | 84% |  |
+| 26 | 15% | 78% |  |
+| 27 | 4% | 63% |  |
+| 28 | 6% | 59% |  |
+| 29 | 15% | 53% | Median |
+| 30 | 8% | 39% |  |
+| 31 | 15% | 30% |  |
+| 32 | 9% | 15% |  |
+| 33 | 2% | 6% |  |
+| 34 | 2% | 4% | Last Result |
+| 35 | 0.4% | 2% |  |
+| 36 | 1.2% | 1.4% |  |
 | 37 | 0.1% | 0.2% |  |
 | 38 | 0% | 0.1% |  |
 | 39 | 0% | 0% |  |

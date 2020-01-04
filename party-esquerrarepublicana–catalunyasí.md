@@ -48,9 +48,9 @@ Last result: **32** seats (General Election of 21 December 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 34 | 30–40 | 29–40 | 28–42 | 27–43 |
-| [14 November–5 December 2019](2019-12-05-GESOP.html) | GESOP <br> CEO | 38 | 36–41 | 35–43 | 34–43 | 33–44 |
-| [27–30 November 2019](2019-11-30-electoPanel.html) | electoPanel <br> electomania.es | 33 | 31–35 | 30–36 | 30–37 | 29–38 |
+| N/A | [Poll Average](average.html) | 34 | 30–39 | 29–40 | 28–42 | 27–44 |
+| [14 November–5 December 2019](2019-12-05-GESOP.html) | GESOP <br> CEO | 38 | 36–41 | 35–42 | 34–43 | 33–44 |
+| [27–30 November 2019](2019-11-30-electoPanel.html) | electoPanel <br> electomania.es | 33 | 31–35 | 30–36 | 30–37 | 28–38 |
 | [18–22 November 2019](2019-11-22-NCReport.html) | NC Report <br> La Razón | 32 | 28–34 | 28–35 | 28–36 | 26–38 |
 | [25–17 July 2019](2019-07-17-GESOP.html) | GESOP <br> CEO | 41 | 37–43 | 37–43 | 36–43 | 34–45 |
 
@@ -66,23 +66,23 @@ The following table shows the probability mass function per seat for the [poll a
 | 26 | 0.3% | 99.9% |  |
 | 27 | 0.4% | 99.6% |  |
 | 28 | 3% | 99.2% |  |
-| 29 | 4% | 96% |  |
+| 29 | 3% | 96% |  |
 | 30 | 6% | 93% |  |
-| 31 | 7% | 87% |  |
-| 32 | 10% | 80% | Last Result |
-| 33 | 11% | 70% |  |
-| 34 | 17% | 58% | Median |
-| 35 | 6% | 41% |  |
-| 36 | 5% | 35% |  |
-| 37 | 11% | 30% |  |
-| 38 | 5% | 19% |  |
-| 39 | 3% | 15% |  |
-| 40 | 7% | 12% |  |
+| 31 | 6% | 87% |  |
+| 32 | 12% | 81% | Last Result |
+| 33 | 13% | 69% |  |
+| 34 | 14% | 56% | Median |
+| 35 | 6% | 42% |  |
+| 36 | 6% | 35% |  |
+| 37 | 9% | 29% |  |
+| 38 | 6% | 21% |  |
+| 39 | 6% | 15% |  |
+| 40 | 5% | 10% |  |
 | 41 | 2% | 5% |  |
-| 42 | 0.9% | 3% |  |
-| 43 | 1.3% | 2% |  |
+| 42 | 1.3% | 3% |  |
+| 43 | 0.9% | 1.4% |  |
 | 44 | 0.4% | 0.5% |  |
-| 45 | 0% | 0.1% |  |
+| 45 | 0.1% | 0.1% |  |
 | 46 | 0% | 0% |  |
 
 
