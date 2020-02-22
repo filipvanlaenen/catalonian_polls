@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Parliament of Catalonia</title>
     <link>https://filipvanlaenen.github.io/catalonian_polls</link>
     <description>All Registered Polls for the Parliament of Catalonia</description>
-    <pubDate>Sat, 22 Feb 2020 13:15:24 +0100</pubDate>
+    <pubDate>Sat, 22 Feb 2020 18:47:04 +0100</pubDate>
     <item>
       <title>Opinion Poll by GAD3 for La Vanguardia, 3–6 February 2020 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/catalonian_polls/2020-02-06-GAD3.html</link>
@@ -16,8 +16,48 @@
       <enclosure url="https://filipvanlaenen.github.io/catalonian_polls/2020-02-06-GAD3.png"
         length="286948"
         type="image/png"/>
-      <pubDate>Sat, 22 Feb 2020 13:15:24 +0100</pubDate>
-      <dc:date>2020-02-22T13:15:24.22582+01:00</dc:date>
+      <pubDate>Sat, 22 Feb 2020 17:49:37 +0100</pubDate>
+      <dc:date>2020-02-22T17:49:37.814668+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by SocioMétrica for El Español, 2 February 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/catalonian_polls/2020-02-02-SocioMétrica.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Ciutadans–Partido de la Ciudadanía: 8.6–14.1%&lt;/li&gt;&lt;li&gt;Junts pel Catalunya: 15.4–22.3%&lt;/li&gt;&lt;li&gt;Esquerra Republicana–Catalunya Sí: 19.5–26.9%&lt;/li&gt;&lt;li&gt;Partit dels Socialistes de Catalunya (PSC-PSOE): 16.2–23.1%&lt;/li&gt;&lt;li&gt;Catalunya en Comú–Podem: 7.7–13.0%&lt;/li&gt;&lt;li&gt;Candidatura d’Unitat Popular: 4.4–8.7%&lt;/li&gt;&lt;li&gt;Partit Popular: 4.4–8.7%&lt;/li&gt;&lt;li&gt;Vox: 3.2–7.1%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/catalonian_polls/2020-02-02-SocioMétrica.png"
+        length="300498"
+        type="image/png"/>
+      <pubDate>Sat, 22 Feb 2020 18:03:49 +0100</pubDate>
+      <dc:date>2020-02-22T18:03:49.434808+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by NC Report for La Razón, 27–31 January 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/catalonian_polls/2020-01-31-NCReport.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Ciutadans–Partido de la Ciudadanía: 8.3–12.7%&lt;/li&gt;&lt;li&gt;Junts pel Catalunya: 16.8–22.5%&lt;/li&gt;&lt;li&gt;Esquerra Republicana–Catalunya Sí: 18.2–24.1%&lt;/li&gt;&lt;li&gt;Partit dels Socialistes de Catalunya (PSC-PSOE): 14.8–20.3%&lt;/li&gt;&lt;li&gt;Catalunya en Comú–Podem: 6.5–10.5%&lt;/li&gt;&lt;li&gt;Candidatura d’Unitat Popular: 4.5–7.9%&lt;/li&gt;&lt;li&gt;Partit Popular: 7.1–11.2%&lt;/li&gt;&lt;li&gt;Vox: 4.7–8.2%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/catalonian_polls/2020-01-31-NCReport.png"
+        length="291522"
+        type="image/png"/>
+      <pubDate>Sat, 22 Feb 2020 18:18:23 +0100</pubDate>
+      <dc:date>2020-02-22T18:18:23.830844+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by GESOP for El Periódico, 27–31 January 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/catalonian_polls/2020-01-31-GESOP.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Ciutadans–Partido de la Ciudadanía: 11.2–14.7%&lt;/li&gt;&lt;li&gt;Junts pel Catalunya: 17.1–21.1%&lt;/li&gt;&lt;li&gt;Esquerra Republicana–Catalunya Sí: 20.0–24.2%&lt;/li&gt;&lt;li&gt;Partit dels Socialistes de Catalunya (PSC-PSOE): 15.1–19.0%&lt;/li&gt;&lt;li&gt;Catalunya en Comú–Podem: 8.0–11.0%&lt;/li&gt;&lt;li&gt;Candidatura d’Unitat Popular: 5.4–8.0%&lt;/li&gt;&lt;li&gt;Partit Popular: 3.8–6.1%&lt;/li&gt;&lt;li&gt;Vox: 4.4–6.8%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/catalonian_polls/2020-01-31-GESOP.png"
+        length="257120"
+        type="image/png"/>
+      <pubDate>Sat, 22 Feb 2020 18:32:35 +0100</pubDate>
+      <dc:date>2020-02-22T18:32:35.686698+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by electoPanel for electomania.es, 27–29 January 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/catalonian_polls/2020-01-29-electoPanel.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Ciutadans–Partido de la Ciudadanía: 6.2–8.8%&lt;/li&gt;&lt;li&gt;Junts pel Catalunya: 18.0–22.1%&lt;/li&gt;&lt;li&gt;Esquerra Republicana–Catalunya Sí: 18.7–22.9%&lt;/li&gt;&lt;li&gt;Partit dels Socialistes de Catalunya (PSC-PSOE): 17.5–21.5%&lt;/li&gt;&lt;li&gt;Catalunya en Comú–Podem: 7.5–10.3%&lt;/li&gt;&lt;li&gt;Candidatura d’Unitat Popular: 6.5–9.3%&lt;/li&gt;&lt;li&gt;Partit Popular: 7.1–9.9%&lt;/li&gt;&lt;li&gt;Vox: 5.1–7.5%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/catalonian_polls/2020-01-29-electoPanel.png"
+        length="260725"
+        type="image/png"/>
+      <pubDate>Sat, 22 Feb 2020 18:47:04 +0100</pubDate>
+      <dc:date>2020-02-22T18:47:04.155647+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by GESOP for CEO, 14 November–5 December 2019 – Voting Intentions</title>
@@ -59,6 +99,6 @@
       <pubDate>Fri, 03 Jan 2020 19:12:38 +0100</pubDate>
       <dc:date>2020-01-03T19:12:38.836863+01:00</dc:date>
     </item>
-    <dc:date>2020-02-22T13:15:24.22582+01:00</dc:date>
+    <dc:date>2020-02-22T18:47:04.155647+01:00</dc:date>
   </channel>
 </rss>
