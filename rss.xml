@@ -8,7 +8,17 @@
     <title>All Registered Polls for the Parliament of Catalonia</title>
     <link>https://filipvanlaenen.github.io/catalonian_polls</link>
     <description>All Registered Polls for the Parliament of Catalonia</description>
-    <pubDate>Sat, 22 Feb 2020 18:47:04 +0100</pubDate>
+    <pubDate>Sun, 22 Mar 2020 21:32:22 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by GAD3 for ABC, 21–26 February 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/catalonian_polls/2020-02-26-GAD3.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Ciutadans–Partido de la Ciudadanía: 7.1–11.1%&lt;/li&gt;&lt;li&gt;Junts pel Catalunya: 13.0–18.0%&lt;/li&gt;&lt;li&gt;Esquerra Republicana–Catalunya Sí: 25.1–31.4%&lt;/li&gt;&lt;li&gt;Partit dels Socialistes de Catalunya (PSC-PSOE): 18.1–23.7%&lt;/li&gt;&lt;li&gt;Catalunya en Comú–Podem: 6.4–10.2%&lt;/li&gt;&lt;li&gt;Candidatura d’Unitat Popular: 3.6–6.6%&lt;/li&gt;&lt;li&gt;Partit Popular: 5.6–9.3%&lt;/li&gt;&lt;li&gt;Vox: 3.2–6.0%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/catalonian_polls/2020-02-26-GAD3.png"
+        length="266558"
+        type="image/png"/>
+      <pubDate>Sun, 22 Mar 2020 21:32:22 +0100</pubDate>
+      <dc:date>2020-03-22T21:32:22.173071+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by GAD3 for La Vanguardia, 3–6 February 2020 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/catalonian_polls/2020-02-06-GAD3.html</link>
@@ -99,6 +109,6 @@
       <pubDate>Fri, 03 Jan 2020 19:12:38 +0100</pubDate>
       <dc:date>2020-01-03T19:12:38.836863+01:00</dc:date>
     </item>
-    <dc:date>2020-02-22T18:47:04.155647+01:00</dc:date>
+    <dc:date>2020-03-22T21:32:22.173071+01:00</dc:date>
   </channel>
 </rss>
