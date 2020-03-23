@@ -10,7 +10,8 @@ Last result: **25.4%** (General Election of 21 December 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 10.1% | 7.2–13.1% | 6.9–13.6% | 6.6–14.0% | 6.1–14.8% |
+| N/A | [Poll Average](average.html) | 10.1% | 7.4–13.1% | 7.0–13.6% | 6.7–14.0% | 6.2–14.8% |
+| [21–26 February 2020](2020-02-26-GAD3.html) | GAD3 <br> ABC | 8.9% | 7.7–10.3% | 7.4–10.7% | 7.1–11.1% | 6.6–11.8% |
 | [3–6 February 2020](2020-02-06-GAD3.html) | GAD3 <br> La Vanguardia | 8.5% | 7.1–10.2% | 6.8–10.7% | 6.4–11.1% | 5.9–11.9% |
 | [2 February 2020](2020-02-02-SocioMétrica.html) | SocioMétrica <br> El Español | 11.0% | 9.4–13.0% | 8.9–13.5% | 8.6–14.1% | 7.8–15.1% |
 | [27–31 January 2020](2020-01-31-NCReport.html) | NC Report <br> La Razón | 10.3% | 9.0–11.9% | 8.6–12.3% | 8.3–12.7% | 7.7–13.5% |
@@ -53,14 +54,14 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 4.5–5.5% | 0.1% | 100% |  |
-| 5.5–6.5% | 2% | 99.9% |  |
-| 6.5–7.5% | 13% | 98% |  |
-| 7.5–8.5% | 15% | 85% |  |
-| 8.5–9.5% | 13% | 70% |  |
-| 9.5–10.5% | 14% | 57% | Median |
-| 10.5–11.5% | 13% | 43% |  |
-| 11.5–12.5% | 13% | 30% |  |
+| 4.5–5.5% | 0% | 100% |  |
+| 5.5–6.5% | 2% | 100% |  |
+| 6.5–7.5% | 11% | 98% |  |
+| 7.5–8.5% | 14% | 87% |  |
+| 8.5–9.5% | 14% | 73% |  |
+| 9.5–10.5% | 15% | 58% | Median |
+| 10.5–11.5% | 14% | 43% |  |
+| 11.5–12.5% | 13% | 29% |  |
 | 12.5–13.5% | 11% | 17% |  |
 | 13.5–14.5% | 5% | 5% |  |
 | 14.5–15.5% | 0.8% | 0.9% |  |
@@ -84,7 +85,8 @@ Last result: **36** seats (General Election of 21 December 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 13 | 8–18 | 8–18 | 8–19 | 6–19 |
+| N/A | [Poll Average](average.html) | 12 | 8–18 | 8–18 | 8–19 | 7–19 |
+| [21–26 February 2020](2020-02-26-GAD3.html) | GAD3 <br> ABC | 12 | 9–13 | 8–14 | 8–14 | 8–15 |
 | [3–6 February 2020](2020-02-06-GAD3.html) | GAD3 <br> La Vanguardia | 13 | 11–13 | 8–13 | 7–14 | 6–14 |
 | [2 February 2020](2020-02-02-SocioMétrica.html) | SocioMétrica <br> El Español | 14 | 12–18 | 12–18 | 10–18 | 9–19 |
 | [27–31 January 2020](2020-01-31-NCReport.html) | NC Report <br> La Razón | 12 | 10–13 | 9–14 | 9–14 | 8–17 |
@@ -129,15 +131,15 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 6 | 0.6% | 100% |  |
-| 7 | 1.4% | 99.4% |  |
-| 8 | 10% | 98% |  |
-| 9 | 6% | 88% |  |
-| 10 | 4% | 83% |  |
-| 11 | 5% | 79% |  |
-| 12 | 19% | 73% |  |
-| 13 | 20% | 55% | Median |
-| 14 | 6% | 35% |  |
+| 6 | 0.2% | 100% |  |
+| 7 | 1.0% | 99.8% |  |
+| 8 | 11% | 98.8% |  |
+| 9 | 9% | 88% |  |
+| 10 | 6% | 79% |  |
+| 11 | 7% | 74% |  |
+| 12 | 19% | 66% | Median |
+| 13 | 12% | 48% |  |
+| 14 | 7% | 36% |  |
 | 15 | 6% | 29% |  |
 | 16 | 8% | 23% |  |
 | 17 | 4% | 15% |  |
