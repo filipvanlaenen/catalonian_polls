@@ -8,7 +8,17 @@
     <title>All Registered Polls for the Parliament of Catalonia</title>
     <link>https://filipvanlaenen.github.io/catalonian_polls</link>
     <description>All Registered Polls for the Parliament of Catalonia</description>
-    <pubDate>Sat, 11 Apr 2020 23:18:03 +0200</pubDate>
+    <pubDate>Sun, 12 Apr 2020 12:19:44 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by GESOP for CEO, 10 February–9 March 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/catalonian_polls/2020-03-09-GESOP.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Ciutadans–Partido de la Ciudadanía: 11.1–14.6%&lt;/li&gt;&lt;li&gt;Junts pel Catalunya: 16.6–20.7%&lt;/li&gt;&lt;li&gt;Esquerra Republicana–Catalunya Sí: 20.9–25.3%&lt;/li&gt;&lt;li&gt;Partit dels Socialistes de Catalunya (PSC-PSOE): 15.5–19.5%&lt;/li&gt;&lt;li&gt;Catalunya en Comú–Podem: 9.4–12.7%&lt;/li&gt;&lt;li&gt;Candidatura d’Unitat Popular: 5.8–8.6%&lt;/li&gt;&lt;li&gt;Partit Popular: 4.4–6.8%&lt;/li&gt;&lt;li&gt;Vox: 2.2–4.0%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/catalonian_polls/2020-03-09-GESOP.png"
+        length="259043"
+        type="image/png"/>
+      <pubDate>Sun, 12 Apr 2020 11:44:59 +0200</pubDate>
+      <dc:date>2020-04-12T11:44:59.826595+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by GAD3 for ABC, 21–26 February 2020 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/catalonian_polls/2020-02-26-GAD3.html</link>
@@ -46,8 +56,8 @@
       <enclosure url="https://filipvanlaenen.github.io/catalonian_polls/2020-01-31-NCReport.png"
         length="291522"
         type="image/png"/>
-      <pubDate>Sat, 11 Apr 2020 23:18:03 +0200</pubDate>
-      <dc:date>2020-04-11T23:18:03.254275+02:00</dc:date>
+      <pubDate>Sun, 12 Apr 2020 12:00:03 +0200</pubDate>
+      <dc:date>2020-04-12T12:00:03.754003+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by GESOP for El Periódico, 27–31 January 2020 – Voting Intentions</title>
@@ -66,8 +76,8 @@
       <enclosure url="https://filipvanlaenen.github.io/catalonian_polls/2020-01-29-electoPanel.png"
         length="260725"
         type="image/png"/>
-      <pubDate>Sat, 22 Feb 2020 18:47:04 +0100</pubDate>
-      <dc:date>2020-02-22T18:47:04.155647+01:00</dc:date>
+      <pubDate>Sun, 12 Apr 2020 12:19:44 +0200</pubDate>
+      <dc:date>2020-04-12T12:19:44.591606+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by GESOP for CEO, 14 November–5 December 2019 – Voting Intentions</title>
@@ -109,6 +119,6 @@
       <pubDate>Fri, 03 Jan 2020 19:12:38 +0100</pubDate>
       <dc:date>2020-01-03T19:12:38.836863+01:00</dc:date>
     </item>
-    <dc:date>2020-04-11T23:18:03.254275+02:00</dc:date>
+    <dc:date>2020-04-12T12:19:44.591606+02:00</dc:date>
   </channel>
 </rss>
