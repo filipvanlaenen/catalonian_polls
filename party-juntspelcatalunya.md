@@ -10,8 +10,8 @@ Last result: **21.7%** (General Election of 21 December 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 18.9% | 15.1–21.1% | 14.4–21.6% | 13.8–22.1% | 12.9–23.1% |
-| [10 February–9 March 2020](2020-03-09-GESOP.html) | GESOP <br> CEO | 18.6% | N/A | N/A | N/A | N/A |
+| N/A | [Poll Average](average.html) | 18.8% | 15.4–20.9% | 14.6–21.5% | 14.0–22.0% | 13.0–23.0% |
+| [10 February–9 March 2020](2020-03-09-GESOP.html) | GESOP <br> CEO | 18.6% | 17.3–20.0% | 16.9–20.4% | 16.6–20.7% | 16.0–21.4% |
 | [21–26 February 2020](2020-02-26-GAD3.html) | GAD3 <br> ABC | 15.4% | 13.8–17.1% | 13.4–17.6% | 13.0–18.0% | 12.3–18.9% |
 | [3–6 February 2020](2020-02-06-GAD3.html) | GAD3 <br> La Vanguardia | 19.8% | 17.8–22.1% | 17.2–22.7% | 16.7–23.3% | 15.8–24.4% |
 | [2 February 2020](2020-02-02-SocioMétrica.html) | SocioMétrica <br> El Español | 18.6% | 16.5–21.0% | 15.9–21.7% | 15.4–22.3% | 14.5–23.4% |
@@ -57,17 +57,17 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 10.5–11.5% | 0% | 100% |  |
 | 11.5–12.5% | 0.2% | 100% |  |
-| 12.5–13.5% | 1.4% | 99.8% |  |
-| 13.5–14.5% | 5% | 98% |  |
-| 14.5–15.5% | 8% | 94% |  |
-| 15.5–16.5% | 9% | 86% |  |
-| 16.5–17.5% | 9% | 77% |  |
-| 17.5–18.5% | 12% | 68% |  |
-| 18.5–19.5% | 18% | 56% | Median |
-| 19.5–20.5% | 20% | 37% |  |
-| 20.5–21.5% | 12% | 18% |  |
-| 21.5–22.5% | 4% | 6% | Last Result |
-| 22.5–23.5% | 1.0% | 1.2% |  |
+| 12.5–13.5% | 1.1% | 99.8% |  |
+| 13.5–14.5% | 4% | 98.7% |  |
+| 14.5–15.5% | 6% | 95% |  |
+| 15.5–16.5% | 8% | 89% |  |
+| 16.5–17.5% | 10% | 81% |  |
+| 17.5–18.5% | 16% | 71% |  |
+| 18.5–19.5% | 21% | 55% | Median |
+| 19.5–20.5% | 19% | 33% |  |
+| 20.5–21.5% | 10% | 15% |  |
+| 21.5–22.5% | 4% | 4% | Last Result |
+| 22.5–23.5% | 0.8% | 1.0% |  |
 | 23.5–24.5% | 0.2% | 0.2% |  |
 | 24.5–25.5% | 0% | 0% |  |
 
@@ -80,14 +80,14 @@ Last result: **34** seats (General Election of 21 December 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 29 | 23–33 | 23–34 | 21–35 | 20–36 |
-| [10 February–9 March 2020](2020-03-09-GESOP.html) | GESOP <br> CEO |  |  |  |  |  |
+| N/A | [Poll Average](average.html) | 29 | 23–33 | 23–33 | 21–35 | 20–36 |
+| [10 February–9 March 2020](2020-03-09-GESOP.html) | GESOP <br> CEO | 29 | 27–31 | 26–32 | 26–32 | 24–33 |
 | [21–26 February 2020](2020-02-26-GAD3.html) | GAD3 <br> ABC | 24 | 21–27 | 20–28 | 20–29 | 18–30 |
 | [3–6 February 2020](2020-02-06-GAD3.html) | GAD3 <br> La Vanguardia | 31 | 27–34 | 26–36 | 25–36 | 25–38 |
 | [2 February 2020](2020-02-02-SocioMétrica.html) | SocioMétrica <br> El Español | 29 | 25–32 | 24–33 | 24–35 | 22–36 |
-| [27–31 January 2020](2020-01-31-NCReport.html) | NC Report <br> La Razón | 31 | 27–33 | 26–35 | 26–36 | 25–37 |
+| [27–31 January 2020](2020-01-31-NCReport.html) | NC Report <br> La Razón | 31 | 27–34 | 26–35 | 26–36 | 25–37 |
 | [27–31 January 2020](2020-01-31-GESOP.html) | GESOP <br> El Periódico | 30 | 27–31 | 27–32 | 26–33 | 26–35 |
-| [27–29 January 2020](2020-01-29-electoPanel.html) | electoPanel <br> electomania.es | 31 | 29–34 | 29–34 | 29–35 | 27–36 |
+| [27–29 January 2020](2020-01-29-electoPanel.html) | electoPanel <br> electomania.es | 31 | 29–33 | 29–34 | 29–35 | 27–36 |
 | [14 November–5 December 2019](2019-12-05-GESOP.html) | GESOP <br> CEO | 30 | 28–32 | 27–33 | 26–34 | 24–35 |
 | [27–30 November 2019](2019-11-30-electoPanel.html) | electoPanel <br> electomania.es | 25 | 23–27 | 23–28 | 22–29 | 21–29 |
 | [18–22 November 2019](2019-11-22-NCReport.html) | NC Report <br> La Razón | 31 | 26–33 | 26–34 | 26–36 | 24–37 |
@@ -128,25 +128,25 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 18 | 0.2% | 100% |  |
-| 19 | 0.2% | 99.8% |  |
-| 20 | 2% | 99.6% |  |
-| 21 | 1.2% | 98% |  |
-| 22 | 1.4% | 97% |  |
-| 23 | 8% | 95% |  |
-| 24 | 5% | 87% |  |
-| 25 | 6% | 82% |  |
-| 26 | 6% | 76% |  |
-| 27 | 4% | 70% |  |
-| 28 | 6% | 66% |  |
-| 29 | 9% | 59% | Median |
-| 30 | 9% | 50% |  |
-| 31 | 16% | 40% |  |
-| 32 | 13% | 24% |  |
+| 19 | 0.1% | 99.8% |  |
+| 20 | 1.4% | 99.7% |  |
+| 21 | 0.9% | 98% |  |
+| 22 | 1.2% | 97% |  |
+| 23 | 6% | 96% |  |
+| 24 | 4% | 90% |  |
+| 25 | 5% | 86% |  |
+| 26 | 6% | 81% |  |
+| 27 | 5% | 74% |  |
+| 28 | 7% | 69% |  |
+| 29 | 12% | 62% | Median |
+| 30 | 12% | 50% |  |
+| 31 | 18% | 38% |  |
+| 32 | 9% | 20% |  |
 | 33 | 6% | 11% |  |
-| 34 | 3% | 5% | Last Result |
-| 35 | 1.0% | 3% |  |
-| 36 | 1.1% | 2% |  |
-| 37 | 0.4% | 0.5% |  |
+| 34 | 2% | 5% | Last Result |
+| 35 | 1.5% | 3% |  |
+| 36 | 0.8% | 1.2% |  |
+| 37 | 0.3% | 0.4% |  |
 | 38 | 0.1% | 0.1% |  |
 | 39 | 0% | 0% |  |
 
