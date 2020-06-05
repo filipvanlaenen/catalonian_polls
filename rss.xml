@@ -8,7 +8,17 @@
     <title>All Registered Polls for the Parliament of Catalonia</title>
     <link>https://filipvanlaenen.github.io/catalonian_polls</link>
     <description>All Registered Polls for the Parliament of Catalonia</description>
-    <pubDate>Tue, 02 Jun 2020 08:47:43 +0200</pubDate>
+    <pubDate>Fri, 05 Jun 2020 07:52:55 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by electoPanel for electomania.es, 1 April–15 May 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/catalonian_polls/2020-05-15-electoPanel.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Ciutadans–Partido de la Ciudadanía: 7.9–11.6%&lt;/li&gt;&lt;li&gt;Junts pel Catalunya: 18.8–23.9%&lt;/li&gt;&lt;li&gt;Esquerra Republicana–Catalunya Sí: 18.7–23.7%&lt;/li&gt;&lt;li&gt;Partit dels Socialistes de Catalunya (PSC-PSOE): 17.2–22.1%&lt;/li&gt;&lt;li&gt;Catalunya en Comú–Podem: 7.1–10.6%&lt;/li&gt;&lt;li&gt;Candidatura d’Unitat Popular: 5.1–8.2%&lt;/li&gt;&lt;li&gt;Partit Popular: 7.1–10.6%&lt;/li&gt;&lt;li&gt;Vox: 2.5–4.8%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/catalonian_polls/2020-05-15-electoPanel.png"
+        length="302798"
+        type="image/png"/>
+      <pubDate>Fri, 05 Jun 2020 07:52:55 +0200</pubDate>
+      <dc:date>2020-06-05T07:52:55.488533+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by GESOP for El Periódico, 29 April–8 May 2020 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/catalonian_polls/2020-05-08-GESOP.html</link>
@@ -129,6 +139,6 @@
       <pubDate>Fri, 03 Jan 2020 19:12:38 +0100</pubDate>
       <dc:date>2020-01-03T19:12:38.836863+01:00</dc:date>
     </item>
-    <dc:date>2020-06-02T08:47:43.184213+02:00</dc:date>
+    <dc:date>2020-06-05T07:52:55.488533+02:00</dc:date>
   </channel>
 </rss>
