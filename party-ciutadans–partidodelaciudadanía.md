@@ -88,8 +88,8 @@ Last result: **36** seats (General Election of 21 December 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 14 | 10–18 | 9–19 | 8–19 | 8–21 |
-| [1 April–15 May 2020](2020-05-15-electoPanel.html) | electoPanel <br> electomania.es |  |  |  |  |  |
+| N/A | [Poll Average](average.html) | 13 | 11–18 | 9–19 | 9–19 | 8–21 |
+| [1 April–15 May 2020](2020-05-15-electoPanel.html) | electoPanel <br> electomania.es | 13 | 11–14 | 10–14 | 10–14 | 9–16 |
 | [29 April–8 May 2020](2020-05-08-GESOP.html) | GESOP <br> El Periódico | 18 | 14–19 | 14–19 | 14–19 | 14–21 |
 | [10 February–9 March 2020](2020-03-09-GESOP.html) | GESOP <br> CEO | 18 | 15–19 | 14–19 | 14–19 | 14–20 |
 | [21–26 February 2020](2020-02-26-GAD3.html) | GAD3 <br> ABC | 12 | 9–13 | 8–14 | 8–14 | 8–15 |
@@ -138,21 +138,21 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 7 | 0.1% | 100% |  |
-| 8 | 3% | 99.8% |  |
-| 9 | 5% | 97% |  |
-| 10 | 4% | 93% |  |
-| 11 | 6% | 88% |  |
-| 12 | 19% | 83% |  |
-| 13 | 11% | 64% |  |
-| 14 | 10% | 53% | Median |
-| 15 | 0.8% | 43% |  |
-| 16 | 6% | 42% |  |
-| 17 | 2% | 36% |  |
-| 18 | 27% | 34% |  |
-| 19 | 7% | 8% |  |
-| 20 | 0% | 1.2% |  |
-| 21 | 1.2% | 1.2% |  |
-| 22 | 0% | 0.1% |  |
+| 8 | 2% | 99.9% |  |
+| 9 | 4% | 98% |  |
+| 10 | 4% | 94% |  |
+| 11 | 8% | 91% |  |
+| 12 | 22% | 83% |  |
+| 13 | 21% | 61% | Median |
+| 14 | 11% | 40% |  |
+| 15 | 0.6% | 29% |  |
+| 16 | 4% | 29% |  |
+| 17 | 1.2% | 24% |  |
+| 18 | 18% | 23% |  |
+| 19 | 4% | 5% |  |
+| 20 | 0% | 0.8% |  |
+| 21 | 0.8% | 0.8% |  |
+| 22 | 0% | 0% |  |
 | 23 | 0% | 0% |  |
 | 24 | 0% | 0% |  |
 | 25 | 0% | 0% |  |

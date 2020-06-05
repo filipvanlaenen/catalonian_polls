@@ -80,8 +80,8 @@ Last result: **17** seats (General Election of 21 December 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 25 | 22–30 | 22–31 | 20–31 | 20–33 |
-| [1 April–15 May 2020](2020-05-15-electoPanel.html) | electoPanel <br> electomania.es |  |  |  |  |  |
+| N/A | [Poll Average](average.html) | 26 | 22–30 | 22–30 | 22–31 | 20–33 |
+| [1 April–15 May 2020](2020-05-15-electoPanel.html) | electoPanel <br> electomania.es | 26 | 24–28 | 24–28 | 23–29 | 22–30 |
 | [29 April–8 May 2020](2020-05-08-GESOP.html) | GESOP <br> El Periódico | 23 | 22–25 | 20–26 | 20–28 | 20–28 |
 | [10 February–9 March 2020](2020-03-09-GESOP.html) | GESOP <br> CEO | 24 | 21–25 | 21–26 | 21–26 | 19–27 |
 | [21–26 February 2020](2020-02-26-GAD3.html) | GAD3 <br> ABC | 28 | 25–31 | 25–31 | 24–32 | 23–34 |
@@ -132,22 +132,21 @@ The following table shows the probability mass function per seat for the [poll a
 | 17 | 0% | 100% | Last Result |
 | 18 | 0% | 100% |  |
 | 19 | 0% | 100% |  |
-| 20 | 3% | 100% |  |
-| 21 | 0.1% | 97% |  |
-| 22 | 16% | 97% |  |
-| 23 | 8% | 80% |  |
-| 24 | 11% | 73% |  |
-| 25 | 14% | 62% | Median |
-| 26 | 14% | 48% |  |
-| 27 | 5% | 33% |  |
-| 28 | 9% | 28% |  |
-| 29 | 5% | 19% |  |
-| 30 | 8% | 15% |  |
-| 31 | 5% | 7% |  |
-| 32 | 1.1% | 2% |  |
-| 33 | 0.6% | 1.0% |  |
-| 34 | 0.3% | 0.4% |  |
-| 35 | 0% | 0.1% |  |
-| 36 | 0% | 0% |  |
+| 20 | 2% | 100% |  |
+| 21 | 0.2% | 98% |  |
+| 22 | 11% | 98% |  |
+| 23 | 7% | 87% |  |
+| 24 | 13% | 80% |  |
+| 25 | 16% | 67% |  |
+| 26 | 22% | 51% | Median |
+| 27 | 5% | 29% |  |
+| 28 | 9% | 24% |  |
+| 29 | 4% | 14% |  |
+| 30 | 6% | 10% |  |
+| 31 | 3% | 5% |  |
+| 32 | 0.7% | 1.4% |  |
+| 33 | 0.4% | 0.7% |  |
+| 34 | 0.2% | 0.3% |  |
+| 35 | 0% | 0% |  |
 
 
