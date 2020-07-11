@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Parliament of Catalonia</title>
     <link>https://filipvanlaenen.github.io/catalonian_polls</link>
     <description>All Registered Polls for the Parliament of Catalonia</description>
-    <pubDate>Fri, 05 Jun 2020 07:52:55 +0200</pubDate>
+    <pubDate>Sat, 11 Jul 2020 14:01:08 +0200</pubDate>
     <item>
       <title>Opinion Poll by electoPanel for electomania.es, 1 April–15 May 2020 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/catalonian_polls/2020-05-15-electoPanel.html</link>
@@ -26,8 +26,8 @@
       <enclosure url="https://filipvanlaenen.github.io/catalonian_polls/2020-05-08-GESOP.png"
         length="284870"
         type="image/png"/>
-      <pubDate>Tue, 02 Jun 2020 08:47:43 +0200</pubDate>
-      <dc:date>2020-06-02T08:47:43.184213+02:00</dc:date>
+      <pubDate>Sat, 11 Jul 2020 14:01:08 +0200</pubDate>
+      <dc:date>2020-07-11T14:01:08.130611+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by GESOP for CEO, 10 February–9 March 2020 – Voting Intentions</title>
@@ -139,6 +139,6 @@
       <pubDate>Fri, 03 Jan 2020 19:12:38 +0100</pubDate>
       <dc:date>2020-01-03T19:12:38.836863+01:00</dc:date>
     </item>
-    <dc:date>2020-06-05T07:52:55.488533+02:00</dc:date>
+    <dc:date>2020-07-11T14:01:08.130611+02:00</dc:date>
   </channel>
 </rss>
