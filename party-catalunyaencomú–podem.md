@@ -10,7 +10,7 @@ Last result: **7.5%** (General Election of 21 December 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7.8% | 6.2–9.3% | 5.8–9.7% | 5.5–10.1% | 5.0–10.8% |
+| N/A | [Poll Average](average.html) | 7.8% | 6.2–9.3% | 5.8–9.7% | 5.5–10.1% | 4.9–10.8% |
 | [29 June–2 July 2020](2020-07-02-Feedback.html) | Feedback <br> El Nacional | 6.6% | 5.6–7.9% | 5.3–8.3% | 5.1–8.6% | 4.6–9.2% |
 | [1 April–15 May 2020](2020-05-15-electoPanel.html) | electoPanel <br> electomania.es | 8.7% | 7.7–10.0% | 7.3–10.3% | 7.1–10.6% | 6.6–11.2% |
 | [29 April–8 May 2020](2020-05-08-GESOP.html) | GESOP <br> El Periódico | 7.7% | 6.9–8.7% | 6.6–8.9% | 6.4–9.2% | 6.1–9.7% |
@@ -79,8 +79,8 @@ Last result: **8** seats (General Election of 21 December 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9 | 8–11 | 8–11 | 7–12 | 6–13 |
-| [29 June–2 July 2020](2020-07-02-Feedback.html) | Feedback <br> El Nacional |  |  |  |  |  |
+| N/A | [Poll Average](average.html) | 8 | 7–11 | 5–11 | 5–11 | 4–13 |
+| [29 June–2 July 2020](2020-07-02-Feedback.html) | Feedback <br> El Nacional | 7 | 5–9 | 5–10 | 5–10 | 4–11 |
 | [1 April–15 May 2020](2020-05-15-electoPanel.html) | electoPanel <br> electomania.es | 11 | 9–11 | 8–12 | 8–12 | 7–14 |
 | [29 April–8 May 2020](2020-05-08-GESOP.html) | GESOP <br> El Periódico | 8 | 8–10 | 7–11 | 7–11 | 6–11 |
 | [10 February–9 March 2020](2020-03-09-GESOP.html) | GESOP <br> CEO | 14 | 12–15 | 11–16 | 11–16 | 11–17 |
@@ -129,16 +129,17 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 5 | 0.1% | 100% |  |
-| 6 | 0.5% | 99.9% |  |
-| 7 | 4% | 99.4% |  |
-| 8 | 31% | 96% | Last Result |
-| 9 | 18% | 64% | Median |
-| 10 | 14% | 46% |  |
-| 11 | 29% | 32% |  |
-| 12 | 2% | 4% |  |
-| 13 | 0.8% | 1.2% |  |
-| 14 | 0.4% | 0.4% |  |
+| 4 | 0.5% | 100% |  |
+| 5 | 5% | 99.5% |  |
+| 6 | 4% | 94% |  |
+| 7 | 13% | 90% |  |
+| 8 | 30% | 77% | Last Result, Median |
+| 9 | 14% | 47% |  |
+| 10 | 11% | 33% |  |
+| 11 | 20% | 22% |  |
+| 12 | 2% | 2% |  |
+| 13 | 0.5% | 0.8% |  |
+| 14 | 0.2% | 0.3% |  |
 | 15 | 0% | 0% |  |
 
 

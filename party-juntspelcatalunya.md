@@ -11,7 +11,7 @@ Last result: **21.7%** (General Election of 21 December 2017)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 18.1% | 16.0–21.9% | 15.6–22.6% | 15.2–23.1% | 14.6–24.1% |
-| [29 June–2 July 2020](2020-07-02-Feedback.html) | Feedback <br> El Nacional | 17.8% | 16.1–19.6% | 15.6–20.1% | 15.2–20.6% | 14.5–21.5% |
+| [29 June–2 July 2020](2020-07-02-Feedback.html) | Feedback <br> El Nacional | 17.8% | 16.1–19.6% | 15.7–20.1% | 15.3–20.6% | 14.5–21.5% |
 | [1 April–15 May 2020](2020-05-15-electoPanel.html) | electoPanel <br> electomania.es | 21.2% | 19.6–22.9% | 19.2–23.4% | 18.8–23.9% | 18.0–24.7% |
 | [29 April–8 May 2020](2020-05-08-GESOP.html) | GESOP <br> El Periódico | 16.8% | 15.6–18.1% | 15.2–18.5% | 14.9–18.8% | 14.4–19.4% |
 | [10 February–9 March 2020](2020-03-09-GESOP.html) | GESOP <br> CEO | 18.6% | 17.3–20.0% | 16.9–20.4% | 16.6–20.7% | 16.0–21.4% |
@@ -59,7 +59,7 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 12.5–13.5% | 0% | 100% |  |
-| 13.5–14.5% | 0.4% | 100% |  |
+| 13.5–14.5% | 0.5% | 100% |  |
 | 14.5–15.5% | 4% | 99.5% |  |
 | 15.5–16.5% | 15% | 95% |  |
 | 16.5–17.5% | 21% | 81% |  |
@@ -82,8 +82,8 @@ Last result: **34** seats (General Election of 21 December 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 31 | 24–35 | 24–37 | 23–37 | 23–38 |
-| [29 June–2 July 2020](2020-07-02-Feedback.html) | Feedback <br> El Nacional |  |  |  |  |  |
+| N/A | [Poll Average](average.html) | 28 | 25–34 | 24–36 | 23–37 | 23–38 |
+| [29 June–2 July 2020](2020-07-02-Feedback.html) | Feedback <br> El Nacional | 27 | 25–31 | 24–31 | 24–32 | 22–33 |
 | [1 April–15 May 2020](2020-05-15-electoPanel.html) | electoPanel <br> electomania.es | 33 | 31–37 | 30–37 | 30–37 | 28–38 |
 | [29 April–8 May 2020](2020-05-08-GESOP.html) | GESOP <br> El Periódico | 26 | 24–30 | 23–31 | 23–31 | 23–31 |
 | [10 February–9 March 2020](2020-03-09-GESOP.html) | GESOP <br> CEO | 29 | 27–31 | 26–32 | 26–32 | 24–33 |
@@ -132,24 +132,25 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 22 | 0% | 100% |  |
-| 23 | 4% | 99.9% |  |
-| 24 | 7% | 96% |  |
-| 25 | 7% | 89% |  |
-| 26 | 10% | 83% |  |
-| 27 | 4% | 73% |  |
-| 28 | 6% | 69% |  |
-| 29 | 8% | 63% |  |
-| 30 | 4% | 55% |  |
-| 31 | 16% | 51% | Median |
-| 32 | 6% | 36% |  |
-| 33 | 10% | 29% |  |
-| 34 | 5% | 20% | Last Result |
-| 35 | 6% | 15% |  |
-| 36 | 3% | 8% |  |
-| 37 | 5% | 5% |  |
-| 38 | 0.7% | 0.7% |  |
-| 39 | 0.1% | 0.1% |  |
+| 21 | 0.1% | 100% |  |
+| 22 | 0.2% | 99.9% |  |
+| 23 | 3% | 99.7% |  |
+| 24 | 6% | 97% |  |
+| 25 | 7% | 91% |  |
+| 26 | 15% | 84% |  |
+| 27 | 12% | 69% |  |
+| 28 | 9% | 57% | Median |
+| 29 | 6% | 48% |  |
+| 30 | 4% | 42% |  |
+| 31 | 13% | 38% |  |
+| 32 | 5% | 25% |  |
+| 33 | 7% | 20% |  |
+| 34 | 4% | 13% | Last Result |
+| 35 | 4% | 10% |  |
+| 36 | 2% | 5% |  |
+| 37 | 3% | 4% |  |
+| 38 | 0.5% | 0.5% |  |
+| 39 | 0% | 0.1% |  |
 | 40 | 0% | 0% |  |
 
 
