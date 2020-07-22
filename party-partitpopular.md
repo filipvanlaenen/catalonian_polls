@@ -25,7 +25,7 @@ Last result: **4.2%** (General Election of 21 December 2017)
 | [14 November–5 December 2019](2019-12-05-GESOP.html) | GESOP <br> CEO | 4.3% | 3.6–5.2% | 3.4–5.5% | 3.2–5.7% | 2.9–6.2% |
 | [27–30 November 2019](2019-11-30-electoPanel.html) | electoPanel <br> electomania.es | 7.9% | 7.1–8.9% | 6.8–9.2% | 6.6–9.5% | 6.2–10.0% |
 | [18–22 November 2019](2019-11-22-NCReport.html) | NC Report <br> La Razón | 8.7% | 7.5–10.2% | 7.2–10.6% | 6.9–11.0% | 6.4–11.7% |
-| [16–19 October 2019](2019-10-19-electoPanel.html) | electoPanel <br> electomania.es | 6.0% | N/A | N/A | N/A | N/A |
+| [16–19 October 2019](2019-10-19-electoPanel.html) | electoPanel <br> electomania.es | 6.0% | 5.4–6.7% | 5.2–7.0% | 5.0–7.1% | 4.8–7.5% |
 | [14–15 October 2019](2019-10-15-electoPanel.html) | electoPanel <br> electomania.es | 5.0% | N/A | N/A | N/A | N/A |
 | [1–5 October 2019](2019-10-05-NCReport.html) | NC Report <br> La Razón | 5.5% | N/A | N/A | N/A | N/A |
 | [11 September 2019](2019-09-11-electoPanel.html) | electoPanel <br> electomania.es | 6.3% | N/A | N/A | N/A | N/A |
@@ -95,7 +95,7 @@ Last result: **4** seats (General Election of 21 December 2017)
 | [14 November–5 December 2019](2019-12-05-GESOP.html) | GESOP <br> CEO | 5 | 3–6 | 3–7 | 2–7 | 2–7 |
 | [27–30 November 2019](2019-11-30-electoPanel.html) | electoPanel <br> electomania.es | 11 | 9–12 | 9–12 | 8–13 | 7–14 |
 | [18–22 November 2019](2019-11-22-NCReport.html) | NC Report <br> La Razón | 12 | 9–14 | 9–14 | 9–15 | 7–15 |
-| [16–19 October 2019](2019-10-19-electoPanel.html) | electoPanel <br> electomania.es |  |  |  |  |  |
+| [16–19 October 2019](2019-10-19-electoPanel.html) | electoPanel <br> electomania.es | 7 | 7 | 7–9 | 7–9 | 7–9 |
 | [14–15 October 2019](2019-10-15-electoPanel.html) | electoPanel <br> electomania.es |  |  |  |  |  |
 | [1–5 October 2019](2019-10-05-NCReport.html) | NC Report <br> La Razón |  |  |  |  |  |
 | [11 September 2019](2019-09-11-electoPanel.html) | electoPanel <br> electomania.es |  |  |  |  |  |

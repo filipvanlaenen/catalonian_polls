@@ -25,7 +25,7 @@ Last result: **21.7%** (General Election of 21 December 2017)
 | [14 November–5 December 2019](2019-12-05-GESOP.html) | GESOP <br> CEO | 19.0% | 17.6–20.7% | 17.1–21.1% | 16.8–21.5% | 16.1–22.3% |
 | [27–30 November 2019](2019-11-30-electoPanel.html) | electoPanel <br> electomania.es | 15.8% | 14.6–17.1% | 14.3–17.5% | 14.0–17.8% | 13.4–18.4% |
 | [18–22 November 2019](2019-11-22-NCReport.html) | NC Report <br> La Razón | 19.2% | 17.5–21.2% | 17.0–21.7% | 16.6–22.2% | 15.7–23.2% |
-| [16–19 October 2019](2019-10-19-electoPanel.html) | electoPanel <br> electomania.es | 12.3% | N/A | N/A | N/A | N/A |
+| [16–19 October 2019](2019-10-19-electoPanel.html) | electoPanel <br> electomania.es | 12.3% | 11.4–13.3% | 11.1–13.6% | 10.9–13.8% | 10.5–14.3% |
 | [14–15 October 2019](2019-10-15-electoPanel.html) | electoPanel <br> electomania.es | 15.1% | N/A | N/A | N/A | N/A |
 | [1–5 October 2019](2019-10-05-NCReport.html) | NC Report <br> La Razón | 15.0% | N/A | N/A | N/A | N/A |
 | [11 September 2019](2019-09-11-electoPanel.html) | electoPanel <br> electomania.es | 15.8% | N/A | N/A | N/A | N/A |
@@ -98,7 +98,7 @@ Last result: **34** seats (General Election of 21 December 2017)
 | [14 November–5 December 2019](2019-12-05-GESOP.html) | GESOP <br> CEO | 30 | 28–32 | 27–33 | 26–34 | 24–35 |
 | [27–30 November 2019](2019-11-30-electoPanel.html) | electoPanel <br> electomania.es | 25 | 23–27 | 23–28 | 22–29 | 21–29 |
 | [18–22 November 2019](2019-11-22-NCReport.html) | NC Report <br> La Razón | 31 | 26–33 | 26–34 | 26–36 | 24–37 |
-| [16–19 October 2019](2019-10-19-electoPanel.html) | electoPanel <br> electomania.es |  |  |  |  |  |
+| [16–19 October 2019](2019-10-19-electoPanel.html) | electoPanel <br> electomania.es | 19 | 19 | 18–22 | 18–23 | 17–23 |
 | [14–15 October 2019](2019-10-15-electoPanel.html) | electoPanel <br> electomania.es |  |  |  |  |  |
 | [1–5 October 2019](2019-10-05-NCReport.html) | NC Report <br> La Razón |  |  |  |  |  |
 | [11 September 2019](2019-09-11-electoPanel.html) | electoPanel <br> electomania.es |  |  |  |  |  |
