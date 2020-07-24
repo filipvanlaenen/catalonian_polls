@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Parliament of Catalonia</title>
     <link>https://filipvanlaenen.github.io/catalonian_polls</link>
     <description>All Registered Polls for the Parliament of Catalonia</description>
-    <pubDate>Wed, 22 Jul 2020 19:47:44 +0200</pubDate>
+    <pubDate>Fri, 24 Jul 2020 08:27:49 +0200</pubDate>
     <item>
       <title>Opinion Poll by GESOP for El Periódico, 6–13 July 2020 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/catalonian_polls/2020-07-13-GESOP.html#seats</link>
@@ -180,6 +180,16 @@
       <dc:date>2020-07-22T19:47:44.13939+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by electoPanel for electomania.es, 14–15 October 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/catalonian_polls/2019-10-15-electoPanel.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Ciutadans–Partido de la Ciudadanía: 11.1–15.3%&lt;/li&gt;&lt;li&gt;Junts pel Catalunya: 13.0–17.5%&lt;/li&gt;&lt;li&gt;Esquerra Republicana–Catalunya Sí: 21.7–27.1%&lt;/li&gt;&lt;li&gt;Partit dels Socialistes de Catalunya (PSC-PSOE): 17.8–22.8%&lt;/li&gt;&lt;li&gt;Catalunya en Comú–Podem: 6.5–9.9%&lt;/li&gt;&lt;li&gt;Candidatura d’Unitat Popular: 6.4–9.7%&lt;/li&gt;&lt;li&gt;Partit Popular: 3.8–6.5%&lt;/li&gt;&lt;li&gt;Vox: 2.9–5.4%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/catalonian_polls/2019-10-15-electoPanel.png"
+        length="299223"
+        type="image/png"/>
+      <pubDate>Fri, 24 Jul 2020 08:27:49 +0200</pubDate>
+      <dc:date>2020-07-24T08:27:49.452193+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by GESOP for CEO, 25–17 July 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/catalonian_polls/2019-07-17-GESOP.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Ciutadans–Partido de la Ciudadanía: 14.9–19.5%&lt;/li&gt;&lt;li&gt;Junts pel Catalunya: 14.4–19.0%&lt;/li&gt;&lt;li&gt;Esquerra Republicana–Catalunya Sí: 23.9–29.3%&lt;/li&gt;&lt;li&gt;Partit dels Socialistes de Catalunya (PSC-PSOE): 16.4–21.2%&lt;/li&gt;&lt;li&gt;Catalunya en Comú–Podem: 7.9–11.5%&lt;/li&gt;&lt;li&gt;Candidatura d’Unitat Popular: 4.0–6.8%&lt;/li&gt;&lt;li&gt;Partit Popular: 2.6–4.8%&lt;/li&gt;&lt;/ul&gt;</description>
@@ -189,6 +199,6 @@
       <pubDate>Fri, 03 Jan 2020 19:12:38 +0100</pubDate>
       <dc:date>2020-01-03T19:12:38.836863+01:00</dc:date>
     </item>
-    <dc:date>2020-07-22T19:47:44.13939+02:00</dc:date>
+    <dc:date>2020-07-24T08:27:49.452193+02:00</dc:date>
   </channel>
 </rss>
