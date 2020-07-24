@@ -26,7 +26,7 @@ Last result: **13.9%** (General Election of 21 December 2017)
 | [27–30 November 2019](2019-11-30-electoPanel.html) | electoPanel <br> electomania.es | 18.4% | 17.1–19.8% | 16.8–20.2% | 16.5–20.6% | 15.9–21.2% |
 | [18–22 November 2019](2019-11-22-NCReport.html) | NC Report <br> La Razón | 16.8% | 15.2–18.7% | 14.7–19.2% | 14.3–19.7% | 13.5–20.6% |
 | [16–19 October 2019](2019-10-19-electoPanel.html) | electoPanel <br> electomania.es | 17.6% | 16.5–18.7% | 16.2–19.1% | 16.0–19.3% | 15.5–19.9% |
-| [14–15 October 2019](2019-10-15-electoPanel.html) | electoPanel <br> electomania.es | 20.2% | N/A | N/A | N/A | N/A |
+| [14–15 October 2019](2019-10-15-electoPanel.html) | electoPanel <br> electomania.es | 20.2% | 18.6–21.9% | 18.2–22.4% | 17.8–22.8% | 17.1–23.6% |
 | [1–5 October 2019](2019-10-05-NCReport.html) | NC Report <br> La Razón | 19.8% | N/A | N/A | N/A | N/A |
 | [11 September 2019](2019-09-11-electoPanel.html) | electoPanel <br> electomania.es | 20.1% | N/A | N/A | N/A | N/A |
 | [3–7 September 2019](2019-09-07-NCReport.html) | NC Report <br> La Razón | 19.1% | N/A | N/A | N/A | N/A |
@@ -97,7 +97,7 @@ Last result: **17** seats (General Election of 21 December 2017)
 | [27–30 November 2019](2019-11-30-electoPanel.html) | electoPanel <br> electomania.es | 25 | 24–27 | 23–28 | 23–28 | 22–29 |
 | [18–22 November 2019](2019-11-22-NCReport.html) | NC Report <br> La Razón | 23 | 19–25 | 18–25 | 18–26 | 17–27 |
 | [16–19 October 2019](2019-10-19-electoPanel.html) | electoPanel <br> electomania.es | 26 | 24–26 | 23–26 | 23–26 | 21–26 |
-| [14–15 October 2019](2019-10-15-electoPanel.html) | electoPanel <br> electomania.es |  |  |  |  |  |
+| [14–15 October 2019](2019-10-15-electoPanel.html) | electoPanel <br> electomania.es | 28 | 24–30 | 24–31 | 24–31 | 23–33 |
 | [1–5 October 2019](2019-10-05-NCReport.html) | NC Report <br> La Razón |  |  |  |  |  |
 | [11 September 2019](2019-09-11-electoPanel.html) | electoPanel <br> electomania.es |  |  |  |  |  |
 | [3–7 September 2019](2019-09-07-NCReport.html) | NC Report <br> La Razón |  |  |  |  |  |

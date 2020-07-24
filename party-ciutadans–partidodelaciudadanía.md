@@ -26,7 +26,7 @@ Last result: **25.4%** (General Election of 21 December 2017)
 | [27–30 November 2019](2019-11-30-electoPanel.html) | electoPanel <br> electomania.es | 7.2% | 6.4–8.2% | 6.2–8.5% | 6.0–8.7% | 5.6–9.2% |
 | [18–22 November 2019](2019-11-22-NCReport.html) | NC Report <br> La Razón | 11.6% | 10.2–13.2% | 9.8–13.7% | 9.4–14.1% | 8.8–14.9% |
 | [16–19 October 2019](2019-10-19-electoPanel.html) | electoPanel <br> electomania.es | 15.1% | 14.1–16.2% | 13.8–16.5% | 13.6–16.8% | 13.1–17.3% |
-| [14–15 October 2019](2019-10-15-electoPanel.html) | electoPanel <br> electomania.es | 13.1% | N/A | N/A | N/A | N/A |
+| [14–15 October 2019](2019-10-15-electoPanel.html) | electoPanel <br> electomania.es | 13.1% | 11.8–14.6% | 11.4–15.0% | 11.1–15.3% | 10.6–16.1% |
 | [1–5 October 2019](2019-10-05-NCReport.html) | NC Report <br> La Razón | 19.0% | N/A | N/A | N/A | N/A |
 | [11 September 2019](2019-09-11-electoPanel.html) | electoPanel <br> electomania.es | 15.2% | N/A | N/A | N/A | N/A |
 | [3–7 September 2019](2019-09-07-NCReport.html) | NC Report <br> La Razón | 21.0% | N/A | N/A | N/A | N/A |
@@ -105,7 +105,7 @@ Last result: **36** seats (General Election of 21 December 2017)
 | [27–30 November 2019](2019-11-30-electoPanel.html) | electoPanel <br> electomania.es | 8 | 8–11 | 7–11 | 7–12 | 6–12 |
 | [18–22 November 2019](2019-11-22-NCReport.html) | NC Report <br> La Razón | 15 | 13–18 | 13–18 | 12–19 | 12–19 |
 | [16–19 October 2019](2019-10-19-electoPanel.html) | electoPanel <br> electomania.es | 18 | 18–21 | 18–21 | 18–23 | 18–23 |
-| [14–15 October 2019](2019-10-15-electoPanel.html) | electoPanel <br> electomania.es |  |  |  |  |  |
+| [14–15 October 2019](2019-10-15-electoPanel.html) | electoPanel <br> electomania.es | 18 | 15–19 | 14–20 | 14–21 | 13–22 |
 | [1–5 October 2019](2019-10-05-NCReport.html) | NC Report <br> La Razón |  |  |  |  |  |
 | [11 September 2019](2019-09-11-electoPanel.html) | electoPanel <br> electomania.es |  |  |  |  |  |
 | [3–7 September 2019](2019-09-07-NCReport.html) | NC Report <br> La Razón |  |  |  |  |  |

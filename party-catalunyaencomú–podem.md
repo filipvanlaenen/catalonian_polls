@@ -26,7 +26,7 @@ Last result: **7.5%** (General Election of 21 December 2017)
 | [27–30 November 2019](2019-11-30-electoPanel.html) | electoPanel <br> electomania.es | 8.1% | 7.2–9.1% | 7.0–9.4% | 6.8–9.6% | 6.4–10.1% |
 | [18–22 November 2019](2019-11-22-NCReport.html) | NC Report <br> La Razón | 7.7% | 6.5–9.1% | 6.2–9.4% | 6.0–9.8% | 5.5–10.5% |
 | [16–19 October 2019](2019-10-19-electoPanel.html) | electoPanel <br> electomania.es | 8.2% | 7.5–9.0% | 7.3–9.3% | 7.1–9.5% | 6.7–9.9% |
-| [14–15 October 2019](2019-10-15-electoPanel.html) | electoPanel <br> electomania.es | 8.0% | N/A | N/A | N/A | N/A |
+| [14–15 October 2019](2019-10-15-electoPanel.html) | electoPanel <br> electomania.es | 8.0% | 7.0–9.2% | 6.7–9.6% | 6.5–9.9% | 6.0–10.5% |
 | [1–5 October 2019](2019-10-05-NCReport.html) | NC Report <br> La Razón | 5.9% | N/A | N/A | N/A | N/A |
 | [11 September 2019](2019-09-11-electoPanel.html) | electoPanel <br> electomania.es | 7.6% | N/A | N/A | N/A | N/A |
 | [3–7 September 2019](2019-09-07-NCReport.html) | NC Report <br> La Razón | 6.2% | N/A | N/A | N/A | N/A |
@@ -96,7 +96,7 @@ Last result: **8** seats (General Election of 21 December 2017)
 | [27–30 November 2019](2019-11-30-electoPanel.html) | electoPanel <br> electomania.es | 9 | 8–11 | 8–11 | 7–11 | 7–13 |
 | [18–22 November 2019](2019-11-22-NCReport.html) | NC Report <br> La Razón | 8 | 7–11 | 7–11 | 6–12 | 5–13 |
 | [16–19 October 2019](2019-10-19-electoPanel.html) | electoPanel <br> electomania.es | 10 | 10 | 8–10 | 8–11 | 8–12 |
-| [14–15 October 2019](2019-10-15-electoPanel.html) | electoPanel <br> electomania.es |  |  |  |  |  |
+| [14–15 October 2019](2019-10-15-electoPanel.html) | electoPanel <br> electomania.es | 9 | 8–11 | 7–12 | 7–12 | 6–13 |
 | [1–5 October 2019](2019-10-05-NCReport.html) | NC Report <br> La Razón |  |  |  |  |  |
 | [11 September 2019](2019-09-11-electoPanel.html) | electoPanel <br> electomania.es |  |  |  |  |  |
 | [3–7 September 2019](2019-09-07-NCReport.html) | NC Report <br> La Razón |  |  |  |  |  |
