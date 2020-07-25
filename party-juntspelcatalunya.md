@@ -83,9 +83,9 @@ Last result: **34** seats (General Election of 21 December 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 31 | 26–35 | 26–36 | 25–37 | 24–38 |
+| N/A | [Poll Average](average.html) | 31 | 26–35 | 25–36 | 25–37 | 23–38 |
 | [6–13 July 2020](2020-07-13-GESOP.html) | GESOP <br> El Periódico | 31 | 28–32 | 27–33 | 27–34 | 26–35 |
-| [29 June–2 July 2020](2020-07-02-Feedback.html) | Feedback <br> El Nacional | 27 | 25–31 | 24–31 | 24–32 | 22–33 |
+| [29 June–2 July 2020](2020-07-02-Feedback.html) | Feedback <br> El Nacional | 27 | 25–31 | 25–31 | 24–32 | 22–33 |
 | [1 April–15 May 2020](2020-05-15-electoPanel.html) | electoPanel <br> electomania.es | 33 | 31–37 | 30–37 | 30–37 | 28–38 |
 | [29 April–8 May 2020](2020-05-08-GESOP.html) | GESOP <br> El Periódico | 26 | 24–30 | 23–31 | 23–31 | 23–31 |
 | [10 February–9 March 2020](2020-03-09-GESOP.html) | GESOP <br> CEO | 29 | 27–31 | 26–32 | 26–32 | 24–33 |
@@ -134,17 +134,17 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 21 | 0% | 100% |  |
+| 21 | 0.1% | 100% |  |
 | 22 | 0.2% | 99.9% |  |
-| 23 | 0.2% | 99.8% |  |
-| 24 | 1.4% | 99.6% |  |
-| 25 | 3% | 98% |  |
-| 26 | 8% | 95% |  |
-| 27 | 10% | 87% |  |
-| 28 | 7% | 76% |  |
-| 29 | 5% | 69% |  |
-| 30 | 6% | 65% |  |
-| 31 | 24% | 59% | Median |
+| 23 | 0.4% | 99.7% |  |
+| 24 | 0.7% | 99.3% |  |
+| 25 | 4% | 98.6% |  |
+| 26 | 10% | 95% |  |
+| 27 | 5% | 85% |  |
+| 28 | 6% | 80% |  |
+| 29 | 7% | 74% |  |
+| 30 | 7% | 67% |  |
+| 31 | 25% | 60% | Median |
 | 32 | 12% | 35% |  |
 | 33 | 8% | 23% |  |
 | 34 | 4% | 14% | Last Result |

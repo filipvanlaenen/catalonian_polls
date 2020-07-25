@@ -82,7 +82,7 @@ Last result: **4** seats (General Election of 21 December 2017)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 8 | 6–12 | 5–12 | 5–13 | 3–15 |
 | [6–13 July 2020](2020-07-13-GESOP.html) | GESOP <br> El Periódico | 7 | 6–9 | 5–9 | 5–9 | 5–10 |
-| [29 June–2 July 2020](2020-07-02-Feedback.html) | Feedback <br> El Nacional | 7 | 5–9 | 5–9 | 5–9 | 3–10 |
+| [29 June–2 July 2020](2020-07-02-Feedback.html) | Feedback <br> El Nacional | 7 | 5–9 | 5–9 | 4–9 | 3–10 |
 | [1 April–15 May 2020](2020-05-15-electoPanel.html) | electoPanel <br> electomania.es | 12 | 10–13 | 10–13 | 9–14 | 8–15 |
 | [29 April–8 May 2020](2020-05-08-GESOP.html) | GESOP <br> El Periódico | 8 | 7–9 | 6–10 | 6–10 | 6–10 |
 | [10 February–9 March 2020](2020-03-09-GESOP.html) | GESOP <br> CEO | 7 | 5–7 | 5–8 | 5–8 | 4–9 |
@@ -131,14 +131,14 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 3 | 0.5% | 100% |  |
-| 4 | 0.3% | 99.5% | Last Result |
-| 5 | 8% | 99.2% |  |
+| 3 | 0.7% | 100% |  |
+| 4 | 0.2% | 99.3% | Last Result |
+| 5 | 8% | 99.1% |  |
 | 6 | 5% | 91% |  |
-| 7 | 30% | 85% |  |
-| 8 | 8% | 55% | Median |
-| 9 | 14% | 48% |  |
-| 10 | 11% | 33% |  |
+| 7 | 33% | 86% |  |
+| 8 | 6% | 53% | Median |
+| 9 | 13% | 47% |  |
+| 10 | 12% | 34% |  |
 | 11 | 4% | 22% |  |
 | 12 | 14% | 18% |  |
 | 13 | 3% | 5% |  |
