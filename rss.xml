@@ -8,7 +8,17 @@
     <title>All Registered Polls for the Parliament of Catalonia</title>
     <link>https://filipvanlaenen.github.io/catalonian_polls</link>
     <description>All Registered Polls for the Parliament of Catalonia</description>
-    <pubDate>Sat, 25 Jul 2020 16:23:35 +0200</pubDate>
+    <pubDate>Sun, 09 Aug 2020 19:01:27 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by GESOP for CEO, 25 June–21 July 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/catalonian_polls/2020-07-21-GESOP.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Ciutadans–Partido de la Ciudadanía: 12.7–16.4%&lt;/li&gt;&lt;li&gt;Junts pel Catalunya: 18.9–23.2%&lt;/li&gt;&lt;li&gt;Esquerra Republicana–Catalunya Sí: 20.0–24.3%&lt;/li&gt;&lt;li&gt;Partit dels Socialistes de Catalunya (PSC-PSOE): 15.1–19.1%&lt;/li&gt;&lt;li&gt;Catalunya en Comú–Podem: 6.9–9.8%&lt;/li&gt;&lt;li&gt;Candidatura d’Unitat Popular: 3.9–6.2%&lt;/li&gt;&lt;li&gt;Partit Popular: 4.4–6.8%&lt;/li&gt;&lt;li&gt;Vox: 3.1–5.2%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/catalonian_polls/2020-07-21-GESOP.png"
+        length="289277"
+        type="image/png"/>
+      <pubDate>Sun, 09 Aug 2020 19:01:27 +0200</pubDate>
+      <dc:date>2020-08-09T19:01:27.672305+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by GESOP for El Periódico, 6–13 July 2020 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/catalonian_polls/2020-07-13-GESOP.html#seats</link>
@@ -219,6 +229,6 @@
       <pubDate>Fri, 03 Jan 2020 19:12:38 +0100</pubDate>
       <dc:date>2020-01-03T19:12:38.836863+01:00</dc:date>
     </item>
-    <dc:date>2020-07-25T16:23:35.651191+02:00</dc:date>
+    <dc:date>2020-08-09T19:01:27.672305+02:00</dc:date>
   </channel>
 </rss>
