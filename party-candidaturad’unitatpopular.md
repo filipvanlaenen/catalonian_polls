@@ -83,14 +83,14 @@ Last result: **4** seats (General Election of 21 December 2017)
 | [25 June–21 July 2020](2020-07-21-GESOP.html) | GESOP <br> CEO | 7 | 4–8 | 4–8 | 4–8 | 3–8 |
 | [6–13 July 2020](2020-07-13-GESOP.html) | GESOP <br> El Periódico | 8 | 6–8 | 4–8 | 4–9 | 4–9 |
 | [29 June–2 July 2020](2020-07-02-Feedback.html) | Feedback <br> El Nacional | 8 | 7–10 | 6–10 | 5–11 | 4–11 |
-| [1 April–15 May 2020](2020-05-15-electoPanel.html) | electoPanel <br> electomania.es | 8 | 8–9 | 7–10 | 7–11 | 6–11 |
-| [29 April–8 May 2020](2020-05-08-GESOP.html) | GESOP <br> El Periódico | 8 | 7–9 | 7–9 | 6–10 | 5–11 |
+| [1 April–15 May 2020](2020-05-15-electoPanel.html) | electoPanel <br> electomania.es | 8 | 7–9 | 7–10 | 7–11 | 5–11 |
+| [29 April–8 May 2020](2020-05-08-GESOP.html) | GESOP <br> El Periódico | 8 | 7–9 | 7–9 | 7–10 | 6–11 |
 | [10 February–9 March 2020](2020-03-09-GESOP.html) | GESOP <br> CEO | 9 | 8–11 | 8–11 | 8–11 | 7–12 |
 | [21–26 February 2020](2020-02-26-GAD3.html) | GAD3 <br> ABC | 6 | 4–8 | 4–8 | 3–8 | 2–9 |
-| [3–6 February 2020](2020-02-06-GAD3.html) | GAD3 <br> La Vanguardia | 6 | 4–8 | 3–8 | 2–9 | 0–10 |
-| [2 February 2020](2020-02-02-SocioMétrica.html) | SocioMétrica <br> El Español | 8 | 6–10 | 5–11 | 4–11 | 4–12 |
+| [3–6 February 2020](2020-02-06-GAD3.html) | GAD3 <br> La Vanguardia | 6 | 4–8 | 3–8 | 3–9 | 0–11 |
+| [2 February 2020](2020-02-02-SocioMétrica.html) | SocioMétrica <br> El Español | 8 | 7–10 | 5–11 | 4–11 | 4–12 |
 | [27–31 January 2020](2020-01-31-NCReport.html) | NC Report <br> La Razón | 7 | 5–8 | 4–9 | 4–9 | 4–9 |
-| [27–31 January 2020](2020-01-31-GESOP.html) | GESOP <br> El Periódico | 9 | 8–9 | 8–10 | 7–11 | 7–11 |
+| [27–31 January 2020](2020-01-31-GESOP.html) | GESOP <br> El Periódico | 8 | 8–9 | 8–10 | 7–11 | 7–11 |
 | [27–29 January 2020](2020-01-29-electoPanel.html) | electoPanel <br> electomania.es | 9 | 9–11 | 8–11 | 8–13 | 8–14 |
 | [14 November–5 December 2019](2019-12-05-GESOP.html) | GESOP <br> CEO | 9 | 8–11 | 8–11 | 8–12 | 7–13 |
 | [27–30 November 2019](2019-11-30-electoPanel.html) | electoPanel <br> electomania.es | 14 | 11–15 | 11–16 | 11–17 | 11–18 |
@@ -135,9 +135,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 4 | 5% | 99.5% | Last Result |
 | 5 | 5% | 94% |  |
 | 6 | 9% | 89% |  |
-| 7 | 19% | 81% |  |
-| 8 | 41% | 62% | Median |
-| 9 | 14% | 21% |  |
+| 7 | 20% | 80% |  |
+| 8 | 38% | 60% | Median |
+| 9 | 15% | 22% |  |
 | 10 | 4% | 7% |  |
 | 11 | 2% | 2% |  |
 | 12 | 0.1% | 0.1% |  |

@@ -81,18 +81,18 @@ Last result: **4** seats (General Election of 21 December 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7 | 5–12 | 5–12 | 5–13 | 3–15 |
+| N/A | [Poll Average](average.html) | 7 | 5–12 | 5–12 | 5–13 | 3–14 |
 | [25 June–21 July 2020](2020-07-21-GESOP.html) | GESOP <br> CEO | 7 | 5–7 | 5–8 | 5–9 | 4–9 |
 | [6–13 July 2020](2020-07-13-GESOP.html) | GESOP <br> El Periódico | 7 | 6–9 | 5–9 | 5–9 | 5–10 |
 | [29 June–2 July 2020](2020-07-02-Feedback.html) | Feedback <br> El Nacional | 7 | 5–9 | 5–9 | 4–9 | 3–10 |
-| [1 April–15 May 2020](2020-05-15-electoPanel.html) | electoPanel <br> electomania.es | 12 | 10–13 | 10–13 | 9–14 | 8–15 |
-| [29 April–8 May 2020](2020-05-08-GESOP.html) | GESOP <br> El Periódico | 8 | 7–9 | 6–10 | 6–10 | 6–10 |
+| [1 April–15 May 2020](2020-05-15-electoPanel.html) | electoPanel <br> electomania.es | 12 | 10–13 | 9–14 | 9–14 | 8–15 |
+| [29 April–8 May 2020](2020-05-08-GESOP.html) | GESOP <br> El Periódico | 8 | 7–9 | 7–9 | 6–10 | 5–10 |
 | [10 February–9 March 2020](2020-03-09-GESOP.html) | GESOP <br> CEO | 7 | 5–7 | 5–8 | 5–8 | 4–9 |
 | [21–26 February 2020](2020-02-26-GAD3.html) | GAD3 <br> ABC | 9 | 7–11 | 7–12 | 7–12 | 6–13 |
-| [3–6 February 2020](2020-02-06-GAD3.html) | GAD3 <br> La Vanguardia | 9 | 7–10 | 6–11 | 5–12 | 5–12 |
-| [2 February 2020](2020-02-02-SocioMétrica.html) | SocioMétrica <br> El Español | 7 | 5–10 | 5–10 | 4–11 | 3–12 |
+| [3–6 February 2020](2020-02-06-GAD3.html) | GAD3 <br> La Vanguardia | 9 | 7–10 | 6–11 | 5–12 | 5–13 |
+| [2 February 2020](2020-02-02-SocioMétrica.html) | SocioMétrica <br> El Español | 7 | 5–10 | 5–10 | 5–11 | 3–12 |
 | [27–31 January 2020](2020-01-31-NCReport.html) | NC Report <br> La Razón | 12 | 10–14 | 9–15 | 9–15 | 8–16 |
-| [27–31 January 2020](2020-01-31-GESOP.html) | GESOP <br> El Periódico | 6 | 4–7 | 3–7 | 3–7 | 3–8 |
+| [27–31 January 2020](2020-01-31-GESOP.html) | GESOP <br> El Periódico | 5 | 4–7 | 3–7 | 3–7 | 3–8 |
 | [27–29 January 2020](2020-01-29-electoPanel.html) | electoPanel <br> electomania.es | 11 | 9–12 | 9–12 | 9–13 | 8–14 |
 | [14 November–5 December 2019](2019-12-05-GESOP.html) | GESOP <br> CEO | 5 | 3–6 | 3–7 | 2–7 | 2–7 |
 | [27–30 November 2019](2019-11-30-electoPanel.html) | electoPanel <br> electomania.es | 11 | 9–12 | 9–12 | 8–13 | 7–14 |
@@ -139,13 +139,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 6 | 12% | 88% |  |
 | 7 | 32% | 77% | Median |
 | 8 | 4% | 45% |  |
-| 9 | 8% | 41% |  |
-| 10 | 11% | 33% |  |
-| 11 | 4% | 22% |  |
-| 12 | 14% | 18% |  |
-| 13 | 3% | 5% |  |
-| 14 | 0.9% | 1.5% |  |
-| 15 | 0.5% | 0.5% |  |
+| 9 | 10% | 41% |  |
+| 10 | 7% | 31% |  |
+| 11 | 8% | 25% |  |
+| 12 | 13% | 17% |  |
+| 13 | 2% | 4% |  |
+| 14 | 2% | 2% |  |
+| 15 | 0.4% | 0.4% |  |
 | 16 | 0% | 0% |  |
 
 

@@ -85,14 +85,14 @@ Last result: **8** seats (General Election of 21 December 2017)
 | [25 June–21 July 2020](2020-07-21-GESOP.html) | GESOP <br> CEO | 9 | 8–11 | 8–11 | 8–12 | 7–13 |
 | [6–13 July 2020](2020-07-13-GESOP.html) | GESOP <br> El Periódico | 9 | 8–11 | 8–11 | 7–11 | 7–12 |
 | [29 June–2 July 2020](2020-07-02-Feedback.html) | Feedback <br> El Nacional | 7 | 5–9 | 5–10 | 5–10 | 4–11 |
-| [1 April–15 May 2020](2020-05-15-electoPanel.html) | electoPanel <br> electomania.es | 11 | 9–11 | 8–12 | 8–12 | 7–14 |
+| [1 April–15 May 2020](2020-05-15-electoPanel.html) | electoPanel <br> electomania.es | 10 | 8–12 | 8–13 | 8–13 | 7–14 |
 | [29 April–8 May 2020](2020-05-08-GESOP.html) | GESOP <br> El Periódico | 8 | 8–10 | 7–11 | 7–11 | 6–11 |
 | [10 February–9 March 2020](2020-03-09-GESOP.html) | GESOP <br> CEO | 14 | 12–15 | 11–16 | 11–16 | 11–17 |
 | [21–26 February 2020](2020-02-26-GAD3.html) | GAD3 <br> ABC | 9 | 8–11 | 7–12 | 7–13 | 6–14 |
-| [3–6 February 2020](2020-02-06-GAD3.html) | GAD3 <br> La Vanguardia | 10 | 8–13 | 8–13 | 7–14 | 6–16 |
-| [2 February 2020](2020-02-02-SocioMétrica.html) | SocioMétrica <br> El Español | 12 | 9–14 | 9–16 | 8–16 | 7–17 |
+| [3–6 February 2020](2020-02-06-GAD3.html) | GAD3 <br> La Vanguardia | 10 | 8–13 | 7–14 | 7–14 | 6–16 |
+| [2 February 2020](2020-02-02-SocioMétrica.html) | SocioMétrica <br> El Español | 12 | 9–14 | 8–16 | 8–16 | 7–17 |
 | [27–31 January 2020](2020-01-31-NCReport.html) | NC Report <br> La Razón | 9 | 8–11 | 7–12 | 7–13 | 6–14 |
-| [27–31 January 2020](2020-01-31-GESOP.html) | GESOP <br> El Periódico | 11 | 11–13 | 10–13 | 9–14 | 8–14 |
+| [27–31 January 2020](2020-01-31-GESOP.html) | GESOP <br> El Periódico | 11 | 10–13 | 9–14 | 9–14 | 8–14 |
 | [27–29 January 2020](2020-01-29-electoPanel.html) | electoPanel <br> electomania.es | 10 | 8–12 | 8–12 | 8–13 | 8–14 |
 | [14 November–5 December 2019](2019-12-05-GESOP.html) | GESOP <br> CEO | 13 | 11–14 | 10–15 | 9–15 | 9–17 |
 | [27–30 November 2019](2019-11-30-electoPanel.html) | electoPanel <br> electomania.es | 9 | 8–11 | 8–11 | 7–11 | 7–13 |
@@ -137,13 +137,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 5 | 5% | 99.4% |  |
 | 6 | 5% | 94% |  |
 | 7 | 10% | 89% |  |
-| 8 | 20% | 79% | Last Result |
-| 9 | 20% | 59% | Median |
-| 10 | 12% | 40% |  |
-| 11 | 24% | 27% |  |
-| 12 | 2% | 3% |  |
-| 13 | 0.9% | 1.2% |  |
-| 14 | 0.3% | 0.3% |  |
+| 8 | 22% | 79% | Last Result |
+| 9 | 20% | 57% | Median |
+| 10 | 13% | 37% |  |
+| 11 | 19% | 24% |  |
+| 12 | 2% | 5% |  |
+| 13 | 2% | 2% |  |
+| 14 | 0.5% | 0.5% |  |
 | 15 | 0% | 0% |  |
 
 
