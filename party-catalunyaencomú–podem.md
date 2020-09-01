@@ -29,8 +29,8 @@ Last result: **7.5%** (General Election of 21 December 2017)
 | [16–19 October 2019](2019-10-19-electoPanel.html) | electoPanel <br> electomania.es | 8.2% | 7.5–9.0% | 7.3–9.3% | 7.1–9.5% | 6.7–9.9% |
 | [14–15 October 2019](2019-10-15-electoPanel.html) | electoPanel <br> electomania.es | 8.0% | 7.0–9.2% | 6.7–9.6% | 6.5–9.9% | 6.0–10.5% |
 | [1–5 October 2019](2019-10-05-NCReport.html) | NC Report <br> La Razón | 5.9% | 4.9–7.2% | 4.6–7.6% | 4.4–7.9% | 4.0–8.6% |
-| [11 September 2019](2019-09-11-electoPanel.html) | electoPanel <br> electomania.es | 7.6% | N/A | N/A | N/A | N/A |
-| [3–7 September 2019](2019-09-07-NCReport.html) | NC Report <br> La Razón | 6.2% | N/A | N/A | N/A | N/A |
+| [11 September 2019](2019-09-11-electoPanel.html) | electoPanel <br> electomania.es | 7.6% | 6.6–8.8% | 6.3–9.1% | 6.1–9.4% | 5.7–10.0% |
+| [3–7 September 2019](2019-09-07-NCReport.html) | NC Report <br> La Razón | 6.2% | 5.2–7.5% | 4.9–7.9% | 4.6–8.2% | 4.2–8.9% |
 | [20 August 2019](2019-08-20-electoPanel.html) | electoPanel <br> electomania.es | 7.1% | N/A | N/A | N/A | N/A |
 | [17 July 2019](2019-07-17-electoPanel.html) | electoPanel <br> electomania.es | 7.1% | N/A | N/A | N/A | N/A |
 | [25–17 July 2019](2019-07-17-GESOP.html) | GESOP <br> CEO | 9.5% | 8.4–10.8% | 8.1–11.2% | 7.9–11.5% | 7.4–12.1% |
@@ -100,8 +100,8 @@ Last result: **8** seats (General Election of 21 December 2017)
 | [16–19 October 2019](2019-10-19-electoPanel.html) | electoPanel <br> electomania.es | 10 | 10 | 8–10 | 8–11 | 8–12 |
 | [14–15 October 2019](2019-10-15-electoPanel.html) | electoPanel <br> electomania.es | 9 | 8–11 | 7–12 | 7–12 | 6–13 |
 | [1–5 October 2019](2019-10-05-NCReport.html) | NC Report <br> La Razón | 6 | 5–8 | 4–8 | 4–9 | 4–10 |
-| [11 September 2019](2019-09-11-electoPanel.html) | electoPanel <br> electomania.es |  |  |  |  |  |
-| [3–7 September 2019](2019-09-07-NCReport.html) | NC Report <br> La Razón |  |  |  |  |  |
+| [11 September 2019](2019-09-11-electoPanel.html) | electoPanel <br> electomania.es | 8 | 7–10 | 7–11 | 7–13 | 5–13 |
+| [3–7 September 2019](2019-09-07-NCReport.html) | NC Report <br> La Razón | 7 | 5–8 | 4–8 | 4–10 | 4–10 |
 | [20 August 2019](2019-08-20-electoPanel.html) | electoPanel <br> electomania.es |  |  |  |  |  |
 | [17 July 2019](2019-07-17-electoPanel.html) | electoPanel <br> electomania.es |  |  |  |  |  |
 | [25–17 July 2019](2019-07-17-GESOP.html) | GESOP <br> CEO | 11 | 10–14 | 10–16 | 8–16 | 8–16 |
