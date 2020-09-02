@@ -5,6 +5,7 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | Cs | JxCAT | ERC | PSC | CatComú | CUP | PP | Vox |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 21 December 2017 | General Election | 25.4% <br> 36 | 21.7% <br> 34 | 21.4% <br> 32 | 13.9% <br> 17 | 7.5% <br> 8 | 4.5% <br> 4 | 4.2% <br> 4 | 0.0% <br> 0 |
+| [31 August 2020](2020-08-31-electoPanel.html) | electoPanel <br> electomania.es | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [25 June–21 July 2020](2020-07-21-GESOP.html) | GESOP <br> CEO | 13–16% <br> 18–22 | 19–23% <br> 30–37 | 20–24% <br> 29–37 | 15–19% <br> 20–26 | 7–10% <br> 8–12 | 4–6% <br> 4–8 | 4–7% <br> 5–9 | 3–5% <br> 2–6 |
 | [6–13 July 2020](2020-07-13-GESOP.html) | GESOP <br> El Periódico | 10–14% <br> 13–18 | 17–21% <br> 27–34 | 20–25% <br> 30–37 | 16–20% <br> 22–26 | 7–9% <br> 7–11 | 4–7% <br> 4–9 | 5–7% <br> 5–9 | 4–7% <br> 5–9 |
 | [29 June–2 July 2020](2020-07-02-Feedback.html) | Feedback <br> El Nacional | 8–12% <br> 9–16 | 15–21% <br> 24–32 | 24–31% <br> 36–46 | 17–23% <br> 22–31 | 5–9% <br> 5–10 | 5–8% <br> 5–11 | 4–8% <br> 4–9 | 4–7% <br> 3–9 |
@@ -25,7 +26,7 @@ The table below lists all polls registered and analyzed so far.
 | [1–5 October 2019](2019-10-05-NCReport.html) | NC Report <br> La Razón | 16–22% <br> 22–32 | 13–18% <br> 18–30 | 21–27% <br> 32–43 | 17–23% <br> 23–32 | 4–8% <br> 4–9 | 4–7% <br> 4–11 | 4–7% <br> 3–10 | 1–3% <br> 0–3 |
 | [11 September 2019](2019-09-11-electoPanel.html) | electoPanel <br> electomania.es | 13–18% <br> 18–21 | 14–18% <br> 22–31 | 23–28% <br> 34–43 | 18–23% <br> 23–33 | 6–9% <br> 7–13 | 4–7% <br> 4–9 | 5–8% <br> 7–9 | 1–3% <br> 0 |
 | [3–7 September 2019](2019-09-07-NCReport.html) | NC Report <br> La Razón | 18–24% <br> 26–34 | 12–17% <br> 18–26 | 23–29% <br> 34–44 | 16–22% <br> 22–30 | 5–8% <br> 4–10 | 4–7% <br> 4–9 | 3–7% <br> 3–8 | 1–4% <br> 0–3 |
-| [20 August 2019](2019-08-20-electoPanel.html) | electoPanel <br> electomania.es | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [20 August 2019](2019-08-20-electoPanel.html) | electoPanel <br> electomania.es | 12–17% <br> 18–21 | 13–18% <br> 23–28 | 24–29% <br> 37–44 | 18–23% <br> 24–31 | 6–9% <br> 5–9 | 5–8% <br> 6–9 | 5–8% <br> 6–8 | 1–3% <br> 0 |
 | [17 July 2019](2019-07-17-electoPanel.html) | electoPanel <br> electomania.es | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [25–17 July 2019](2019-07-17-GESOP.html) | GESOP <br> CEO | 15–19% <br> 19–26 | 14–19% <br> 24–30 | 24–29% <br> 36–43 | 16–21% <br> 20–28 | 8–11% <br> 8–16 | 4–7% <br> 5–9 | 3–5% <br> 0–6 | N/A <br> N/A |
 | [1–5 July 2019](2019-07-05-GESOP.html) | GESOP <br> El Periódico | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
