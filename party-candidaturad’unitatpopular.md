@@ -83,7 +83,7 @@ Last result: **4** seats (General Election of 21 December 2017)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 7 | 4–8 | 3–9 | 0–10 | 0–11 |
-| [1–4 September 2020](2020-09-04-GAD3.html) | GAD3 <br> La Vanguardia | 4 | 0–7 | 0–7 | 0–8 | 0–8 |
+| [1–4 September 2020](2020-09-04-GAD3.html) | GAD3 <br> La Vanguardia | 4 | 0–7 | 0–8 | 0–8 | 0–8 |
 | [31 August 2020](2020-08-31-electoPanel.html) | electoPanel <br> electomania.es | 7 | 7–8 | 7–8 | 7–8 | 6–8 |
 | [25 June–21 July 2020](2020-07-21-GESOP.html) | GESOP <br> CEO | 7 | 4–8 | 4–8 | 4–8 | 3–8 |
 | [6–13 July 2020](2020-07-13-GESOP.html) | GESOP <br> El Periódico | 8 | 6–8 | 4–8 | 4–9 | 4–9 |
@@ -139,8 +139,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 3% | 100% |  |
 | 1 | 0% | 97% |  |
 | 2 | 2% | 97% |  |
-| 3 | 4% | 95% |  |
-| 4 | 13% | 91% | Last Result |
+| 3 | 5% | 95% |  |
+| 4 | 12% | 90% | Last Result |
 | 5 | 7% | 78% |  |
 | 6 | 8% | 72% |  |
 | 7 | 28% | 64% | Median |
