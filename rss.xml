@@ -8,7 +8,27 @@
     <title>All Registered Polls for the Parliament of Catalonia</title>
     <link>https://filipvanlaenen.github.io/catalonian_polls</link>
     <description>All Registered Polls for the Parliament of Catalonia</description>
-    <pubDate>Thu, 10 Sep 2020 09:02:41 +0200</pubDate>
+    <pubDate>Thu, 10 Sep 2020 19:01:08 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by GAD3 for La Vanguardia, 1–4 September 2020 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/catalonian_polls/2020-09-04-GAD3.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Ciutadans–Partido de la Ciudadanía: 9–18 seats&lt;/li&gt;&lt;li&gt;Junts pel Catalunya: 26–37 seats&lt;/li&gt;&lt;li&gt;Esquerra Republicana–Catalunya Sí: 35–47 seats&lt;/li&gt;&lt;li&gt;Partit dels Socialistes de Catalunya (PSC-PSOE): 21–31 seats&lt;/li&gt;&lt;li&gt;Catalunya en Comú–Podem: 4–11 seats&lt;/li&gt;&lt;li&gt;Candidatura d’Unitat Popular: 0–8 seats&lt;/li&gt;&lt;li&gt;Partit Popular: 5–12 seats&lt;/li&gt;&lt;li&gt;Vox: 0–7 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/catalonian_polls/2020-09-04-GAD3-seats.png"
+        length="287785"
+        type="image/png"/>
+      <pubDate>Thu, 10 Sep 2020 19:01:08 +0200</pubDate>
+      <dc:date>2020-09-10T19:01:08.325188+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by GAD3 for La Vanguardia, 1–4 September 2020 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/catalonian_polls/2020-09-04-GAD3.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/catalonian_polls/2020-09-04-GAD3-coalitions-seats.png"
+        length="305786"
+        type="image/png"/>
+      <pubDate>Thu, 10 Sep 2020 19:01:08 +0200</pubDate>
+      <dc:date>2020-09-10T19:01:08.325188+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by GAD3 for La Vanguardia, 1–4 September 2020 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/catalonian_polls/2020-09-04-GAD3.html</link>
@@ -16,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/catalonian_polls/2020-09-04-GAD3.png"
         length="308094"
         type="image/png"/>
-      <pubDate>Sun, 06 Sep 2020 22:18:54 +0200</pubDate>
-      <dc:date>2020-09-06T22:18:54.041083+02:00</dc:date>
+      <pubDate>Thu, 10 Sep 2020 19:01:08 +0200</pubDate>
+      <dc:date>2020-09-10T19:01:08.325188+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by electoPanel for electomania.es, 31 August 2020 – Seat Projections for the Parties</title>
@@ -459,6 +479,6 @@
       <pubDate>Fri, 03 Jan 2020 19:12:38 +0100</pubDate>
       <dc:date>2020-01-03T19:12:38.836863+01:00</dc:date>
     </item>
-    <dc:date>2020-09-10T09:02:41.929662+02:00</dc:date>
+    <dc:date>2020-09-10T19:01:08.325188+02:00</dc:date>
   </channel>
 </rss>
