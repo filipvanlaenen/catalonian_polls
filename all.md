@@ -30,7 +30,7 @@ The table below lists all polls registered and analyzed so far.
 | [20 August 2019](2019-08-20-electoPanel.html) | electoPanel <br> electomania.es | 12–17% <br> 18–21 | 13–18% <br> 23–28 | 24–29% <br> 37–44 | 18–23% <br> 24–31 | 6–9% <br> 5–9 | 5–8% <br> 6–9 | 5–8% <br> 6–8 | 1–3% <br> 0 |
 | [17 July 2019](2019-07-17-electoPanel.html) | electoPanel <br> electomania.es | 12–16% <br> 16–22 | 13–18% <br> 20–27 | 24–30% <br> 36–45 | 18–23% <br> 24–31 | 6–9% <br> 5–11 | 5–8% <br> 6–11 | 5–8% <br> 6–10 | 1–3% <br> 0–3 |
 | [25–17 July 2019](2019-07-17-GESOP.html) | GESOP <br> CEO | 15–19% <br> 19–26 | 14–19% <br> 24–30 | 24–29% <br> 36–43 | 16–21% <br> 20–28 | 8–11% <br> 8–16 | 4–7% <br> 5–9 | 3–5% <br> 0–6 | N/A <br> N/A |
-| [1–5 July 2019](2019-07-05-GESOP.html) | GESOP <br> El Periódico | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [1–5 July 2019](2019-07-05-GESOP.html) | GESOP <br> El Periódico | 15–19% <br> 20–26 | 15–19% <br> 23–30 | 24–29% <br> 37–44 | 18–22% <br> 25–30 | 6–8% <br> 6–10 | 4–7% <br> 5–9 | 3–5% <br> 2–6 | N/A <br> N/A |
 | [4–25 March 2019](2019-03-25-Opinòmetre.html) | Opinòmetre <br> CEO | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [10 February 2019](2019-02-10-GESOP.html) | GESOP <br> El Periódico | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [24 December 2018](2018-12-24-NCReport.html) | NC Report <br> La Razón | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
