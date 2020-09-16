@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Parliament of Catalonia</title>
     <link>https://filipvanlaenen.github.io/catalonian_polls</link>
     <description>All Registered Polls for the Parliament of Catalonia</description>
-    <pubDate>Thu, 10 Sep 2020 19:01:08 +0200</pubDate>
+    <pubDate>Tue, 15 Sep 2020 08:21:50 +0200</pubDate>
     <item>
       <title>Opinion Poll by GAD3 for La Vanguardia, 1–4 September 2020 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/catalonian_polls/2020-09-04-GAD3.html#seats</link>
@@ -479,6 +479,16 @@
       <pubDate>Fri, 03 Jan 2020 19:12:38 +0100</pubDate>
       <dc:date>2020-01-03T19:12:38.836863+01:00</dc:date>
     </item>
-    <dc:date>2020-09-10T19:01:08.325188+02:00</dc:date>
+    <item>
+      <title>Opinion Poll by GESOP for El Periódico, 1–5 July 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/catalonian_polls/2019-07-05-GESOP.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Ciutadans–Partido de la Ciudadanía: 14.7–18.5%&lt;/li&gt;&lt;li&gt;Junts pel Catalunya: 14.7–18.5%&lt;/li&gt;&lt;li&gt;Esquerra Republicana–Catalunya Sí: 24.3–28.9%&lt;/li&gt;&lt;li&gt;Partit dels Socialistes de Catalunya (PSC-PSOE): 18.0–22.1%&lt;/li&gt;&lt;li&gt;Catalunya en Comú–Podem: 5.8–8.5%&lt;/li&gt;&lt;li&gt;Candidatura d’Unitat Popular: 4.4–6.8%&lt;/li&gt;&lt;li&gt;Partit Popular: 3.1–5.2%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/catalonian_polls/2019-07-05-GESOP.png"
+        length="265631"
+        type="image/png"/>
+      <pubDate>Tue, 15 Sep 2020 08:21:50 +0200</pubDate>
+      <dc:date>2020-09-15T08:21:50.191383+02:00</dc:date>
+    </item>
+    <dc:date>2020-09-15T08:21:50.191383+02:00</dc:date>
   </channel>
 </rss>
