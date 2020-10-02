@@ -37,24 +37,24 @@ Last result: **7.5%** (General Election of 21 December 2017)
 | [17 July 2019](2019-07-17-electoPanel.html) | electoPanel <br> electomania.es | 7.1% | 6.2–8.3% | 5.9–8.6% | 5.7–8.9% | 5.2–9.4% |
 | [25–17 July 2019](2019-07-17-GESOP.html) | GESOP <br> CEO | 9.5% | 8.4–10.8% | 8.1–11.2% | 7.9–11.5% | 7.4–12.1% |
 | [1–5 July 2019](2019-07-05-GESOP.html) | GESOP <br> El Periódico | 7.0% | 6.2–8.0% | 6.0–8.2% | 5.8–8.5% | 5.4–9.0% |
-| [4–25 March 2019](2019-03-25-Opinòmetre.html) | Opinòmetre <br> CEO | 7.0% | N/A | N/A | N/A | N/A |
-| [10 February 2019](2019-02-10-GESOP.html) | GESOP <br> El Periódico | 7.5% | N/A | N/A | N/A | N/A |
-| [24 December 2018](2018-12-24-NCReport.html) | NC Report <br> La Razón | 7.7% | N/A | N/A | N/A | N/A |
-| [3–12 December 2018](2018-12-12-Opinòmetre.html) | Opinòmetre <br> Ara | 7.1% | N/A | N/A | N/A | N/A |
-| [22 October–12 November 2018](2018-11-12-Opinòmetre.html) | Opinòmetre <br> CEO | 10.4% | N/A | N/A | N/A | N/A |
-| [22–25 October 2018](2018-10-25-GESOP.html) | GESOP <br> El Periódico | 7.4% | N/A | N/A | N/A | N/A |
-| [24–28 September 2018](2018-09-28-NCReport.html) | NC Report <br> La Razón | 6.5% | N/A | N/A | N/A | N/A |
-| [16–18 September 2018](2018-09-18-electoPanel.html) | electoPanel <br> electomania.es | 7.0% | N/A | N/A | N/A | N/A |
-| [22–30 August 2018](2018-08-30-SocioMétrica.html) | SocioMétrica <br> El Español | 7.4% | N/A | N/A | N/A | N/A |
-| [23 June–14 July 2018](2018-07-14-Opinòmetre.html) | Opinòmetre <br> CEO | 7.8% | N/A | N/A | N/A | N/A |
-| [2–11 July 2018](2018-07-11-GESOP.html) | GESOP <br> El Periódico | 8.5% | N/A | N/A | N/A | N/A |
-| [14–21 June 2018](2018-06-21-GAD3.html) | GAD3 <br> La Vanguardia | 7.0% | N/A | N/A | N/A | N/A |
-| [3–7 June 2018](2018-06-07-electoPanel.html) | electoPanel <br> electomania.es | 7.6% | N/A | N/A | N/A | N/A |
-| [7–27 April 2018](2018-04-27-Opinòmetre.html) | Opinòmetre <br> CEO | 9.5% | N/A | N/A | N/A | N/A |
-| [17–20 April 2018](2018-04-20-NCReport.html) | NC Report <br> La Razón | 5.5% | N/A | N/A | N/A | N/A |
-| [22–28 March 2018](2018-03-28-NCReport.html) | NC Report <br> La Razón | 6.0% | N/A | N/A | N/A | N/A |
-| [10–30 January 2018](2018-01-30-Apolda.html) | Apolda <br> CEO | 7.4% | N/A | N/A | N/A | N/A |
-| [15–19 January 2018](2018-01-19-NCReport.html) | NC Report <br> La Razón | 6.9% | N/A | N/A | N/A | N/A |
+| [4–25 March 2019](2019-03-25-Opinòmetre.html) | Opinòmetre <br> CEO | 7.0% | 6.1–8.2% | 5.9–8.5% | 5.6–8.8% | 5.2–9.3% |
+| [10 February 2019](2019-02-10-GESOP.html) | GESOP <br> El Periódico | 7.5% | 6.7–8.5% | 6.4–8.7% | 6.2–9.0% | 5.9–9.4% |
+| [24 December 2018](2018-12-24-NCReport.html) | NC Report <br> La Razón | 7.7% | 6.5–9.1% | 6.2–9.4% | 5.9–9.8% | 5.5–10.5% |
+| [3–12 December 2018](2018-12-12-Opinòmetre.html) | Opinòmetre <br> Ara | 7.1% | 6.1–8.4% | 5.8–8.8% | 5.5–9.1% | 5.1–9.8% |
+| [22 October–12 November 2018](2018-11-12-Opinòmetre.html) | Opinòmetre <br> CEO | 10.4% | 9.3–11.7% | 8.9–12.1% | 8.7–12.4% | 8.1–13.1% |
+| [22–25 October 2018](2018-10-25-GESOP.html) | GESOP <br> El Periódico | 7.4% | 6.3–8.8% | 6.0–9.2% | 5.8–9.6% | 5.3–10.3% |
+| [24–28 September 2018](2018-09-28-NCReport.html) | NC Report <br> La Razón | 6.5% | 5.6–7.6% | 5.3–7.9% | 5.1–8.2% | 4.7–8.8% |
+| [16–18 September 2018](2018-09-18-electoPanel.html) | electoPanel <br> electomania.es | 7.0% | 6.1–8.2% | 5.8–8.5% | 5.6–8.8% | 5.2–9.3% |
+| [22–30 August 2018](2018-08-30-SocioMétrica.html) | SocioMétrica <br> El Español | 7.4% | 6.1–9.1% | 5.7–9.6% | 5.4–10.0% | 4.8–10.9% |
+| [23 June–14 July 2018](2018-07-14-Opinòmetre.html) | Opinòmetre <br> CEO | 7.8% | 6.8–9.0% | 6.6–9.3% | 6.3–9.6% | 5.9–10.2% |
+| [2–11 July 2018](2018-07-11-GESOP.html) | GESOP <br> El Periódico | 8.5% | 7.6–9.5% | 7.4–9.8% | 7.2–10.1% | 6.8–10.6% |
+| [14–21 June 2018](2018-06-21-GAD3.html) | GAD3 <br> La Vanguardia | 7.0% | 5.8–8.5% | 5.5–8.9% | 5.2–9.3% | 4.7–10.1% |
+| [3–7 June 2018](2018-06-07-electoPanel.html) | electoPanel <br> electomania.es | 7.6% | 6.6–8.8% | 6.3–9.1% | 6.1–9.4% | 5.7–10.0% |
+| [7–27 April 2018](2018-04-27-Opinòmetre.html) | Opinòmetre <br> CEO | 9.5% | 8.4–10.8% | 8.1–11.2% | 7.8–11.5% | 7.4–12.1% |
+| [17–20 April 2018](2018-04-20-NCReport.html) | NC Report <br> La Razón | 5.5% | 4.5–6.7% | 4.3–7.0% | 4.1–7.3% | 3.7–7.9% |
+| [22–28 March 2018](2018-03-28-NCReport.html) | NC Report <br> La Razón | 6.0% | 5.0–7.2% | 4.7–7.6% | 4.5–7.9% | 4.1–8.5% |
+| [10–30 January 2018](2018-01-30-Apolda.html) | Apolda <br> CEO | 7.4% | 6.3–8.7% | 6.0–9.0% | 5.7–9.4% | 5.3–10.0% |
+| [15–19 January 2018](2018-01-19-NCReport.html) | NC Report <br> La Razón | 6.9% | 5.9–8.2% | 5.6–8.6% | 5.3–9.0% | 4.8–9.6% |
 
 ### Probability Mass Function
 
@@ -109,24 +109,24 @@ Last result: **8** seats (General Election of 21 December 2017)
 | [17 July 2019](2019-07-17-electoPanel.html) | electoPanel <br> electomania.es | 8 | 6–10 | 6–10 | 5–11 | 5–11 |
 | [25–17 July 2019](2019-07-17-GESOP.html) | GESOP <br> CEO | 11 | 10–14 | 10–16 | 8–16 | 8–16 |
 | [1–5 July 2019](2019-07-05-GESOP.html) | GESOP <br> El Periódico | 8 | 7–9 | 6–10 | 6–10 | 5–11 |
-| [4–25 March 2019](2019-03-25-Opinòmetre.html) | Opinòmetre <br> CEO |  |  |  |  |  |
-| [10 February 2019](2019-02-10-GESOP.html) | GESOP <br> El Periódico |  |  |  |  |  |
-| [24 December 2018](2018-12-24-NCReport.html) | NC Report <br> La Razón |  |  |  |  |  |
-| [3–12 December 2018](2018-12-12-Opinòmetre.html) | Opinòmetre <br> Ara |  |  |  |  |  |
-| [22 October–12 November 2018](2018-11-12-Opinòmetre.html) | Opinòmetre <br> CEO |  |  |  |  |  |
-| [22–25 October 2018](2018-10-25-GESOP.html) | GESOP <br> El Periódico |  |  |  |  |  |
-| [24–28 September 2018](2018-09-28-NCReport.html) | NC Report <br> La Razón |  |  |  |  |  |
-| [16–18 September 2018](2018-09-18-electoPanel.html) | electoPanel <br> electomania.es |  |  |  |  |  |
-| [22–30 August 2018](2018-08-30-SocioMétrica.html) | SocioMétrica <br> El Español |  |  |  |  |  |
-| [23 June–14 July 2018](2018-07-14-Opinòmetre.html) | Opinòmetre <br> CEO |  |  |  |  |  |
-| [2–11 July 2018](2018-07-11-GESOP.html) | GESOP <br> El Periódico |  |  |  |  |  |
-| [14–21 June 2018](2018-06-21-GAD3.html) | GAD3 <br> La Vanguardia |  |  |  |  |  |
-| [3–7 June 2018](2018-06-07-electoPanel.html) | electoPanel <br> electomania.es |  |  |  |  |  |
-| [7–27 April 2018](2018-04-27-Opinòmetre.html) | Opinòmetre <br> CEO |  |  |  |  |  |
-| [17–20 April 2018](2018-04-20-NCReport.html) | NC Report <br> La Razón |  |  |  |  |  |
-| [22–28 March 2018](2018-03-28-NCReport.html) | NC Report <br> La Razón |  |  |  |  |  |
-| [10–30 January 2018](2018-01-30-Apolda.html) | Apolda <br> CEO |  |  |  |  |  |
-| [15–19 January 2018](2018-01-19-NCReport.html) | NC Report <br> La Razón |  |  |  |  |  |
+| [4–25 March 2019](2019-03-25-Opinòmetre.html) | Opinòmetre <br> CEO | 7 | 5–8 | 5–9 | 5–10 | 5–11 |
+| [10 February 2019](2019-02-10-GESOP.html) | GESOP <br> El Periódico | 8 | 8–10 | 7–10 | 6–11 | 5–12 |
+| [24 December 2018](2018-12-24-NCReport.html) | NC Report <br> La Razón | 8 | 7–11 | 7–11 | 6–12 | 5–13 |
+| [3–12 December 2018](2018-12-12-Opinòmetre.html) | Opinòmetre <br> Ara | 8 | 6–9 | 6–11 | 5–11 | 5–12 |
+| [22 October–12 November 2018](2018-11-12-Opinòmetre.html) | Opinòmetre <br> CEO | 13 | 11–14 | 11–15 | 10–16 | 9–17 |
+| [22–25 October 2018](2018-10-25-GESOP.html) | GESOP <br> El Periódico | 8 | 7–10 | 6–11 | 5–11 | 5–13 |
+| [24–28 September 2018](2018-09-28-NCReport.html) | NC Report <br> La Razón | 7 | 5–9 | 5–9 | 5–10 | 4–11 |
+| [16–18 September 2018](2018-09-18-electoPanel.html) | electoPanel <br> electomania.es | 8 | 6–9 | 5–10 | 5–10 | 5–11 |
+| [22–30 August 2018](2018-08-30-SocioMétrica.html) | SocioMétrica <br> El Español | 8 | 6–11 | 5–11 | 5–12 | 4–13 |
+| [23 June–14 July 2018](2018-07-14-Opinòmetre.html) | Opinòmetre <br> CEO | 9 | 7–11 | 7–11 | 6–11 | 6–13 |
+| [2–11 July 2018](2018-07-11-GESOP.html) | GESOP <br> El Periódico | 10 | 8–11 | 8–12 | 8–13 | 8–13 |
+| [14–21 June 2018](2018-06-21-GAD3.html) | GAD3 <br> La Vanguardia | 8 | 5–10 | 5–10 | 5–11 | 4–13 |
+| [3–7 June 2018](2018-06-07-electoPanel.html) | electoPanel <br> electomania.es | 8 | 7–10 | 6–11 | 6–11 | 5–13 |
+| [7–27 April 2018](2018-04-27-Opinòmetre.html) | Opinòmetre <br> CEO | 11 | 9–13 | 9–14 | 8–14 | 8–15 |
+| [17–20 April 2018](2018-04-20-NCReport.html) | NC Report <br> La Razón | 6 | 4–7 | 4–8 | 4–8 | 3–8 |
+| [22–28 March 2018](2018-03-28-NCReport.html) | NC Report <br> La Razón | 6 | 5–8 | 4–8 | 4–9 | 4–10 |
+| [10–30 January 2018](2018-01-30-Apolda.html) | Apolda <br> CEO | 8 | 6–10 | 6–11 | 5–11 | 5–12 |
+| [15–19 January 2018](2018-01-19-NCReport.html) | NC Report <br> La Razón | 8 | 5–9 | 5–9 | 5–9 | 5–12 |
 
 ### Probability Mass Function
 

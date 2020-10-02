@@ -38,9 +38,9 @@ Last result: **0.0%** (General Election of 21 December 2017)
 | [25–17 July 2019](2019-07-17-GESOP.html) | GESOP <br> CEO | 0.0% | N/A | N/A | N/A | N/A |
 | [1–5 July 2019](2019-07-05-GESOP.html) | GESOP <br> El Periódico | 0.0% | N/A | N/A | N/A | N/A |
 | [4–25 March 2019](2019-03-25-Opinòmetre.html) | Opinòmetre <br> CEO | 0.0% | N/A | N/A | N/A | N/A |
-| [10 February 2019](2019-02-10-GESOP.html) | GESOP <br> El Periódico | 2.5% | N/A | N/A | N/A | N/A |
-| [24 December 2018](2018-12-24-NCReport.html) | NC Report <br> La Razón | 2.0% | N/A | N/A | N/A | N/A |
-| [3–12 December 2018](2018-12-12-Opinòmetre.html) | Opinòmetre <br> Ara | 1.1% | N/A | N/A | N/A | N/A |
+| [10 February 2019](2019-02-10-GESOP.html) | GESOP <br> El Periódico | 2.5% | 2.1–3.1% | 1.9–3.3% | 1.8–3.5% | 1.6–3.8% |
+| [24 December 2018](2018-12-24-NCReport.html) | NC Report <br> La Razón | 2.0% | 1.5–2.9% | 1.3–3.1% | 1.2–3.3% | 1.0–3.7% |
+| [3–12 December 2018](2018-12-12-Opinòmetre.html) | Opinòmetre <br> Ara | 1.1% | 0.8–1.8% | 0.7–2.0% | 0.6–2.1% | 0.5–2.5% |
 | [22 October–12 November 2018](2018-11-12-Opinòmetre.html) | Opinòmetre <br> CEO | 0.0% | N/A | N/A | N/A | N/A |
 | [22–25 October 2018](2018-10-25-GESOP.html) | GESOP <br> El Periódico | 0.0% | N/A | N/A | N/A | N/A |
 | [24–28 September 2018](2018-09-28-NCReport.html) | NC Report <br> La Razón | 0.0% | N/A | N/A | N/A | N/A |
@@ -110,9 +110,9 @@ Last result: **0** seats (General Election of 21 December 2017)
 | [25–17 July 2019](2019-07-17-GESOP.html) | GESOP <br> CEO |  |  |  |  |  |
 | [1–5 July 2019](2019-07-05-GESOP.html) | GESOP <br> El Periódico |  |  |  |  |  |
 | [4–25 March 2019](2019-03-25-Opinòmetre.html) | Opinòmetre <br> CEO |  |  |  |  |  |
-| [10 February 2019](2019-02-10-GESOP.html) | GESOP <br> El Periódico |  |  |  |  |  |
-| [24 December 2018](2018-12-24-NCReport.html) | NC Report <br> La Razón |  |  |  |  |  |
-| [3–12 December 2018](2018-12-12-Opinòmetre.html) | Opinòmetre <br> Ara |  |  |  |  |  |
+| [10 February 2019](2019-02-10-GESOP.html) | GESOP <br> El Periódico | 0 | 0–2 | 0–3 | 0–3 | 0–3 |
+| [24 December 2018](2018-12-24-NCReport.html) | NC Report <br> La Razón | 0 | 0–2 | 0–3 | 0–3 | 0–3 |
+| [3–12 December 2018](2018-12-12-Opinòmetre.html) | Opinòmetre <br> Ara | 0 | 0 | 0 | 0 | 0 |
 | [22 October–12 November 2018](2018-11-12-Opinòmetre.html) | Opinòmetre <br> CEO |  |  |  |  |  |
 | [22–25 October 2018](2018-10-25-GESOP.html) | GESOP <br> El Periódico |  |  |  |  |  |
 | [24–28 September 2018](2018-09-28-NCReport.html) | NC Report <br> La Razón |  |  |  |  |  |
