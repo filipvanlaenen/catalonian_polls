@@ -105,14 +105,14 @@ Last result: **34** seats (General Election of 21 December 2017)
 | [27–30 November 2019](2019-11-30-electoPanel.html) | electoPanel <br> electomania.es | 25 | 23–27 | 23–28 | 22–29 | 21–29 |
 | [18–22 November 2019](2019-11-22-NCReport.html) | NC Report <br> La Razón | 31 | 26–33 | 26–34 | 26–36 | 24–37 |
 | [16–19 October 2019](2019-10-19-electoPanel.html) | electoPanel <br> electomania.es | 18 | 18–21 | 17–21 | 17–22 | 17–23 |
-| [14–15 October 2019](2019-10-15-electoPanel.html) | electoPanel <br> electomania.es | 23 | 22–26 | 22–27 | 21–27 | 18–29 |
+| [14–15 October 2019](2019-10-15-electoPanel.html) | electoPanel <br> electomania.es | 23 | 22–26 | 21–27 | 20–27 | 18–29 |
 | [1–5 October 2019](2019-10-05-NCReport.html) | NC Report <br> La Razón | 24 | 21–26 | 20–27 | 19–29 | 18–30 |
-| [11 September 2019](2019-09-11-electoPanel.html) | electoPanel <br> electomania.es | 24 | 23–27 | 23–29 | 22–29 | 20–31 |
+| [11 September 2019](2019-09-11-electoPanel.html) | electoPanel <br> electomania.es | 25 | 23–27 | 22–28 | 22–29 | 20–31 |
 | [3–7 September 2019](2019-09-07-NCReport.html) | NC Report <br> La Razón | 23 | 19–25 | 18–26 | 18–26 | 17–28 |
 | [20 August 2019](2019-08-20-electoPanel.html) | electoPanel <br> electomania.es | 24 | 23–26 | 22–27 | 21–29 | 19–30 |
 | [17 July 2019](2019-07-17-electoPanel.html) | electoPanel <br> electomania.es | 24 | 23–26 | 21–26 | 20–28 | 19–30 |
 | [25–17 July 2019](2019-07-17-GESOP.html) | GESOP <br> CEO | 26 | 23–29 | 23–29 | 23–30 | 21–31 |
-| [1–5 July 2019](2019-07-05-GESOP.html) | GESOP <br> El Periódico | 26 | 24–28 | 24–29 | 23–30 | 23–31 |
+| [1–5 July 2019](2019-07-05-GESOP.html) | GESOP <br> El Periódico | 26 | 24–28 | 23–29 | 23–30 | 23–31 |
 | [4–25 March 2019](2019-03-25-Opinòmetre.html) | Opinòmetre <br> CEO | 23 | 20–25 | 20–26 | 19–26 | 18–27 |
 | [10 February 2019](2019-02-10-GESOP.html) | GESOP <br> El Periódico | 23 | 22–26 | 21–27 | 20–27 | 20–28 |
 | [24 December 2018](2018-12-24-NCReport.html) | NC Report <br> La Razón | 24 | 21–26 | 20–27 | 18–28 | 18–29 |
@@ -121,15 +121,15 @@ Last result: **34** seats (General Election of 21 December 2017)
 | [22–25 October 2018](2018-10-25-GESOP.html) | GESOP <br> El Periódico | 23 | 19–25 | 18–26 | 18–27 | 17–28 |
 | [24–28 September 2018](2018-09-28-NCReport.html) | NC Report <br> La Razón | 26 | 23–29 | 23–29 | 23–30 | 21–31 |
 | [16–18 September 2018](2018-09-18-electoPanel.html) | electoPanel <br> electomania.es | 23 | 20–26 | 19–26 | 19–27 | 18–28 |
-| [22–30 August 2018](2018-08-30-SocioMétrica.html) | SocioMétrica <br> El Español | 28 | 24–32 | 24–32 | 23–34 | 22–36 |
+| [22–30 August 2018](2018-08-30-SocioMétrica.html) | SocioMétrica <br> El Español | 28 | 24–32 | 24–33 | 23–33 | 22–36 |
 | [23 June–14 July 2018](2018-07-14-Opinòmetre.html) | Opinòmetre <br> CEO | 28 | 25–31 | 24–31 | 24–32 | 23–33 |
 | [2–11 July 2018](2018-07-11-GESOP.html) | GESOP <br> El Periódico | 26 | 24–28 | 23–29 | 23–29 | 23–30 |
 | [14–21 June 2018](2018-06-21-GAD3.html) | GAD3 <br> La Vanguardia | 31 | 28–34 | 27–36 | 26–37 | 24–38 |
 | [3–7 June 2018](2018-06-07-electoPanel.html) | electoPanel <br> electomania.es | 31 | 29–34 | 28–35 | 28–35 | 26–37 |
-| [7–27 April 2018](2018-04-27-Opinòmetre.html) | Opinòmetre <br> CEO | 30 | 29–33 | 27–34 | 26–35 | 25–36 |
+| [7–27 April 2018](2018-04-27-Opinòmetre.html) | Opinòmetre <br> CEO | 30 | 29–33 | 28–34 | 26–35 | 25–36 |
 | [17–20 April 2018](2018-04-20-NCReport.html) | NC Report <br> La Razón | 30 | 27–33 | 26–34 | 25–35 | 24–37 |
 | [22–28 March 2018](2018-03-28-NCReport.html) | NC Report <br> La Razón | 31 | 28–34 | 27–35 | 26–36 | 25–38 |
-| [10–30 January 2018](2018-01-30-Apolda.html) | Apolda <br> CEO | 31 | 28–33 | 27–34 | 26–34 | 25–36 |
+| [10–30 January 2018](2018-01-30-Apolda.html) | Apolda <br> CEO | 31 | 27–33 | 26–34 | 26–35 | 25–36 |
 | [15–19 January 2018](2018-01-19-NCReport.html) | NC Report <br> La Razón | 35 | 32–37 | 32–39 | 31–40 | 29–42 |
 
 ### Probability Mass Function
