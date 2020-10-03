@@ -100,18 +100,18 @@ Last result: **0** seats (General Election of 21 December 2017)
 | [14 November–5 December 2019](2019-12-05-GESOP.html) | GESOP <br> CEO | 0 | 0 | 0 | 0–2 | 0–3 |
 | [27–30 November 2019](2019-11-30-electoPanel.html) | electoPanel <br> electomania.es | 9 | 8–12 | 7–12 | 7–12 | 7–12 |
 | [18–22 November 2019](2019-11-22-NCReport.html) | NC Report <br> La Razón | 8 | 7–10 | 6–10 | 5–11 | 5–12 |
-| [16–19 October 2019](2019-10-19-electoPanel.html) | electoPanel <br> electomania.es | 3 | 3 | 0–3 | 0–3 | 0–3 |
+| [16–19 October 2019](2019-10-19-electoPanel.html) | electoPanel <br> electomania.es | 3 | 0–3 | 0–4 | 0–4 | 0–5 |
 | [14–15 October 2019](2019-10-15-electoPanel.html) | electoPanel <br> electomania.es | 3 | 3–6 | 2–6 | 2–6 | 0–7 |
-| [1–5 October 2019](2019-10-05-NCReport.html) | NC Report <br> La Razón | 0 | 0–3 | 0–3 | 0–3 | 0–4 |
-| [11 September 2019](2019-09-11-electoPanel.html) | electoPanel <br> electomania.es | 0 | 0 | 0 | 0 | 0–2 |
+| [1–5 October 2019](2019-10-05-NCReport.html) | NC Report <br> La Razón | 0 | 0 | 0–2 | 0–3 | 0–3 |
+| [11 September 2019](2019-09-11-electoPanel.html) | electoPanel <br> electomania.es | 0 | 0 | 0 | 0 | 0–3 |
 | [3–7 September 2019](2019-09-07-NCReport.html) | NC Report <br> La Razón | 0 | 0–2 | 0–3 | 0–3 | 0–3 |
-| [20 August 2019](2019-08-20-electoPanel.html) | electoPanel <br> electomania.es | 0 | 0 | 0 | 0 | 0 |
-| [17 July 2019](2019-07-17-electoPanel.html) | electoPanel <br> electomania.es | 0 | 0 | 0–2 | 0–3 | 0–3 |
+| [20 August 2019](2019-08-20-electoPanel.html) | electoPanel <br> electomania.es | 0 | 0 | 0 | 0–2 | 0–3 |
+| [17 July 2019](2019-07-17-electoPanel.html) | electoPanel <br> electomania.es | 0 | 0 | 0–2 | 0–2 | 0–3 |
 | [25–17 July 2019](2019-07-17-GESOP.html) | GESOP <br> CEO |  |  |  |  |  |
 | [1–5 July 2019](2019-07-05-GESOP.html) | GESOP <br> El Periódico |  |  |  |  |  |
 | [4–25 March 2019](2019-03-25-Opinòmetre.html) | Opinòmetre <br> CEO |  |  |  |  |  |
 | [10 February 2019](2019-02-10-GESOP.html) | GESOP <br> El Periódico | 0 | 0–2 | 0–3 | 0–3 | 0–3 |
-| [24 December 2018](2018-12-24-NCReport.html) | NC Report <br> La Razón | 0 | 0–2 | 0–3 | 0–3 | 0–3 |
+| [24 December 2018](2018-12-24-NCReport.html) | NC Report <br> La Razón | 0 | 0 | 0–2 | 0–3 | 0–3 |
 | [3–12 December 2018](2018-12-12-Opinòmetre.html) | Opinòmetre <br> Ara | 0 | 0 | 0 | 0 | 0 |
 | [22 October–12 November 2018](2018-11-12-Opinòmetre.html) | Opinòmetre <br> CEO |  |  |  |  |  |
 | [22–25 October 2018](2018-10-25-GESOP.html) | GESOP <br> El Periódico |  |  |  |  |  |

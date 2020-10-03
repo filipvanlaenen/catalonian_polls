@@ -31,14 +31,14 @@
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#esquerra-republicana–catalunya-sí">Esquerra Republicana–Catalunya Sí</a> | 32 | 37 | 37–44 |37–44 |37–44 |37–44 |
-| <a href="#partit-dels-socialistes-de-catalunya-(psc-psoe)">Partit dels Socialistes de Catalunya (PSC-PSOE)</a> | 17 | 30 | 24–31 |24–31 |24–31 |24–31 |
-| <a href="#junts-pel-catalunya">Junts pel Catalunya</a> | 34 | 27 | 23–28 |23–28 |23–28 |23–28 |
-| <a href="#ciutadans–partido-de-la-ciudadanía">Ciutadans–Partido de la Ciudadanía</a> | 36 | 19 | 18–21 |18–21 |18–21 |18–21 |
-| <a href="#catalunya-en-comú–podem">Catalunya en Comú–Podem</a> | 8 | 6 | 5–9 |5–9 |5–9 |5–9 |
-| <a href="#candidatura-d’unitat-popular">Candidatura d’Unitat Popular</a> | 4 | 8 | 6–9 |6–9 |6–9 |6–9 |
-| <a href="#partit-popular">Partit Popular</a> | 4 | 7 | 6–8 |6–8 |6–8 |6–8 |
-| <a href="#vox">Vox</a> | 0 | 0 | 0 |0 |0 |0 |
+| <a href="#esquerra-republicana–catalunya-sí">Esquerra Republicana–Catalunya Sí</a> | 32 | 41 | 37–43 |37–44 |35–44 |35–46 |
+| <a href="#partit-dels-socialistes-de-catalunya-(psc-psoe)">Partit dels Socialistes de Catalunya (PSC-PSOE)</a> | 17 | 27 | 25–30 |25–31 |24–31 |24–33 |
+| <a href="#junts-pel-catalunya">Junts pel Catalunya</a> | 34 | 24 | 23–26 |22–27 |21–29 |19–30 |
+| <a href="#ciutadans–partido-de-la-ciudadanía">Ciutadans–Partido de la Ciudadanía</a> | 36 | 20 | 18–22 |17–23 |17–24 |16–25 |
+| <a href="#catalunya-en-comú–podem">Catalunya en Comú–Podem</a> | 8 | 8 | 6–10 |6–10 |5–10 |5–11 |
+| <a href="#candidatura-d’unitat-popular">Candidatura d’Unitat Popular</a> | 4 | 8 | 7–9 |6–9 |6–10 |4–11 |
+| <a href="#partit-popular">Partit Popular</a> | 4 | 7 | 6–9 |6–9 |5–10 |5–10 |
+| <a href="#vox">Vox</a> | 0 | 0 | 0 |0 |0–2 |0–3 |
 
 ### Esquerra Republicana–Catalunya Sí
 
@@ -50,18 +50,22 @@
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 32 | 0% | 100% | Last Result |
 | 33 | 0% | 100% |  |
-| 34 | 0% | 100% |  |
-| 35 | 0% | 100% |  |
-| 36 | 0% | 100% |  |
-| 37 | 54% | 100% | Median |
-| 38 | 0% | 46% |  |
-| 39 | 0.1% | 46% |  |
-| 40 | 0% | 46% |  |
-| 41 | 13% | 46% |  |
-| 42 | 0% | 33% |  |
-| 43 | 0% | 33% |  |
-| 44 | 33% | 33% |  |
-| 45 | 0% | 0% |  |
+| 34 | 0.3% | 99.9% |  |
+| 35 | 2% | 99.7% |  |
+| 36 | 2% | 97% |  |
+| 37 | 8% | 95% |  |
+| 38 | 7% | 87% |  |
+| 39 | 12% | 80% |  |
+| 40 | 14% | 68% |  |
+| 41 | 27% | 54% | Median |
+| 42 | 15% | 27% |  |
+| 43 | 7% | 12% |  |
+| 44 | 3% | 5% |  |
+| 45 | 1.2% | 2% |  |
+| 46 | 0.4% | 0.8% |  |
+| 47 | 0.3% | 0.4% |  |
+| 48 | 0.1% | 0.1% |  |
+| 49 | 0% | 0% |  |
 
 ### Partit dels Socialistes de Catalunya (PSC-PSOE)
 
@@ -75,18 +79,21 @@
 | 18 | 0% | 100% |  |
 | 19 | 0% | 100% |  |
 | 20 | 0% | 100% |  |
-| 21 | 0.1% | 100% |  |
-| 22 | 0% | 99.9% |  |
-| 23 | 0% | 99.9% |  |
-| 24 | 33% | 99.9% |  |
-| 25 | 0% | 67% |  |
-| 26 | 0.1% | 67% |  |
-| 27 | 0.1% | 67% |  |
-| 28 | 0% | 67% |  |
-| 29 | 0% | 67% |  |
-| 30 | 44% | 66% | Median |
-| 31 | 23% | 23% |  |
-| 32 | 0% | 0% |  |
+| 21 | 0% | 100% |  |
+| 22 | 0.1% | 100% |  |
+| 23 | 0.2% | 99.9% |  |
+| 24 | 3% | 99.7% |  |
+| 25 | 11% | 97% |  |
+| 26 | 25% | 86% |  |
+| 27 | 24% | 61% | Median |
+| 28 | 12% | 36% |  |
+| 29 | 6% | 24% |  |
+| 30 | 8% | 18% |  |
+| 31 | 7% | 10% |  |
+| 32 | 1.3% | 2% |  |
+| 33 | 0.7% | 0.8% |  |
+| 34 | 0.1% | 0.2% |  |
+| 35 | 0% | 0% |  |
 
 ### Junts pel Catalunya
 
@@ -96,15 +103,20 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 23 | 13% | 100% |  |
-| 24 | 0% | 87% |  |
-| 25 | 33% | 87% |  |
-| 26 | 0.1% | 54% |  |
-| 27 | 43% | 54% | Median |
-| 28 | 10% | 10% |  |
-| 29 | 0% | 0.1% |  |
-| 30 | 0% | 0.1% |  |
-| 31 | 0.1% | 0.1% |  |
+| 18 | 0.2% | 100% |  |
+| 19 | 0.4% | 99.7% |  |
+| 20 | 2% | 99.4% |  |
+| 21 | 2% | 98% |  |
+| 22 | 3% | 96% |  |
+| 23 | 26% | 93% |  |
+| 24 | 20% | 67% | Median |
+| 25 | 21% | 48% |  |
+| 26 | 18% | 26% |  |
+| 27 | 3% | 8% |  |
+| 28 | 2% | 5% |  |
+| 29 | 2% | 3% |  |
+| 30 | 0.7% | 0.9% |  |
+| 31 | 0.2% | 0.2% |  |
 | 32 | 0% | 0% |  |
 | 33 | 0% | 0% |  |
 | 34 | 0% | 0% | Last Result |
@@ -117,16 +129,19 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 17 | 0% | 100% |  |
-| 18 | 10% | 99.9% |  |
-| 19 | 77% | 90% | Median |
-| 20 | 0% | 13% |  |
-| 21 | 13% | 13% |  |
-| 22 | 0.1% | 0.1% |  |
-| 23 | 0% | 0% |  |
-| 24 | 0% | 0% |  |
-| 25 | 0% | 0% |  |
-| 26 | 0% | 0% |  |
+| 14 | 0.1% | 100% |  |
+| 15 | 0.1% | 99.9% |  |
+| 16 | 2% | 99.8% |  |
+| 17 | 3% | 98% |  |
+| 18 | 12% | 95% |  |
+| 19 | 32% | 83% |  |
+| 20 | 36% | 50% | Median |
+| 21 | 4% | 15% |  |
+| 22 | 5% | 11% |  |
+| 23 | 3% | 6% |  |
+| 24 | 2% | 3% |  |
+| 25 | 0.9% | 1.1% |  |
+| 26 | 0.2% | 0.2% |  |
 | 27 | 0% | 0% |  |
 | 28 | 0% | 0% |  |
 | 29 | 0% | 0% |  |
@@ -146,13 +161,17 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 5 | 13% | 100% |  |
-| 6 | 43% | 87% | Median |
-| 7 | 0.3% | 44% |  |
-| 8 | 0.1% | 43% | Last Result |
-| 9 | 43% | 43% |  |
-| 10 | 0.1% | 0.1% |  |
-| 11 | 0% | 0% |  |
+| 4 | 0.1% | 100% |  |
+| 5 | 4% | 99.9% |  |
+| 6 | 8% | 96% |  |
+| 7 | 21% | 88% |  |
+| 8 | 44% | 67% | Last Result, Median |
+| 9 | 9% | 23% |  |
+| 10 | 12% | 14% |  |
+| 11 | 2% | 2% |  |
+| 12 | 0.1% | 0.2% |  |
+| 13 | 0.1% | 0.1% |  |
+| 14 | 0% | 0% |  |
 
 ### Candidatura d’Unitat Popular
 
@@ -162,13 +181,16 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 4 | 0% | 100% | Last Result |
-| 5 | 0% | 100% |  |
-| 6 | 43% | 100% |  |
-| 7 | 0% | 57% |  |
-| 8 | 23% | 57% | Median |
-| 9 | 34% | 34% |  |
-| 10 | 0% | 0% |  |
+| 4 | 0.8% | 100% | Last Result |
+| 5 | 0.5% | 99.2% |  |
+| 6 | 6% | 98.7% |  |
+| 7 | 20% | 92% |  |
+| 8 | 55% | 73% | Median |
+| 9 | 13% | 18% |  |
+| 10 | 3% | 5% |  |
+| 11 | 1.5% | 2% |  |
+| 12 | 0% | 0.1% |  |
+| 13 | 0% | 0% |  |
 
 ### Partit Popular
 
@@ -178,14 +200,17 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 4 | 0% | 100% | Last Result |
-| 5 | 0% | 100% |  |
-| 6 | 13% | 99.9% |  |
-| 7 | 54% | 87% | Median |
-| 8 | 33% | 33% |  |
-| 9 | 0% | 0.2% |  |
-| 10 | 0.2% | 0.2% |  |
-| 11 | 0% | 0% |  |
+| 3 | 0.2% | 100% |  |
+| 4 | 0.2% | 99.8% | Last Result |
+| 5 | 3% | 99.6% |  |
+| 6 | 15% | 96% |  |
+| 7 | 45% | 81% | Median |
+| 8 | 7% | 36% |  |
+| 9 | 26% | 29% |  |
+| 10 | 3% | 3% |  |
+| 11 | 0.1% | 0.3% |  |
+| 12 | 0.1% | 0.1% |  |
+| 13 | 0% | 0% |  |
 
 ### Vox
 
@@ -195,7 +220,11 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 100% | 100% | Last Result, Median |
+| 0 | 96% | 100% | Last Result, Median |
+| 1 | 0% | 4% |  |
+| 2 | 3% | 4% |  |
+| 3 | 1.0% | 1.0% |  |
+| 4 | 0% | 0% |  |
 
 
 ## Coalitions
@@ -206,32 +235,14 @@
 
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Esquerra Republicana–Catalunya Sí – Junts pel Catalunya – Candidatura d’Unitat Popular | 70 | 72 | 100% | 70–78 | 70–78 | 70–78 | 70–78 |
-| Esquerra Republicana–Catalunya Sí – Partit dels Socialistes de Catalunya (PSC-PSOE) – Catalunya en Comú–Podem | 57 | 76 | 99.9% | 74–77 | 74–77 | 74–77 | 74–77 |
-| Esquerra Republicana–Catalunya Sí – Junts pel Catalunya – Catalunya en Comú–Podem | 74 | 73 | 99.8% | 69–75 | 69–75 | 69–75 | 69–75 |
-| Esquerra Republicana–Catalunya Sí – Junts pel Catalunya | 66 | 64 | 33% | 64–69 | 64–69 | 64–69 | 64–69 |
-| Partit dels Socialistes de Catalunya (PSC-PSOE) – Ciutadans–Partido de la Ciudadanía – Catalunya en Comú–Podem – Partit Popular | 65 | 63 | 0% | 57–65 | 57–65 | 57–65 | 57–65 |
-| Partit dels Socialistes de Catalunya (PSC-PSOE) – Ciutadans–Partido de la Ciudadanía – Partit Popular | 57 | 56 | 0% | 51–58 | 51–58 | 51–58 | 51–58 |
-| Partit dels Socialistes de Catalunya (PSC-PSOE) – Ciutadans–Partido de la Ciudadanía – Partit Popular – Vox | 57 | 56 | 0% | 51–58 | 51–58 | 51–58 | 51–58 |
-| Esquerra Republicana–Catalunya Sí – Catalunya en Comú–Podem | 40 | 46 | 0% | 43–50 | 43–50 | 43–50 | 43–50 |
-
-### Esquerra Republicana–Catalunya Sí – Junts pel Catalunya – Candidatura d’Unitat Popular
-
-![Graph with seats probability mass function not yet produced](2019-08-20-electoPanel-coalitions-seats-pmf-erc–jxcat–cup.png "Seats Probability Mass Function")
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 69 | 0.2% | 100% |  |
-| 70 | 43% | 99.8% | Last Result |
-| 71 | 0% | 56% |  |
-| 72 | 13% | 56% | Median |
-| 73 | 10% | 44% |  |
-| 74 | 0% | 33% |  |
-| 75 | 0% | 33% |  |
-| 76 | 0% | 33% |  |
-| 77 | 0% | 33% |  |
-| 78 | 33% | 33% |  |
-| 79 | 0% | 0% |  |
+| Esquerra Republicana–Catalunya Sí – Partit dels Socialistes de Catalunya (PSC-PSOE) – Catalunya en Comú–Podem | 57 | 75 | 100% | 73–78 | 71–79 | 71–80 | 69–82 |
+| Esquerra Republicana–Catalunya Sí – Junts pel Catalunya – Candidatura d’Unitat Popular | 70 | 73 | 98% | 70–76 | 68–76 | 68–77 | 66–78 |
+| Esquerra Republicana–Catalunya Sí – Junts pel Catalunya – Catalunya en Comú–Podem | 74 | 73 | 98% | 69–75 | 68–76 | 68–77 | 66–78 |
+| Esquerra Republicana–Catalunya Sí – Junts pel Catalunya | 66 | 65 | 11% | 62–68 | 61–68 | 60–69 | 58–70 |
+| Partit dels Socialistes de Catalunya (PSC-PSOE) – Ciutadans–Partido de la Ciudadanía – Catalunya en Comú–Podem – Partit Popular | 65 | 62 | 2% | 59–65 | 58–67 | 58–67 | 57–69 |
+| Partit dels Socialistes de Catalunya (PSC-PSOE) – Ciutadans–Partido de la Ciudadanía – Partit Popular | 57 | 54 | 0% | 52–58 | 51–59 | 50–59 | 49–61 |
+| Partit dels Socialistes de Catalunya (PSC-PSOE) – Ciutadans–Partido de la Ciudadanía – Partit Popular – Vox | 57 | 54 | 0% | 52–58 | 51–59 | 50–59 | 49–61 |
+| Esquerra Republicana–Catalunya Sí – Catalunya en Comú–Podem | 40 | 48 | 0% | 45–51 | 44–52 | 43–52 | 42–54 |
 
 ### Esquerra Republicana–Catalunya Sí – Partit dels Socialistes de Catalunya (PSC-PSOE) – Catalunya en Comú–Podem
 
@@ -249,19 +260,49 @@
 | 64 | 0% | 100% |  |
 | 65 | 0% | 100% |  |
 | 66 | 0% | 100% |  |
-| 67 | 0.1% | 100% |  |
-| 68 | 0% | 99.9% | Majority |
-| 69 | 0% | 99.9% |  |
-| 70 | 0% | 99.9% |  |
-| 71 | 0% | 99.9% |  |
-| 72 | 0% | 99.9% |  |
-| 73 | 0.1% | 99.9% | Median |
-| 74 | 44% | 99.8% |  |
-| 75 | 0% | 56% |  |
-| 76 | 43% | 56% |  |
-| 77 | 13% | 13% |  |
-| 78 | 0% | 0.1% |  |
-| 79 | 0% | 0% |  |
+| 67 | 0% | 100% |  |
+| 68 | 0.2% | 100% | Majority |
+| 69 | 0.6% | 99.8% |  |
+| 70 | 2% | 99.2% |  |
+| 71 | 3% | 98% |  |
+| 72 | 3% | 95% |  |
+| 73 | 7% | 91% |  |
+| 74 | 12% | 84% |  |
+| 75 | 25% | 72% |  |
+| 76 | 16% | 47% | Median |
+| 77 | 10% | 31% |  |
+| 78 | 12% | 21% |  |
+| 79 | 4% | 9% |  |
+| 80 | 3% | 5% |  |
+| 81 | 1.1% | 2% |  |
+| 82 | 0.6% | 0.8% |  |
+| 83 | 0.1% | 0.2% |  |
+| 84 | 0.1% | 0.1% |  |
+| 85 | 0% | 0% |  |
+
+### Esquerra Republicana–Catalunya Sí – Junts pel Catalunya – Candidatura d’Unitat Popular
+
+![Graph with seats probability mass function not yet produced](2019-08-20-electoPanel-coalitions-seats-pmf-erc–jxcat–cup.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 65 | 0.2% | 100% |  |
+| 66 | 0.6% | 99.8% |  |
+| 67 | 1.5% | 99.2% |  |
+| 68 | 4% | 98% | Majority |
+| 69 | 4% | 94% |  |
+| 70 | 9% | 90% | Last Result |
+| 71 | 12% | 81% |  |
+| 72 | 16% | 69% |  |
+| 73 | 18% | 53% | Median |
+| 74 | 12% | 35% |  |
+| 75 | 13% | 23% |  |
+| 76 | 6% | 10% |  |
+| 77 | 3% | 4% |  |
+| 78 | 0.9% | 1.3% |  |
+| 79 | 0.2% | 0.4% |  |
+| 80 | 0.1% | 0.1% |  |
+| 81 | 0% | 0% |  |
 
 ### Esquerra Republicana–Catalunya Sí – Junts pel Catalunya – Catalunya en Comú–Podem
 
@@ -269,18 +310,24 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 67 | 0.2% | 100% |  |
-| 68 | 0% | 99.8% | Majority |
-| 69 | 13% | 99.8% |  |
-| 70 | 0% | 87% | Median |
-| 71 | 10% | 87% |  |
-| 72 | 0% | 77% |  |
-| 73 | 43% | 77% |  |
-| 74 | 0% | 33% | Last Result |
-| 75 | 33% | 33% |  |
-| 76 | 0% | 0.1% |  |
-| 77 | 0.1% | 0.1% |  |
-| 78 | 0% | 0% |  |
+| 64 | 0% | 100% |  |
+| 65 | 0.2% | 99.9% |  |
+| 66 | 0.6% | 99.8% |  |
+| 67 | 1.1% | 99.1% |  |
+| 68 | 3% | 98% | Majority |
+| 69 | 6% | 95% |  |
+| 70 | 9% | 89% |  |
+| 71 | 8% | 79% |  |
+| 72 | 15% | 71% |  |
+| 73 | 17% | 56% | Median |
+| 74 | 15% | 39% | Last Result |
+| 75 | 14% | 24% |  |
+| 76 | 6% | 10% |  |
+| 77 | 2% | 3% |  |
+| 78 | 0.6% | 1.0% |  |
+| 79 | 0.3% | 0.4% |  |
+| 80 | 0.1% | 0.1% |  |
+| 81 | 0% | 0% |  |
 
 ### Esquerra Republicana–Catalunya Sí – Junts pel Catalunya
 
@@ -288,18 +335,23 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 60 | 0.2% | 100% |  |
-| 61 | 0% | 99.8% |  |
-| 62 | 0% | 99.8% |  |
-| 63 | 0.1% | 99.8% |  |
-| 64 | 56% | 99.7% | Median |
-| 65 | 10% | 44% |  |
-| 66 | 0% | 33% | Last Result |
-| 67 | 0% | 33% |  |
-| 68 | 0% | 33% | Majority |
-| 69 | 33% | 33% |  |
-| 70 | 0.1% | 0.1% |  |
-| 71 | 0% | 0% |  |
+| 57 | 0.1% | 100% |  |
+| 58 | 0.6% | 99.9% |  |
+| 59 | 1.3% | 99.3% |  |
+| 60 | 3% | 98% |  |
+| 61 | 5% | 95% |  |
+| 62 | 7% | 91% |  |
+| 63 | 7% | 84% |  |
+| 64 | 23% | 77% |  |
+| 65 | 20% | 54% | Median |
+| 66 | 10% | 34% | Last Result |
+| 67 | 14% | 24% |  |
+| 68 | 6% | 11% | Majority |
+| 69 | 3% | 4% |  |
+| 70 | 1.1% | 2% |  |
+| 71 | 0.4% | 0.5% |  |
+| 72 | 0.1% | 0.1% |  |
+| 73 | 0% | 0% |  |
 
 ### Partit dels Socialistes de Catalunya (PSC-PSOE) – Ciutadans–Partido de la Ciudadanía – Catalunya en Comú–Podem – Partit Popular
 
@@ -307,17 +359,23 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 57 | 33% | 100% |  |
-| 58 | 0% | 67% |  |
-| 59 | 0% | 67% |  |
-| 60 | 0% | 67% |  |
-| 61 | 0% | 67% |  |
-| 62 | 10% | 67% | Median |
-| 63 | 13% | 56% |  |
-| 64 | 0% | 44% |  |
-| 65 | 43% | 44% | Last Result |
-| 66 | 0.2% | 0.2% |  |
-| 67 | 0% | 0% |  |
+| 55 | 0.1% | 100% |  |
+| 56 | 0.3% | 99.9% |  |
+| 57 | 1.0% | 99.6% |  |
+| 58 | 4% | 98.5% |  |
+| 59 | 6% | 95% |  |
+| 60 | 13% | 89% |  |
+| 61 | 12% | 76% |  |
+| 62 | 18% | 63% | Median |
+| 63 | 16% | 45% |  |
+| 64 | 12% | 29% |  |
+| 65 | 9% | 18% | Last Result |
+| 66 | 4% | 9% |  |
+| 67 | 4% | 6% |  |
+| 68 | 1.3% | 2% | Majority |
+| 69 | 0.6% | 0.7% |  |
+| 70 | 0.1% | 0.2% |  |
+| 71 | 0% | 0% |  |
 
 ### Partit dels Socialistes de Catalunya (PSC-PSOE) – Ciutadans–Partido de la Ciudadanía – Partit Popular
 
@@ -325,17 +383,23 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 50 | 0.1% | 100% |  |
-| 51 | 33% | 99.9% |  |
-| 52 | 0% | 67% |  |
-| 53 | 0.1% | 67% |  |
-| 54 | 0% | 67% |  |
-| 55 | 0% | 67% |  |
-| 56 | 54% | 67% | Median |
-| 57 | 0% | 13% | Last Result |
-| 58 | 13% | 13% |  |
-| 59 | 0.2% | 0.2% |  |
-| 60 | 0% | 0% |  |
+| 47 | 0.1% | 100% |  |
+| 48 | 0.2% | 99.9% |  |
+| 49 | 0.5% | 99.7% |  |
+| 50 | 2% | 99.2% |  |
+| 51 | 7% | 97% |  |
+| 52 | 16% | 90% |  |
+| 53 | 15% | 74% |  |
+| 54 | 14% | 59% | Median |
+| 55 | 11% | 45% |  |
+| 56 | 13% | 34% |  |
+| 57 | 10% | 21% | Last Result |
+| 58 | 5% | 11% |  |
+| 59 | 4% | 6% |  |
+| 60 | 1.1% | 2% |  |
+| 61 | 0.6% | 0.8% |  |
+| 62 | 0.2% | 0.2% |  |
+| 63 | 0% | 0% |  |
 
 ### Partit dels Socialistes de Catalunya (PSC-PSOE) – Ciutadans–Partido de la Ciudadanía – Partit Popular – Vox
 
@@ -343,17 +407,24 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 50 | 0.1% | 100% |  |
-| 51 | 33% | 99.9% |  |
-| 52 | 0% | 67% |  |
-| 53 | 0.1% | 67% |  |
-| 54 | 0% | 67% |  |
-| 55 | 0% | 67% |  |
-| 56 | 54% | 67% | Median |
-| 57 | 0% | 13% | Last Result |
-| 58 | 13% | 13% |  |
-| 59 | 0.2% | 0.2% |  |
-| 60 | 0% | 0% |  |
+| 47 | 0% | 100% |  |
+| 48 | 0.2% | 99.9% |  |
+| 49 | 0.4% | 99.7% |  |
+| 50 | 2% | 99.3% |  |
+| 51 | 6% | 97% |  |
+| 52 | 16% | 91% |  |
+| 53 | 15% | 75% |  |
+| 54 | 14% | 60% | Median |
+| 55 | 11% | 46% |  |
+| 56 | 13% | 35% |  |
+| 57 | 10% | 22% | Last Result |
+| 58 | 5% | 12% |  |
+| 59 | 4% | 7% |  |
+| 60 | 1.2% | 2% |  |
+| 61 | 0.7% | 0.9% |  |
+| 62 | 0.2% | 0.2% |  |
+| 63 | 0% | 0.1% |  |
+| 64 | 0% | 0% |  |
 
 ### Esquerra Republicana–Catalunya Sí – Catalunya en Comú–Podem
 
@@ -362,17 +433,23 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 40 | 0% | 100% | Last Result |
-| 41 | 0% | 100% |  |
-| 42 | 0% | 100% |  |
-| 43 | 10% | 100% | Median |
-| 44 | 0.2% | 90% |  |
-| 45 | 0% | 90% |  |
-| 46 | 56% | 90% |  |
-| 47 | 0.1% | 33% |  |
-| 48 | 0% | 33% |  |
-| 49 | 0% | 33% |  |
-| 50 | 33% | 33% |  |
-| 51 | 0% | 0% |  |
+| 41 | 0.1% | 100% |  |
+| 42 | 0.6% | 99.8% |  |
+| 43 | 3% | 99.3% |  |
+| 44 | 3% | 96% |  |
+| 45 | 8% | 93% |  |
+| 46 | 9% | 85% |  |
+| 47 | 9% | 77% |  |
+| 48 | 20% | 68% |  |
+| 49 | 17% | 48% | Median |
+| 50 | 17% | 30% |  |
+| 51 | 8% | 14% |  |
+| 52 | 3% | 6% |  |
+| 53 | 1.3% | 2% |  |
+| 54 | 0.6% | 1.0% |  |
+| 55 | 0.3% | 0.4% |  |
+| 56 | 0.1% | 0.1% |  |
+| 57 | 0% | 0% |  |
 
 
 ## Technical Information
@@ -386,6 +463,6 @@
 ### Calculations
 
 + **Sample size:** 1000
-+ **Simulations done:** 1,024
-+ **Error estimate:** 2.24%
++ **Simulations done:** 1,048,576
++ **Error estimate:** 1.05%
 

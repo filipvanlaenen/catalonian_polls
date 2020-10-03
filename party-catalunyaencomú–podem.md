@@ -35,7 +35,7 @@ Last result: **7.5%** (General Election of 21 December 2017)
 | [3–7 September 2019](2019-09-07-NCReport.html) | NC Report <br> La Razón | 6.2% | 5.2–7.5% | 4.9–7.9% | 4.6–8.2% | 4.2–8.9% |
 | [20 August 2019](2019-08-20-electoPanel.html) | electoPanel <br> electomania.es | 7.1% | 6.2–8.3% | 5.9–8.6% | 5.7–8.9% | 5.2–9.4% |
 | [17 July 2019](2019-07-17-electoPanel.html) | electoPanel <br> electomania.es | 7.1% | 6.2–8.3% | 5.9–8.6% | 5.7–8.9% | 5.2–9.4% |
-| [25–17 July 2019](2019-07-17-GESOP.html) | GESOP <br> CEO | 9.5% | 8.4–10.8% | 8.1–11.2% | 7.9–11.5% | 7.4–12.1% |
+| [25–17 July 2019](2019-07-17-GESOP.html) | GESOP <br> CEO | 9.5% | 8.4–10.8% | 8.1–11.1% | 7.9–11.5% | 7.4–12.1% |
 | [1–5 July 2019](2019-07-05-GESOP.html) | GESOP <br> El Periódico | 7.0% | 6.2–8.0% | 6.0–8.2% | 5.8–8.5% | 5.4–9.0% |
 | [4–25 March 2019](2019-03-25-Opinòmetre.html) | Opinòmetre <br> CEO | 7.0% | 6.1–8.2% | 5.9–8.5% | 5.6–8.8% | 5.2–9.3% |
 | [10 February 2019](2019-02-10-GESOP.html) | GESOP <br> El Periódico | 7.5% | 6.7–8.5% | 6.4–8.7% | 6.2–9.0% | 5.9–9.4% |
@@ -100,33 +100,33 @@ Last result: **8** seats (General Election of 21 December 2017)
 | [14 November–5 December 2019](2019-12-05-GESOP.html) | GESOP <br> CEO | 13 | 11–14 | 10–15 | 9–15 | 9–17 |
 | [27–30 November 2019](2019-11-30-electoPanel.html) | electoPanel <br> electomania.es | 9 | 8–11 | 8–11 | 7–11 | 7–13 |
 | [18–22 November 2019](2019-11-22-NCReport.html) | NC Report <br> La Razón | 8 | 7–11 | 7–11 | 6–12 | 5–13 |
-| [16–19 October 2019](2019-10-19-electoPanel.html) | electoPanel <br> electomania.es | 10 | 10 | 8–10 | 8–11 | 8–12 |
+| [16–19 October 2019](2019-10-19-electoPanel.html) | electoPanel <br> electomania.es | 10 | 8–11 | 8–11 | 8–11 | 7–12 |
 | [14–15 October 2019](2019-10-15-electoPanel.html) | electoPanel <br> electomania.es | 9 | 8–11 | 7–12 | 7–12 | 6–13 |
 | [1–5 October 2019](2019-10-05-NCReport.html) | NC Report <br> La Razón | 6 | 5–8 | 4–8 | 4–9 | 4–10 |
-| [11 September 2019](2019-09-11-electoPanel.html) | electoPanel <br> electomania.es | 8 | 7–10 | 7–11 | 7–13 | 5–13 |
-| [3–7 September 2019](2019-09-07-NCReport.html) | NC Report <br> La Razón | 7 | 5–8 | 4–8 | 4–10 | 4–10 |
-| [20 August 2019](2019-08-20-electoPanel.html) | electoPanel <br> electomania.es | 6 | 5–9 | 5–9 | 5–9 | 5–9 |
+| [11 September 2019](2019-09-11-electoPanel.html) | electoPanel <br> electomania.es | 9 | 8–11 | 7–11 | 6–11 | 5–13 |
+| [3–7 September 2019](2019-09-07-NCReport.html) | NC Report <br> La Razón | 7 | 5–8 | 5–9 | 4–10 | 4–11 |
+| [20 August 2019](2019-08-20-electoPanel.html) | electoPanel <br> electomania.es | 8 | 6–10 | 6–10 | 5–10 | 5–11 |
 | [17 July 2019](2019-07-17-electoPanel.html) | electoPanel <br> electomania.es | 8 | 6–10 | 6–10 | 5–11 | 5–11 |
-| [25–17 July 2019](2019-07-17-GESOP.html) | GESOP <br> CEO | 11 | 10–14 | 10–16 | 8–16 | 8–16 |
+| [25–17 July 2019](2019-07-17-GESOP.html) | GESOP <br> CEO | 11 | 9–14 | 9–14 | 9–14 | 8–16 |
 | [1–5 July 2019](2019-07-05-GESOP.html) | GESOP <br> El Periódico | 8 | 7–9 | 6–10 | 6–10 | 5–11 |
 | [4–25 March 2019](2019-03-25-Opinòmetre.html) | Opinòmetre <br> CEO | 7 | 5–8 | 5–9 | 5–10 | 5–11 |
 | [10 February 2019](2019-02-10-GESOP.html) | GESOP <br> El Periódico | 8 | 8–10 | 7–10 | 6–11 | 5–12 |
-| [24 December 2018](2018-12-24-NCReport.html) | NC Report <br> La Razón | 8 | 7–11 | 7–11 | 6–12 | 5–13 |
-| [3–12 December 2018](2018-12-12-Opinòmetre.html) | Opinòmetre <br> Ara | 8 | 6–9 | 6–11 | 5–11 | 5–12 |
+| [24 December 2018](2018-12-24-NCReport.html) | NC Report <br> La Razón | 8 | 7–11 | 6–11 | 6–12 | 5–13 |
+| [3–12 December 2018](2018-12-12-Opinòmetre.html) | Opinòmetre <br> Ara | 8 | 6–9 | 5–11 | 5–11 | 5–12 |
 | [22 October–12 November 2018](2018-11-12-Opinòmetre.html) | Opinòmetre <br> CEO | 13 | 11–14 | 11–15 | 10–16 | 9–17 |
-| [22–25 October 2018](2018-10-25-GESOP.html) | GESOP <br> El Periódico | 8 | 7–10 | 6–11 | 5–11 | 5–13 |
-| [24–28 September 2018](2018-09-28-NCReport.html) | NC Report <br> La Razón | 7 | 5–9 | 5–9 | 5–10 | 4–11 |
+| [22–25 October 2018](2018-10-25-GESOP.html) | GESOP <br> El Periódico | 8 | 6–10 | 6–11 | 5–11 | 5–13 |
+| [24–28 September 2018](2018-09-28-NCReport.html) | NC Report <br> La Razón | 7 | 5–8 | 5–9 | 5–10 | 4–11 |
 | [16–18 September 2018](2018-09-18-electoPanel.html) | electoPanel <br> electomania.es | 8 | 6–9 | 5–10 | 5–10 | 5–11 |
-| [22–30 August 2018](2018-08-30-SocioMétrica.html) | SocioMétrica <br> El Español | 8 | 6–11 | 5–11 | 5–12 | 4–13 |
-| [23 June–14 July 2018](2018-07-14-Opinòmetre.html) | Opinòmetre <br> CEO | 9 | 7–11 | 7–11 | 6–11 | 6–13 |
+| [22–30 August 2018](2018-08-30-SocioMétrica.html) | SocioMétrica <br> El Español | 8 | 6–11 | 5–11 | 5–11 | 4–13 |
+| [23 June–14 July 2018](2018-07-14-Opinòmetre.html) | Opinòmetre <br> CEO | 9 | 7–11 | 7–11 | 7–11 | 6–13 |
 | [2–11 July 2018](2018-07-11-GESOP.html) | GESOP <br> El Periódico | 10 | 8–11 | 8–12 | 8–13 | 8–13 |
-| [14–21 June 2018](2018-06-21-GAD3.html) | GAD3 <br> La Vanguardia | 8 | 5–10 | 5–10 | 5–11 | 4–13 |
-| [3–7 June 2018](2018-06-07-electoPanel.html) | electoPanel <br> electomania.es | 8 | 7–10 | 6–11 | 6–11 | 5–13 |
+| [14–21 June 2018](2018-06-21-GAD3.html) | GAD3 <br> La Vanguardia | 8 | 5–9 | 5–10 | 5–11 | 4–13 |
+| [3–7 June 2018](2018-06-07-electoPanel.html) | electoPanel <br> electomania.es | 8 | 7–10 | 6–11 | 6–11 | 5–12 |
 | [7–27 April 2018](2018-04-27-Opinòmetre.html) | Opinòmetre <br> CEO | 11 | 9–13 | 9–14 | 8–14 | 8–15 |
-| [17–20 April 2018](2018-04-20-NCReport.html) | NC Report <br> La Razón | 6 | 4–7 | 4–8 | 4–8 | 3–8 |
+| [17–20 April 2018](2018-04-20-NCReport.html) | NC Report <br> La Razón | 5 | 4–7 | 4–8 | 4–8 | 3–9 |
 | [22–28 March 2018](2018-03-28-NCReport.html) | NC Report <br> La Razón | 6 | 5–8 | 4–8 | 4–9 | 4–10 |
 | [10–30 January 2018](2018-01-30-Apolda.html) | Apolda <br> CEO | 8 | 6–10 | 6–11 | 5–11 | 5–12 |
-| [15–19 January 2018](2018-01-19-NCReport.html) | NC Report <br> La Razón | 8 | 5–9 | 5–9 | 5–9 | 5–12 |
+| [15–19 January 2018](2018-01-19-NCReport.html) | NC Report <br> La Razón | 7 | 5–9 | 5–9 | 5–11 | 4–11 |
 
 ### Probability Mass Function
 
