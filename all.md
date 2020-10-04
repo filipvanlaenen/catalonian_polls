@@ -25,7 +25,7 @@ The table below lists all polls registered and analyzed so far.
 | [16–19 October 2019](2019-10-19-electoPanel.html) | electoPanel <br> electomania.es | 14–17% <br> 18–23 | 11–14% <br> 17–22 | 23–26% <br> 34–41 | 16–19% <br> 23–26 | 7–9% <br> 8–11 | 9–12% <br> 13–17 | 5–7% <br> 6–9 | 3–4% <br> 0–4 |
 | [14–15 October 2019](2019-10-15-electoPanel.html) | electoPanel <br> electomania.es | 11–15% <br> 14–21 | 13–17% <br> 20–27 | 22–27% <br> 33–41 | 18–23% <br> 24–32 | 6–10% <br> 7–12 | 6–10% <br> 8–13 | 4–7% <br> 3–8 | 3–5% <br> 2–6 |
 | [1–5 October 2019](2019-10-05-NCReport.html) | NC Report <br> La Razón | 16–22% <br> 22–31 | 13–18% <br> 19–29 | 21–27% <br> 32–42 | 17–23% <br> 24–32 | 4–8% <br> 4–9 | 4–7% <br> 4–10 | 4–7% <br> 3–9 | 1–3% <br> 0–3 |
-| [11 September 2019](2019-09-11-electoPanel.html) | electoPanel <br> electomania.es | 13–18% <br> 18–25 | 14–18% <br> 22–29 | 23–28% <br> 34–43 | 18–23% <br> 24–31 | 6–9% <br> 6–11 | 4–7% <br> 4–9 | 5–8% <br> 6–10 | 1–3% <br> 0 |
+| [11 September 2019](2019-09-11-electoPanel.html) | electoPanel <br> electomania.es | 13–18% <br> 18–25 | 14–18% <br> 21–29 | 23–28% <br> 34–43 | 18–23% <br> 24–31 | 6–9% <br> 6–11 | 4–7% <br> 4–9 | 5–8% <br> 6–10 | 1–3% <br> 0 |
 | [3–7 September 2019](2019-09-07-NCReport.html) | NC Report <br> La Razón | 18–24% <br> 26–34 | 12–17% <br> 18–26 | 23–29% <br> 34–45 | 16–22% <br> 22–30 | 5–8% <br> 4–10 | 4–7% <br> 3–9 | 3–7% <br> 3–9 | 1–4% <br> 0–3 |
 | [20 August 2019](2019-08-20-electoPanel.html) | electoPanel <br> electomania.es | 12–17% <br> 17–24 | 13–18% <br> 21–29 | 24–29% <br> 35–44 | 18–23% <br> 24–31 | 6–9% <br> 5–10 | 5–8% <br> 6–10 | 5–8% <br> 5–10 | 1–3% <br> 0–2 |
 | [17 July 2019](2019-07-17-electoPanel.html) | electoPanel <br> electomania.es | 12–16% <br> 16–23 | 13–18% <br> 20–28 | 24–30% <br> 36–45 | 18–23% <br> 24–31 | 6–9% <br> 5–11 | 5–8% <br> 6–10 | 5–8% <br> 6–10 | 1–3% <br> 0–2 |
@@ -38,7 +38,7 @@ The table below lists all polls registered and analyzed so far.
 | [22 October–12 November 2018](2018-11-12-Opinòmetre.html) | Opinòmetre <br> CEO | 19–24% <br> 26–33 | 13–17% <br> 18–27 | 23–28% <br> 33–42 | 12–17% <br> 16–23 | 9–12% <br> 10–16 | 7–10% <br> 9–15 | 2–5% <br> 0–5 | N/A <br> N/A |
 | [22–25 October 2018](2018-10-25-GESOP.html) | GESOP <br> El Periódico | 20–26% <br> 27–36 | 12–17% <br> 18–27 | 22–29% <br> 33–43 | 15–20% <br> 19–26 | 6–10% <br> 5–11 | 6–10% <br> 8–13 | 2–5% <br> 0–6 | N/A <br> N/A |
 | [24–28 September 2018](2018-09-28-NCReport.html) | NC Report <br> La Razón | 21–26% <br> 30–38 | 14–19% <br> 23–30 | 21–27% <br> 32–41 | 14–18% <br> 17–25 | 5–8% <br> 5–10 | 3–5% <br> 0–7 | 4–7% <br> 3–9 | N/A <br> N/A |
-| [16–18 September 2018](2018-09-18-electoPanel.html) | electoPanel <br> electomania.es | 19–25% <br> 27–35 | 13–17% <br> 19–27 | 25–31% <br> 38–46 | 14–19% <br> 17–25 | 6–9% <br> 5–10 | 6–9% <br> 7–11 | 2–4% <br> 0–5 | N/A <br> N/A |
+| [16–18 September 2018](2018-09-18-electoPanel.html) | electoPanel <br> electomania.es | 19–25% <br> 27–35 | 13–17% <br> 19–27 | 25–31% <br> 37–46 | 14–19% <br> 17–25 | 6–9% <br> 5–10 | 6–9% <br> 7–11 | 2–4% <br> 0–5 | N/A <br> N/A |
 | [22–30 August 2018](2018-08-30-SocioMétrica.html) | SocioMétrica <br> El Español | 19–26% <br> 26–36 | 15–22% <br> 23–33 | 22–29% <br> 31–43 | 12–18% <br> 15–24 | 5–10% <br> 5–12 | 4–8% <br> 3–10 | 4–8% <br> 3–9 | N/A <br> N/A |
 | [23 June–14 July 2018](2018-07-14-Opinòmetre.html) | Opinòmetre <br> CEO | 19–24% <br> 26–34 | 16–20% <br> 24–32 | 22–27% <br> 32–40 | 13–18% <br> 17–24 | 6–10% <br> 7–11 | 6–9% <br> 7–11 | 3–5% <br> 0–6 | N/A <br> N/A |
 | [2–11 July 2018](2018-07-11-GESOP.html) | GESOP <br> El Periódico | 19–24% <br> 27–33 | 15–18% <br> 23–29 | 21–26% <br> 32–39 | 14–17% <br> 17–24 | 7–10% <br> 8–13 | 5–8% <br> 7–10 | 4–6% <br> 3–7 | N/A <br> N/A |
@@ -48,7 +48,7 @@ The table below lists all polls registered and analyzed so far.
 | [17–20 April 2018](2018-04-20-NCReport.html) | NC Report <br> La Razón | 23–29% <br> 32–42 | 16–22% <br> 25–35 | 19–25% <br> 28–38 | 13–18% <br> 17–25 | 4–7% <br> 4–8 | 3–5% <br> 0–7 | 3–6% <br> 3–7 | N/A <br> N/A |
 | [22–28 March 2018](2018-03-28-NCReport.html) | NC Report <br> La Razón | 23–29% <br> 31–41 | 17–22% <br> 26–36 | 18–24% <br> 27–36 | 12–18% <br> 16–24 | 5–8% <br> 4–9 | 3–6% <br> 0–8 | 4–7% <br> 3–8 | N/A <br> N/A |
 | [10–30 January 2018](2018-01-30-Apolda.html) | Apolda <br> CEO | 22–28% <br> 29–39 | 17–22% <br> 26–35 | 20–26% <br> 29–39 | 10–15% <br> 13–19 | 6–9% <br> 5–11 | 5–8% <br> 5–10 | 3–6% <br> 3–7 | N/A <br> N/A |
-| [15–19 January 2018](2018-01-19-NCReport.html) | NC Report <br> La Razón | 22–28% <br> 30–39 | 20–25% <br> 31–40 | 18–24% <br> 26–34 | 12–17% <br> 16–23 | 5–9% <br> 5–11 | 2–5% <br> 0–6 | 4–8% <br> 4–10 | N/A <br> N/A |
+| [15–19 January 2018](2018-01-19-NCReport.html) | NC Report <br> La Razón | 22–28% <br> 30–39 | 20–25% <br> 31–40 | 18–24% <br> 26–35 | 12–17% <br> 15–23 | 5–9% <br> 5–10 | 2–5% <br> 0–6 | 4–8% <br> 5–10 | N/A <br> N/A |
 | 21 December 2017 | General Election | 25.4% <br> 36 | 21.7% <br> 34 | 21.4% <br> 32 | 13.9% <br> 17 | 7.5% <br> 8 | 4.5% <br> 4 | 4.2% <br> 4 | 0.0% <br> 0 |
 
 Only polls for which at least the sample size has been published are included in the table above.
