@@ -103,7 +103,7 @@ Last result: **0** seats (General Election of 21 December 2017)
 | [16–19 October 2019](2019-10-19-electoPanel.html) | electoPanel <br> electomania.es | 3 | 0–3 | 0–4 | 0–4 | 0–5 |
 | [14–15 October 2019](2019-10-15-electoPanel.html) | electoPanel <br> electomania.es | 3 | 3–6 | 2–6 | 2–6 | 0–7 |
 | [1–5 October 2019](2019-10-05-NCReport.html) | NC Report <br> La Razón | 0 | 0 | 0–2 | 0–3 | 0–3 |
-| [11 September 2019](2019-09-11-electoPanel.html) | electoPanel <br> electomania.es | 0 | 0 | 0 | 0 | 0–2 |
+| [11 September 2019](2019-09-11-electoPanel.html) | electoPanel <br> electomania.es | 0 | 0 | 0 | 0 | 0–3 |
 | [3–7 September 2019](2019-09-07-NCReport.html) | NC Report <br> La Razón | 0 | 0–2 | 0–3 | 0–3 | 0–3 |
 | [20 August 2019](2019-08-20-electoPanel.html) | electoPanel <br> electomania.es | 0 | 0 | 0 | 0–2 | 0–3 |
 | [17 July 2019](2019-07-17-electoPanel.html) | electoPanel <br> electomania.es | 0 | 0 | 0–2 | 0–2 | 0–3 |

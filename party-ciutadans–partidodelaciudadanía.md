@@ -126,7 +126,7 @@ Last result: **36** seats (General Election of 21 December 2017)
 | [22 October–12 November 2018](2018-11-12-Opinòmetre.html) | Opinòmetre <br> CEO | 29 | 27–32 | 27–33 | 26–33 | 25–35 |
 | [22–25 October 2018](2018-10-25-GESOP.html) | GESOP <br> El Periódico | 31 | 28–34 | 27–35 | 27–36 | 26–37 |
 | [24–28 September 2018](2018-09-28-NCReport.html) | NC Report <br> La Razón | 34 | 31–37 | 30–37 | 30–38 | 28–39 |
-| [16–18 September 2018](2018-09-18-electoPanel.html) | electoPanel <br> electomania.es | 30 | 27–33 | 27–34 | 27–35 | 26–36 |
+| [16–18 September 2018](2018-09-18-electoPanel.html) | electoPanel <br> electomania.es | 30 | 28–33 | 27–34 | 27–35 | 26–36 |
 | [22–30 August 2018](2018-08-30-SocioMétrica.html) | SocioMétrica <br> El Español | 30 | 27–34 | 26–35 | 26–36 | 24–38 |
 | [23 June–14 July 2018](2018-07-14-Opinòmetre.html) | Opinòmetre <br> CEO | 29 | 27–32 | 27–33 | 26–34 | 25–35 |
 | [2–11 July 2018](2018-07-11-GESOP.html) | GESOP <br> El Periódico | 30 | 28–32 | 27–33 | 27–33 | 26–35 |
@@ -134,9 +134,9 @@ Last result: **36** seats (General Election of 21 December 2017)
 | [3–7 June 2018](2018-06-07-electoPanel.html) | electoPanel <br> electomania.es | 29 | 27–31 | 26–32 | 26–33 | 24–34 |
 | [7–27 April 2018](2018-04-27-Opinòmetre.html) | Opinòmetre <br> CEO | 33 | 31–37 | 30–37 | 30–38 | 29–39 |
 | [17–20 April 2018](2018-04-20-NCReport.html) | NC Report <br> La Razón | 37 | 34–40 | 33–41 | 32–42 | 31–45 |
-| [22–28 March 2018](2018-03-28-NCReport.html) | NC Report <br> La Razón | 37 | 33–39 | 32–40 | 31–41 | 30–44 |
+| [22–28 March 2018](2018-03-28-NCReport.html) | NC Report <br> La Razón | 37 | 33–39 | 32–40 | 31–41 | 30–43 |
 | [10–30 January 2018](2018-01-30-Apolda.html) | Apolda <br> CEO | 35 | 31–37 | 30–38 | 29–39 | 28–40 |
-| [15–19 January 2018](2018-01-19-NCReport.html) | NC Report <br> La Razón | 35 | 31–38 | 31–38 | 30–39 | 28–40 |
+| [15–19 January 2018](2018-01-19-NCReport.html) | NC Report <br> La Razón | 35 | 31–38 | 30–38 | 30–39 | 28–40 |
 
 ### Probability Mass Function
 

@@ -107,7 +107,7 @@ Last result: **17** seats (General Election of 21 December 2017)
 | [16–19 October 2019](2019-10-19-electoPanel.html) | electoPanel <br> electomania.es | 24 | 23–25 | 23–25 | 23–26 | 21–27 |
 | [14–15 October 2019](2019-10-15-electoPanel.html) | electoPanel <br> electomania.es | 27 | 25–30 | 24–31 | 24–32 | 23–33 |
 | [1–5 October 2019](2019-10-05-NCReport.html) | NC Report <br> La Razón | 26 | 25–30 | 24–31 | 24–32 | 22–33 |
-| [11 September 2019](2019-09-11-electoPanel.html) | electoPanel <br> electomania.es | 27 | 25–30 | 24–31 | 24–31 | 23–33 |
+| [11 September 2019](2019-09-11-electoPanel.html) | electoPanel <br> electomania.es | 27 | 25–30 | 25–31 | 24–31 | 23–32 |
 | [3–7 September 2019](2019-09-07-NCReport.html) | NC Report <br> La Razón | 25 | 24–29 | 23–30 | 22–30 | 20–32 |
 | [20 August 2019](2019-08-20-electoPanel.html) | electoPanel <br> electomania.es | 27 | 25–30 | 25–31 | 24–31 | 24–33 |
 | [17 July 2019](2019-07-17-electoPanel.html) | electoPanel <br> electomania.es | 27 | 25–30 | 25–31 | 24–31 | 24–33 |
@@ -130,7 +130,7 @@ Last result: **17** seats (General Election of 21 December 2017)
 | [17–20 April 2018](2018-04-20-NCReport.html) | NC Report <br> La Razón | 20 | 17–24 | 17–24 | 17–25 | 16–25 |
 | [22–28 March 2018](2018-03-28-NCReport.html) | NC Report <br> La Razón | 19 | 17–23 | 16–24 | 16–24 | 15–25 |
 | [10–30 January 2018](2018-01-30-Apolda.html) | Apolda <br> CEO | 16 | 14–17 | 13–18 | 13–19 | 12–20 |
-| [15–19 January 2018](2018-01-19-NCReport.html) | NC Report <br> La Razón | 18 | 16–20 | 16–21 | 16–23 | 15–24 |
+| [15–19 January 2018](2018-01-19-NCReport.html) | NC Report <br> La Razón | 18 | 16–22 | 16–23 | 15–23 | 15–24 |
 
 ### Probability Mass Function
 
