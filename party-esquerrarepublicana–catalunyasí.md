@@ -10,7 +10,8 @@ Last result: **21.4%** (General Election of 21 December 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 24.0% | 21.7–28.8% | 21.2–29.6% | 20.7–30.2% | 19.9–31.5% |
+| N/A | [Poll Average](average.html) | 22.9% | 21.4–27.8% | 20.9–28.9% | 20.5–29.7% | 19.7–31.3% |
+| [28 September–2 October 2020](2020-10-02-NCReport.html) | NC Report <br> La Razón | 23.2% | 21.3–25.3% | 20.8–25.9% | 20.3–26.5% | 19.4–27.5% |
 | [1–4 September 2020](2020-09-04-GAD3.html) | GAD3 <br> La Vanguardia | 27.2% | 24.9–29.7% | 24.2–30.4% | 23.7–31.1% | 22.6–32.3% |
 | [31 August 2020](2020-08-31-electoPanel.html) | electoPanel <br> electomania.es | 22.4% | 21.8–23.0% | 21.6–23.2% | 21.5–23.3% | 21.2–23.6% |
 | [25 June–21 July 2020](2020-07-21-GESOP.html) | GESOP <br> CEO | 22.1% | 20.7–23.5% | 20.3–24.0% | 20.0–24.3% | 19.3–25.0% |
@@ -63,20 +64,20 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 17.5–18.5% | 0% | 100% |  |
-| 18.5–19.5% | 0.2% | 100% |  |
-| 19.5–20.5% | 2% | 99.8% |  |
-| 20.5–21.5% | 7% | 98% | Last Result |
-| 21.5–22.5% | 24% | 91% |  |
-| 22.5–23.5% | 16% | 68% |  |
-| 23.5–24.5% | 4% | 52% | Median |
-| 24.5–25.5% | 5% | 48% |  |
-| 25.5–26.5% | 9% | 43% |  |
-| 26.5–27.5% | 11% | 34% |  |
-| 27.5–28.5% | 10% | 23% |  |
-| 28.5–29.5% | 7% | 12% |  |
-| 29.5–30.5% | 3% | 5% |  |
-| 30.5–31.5% | 1.3% | 2% |  |
-| 31.5–32.5% | 0.4% | 0.5% |  |
+| 18.5–19.5% | 0.4% | 100% |  |
+| 19.5–20.5% | 2% | 99.6% |  |
+| 20.5–21.5% | 9% | 97% | Last Result |
+| 21.5–22.5% | 28% | 88% |  |
+| 22.5–23.5% | 22% | 60% | Median |
+| 23.5–24.5% | 9% | 38% |  |
+| 24.5–25.5% | 6% | 29% |  |
+| 25.5–26.5% | 6% | 23% |  |
+| 26.5–27.5% | 6% | 17% |  |
+| 27.5–28.5% | 5% | 11% |  |
+| 28.5–29.5% | 3% | 6% |  |
+| 29.5–30.5% | 2% | 3% |  |
+| 30.5–31.5% | 0.8% | 1.1% |  |
+| 31.5–32.5% | 0.3% | 0.3% |  |
 | 32.5–33.5% | 0.1% | 0.1% |  |
 | 33.5–34.5% | 0% | 0% |  |
 
@@ -89,7 +90,8 @@ Last result: **32** seats (General Election of 21 December 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 36 | 32–43 | 31–44 | 31–46 | 29–48 |
+| N/A | [Poll Average](average.html) | 35 | 32–42 | 31–44 | 30–44 | 29–47 |
+| [28 September–2 October 2020](2020-10-02-NCReport.html) | NC Report <br> La Razón | 35 | 31–38 | 31–39 | 30–40 | 28–41 |
 | [1–4 September 2020](2020-09-04-GAD3.html) | GAD3 <br> La Vanguardia | 41 | 37–44 | 36–46 | 35–47 | 33–49 |
 | [31 August 2020](2020-08-31-electoPanel.html) | electoPanel <br> electomania.es | 34 | 33–35 | 32–35 | 32–35 | 31–36 |
 | [25 June–21 July 2020](2020-07-21-GESOP.html) | GESOP <br> CEO | 33 | 31–35 | 30–36 | 29–37 | 29–38 |
@@ -103,11 +105,11 @@ Last result: **32** seats (General Election of 21 December 2017)
 | [2 February 2020](2020-02-02-SocioMétrica.html) | SocioMétrica <br> El Español | 34 | 30–37 | 29–39 | 28–40 | 27–42 |
 | [27–31 January 2020](2020-01-31-NCReport.html) | NC Report <br> La Razón | 33 | 30–35 | 29–36 | 29–36 | 28–37 |
 | [27–31 January 2020](2020-01-31-GESOP.html) | GESOP <br> El Periódico | 33 | 31–35 | 30–36 | 29–36 | 28–38 |
-| [27–29 January 2020](2020-01-29-electoPanel.html) | electoPanel <br> electomania.es | 31 | 29–33 | 28–33 | 28–34 | 26–35 |
+| [27–29 January 2020](2020-01-29-electoPanel.html) | electoPanel <br> electomania.es | 31 | 28–33 | 28–33 | 27–34 | 26–35 |
 | [14 November–5 December 2019](2019-12-05-GESOP.html) | GESOP <br> CEO | 38 | 36–41 | 35–42 | 34–43 | 33–44 |
-| [27–30 November 2019](2019-11-30-electoPanel.html) | electoPanel <br> electomania.es | 33 | 31–35 | 30–36 | 30–37 | 28–38 |
+| [27–30 November 2019](2019-11-30-electoPanel.html) | electoPanel <br> electomania.es | 33 | 31–36 | 30–36 | 30–37 | 29–38 |
 | [18–22 November 2019](2019-11-22-NCReport.html) | NC Report <br> La Razón | 32 | 28–35 | 28–35 | 27–36 | 26–38 |
-| [16–19 October 2019](2019-10-19-electoPanel.html) | electoPanel <br> electomania.es | 37 | 35–40 | 35–40 | 34–41 | 34–41 |
+| [16–19 October 2019](2019-10-19-electoPanel.html) | electoPanel <br> electomania.es | 37 | 35–40 | 34–40 | 34–41 | 34–41 |
 | [14–15 October 2019](2019-10-15-electoPanel.html) | electoPanel <br> electomania.es | 37 | 34–40 | 34–41 | 33–41 | 32–43 |
 | [1–5 October 2019](2019-10-05-NCReport.html) | NC Report <br> La Razón | 37 | 34–41 | 33–41 | 32–42 | 30–44 |
 | [11 September 2019](2019-09-11-electoPanel.html) | electoPanel <br> electomania.es | 38 | 35–42 | 35–42 | 34–43 | 33–45 |
@@ -117,7 +119,7 @@ Last result: **32** seats (General Election of 21 December 2017)
 | [25–17 July 2019](2019-07-17-GESOP.html) | GESOP <br> CEO | 39 | 37–43 | 36–44 | 35–44 | 34–46 |
 | [1–5 July 2019](2019-07-05-GESOP.html) | GESOP <br> El Periódico | 41 | 38–43 | 37–44 | 37–44 | 35–45 |
 | [4–25 March 2019](2019-03-25-Opinòmetre.html) | Opinòmetre <br> CEO | 42 | 39–45 | 39–46 | 38–46 | 36–48 |
-| [10 February 2019](2019-02-10-GESOP.html) | GESOP <br> El Periódico | 40 | 37–41 | 36–42 | 35–42 | 34–44 |
+| [10 February 2019](2019-02-10-GESOP.html) | GESOP <br> El Periódico | 39 | 37–41 | 36–42 | 35–43 | 34–44 |
 | [24 December 2018](2018-12-24-NCReport.html) | NC Report <br> La Razón | 36 | 34–40 | 32–41 | 32–42 | 30–44 |
 | [3–12 December 2018](2018-12-12-Opinòmetre.html) | Opinòmetre <br> Ara | 39 | 36–42 | 35–43 | 34–44 | 33–46 |
 | [22 October–12 November 2018](2018-11-12-Opinòmetre.html) | Opinòmetre <br> CEO | 38 | 35–40 | 34–41 | 33–42 | 32–44 |
@@ -126,7 +128,7 @@ Last result: **32** seats (General Election of 21 December 2017)
 | [16–18 September 2018](2018-09-18-electoPanel.html) | electoPanel <br> electomania.es | 42 | 39–45 | 38–46 | 37–46 | 36–48 |
 | [22–30 August 2018](2018-08-30-SocioMétrica.html) | SocioMétrica <br> El Español | 37 | 33–41 | 32–42 | 31–43 | 29–45 |
 | [23 June–14 July 2018](2018-07-14-Opinòmetre.html) | Opinòmetre <br> CEO | 36 | 33–39 | 33–39 | 32–40 | 31–42 |
-| [2–11 July 2018](2018-07-11-GESOP.html) | GESOP <br> El Periódico | 35 | 33–38 | 32–39 | 32–39 | 31–40 |
+| [2–11 July 2018](2018-07-11-GESOP.html) | GESOP <br> El Periódico | 35 | 33–38 | 33–39 | 32–39 | 31–40 |
 | [14–21 June 2018](2018-06-21-GAD3.html) | GAD3 <br> La Vanguardia | 36 | 32–39 | 32–40 | 31–41 | 29–43 |
 | [3–7 June 2018](2018-06-07-electoPanel.html) | electoPanel <br> electomania.es | 30 | 28–33 | 27–33 | 26–34 | 26–35 |
 | [7–27 April 2018](2018-04-27-Opinòmetre.html) | Opinòmetre <br> CEO | 30 | 27–33 | 27–33 | 26–34 | 25–35 |
@@ -143,27 +145,27 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 28 | 0.1% | 100% |  |
-| 29 | 0.8% | 99.9% |  |
-| 30 | 1.2% | 99.1% |  |
-| 31 | 3% | 98% |  |
-| 32 | 6% | 95% | Last Result |
-| 33 | 15% | 89% |  |
-| 34 | 11% | 75% |  |
-| 35 | 12% | 64% |  |
-| 36 | 3% | 51% | Median |
-| 37 | 4% | 48% |  |
-| 38 | 4% | 44% |  |
-| 39 | 5% | 40% |  |
-| 40 | 6% | 35% |  |
-| 41 | 7% | 29% |  |
-| 42 | 8% | 22% |  |
-| 43 | 5% | 14% |  |
-| 44 | 5% | 9% |  |
-| 45 | 2% | 4% |  |
-| 46 | 1.2% | 3% |  |
-| 47 | 0.8% | 1.4% |  |
-| 48 | 0.4% | 0.6% |  |
+| 28 | 0.3% | 100% |  |
+| 29 | 1.1% | 99.7% |  |
+| 30 | 2% | 98.6% |  |
+| 31 | 5% | 97% |  |
+| 32 | 8% | 92% | Last Result |
+| 33 | 17% | 84% |  |
+| 34 | 13% | 67% |  |
+| 35 | 17% | 54% | Median |
+| 36 | 6% | 36% |  |
+| 37 | 5% | 30% |  |
+| 38 | 4% | 25% |  |
+| 39 | 4% | 21% |  |
+| 40 | 2% | 17% |  |
+| 41 | 4% | 15% |  |
+| 42 | 3% | 11% |  |
+| 43 | 3% | 8% |  |
+| 44 | 3% | 5% |  |
+| 45 | 1.1% | 2% |  |
+| 46 | 0.5% | 1.3% |  |
+| 47 | 0.4% | 0.8% |  |
+| 48 | 0.3% | 0.5% |  |
 | 49 | 0.1% | 0.2% |  |
 | 50 | 0.1% | 0.1% |  |
 | 51 | 0% | 0% |  |
