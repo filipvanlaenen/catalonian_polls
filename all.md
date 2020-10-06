@@ -58,7 +58,7 @@ Only polls for which at least the sample size has been published are included in
 + **Top half of each row:** Voting intentions (95% confidence interval)
 + **Bottom half of each row:** Seat projections for the Parliament of Catalonia (95% confidence interval)
 + **Cs:** Ciutadans–Partido de la Ciudadanía
-+ **JxCAT:** Junts pel Catalunya
++ **JxCAT:** Junts per Catalunya
 + **ERC:** Esquerra Republicana–Catalunya Sí
 + **PSC:** Partit dels Socialistes de Catalunya (PSC-PSOE)
 + **CatComú:** Catalunya en Comú–Podem
