@@ -12,7 +12,7 @@
 |:-----:|:-----------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | Esquerra Republicana–Catalunya Sí | 21.4% | 22.0% | 20.6–23.5% |20.2–23.9% |19.9–24.2% |19.3–25.0% |
 | Partit dels Socialistes de Catalunya (PSC-PSOE) | 13.9% | 18.4% | 17.1–19.8% |16.8–20.2% |16.5–20.6% |15.9–21.2% |
-| Junts pel Catalunya | 21.7% | 15.8% | 14.6–17.1% |14.3–17.5% |14.0–17.8% |13.4–18.4% |
+| Junts per Catalunya | 21.7% | 15.8% | 14.6–17.1% |14.3–17.5% |14.0–17.8% |13.4–18.4% |
 | Candidatura d’Unitat Popular | 4.5% | 10.0% | 9.0–11.1% |8.8–11.4% |8.5–11.7% |8.1–12.2% |
 | Catalunya en Comú–Podem | 7.5% | 8.1% | 7.2–9.1% |7.0–9.4% |6.8–9.6% |6.4–10.1% |
 | Partit Popular | 4.2% | 7.9% | 7.1–8.9% |6.8–9.2% |6.6–9.5% |6.2–10.0% |
@@ -33,7 +33,7 @@
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | <a href="#esquerra-republicana–catalunya-sí">Esquerra Republicana–Catalunya Sí</a> | 32 | 33 | 31–36 |30–36 |30–37 |29–38 |
 | <a href="#partit-dels-socialistes-de-catalunya-(psc-psoe)">Partit dels Socialistes de Catalunya (PSC-PSOE)</a> | 17 | 25 | 24–27 |23–28 |23–28 |22–29 |
-| <a href="#junts-pel-catalunya">Junts pel Catalunya</a> | 34 | 24 | 23–27 |23–28 |22–28 |21–29 |
+| <a href="#junts-per-catalunya">Junts per Catalunya</a> | 34 | 24 | 23–27 |23–28 |22–28 |21–29 |
 | <a href="#candidatura-d’unitat-popular">Candidatura d’Unitat Popular</a> | 4 | 14 | 12–15 |11–16 |11–17 |11–17 |
 | <a href="#catalunya-en-comú–podem">Catalunya en Comú–Podem</a> | 8 | 9 | 8–11 |8–11 |7–11 |7–13 |
 | <a href="#partit-popular">Partit Popular</a> | 4 | 11 | 9–12 |9–12 |8–12 |7–14 |
@@ -86,11 +86,11 @@
 | 30 | 0.3% | 0.3% |  |
 | 31 | 0% | 0% |  |
 
-### Junts pel Catalunya
+### Junts per Catalunya
 
-*For a full overview of the results for this party, see the [Junts pel Catalunya](party-juntspelcatalunya.html) page.*
+*For a full overview of the results for this party, see the [Junts per Catalunya](party-juntspercatalunya.html) page.*
 
-![Graph with seats probability mass function not yet produced](2019-11-30-electoPanel-seats-pmf-juntspelcatalunya.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2019-11-30-electoPanel-seats-pmf-juntspercatalunya.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -250,16 +250,16 @@
 
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Esquerra Republicana–Catalunya Sí – Junts pel Catalunya – Candidatura d’Unitat Popular | 70 | 72 | 98% | 70–75 | 68–76 | 68–76 | 66–77 |
+| Esquerra Republicana–Catalunya Sí – Junts per Catalunya – Candidatura d’Unitat Popular | 70 | 72 | 98% | 70–75 | 68–76 | 68–76 | 66–77 |
 | Esquerra Republicana–Catalunya Sí – Partit dels Socialistes de Catalunya (PSC-PSOE) – Catalunya en Comú–Podem | 57 | 68 | 52% | 65–70 | 64–71 | 63–72 | 62–73 |
-| Esquerra Republicana–Catalunya Sí – Junts pel Catalunya – Catalunya en Comú–Podem | 74 | 67 | 39% | 65–70 | 64–71 | 63–71 | 62–72 |
-| Esquerra Republicana–Catalunya Sí – Junts pel Catalunya | 66 | 58 | 0% | 56–61 | 55–62 | 54–62 | 53–63 |
+| Esquerra Republicana–Catalunya Sí – Junts per Catalunya – Catalunya en Comú–Podem | 74 | 67 | 39% | 65–70 | 64–71 | 63–71 | 62–72 |
+| Esquerra Republicana–Catalunya Sí – Junts per Catalunya | 66 | 58 | 0% | 56–61 | 55–62 | 54–62 | 53–63 |
 | Partit dels Socialistes de Catalunya (PSC-PSOE) – Catalunya en Comú–Podem – Partit Popular – Ciutadans–Partido de la Ciudadanía | 65 | 54 | 0% | 51–56 | 50–57 | 50–58 | 48–59 |
 | Partit dels Socialistes de Catalunya (PSC-PSOE) – Partit Popular – Vox – Ciutadans–Partido de la Ciudadanía | 57 | 54 | 0% | 51–57 | 51–57 | 50–58 | 49–59 |
 | Partit dels Socialistes de Catalunya (PSC-PSOE) – Partit Popular – Ciutadans–Partido de la Ciudadanía | 57 | 45 | 0% | 42–47 | 41–48 | 41–48 | 39–49 |
 | Esquerra Republicana–Catalunya Sí – Catalunya en Comú–Podem | 40 | 42 | 0% | 40–45 | 39–46 | 38–47 | 37–48 |
 
-### Esquerra Republicana–Catalunya Sí – Junts pel Catalunya – Candidatura d’Unitat Popular
+### Esquerra Republicana–Catalunya Sí – Junts per Catalunya – Candidatura d’Unitat Popular
 
 ![Graph with seats probability mass function not yet produced](2019-11-30-electoPanel-coalitions-seats-pmf-erc–jxcat–cup.png "Seats Probability Mass Function")
 
@@ -309,7 +309,7 @@
 | 75 | 0.1% | 0.1% |  |
 | 76 | 0% | 0% |  |
 
-### Esquerra Republicana–Catalunya Sí – Junts pel Catalunya – Catalunya en Comú–Podem
+### Esquerra Republicana–Catalunya Sí – Junts per Catalunya – Catalunya en Comú–Podem
 
 ![Graph with seats probability mass function not yet produced](2019-11-30-electoPanel-coalitions-seats-pmf-erc–jxcat–catcomú.png "Seats Probability Mass Function")
 
@@ -333,7 +333,7 @@
 | 75 | 0% | 0.1% |  |
 | 76 | 0% | 0% |  |
 
-### Esquerra Republicana–Catalunya Sí – Junts pel Catalunya
+### Esquerra Republicana–Catalunya Sí – Junts per Catalunya
 
 ![Graph with seats probability mass function not yet produced](2019-11-30-electoPanel-coalitions-seats-pmf-erc–jxcat.png "Seats Probability Mass Function")
 
