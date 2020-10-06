@@ -106,7 +106,7 @@ Last result: **36** seats (General Election of 21 December 2017)
 | [21–26 February 2020](2020-02-26-GAD3.html) | GAD3 <br> ABC | 12 | 9–13 | 8–14 | 8–14 | 8–15 |
 | [3–6 February 2020](2020-02-06-GAD3.html) | GAD3 <br> La Vanguardia | 13 | 8–14 | 7–14 | 6–14 | 6–15 |
 | [2 February 2020](2020-02-02-SocioMétrica.html) | SocioMétrica <br> El Español | 14 | 12–17 | 12–18 | 11–18 | 9–19 |
-| [27–31 January 2020](2020-01-31-NCReport.html) | NC Report <br> La Razón | 13 | 11–14 | 10–14 | 9–15 | 9–16 |
+| [27–31 January 2020](2020-01-31-NCReport.html) | NC Report <br> La Razón | 13 | 12–15 | 12–16 | 11–16 | 9–18 |
 | [27–31 January 2020](2020-01-31-GESOP.html) | GESOP <br> El Periódico | 17 | 15–19 | 14–19 | 14–19 | 14–20 |
 | [27–29 January 2020](2020-01-29-electoPanel.html) | electoPanel <br> electomania.es | 8 | 8–11 | 7–12 | 7–12 | 6–12 |
 | [14 November–5 December 2019](2019-12-05-GESOP.html) | GESOP <br> CEO | 16 | 14–18 | 13–19 | 13–19 | 13–20 |
@@ -135,7 +135,7 @@ Last result: **36** seats (General Election of 21 December 2017)
 | [14–21 June 2018](2018-06-21-GAD3.html) | GAD3 <br> La Vanguardia | 33 | 30–37 | 28–38 | 28–38 | 27–39 |
 | [3–7 June 2018](2018-06-07-electoPanel.html) | electoPanel <br> electomania.es | 29 | 27–31 | 26–32 | 26–33 | 24–34 |
 | [7–27 April 2018](2018-04-27-Opinòmetre.html) | Opinòmetre <br> CEO | 33 | 31–37 | 30–37 | 30–38 | 29–39 |
-| [17–20 April 2018](2018-04-20-NCReport.html) | NC Report <br> La Razón | 37 | 34–40 | 33–41 | 32–42 | 31–45 |
+| [17–20 April 2018](2018-04-20-NCReport.html) | NC Report <br> La Razón | 37 | 34–40 | 33–41 | 32–42 | 31–44 |
 | [22–28 March 2018](2018-03-28-NCReport.html) | NC Report <br> La Razón | 37 | 33–39 | 32–40 | 31–41 | 30–43 |
 | [10–30 January 2018](2018-01-30-Apolda.html) | Apolda <br> CEO | 35 | 31–37 | 30–38 | 29–39 | 28–40 |
 | [15–19 January 2018](2018-01-19-NCReport.html) | NC Report <br> La Razón | 35 | 31–38 | 30–38 | 30–39 | 28–40 |

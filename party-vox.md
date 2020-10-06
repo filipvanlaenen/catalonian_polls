@@ -96,7 +96,7 @@ Last result: **0** seats (General Election of 21 December 2017)
 | [21–26 February 2020](2020-02-26-GAD3.html) | GAD3 <br> ABC | 5 | 3–7 | 3–7 | 2–7 | 0–8 |
 | [3–6 February 2020](2020-02-06-GAD3.html) | GAD3 <br> La Vanguardia | 4 | 3–7 | 2–7 | 0–7 | 0–9 |
 | [2 February 2020](2020-02-02-SocioMétrica.html) | SocioMétrica <br> El Español | 5 | 3–7 | 3–8 | 2–9 | 0–10 |
-| [27–31 January 2020](2020-01-31-NCReport.html) | NC Report <br> La Razón | 7 | 6–10 | 5–10 | 5–10 | 4–12 |
+| [27–31 January 2020](2020-01-31-NCReport.html) | NC Report <br> La Razón | 7 | 6–9 | 5–10 | 5–10 | 4–12 |
 | [27–31 January 2020](2020-01-31-GESOP.html) | GESOP <br> El Periódico | 7 | 5–7 | 5–8 | 5–9 | 3–9 |
 | [27–29 January 2020](2020-01-29-electoPanel.html) | electoPanel <br> electomania.es | 7 | 6–9 | 6–9 | 6–9 | 5–10 |
 | [14 November–5 December 2019](2019-12-05-GESOP.html) | GESOP <br> CEO | 0 | 0 | 0 | 0–2 | 0–3 |
