@@ -5,6 +5,7 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | Cs | JxCAT | ERC | PSC | CatComú | CUP | PP | Vox |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 21 December 2017 | General Election | 25.4% <br> 36 | 21.7% <br> 34 | 21.4% <br> 32 | 13.9% <br> 17 | 7.5% <br> 8 | 4.5% <br> 4 | 4.2% <br> 4 | 0.0% <br> 0 |
+| [17 October 2020](2020-10-17-KeyData.html) | Key Data <br> Público | 9–16% <br> 12–22 | 16–24% <br> 25–38 | 20–29% <br> 30–44 | 13–21% <br> 17–29 | 5–11% <br> 5–14 | 3–7% <br> 0–9 | 4–9% <br> 5–12 | 3–7% <br> 0–9 |
 | [28 September–2 October 2020](2020-10-02-NCReport.html) | NC Report <br> La Razón | 10–15% <br> 13–19 | 17–23% <br> 26–37 | 20–26% <br> 30–40 | 15–21% <br> 19–28 | 6–10% <br> 6–12 | 3–6% <br> 2–8 | 6–10% <br> 7–13 | 4–7% <br> 3–8 |
 | [1–4 September 2020](2020-09-04-GAD3.html) | GAD3 <br> La Vanguardia | 8–13% <br> 9–18 | 17–23% <br> 26–37 | 24–31% <br> 35–47 | 16–23% <br> 21–31 | 5–9% <br> 4–11 | 3–6% <br> 0–8 | 5–9% <br> 5–12 | 3–6% <br> 0–7 |
 | [31 August 2020](2020-08-31-electoPanel.html) | electoPanel <br> electomania.es | 9–11% <br> 13–14 | 21–22% <br> 32–35 | 21–23% <br> 32–35 | 17–19% <br> 24–25 | 8–9% <br> 8–11 | 5–6% <br> 7–8 | 7–8% <br> 8–10 | 4–5% <br> 4–5 |
@@ -15,6 +16,7 @@ The table below lists all polls registered and analyzed so far.
 | [29 April–8 May 2020](2020-05-08-GESOP.html) | GESOP <br> El Periódico | 11–15% <br> 15–20 | 15–19% <br> 23–31 | 23–28% <br> 35–42 | 16–20% <br> 21–26 | 6–9% <br> 7–11 | 5–7% <br> 7–10 | 5–8% <br> 6–10 | 3–5% <br> 2–6 |
 | [10 February–9 March 2020](2020-03-09-GESOP.html) | GESOP <br> CEO | 11–15% <br> 14–19 | 17–21% <br> 26–32 | 21–25% <br> 31–38 | 16–20% <br> 21–26 | 9–13% <br> 11–16 | 6–9% <br> 8–11 | 4–7% <br> 5–8 | 2–4% <br> 0–3 |
 | [21–26 February 2020](2020-02-26-GAD3.html) | GAD3 <br> ABC | 7–11% <br> 8–14 | 13–18% <br> 20–29 | 25–31% <br> 37–48 | 18–24% <br> 24–32 | 6–10% <br> 7–13 | 4–7% <br> 3–8 | 6–9% <br> 7–12 | 3–6% <br> 2–7 |
+| [6 February 2020](2020-02-06-KeyData.html) | Key Data <br> Público | 9–16% <br> 12–21 | 15–23% <br> 24–37 | 20–28% <br> 29–42 | 15–22% <br> 18–30 | 7–12% <br> 7–16 | 5–10% <br> 6–14 | 3–7% <br> 2–9 | 2–6% <br> 0–7 |
 | [3–6 February 2020](2020-02-06-GAD3.html) | GAD3 <br> La Vanguardia | 6–11% <br> 6–14 | 17–23% <br> 25–37 | 22–29% <br> 32–43 | 17–24% <br> 23–32 | 7–11% <br> 7–14 | 4–7% <br> 3–9 | 5–9% <br> 5–12 | 3–6% <br> 0–7 |
 | [2 February 2020](2020-02-02-SocioMétrica.html) | SocioMétrica <br> El Español | 9–14% <br> 11–18 | 15–22% <br> 24–35 | 20–27% <br> 28–40 | 16–23% <br> 21–31 | 8–13% <br> 8–16 | 4–9% <br> 4–11 | 4–9% <br> 5–11 | 3–7% <br> 2–9 |
 | [27–31 January 2020](2020-01-31-NCReport.html) | NC Report <br> La Razón | 8–13% <br> 11–16 | 17–23% <br> 26–35 | 18–24% <br> 28–36 | 15–20% <br> 19–27 | 6–10% <br> 7–13 | 4–8% <br> 4–10 | 7–11% <br> 9–15 | 5–8% <br> 5–10 |
