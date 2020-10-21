@@ -8,7 +8,37 @@
     <title>All Registered Polls for the Parliament of Catalonia</title>
     <link>https://filipvanlaenen.github.io/catalonian_polls</link>
     <description>All Registered Polls for the Parliament of Catalonia</description>
-    <pubDate>Tue, 06 Oct 2020 07:43:19 +0200</pubDate>
+    <pubDate>Wed, 21 Oct 2020 19:15:18 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Key Data for Público, 17 October 2020 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/catalonian_polls/2020-10-17-KeyData.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Ciutadans–Partido de la Ciudadanía: 12–22 seats&lt;/li&gt;&lt;li&gt;Junts per Catalunya: 25–38 seats&lt;/li&gt;&lt;li&gt;Esquerra Republicana–Catalunya Sí: 30–44 seats&lt;/li&gt;&lt;li&gt;Partit dels Socialistes de Catalunya (PSC-PSOE): 17–29 seats&lt;/li&gt;&lt;li&gt;Catalunya en Comú–Podem: 5–14 seats&lt;/li&gt;&lt;li&gt;Candidatura d’Unitat Popular: 0–9 seats&lt;/li&gt;&lt;li&gt;Partit Popular: 5–12 seats&lt;/li&gt;&lt;li&gt;Vox: 0–9 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/catalonian_polls/2020-10-17-KeyData-seats.png"
+        length="309060"
+        type="image/png"/>
+      <pubDate>Wed, 21 Oct 2020 19:15:18 +0200</pubDate>
+      <dc:date>2020-10-21T19:15:18.357667+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Key Data for Público, 17 October 2020 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/catalonian_polls/2020-10-17-KeyData.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/catalonian_polls/2020-10-17-KeyData-coalitions-seats.png"
+        length="328364"
+        type="image/png"/>
+      <pubDate>Wed, 21 Oct 2020 19:15:18 +0200</pubDate>
+      <dc:date>2020-10-21T19:15:18.357667+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Key Data for Público, 17 October 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/catalonian_polls/2020-10-17-KeyData.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Ciutadans–Partido de la Ciudadanía: 9.2–16.0%&lt;/li&gt;&lt;li&gt;Junts per Catalunya: 15.9–24.2%&lt;/li&gt;&lt;li&gt;Esquerra Republicana–Catalunya Sí: 20.0–28.9%&lt;/li&gt;&lt;li&gt;Partit dels Socialistes de Catalunya (PSC-PSOE): 13.4–21.2%&lt;/li&gt;&lt;li&gt;Catalunya en Comú–Podem: 5.2–10.7%&lt;/li&gt;&lt;li&gt;Candidatura d’Unitat Popular: 3.0–7.4%&lt;/li&gt;&lt;li&gt;Partit Popular: 4.3–9.4%&lt;/li&gt;&lt;li&gt;Vox: 2.5–6.8%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/catalonian_polls/2020-10-17-KeyData.png"
+        length="328862"
+        type="image/png"/>
+      <pubDate>Wed, 21 Oct 2020 19:15:18 +0200</pubDate>
+      <dc:date>2020-10-21T19:15:18.357667+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by NC Report for La Razón, 28 September–2 October 2020 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/catalonian_polls/2020-10-02-NCReport.html#seats</link>
@@ -308,6 +338,16 @@
         type="image/png"/>
       <pubDate>Sun, 16 Aug 2020 19:16:27 +0200</pubDate>
       <dc:date>2020-08-16T19:16:27.390236+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Key Data for Público, 6 February 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/catalonian_polls/2020-02-06-KeyData.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Ciutadans–Partido de la Ciudadanía: 9.3–15.7%&lt;/li&gt;&lt;li&gt;Junts per Catalunya: 15.5–23.1%&lt;/li&gt;&lt;li&gt;Esquerra Republicana–Catalunya Sí: 19.8–28.1%&lt;/li&gt;&lt;li&gt;Partit dels Socialistes de Catalunya (PSC-PSOE): 14.6–22.1%&lt;/li&gt;&lt;li&gt;Catalunya en Comú–Podem: 6.7–12.3%&lt;/li&gt;&lt;li&gt;Candidatura d’Unitat Popular: 4.8–9.8%&lt;/li&gt;&lt;li&gt;Partit Popular: 3.0–7.2%&lt;/li&gt;&lt;li&gt;Vox: 2.5–6.3%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/catalonian_polls/2020-02-06-KeyData.png"
+        length="330917"
+        type="image/png"/>
+      <pubDate>Wed, 21 Oct 2020 18:42:40 +0200</pubDate>
+      <dc:date>2020-10-21T18:42:40.318941+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by GAD3 for La Vanguardia, 3–6 February 2020 – Seat Projections for the Parties</title>
@@ -1359,6 +1399,6 @@
       <pubDate>Sat, 03 Oct 2020 21:10:04 +0200</pubDate>
       <dc:date>2020-10-03T21:10:04.996042+02:00</dc:date>
     </item>
-    <dc:date>2020-10-06T07:43:19.925692+02:00</dc:date>
+    <dc:date>2020-10-21T19:15:18.357667+02:00</dc:date>
   </channel>
 </rss>
