@@ -98,7 +98,7 @@ Last result: **8** seats (General Election of 21 December 2017)
 | [29 April–8 May 2020](2020-05-08-GESOP.html) | GESOP <br> El Periódico | 8 | 8–10 | 7–11 | 7–11 | 6–11 |
 | [10 February–9 March 2020](2020-03-09-GESOP.html) | GESOP <br> CEO | 14 | 12–15 | 11–16 | 11–16 | 11–17 |
 | [21–26 February 2020](2020-02-26-GAD3.html) | GAD3 <br> ABC | 9 | 8–11 | 7–12 | 7–13 | 6–14 |
-| [6 February 2020](2020-02-06-KeyData.html) | Key Data <br> Público | 11 | 8–14 | 7–14 | 7–16 | 5–17 |
+| [6 February 2020](2020-02-06-KeyData.html) | Key Data <br> Público | 11 | 8–14 | 8–15 | 7–16 | 6–17 |
 | [3–6 February 2020](2020-02-06-GAD3.html) | GAD3 <br> La Vanguardia | 10 | 8–13 | 7–14 | 7–14 | 6–16 |
 | [2 February 2020](2020-02-02-SocioMétrica.html) | SocioMétrica <br> El Español | 12 | 9–14 | 8–16 | 8–16 | 7–17 |
 | [27–31 January 2020](2020-01-31-NCReport.html) | NC Report <br> La Razón | 10 | 8–11 | 7–12 | 7–13 | 6–14 |
