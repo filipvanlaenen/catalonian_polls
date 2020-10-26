@@ -6,7 +6,7 @@
   </author>
   <id>https://filipvanlaenen.github.io/catalonian_polls</id>
   <title>All Registered Polls for the Parliament of Catalonia</title>
-  <updated>2020-10-23T14:18:13.642764+02:00</updated>
+  <updated>2020-10-25T16:37:24.271828+01:00</updated>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Ciutadans–Partido de la Ciudadanía: 9.2–16.0%, 12–22 seats</li><li>Junts per Catalunya: 15.9–24.2%, 25–38 seats</li><li>Esquerra Republicana–Catalunya Sí: 20.0–28.9%, 30–44 seats</li><li>Partit dels Socialistes de Catalunya (PSC-PSOE): 13.4–21.2%, 17–29 seats</li><li>Catalunya en Comú–Podem: 5.2–10.7%, 5–14 seats</li><li>Candidatura d’Unitat Popular: 3.0–7.4%, 0–9 seats</li><li>Partit Popular: 4.3–9.4%, 5–12 seats</li><li>Vox: 2.5–6.8%, 0–9 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/catalonian_polls/2020-10-17-KeyData.html</id>
@@ -14,6 +14,14 @@
     <title>Opinion Poll by Key Data for Público, 17 October 2020</title>
     <updated>2020-10-21T19:15:18.357667+02:00</updated>
     <dc:date>2020-10-21T19:15:18.357667+02:00</dc:date>
+  </entry>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Ciutadans–Partido de la Ciudadanía: 10.1–14.2%, 13–19 seats</li><li>Junts per Catalunya: 17.0–22.0%, 27–36 seats</li><li>Esquerra Republicana–Catalunya Sí: 20.8–26.2%, 31–40 seats</li><li>Partit dels Socialistes de Catalunya (PSC-PSOE): 15.8–20.6%, 21–28 seats</li><li>Catalunya en Comú–Podem: 6.1–9.4%, 6–11 seats</li><li>Candidatura d’Unitat Popular: 3.7–6.5%, 3–8 seats</li><li>Partit Popular: 4.7–7.7%, 5–10 seats</li><li>Vox: 3.4–6.0%, 3–7 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/catalonian_polls/2020-10-09-GESOP.html</id>
+    <link href="https://filipvanlaenen.github.io/catalonian_polls/2020-10-09-GESOP.html"/>
+    <title>Opinion Poll by GESOP for CEO, 29 September–9 October 2020</title>
+    <updated>2020-10-25T16:37:24.271828+01:00</updated>
+    <dc:date>2020-10-25T16:37:24.271828+01:00</dc:date>
   </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Ciutadans–Partido de la Ciudadanía: 9.8–14.5%, 13–19 seats</li><li>Junts per Catalunya: 17.2–23.0%, 26–37 seats</li><li>Esquerra Republicana–Catalunya Sí: 20.3–26.5%, 30–40 seats</li><li>Partit dels Socialistes de Catalunya (PSC-PSOE): 15.1–20.7%, 19–28 seats</li><li>Catalunya en Comú–Podem: 6.1–10.0%, 6–12 seats</li><li>Candidatura d’Unitat Popular: 3.2–6.3%, 2–8 seats</li><li>Partit Popular: 5.9–9.7%, 7–13 seats</li><li>Vox: 3.6–6.8%, 3–8 seats</li></ul></div></content>
@@ -383,5 +391,5 @@
     <updated>2020-10-03T21:10:04.996042+02:00</updated>
     <dc:date>2020-10-03T21:10:04.996042+02:00</dc:date>
   </entry>
-  <dc:date>2020-10-23T14:18:13.642764+02:00</dc:date>
+  <dc:date>2020-10-25T16:37:24.271828+01:00</dc:date>
 </feed>
