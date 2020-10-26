@@ -10,8 +10,9 @@ Last result: **7.5%** (General Election of 21 December 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7.9% | 6.3–9.0% | 5.8–9.5% | 5.4–9.9% | 4.7–10.9% |
+| N/A | [Poll Average](average.html) | 7.8% | 6.2–8.9% | 5.8–9.4% | 5.4–9.8% | 4.7–10.8% |
 | [17 October 2020](2020-10-17-KeyData.html) | Key Data <br> Público | 7.5% | 6.0–9.6% | 5.6–10.2% | 5.2–10.7% | 4.6–11.8% |
+| [29 September–9 October 2020](2020-10-09-GESOP.html) | GESOP <br> CEO | 7.6% | 6.6–8.8% | 6.3–9.1% | 6.1–9.4% | 5.6–10.0% |
 | [28 September–2 October 2020](2020-10-02-NCReport.html) | NC Report <br> La Razón | 7.8% | 6.7–9.3% | 6.4–9.7% | 6.1–10.0% | 5.6–10.8% |
 | [1–4 September 2020](2020-09-04-GAD3.html) | GAD3 <br> La Vanguardia | 6.7% | 5.5–8.2% | 5.2–8.7% | 4.9–9.1% | 4.4–9.9% |
 | [31 August 2020](2020-08-31-electoPanel.html) | electoPanel <br> electomania.es | 8.1% | 7.7–8.5% | 7.6–8.6% | 7.5–8.7% | 7.3–8.9% |
@@ -68,11 +69,11 @@ The following table shows the probability mass function per percentage block of 
 | 2.5–3.5% | 0% | 100% |  |
 | 3.5–4.5% | 0.3% | 100% |  |
 | 4.5–5.5% | 3% | 99.7% |  |
-| 5.5–6.5% | 11% | 97% |  |
-| 6.5–7.5% | 21% | 86% | Last Result |
-| 7.5–8.5% | 44% | 65% | Median |
-| 8.5–9.5% | 16% | 20% |  |
-| 9.5–10.5% | 4% | 4% |  |
+| 5.5–6.5% | 12% | 97% |  |
+| 6.5–7.5% | 25% | 84% | Last Result |
+| 7.5–8.5% | 42% | 59% | Median |
+| 8.5–9.5% | 13% | 17% |  |
+| 9.5–10.5% | 3% | 4% |  |
 | 10.5–11.5% | 0.7% | 0.8% |  |
 | 11.5–12.5% | 0.1% | 0.2% |  |
 | 12.5–13.5% | 0% | 0% |  |
@@ -88,6 +89,7 @@ Last result: **8** seats (General Election of 21 December 2017)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 9 | 7–11 | 5–11 | 5–12 | 4–14 |
 | [17 October 2020](2020-10-17-KeyData.html) | Key Data <br> Público | 8 | 6–11 | 5–13 | 5–14 | 4–15 |
+| [29 September–9 October 2020](2020-10-09-GESOP.html) | GESOP <br> CEO | 9 | 7–11 | 7–11 | 6–11 | 5–13 |
 | [28 September–2 October 2020](2020-10-02-NCReport.html) | NC Report <br> La Razón | 9 | 7–11 | 7–11 | 6–12 | 5–13 |
 | [1–4 September 2020](2020-09-04-GAD3.html) | GAD3 <br> La Vanguardia | 7 | 5–9 | 5–10 | 4–11 | 4–12 |
 | [31 August 2020](2020-08-31-electoPanel.html) | electoPanel <br> electomania.es | 9 | 8–10 | 8–10 | 8–11 | 8–11 |
@@ -145,14 +147,14 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 4 | 0.7% | 100% |  |
 | 5 | 5% | 99.3% |  |
-| 6 | 3% | 95% |  |
-| 7 | 10% | 91% |  |
-| 8 | 26% | 81% | Last Result |
-| 9 | 31% | 55% | Median |
-| 10 | 10% | 24% |  |
-| 11 | 11% | 15% |  |
-| 12 | 1.5% | 3% |  |
-| 13 | 1.3% | 2% |  |
+| 6 | 4% | 95% |  |
+| 7 | 11% | 91% |  |
+| 8 | 29% | 79% | Last Result |
+| 9 | 29% | 50% | Median |
+| 10 | 9% | 21% |  |
+| 11 | 9% | 12% |  |
+| 12 | 1.2% | 3% |  |
+| 13 | 1.1% | 2% |  |
 | 14 | 0.5% | 0.6% |  |
 | 15 | 0.1% | 0.1% |  |
 | 16 | 0.1% | 0.1% |  |
