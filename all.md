@@ -5,6 +5,7 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | Cs | JxCAT | ERC | PSC | CatComú | CUP | PP | Vox |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 21 December 2017 | General Election | 25.4% <br> 36 | 21.7% <br> 34 | 21.4% <br> 32 | 13.9% <br> 17 | 7.5% <br> 8 | 4.5% <br> 4 | 4.2% <br> 4 | 0.0% <br> 0 |
+| [19–23 October 2020](2020-10-23-GESOP.html) | GESOP | 11–14% <br> 14–19 | 16–20% <br> 26–32 | 21–25% <br> 31–39 | 16–20% <br> 20–26 | 6–9% <br> 6–11 | 5–7% <br> 5–9 | 5–8% <br> 6–10 | 4–6% <br> 4–8 |
 | [17 October 2020](2020-10-17-KeyData.html) | Key Data <br> Público | 9–16% <br> 12–22 | 16–24% <br> 25–38 | 20–29% <br> 30–44 | 13–21% <br> 17–29 | 5–11% <br> 5–14 | 3–7% <br> 0–9 | 4–9% <br> 5–12 | 3–7% <br> 0–9 |
 | [29 September–9 October 2020](2020-10-09-GESOP.html) | GESOP <br> CEO | 10–14% <br> 13–19 | 17–22% <br> 27–36 | 21–26% <br> 31–40 | 16–21% <br> 21–28 | 6–9% <br> 6–11 | 4–6% <br> 3–8 | 5–8% <br> 5–10 | 3–6% <br> 3–7 |
 | [28 September–2 October 2020](2020-10-02-NCReport.html) | NC Report <br> La Razón | 10–15% <br> 13–19 | 17–23% <br> 26–37 | 20–26% <br> 30–40 | 15–21% <br> 19–28 | 6–10% <br> 6–12 | 3–6% <br> 2–8 | 6–10% <br> 7–13 | 4–7% <br> 3–8 |
