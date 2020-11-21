@@ -2,16 +2,16 @@
 
 The table below lists the most recent polls (less than 90 days old) registered and analyzed so far.
 
-| Period     | Polling firm/Commissioner(s) | Cs | JxCAT | ERC | PSC | CatComú | CUP | PP | Vox |
-|:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| 21 December 2017 | General Election | 25.4% <br> 36 | 21.7% <br> 34 | 21.4% <br> 32 | 13.9% <br> 17 | 7.5% <br> 8 | 4.5% <br> 4 | 4.2% <br> 4 | 0.0% <br> 0 |
-| N/A | [Poll Average](average.html) | 9–15% <br> 12–20 | 17–23% <br> 26–37 | 21–30% <br> 31–44 | 15–21% <br> 19–29 | 5–10% <br> 5–12 | 3–7% <br> 0–9 | 5–9% <br> 5–12 | 3–6% <br> 2–8 |
-| [19–23 October 2020](2020-10-23-GESOP.html) | GESOP | 11–14% <br> 14–19 | 16–20% <br> 26–32 | 21–25% <br> 31–39 | 16–20% <br> 20–26 | 6–9% <br> 6–11 | 5–7% <br> 5–9 | 5–8% <br> 6–10 | 4–6% <br> 4–8 |
-| [17 October 2020](2020-10-17-KeyData.html) | Key Data <br> Público | 9–16% <br> 12–22 | 16–24% <br> 25–38 | 20–29% <br> 30–44 | 13–21% <br> 17–29 | 5–11% <br> 5–14 | 3–7% <br> 0–9 | 4–9% <br> 5–12 | 3–7% <br> 0–9 |
-| [28 September–2 October 2020](2020-10-02-NCReport.html) | NC Report <br> La Razón | 10–15% <br> 13–19 | 17–23% <br> 26–37 | 20–26% <br> 30–40 | 15–21% <br> 19–28 | 6–10% <br> 6–12 | 3–6% <br> 2–8 | 6–10% <br> 7–13 | 4–7% <br> 3–8 |
-| [1–4 September 2020](2020-09-04-GAD3.html) | GAD3 <br> La Vanguardia | 8–13% <br> 9–18 | 17–23% <br> 26–37 | 24–31% <br> 35–47 | 16–23% <br> 21–31 | 5–9% <br> 4–11 | 3–6% <br> 0–8 | 5–9% <br> 5–12 | 3–6% <br> 0–7 |
-| [31 August 2020](2020-08-31-electoPanel.html) | electoPanel <br> electomania.es | 9–11% <br> 13–14 | 21–22% <br> 32–35 | 21–23% <br> 32–35 | 17–19% <br> 24–25 | 8–9% <br> 8–11 | 5–6% <br> 7–8 | 7–8% <br> 8–10 | 4–5% <br> 4–5 |
-| 21 December 2017 | General Election | 25.4% <br> 36 | 21.7% <br> 34 | 21.4% <br> 32 | 13.9% <br> 17 | 7.5% <br> 8 | 4.5% <br> 4 | 4.2% <br> 4 | 0.0% <br> 0 |
+| Period     | Polling firm/Commissioner(s) | Cs | JxCAT | ERC | PSC | CatComú | CUP | PP | Vox | PDeCAT |
+|:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+| 21 December 2017 | General Election | 25.4% <br> 36 | 21.7% <br> 34 | 21.4% <br> 32 | 13.9% <br> 17 | 7.5% <br> 8 | 4.5% <br> 4 | 4.2% <br> 4 | 0.0% <br> 0 | 0.0% <br> 0 |
+| N/A | [Poll Average](average.html) | 9–15% <br> 12–19 | 17–23% <br> 26–37 | 21–30% <br> 31–44 | 15–21% <br> 18–29 | 5–10% <br> 5–12 | 3–7% <br> 0–8 | 5–9% <br> 5–12 | 3–7% <br> 2–10 | 2–3% <br> 0–1 |
+| [13 October–7 November 2020](2020-11-07-GESOP.html) | GESOP <br> CEO | 8–12% <br> 11–15 | 17–21% <br> 26–33 | 22–27% <br> 33–41 | 15–19% <br> 19–25 | 6–9% <br> 6–11 | 4–7% <br> 4–9 | 6–9% <br> 7–12 | 5–8% <br> 6–10 | 2–3% <br> 0–1 |
+| [17 October 2020](2020-10-17-KeyData.html) | Key Data <br> Público | 9–16% <br> 12–22 | 16–24% <br> 25–38 | 20–29% <br> 30–44 | 13–21% <br> 17–29 | 5–11% <br> 5–14 | 3–7% <br> 0–9 | 4–9% <br> 5–12 | 3–7% <br> 0–9 | N/A <br> N/A |
+| [28 September–2 October 2020](2020-10-02-NCReport.html) | NC Report <br> La Razón | 10–15% <br> 13–19 | 17–23% <br> 26–37 | 20–26% <br> 30–40 | 15–21% <br> 19–28 | 6–10% <br> 6–12 | 3–6% <br> 2–8 | 6–10% <br> 7–13 | 4–7% <br> 3–8 | N/A <br> N/A |
+| [1–4 September 2020](2020-09-04-GAD3.html) | GAD3 <br> La Vanguardia | 8–13% <br> 9–18 | 17–23% <br> 26–37 | 24–31% <br> 35–47 | 16–23% <br> 21–31 | 5–9% <br> 4–11 | 3–6% <br> 0–8 | 5–9% <br> 5–12 | 3–6% <br> 0–7 | N/A <br> N/A |
+| [31 August 2020](2020-08-31-electoPanel.html) | electoPanel <br> electomania.es | 9–11% <br> 13–14 | 21–22% <br> 32–35 | 21–23% <br> 32–35 | 17–19% <br> 24–25 | 8–9% <br> 8–11 | 5–6% <br> 7–8 | 7–8% <br> 8–10 | 4–5% <br> 4–5 | N/A <br> N/A |
+| 21 December 2017 | General Election | 25.4% <br> 36 | 21.7% <br> 34 | 21.4% <br> 32 | 13.9% <br> 17 | 7.5% <br> 8 | 4.5% <br> 4 | 4.2% <br> 4 | 0.0% <br> 0 | 0.0% <br> 0 |
 
 Only polls for which at least the sample size has been published are included in the table above.
 
@@ -26,6 +26,7 @@ Only polls for which at least the sample size has been published are included in
 + **CUP:** Candidatura d’Unitat Popular
 + **PP:** Partit Popular
 + **Vox:** Vox
++ **PDeCAT:** Partit Demòcrata Europeu Català
 + **N/A (single party):** Party not included the published results
 + **N/A (entire row):** Calculation for this opinion poll not started yet
 
