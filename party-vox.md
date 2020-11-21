@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 21 December 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.7% | 3.6–5.8% | 3.3–6.1% | 3.0–6.5% | 2.5–7.2% |
+| N/A | [Poll Average](average.html) | 4.8% | 3.6–6.6% | 3.3–7.0% | 3.0–7.3% | 2.5–7.9% |
+| [13 October–7 November 2020](2020-11-07-GESOP.html) | GESOP <br> CEO | 6.4% | 5.6–7.3% | 5.4–7.6% | 5.2–7.8% | 4.8–8.3% |
 | [19–23 October 2020](2020-10-23-GESOP.html) | GESOP | 5.1% | 4.5–5.9% | 4.3–6.2% | 4.1–6.4% | 3.8–6.8% |
 | [17 October 2020](2020-10-17-KeyData.html) | Key Data <br> Público | 4.2% | 3.1–5.9% | 2.8–6.3% | 2.5–6.8% | 2.1–7.7% |
 | [29 September–9 October 2020](2020-10-09-GESOP.html) | GESOP <br> CEO | 4.5% | 3.8–5.5% | 3.6–5.8% | 3.4–6.0% | 3.0–6.5% |
@@ -71,12 +72,13 @@ The following table shows the probability mass function per percentage block of 
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 0.7% | 100% |  |
 | 2.5–3.5% | 8% | 99.3% |  |
-| 3.5–4.5% | 32% | 91% |  |
-| 4.5–5.5% | 44% | 59% | Median |
-| 5.5–6.5% | 13% | 15% |  |
-| 6.5–7.5% | 2% | 2% |  |
-| 7.5–8.5% | 0.2% | 0.2% |  |
-| 8.5–9.5% | 0% | 0% |  |
+| 3.5–4.5% | 29% | 91% |  |
+| 4.5–5.5% | 34% | 62% | Median |
+| 5.5–6.5% | 18% | 28% |  |
+| 6.5–7.5% | 9% | 10% |  |
+| 7.5–8.5% | 1.3% | 1.4% |  |
+| 8.5–9.5% | 0.1% | 0.1% |  |
+| 9.5–10.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -87,7 +89,8 @@ Last result: **0** seats (General Election of 21 December 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5 | 3–7 | 3–7 | 2–8 | 0–9 |
+| N/A | [Poll Average](average.html) | 5 | 3–8 | 3–9 | 2–10 | 0–10 |
+| [13 October–7 November 2020](2020-11-07-GESOP.html) | GESOP <br> CEO | 8 | 7–10 | 7–10 | 6–10 | 5–12 |
 | [19–23 October 2020](2020-10-23-GESOP.html) | GESOP | 6 | 5–7 | 5–7 | 4–8 | 3–9 |
 | [17 October 2020](2020-10-17-KeyData.html) | Key Data <br> Público | 5 | 2–7 | 0–7 | 0–9 | 0–10 |
 | [29 September–9 October 2020](2020-10-09-GESOP.html) | GESOP <br> CEO | 5 | 3–7 | 3–7 | 3–7 | 2–8 |
@@ -151,13 +154,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 2 | 2% | 98% |  |
 | 3 | 16% | 96% |  |
 | 4 | 6% | 80% |  |
-| 5 | 41% | 73% | Median |
-| 6 | 10% | 32% |  |
-| 7 | 19% | 22% |  |
-| 8 | 1.3% | 3% |  |
-| 9 | 1.3% | 1.5% |  |
-| 10 | 0.2% | 0.2% |  |
-| 11 | 0% | 0.1% |  |
-| 12 | 0% | 0% |  |
+| 5 | 34% | 74% | Median |
+| 6 | 7% | 39% |  |
+| 7 | 19% | 32% |  |
+| 8 | 4% | 13% |  |
+| 9 | 6% | 9% |  |
+| 10 | 2% | 3% |  |
+| 11 | 0.1% | 0.3% |  |
+| 12 | 0.1% | 0.1% |  |
+| 13 | 0% | 0% |  |
 
 
