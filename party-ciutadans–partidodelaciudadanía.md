@@ -10,7 +10,8 @@ Last result: **25.4%** (General Election of 21 December 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 10.6% | 9.4–13.2% | 9.0–14.0% | 8.6–14.7% | 7.9–16.1% |
+| N/A | [Poll Average](average.html) | 10.7% | 9.1–13.2% | 8.7–14.0% | 8.3–14.7% | 7.7–16.1% |
+| [30 November 2020](2020-11-30-electoPanel.html) | electoPanel <br> electomania.es | 9.8% | 8.6–11.3% | 8.2–11.7% | 8.0–12.1% | 7.4–12.8% |
 | [13 October–7 November 2020](2020-11-07-GESOP.html) | GESOP <br> CEO | 10.0% | 9.0–11.2% | 8.7–11.5% | 8.5–11.8% | 8.0–12.3% |
 | [19–23 October 2020](2020-10-23-GESOP.html) | GESOP | 12.5% | 11.5–13.7% | 11.2–14.0% | 10.9–14.3% | 10.4–14.9% |
 | [17 October 2020](2020-10-17-KeyData.html) | Key Data <br> Público | 12.2% | 10.3–14.7% | 9.7–15.4% | 9.2–16.0% | 8.4–17.3% |
@@ -69,12 +70,12 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 5.5–6.5% | 0% | 100% |  |
-| 6.5–7.5% | 0.2% | 100% |  |
-| 7.5–8.5% | 2% | 99.8% |  |
-| 8.5–9.5% | 11% | 98% |  |
-| 9.5–10.5% | 36% | 87% |  |
-| 10.5–11.5% | 20% | 52% | Median |
-| 11.5–12.5% | 14% | 31% |  |
+| 6.5–7.5% | 0.3% | 100% |  |
+| 7.5–8.5% | 4% | 99.7% |  |
+| 8.5–9.5% | 15% | 96% |  |
+| 9.5–10.5% | 26% | 81% |  |
+| 10.5–11.5% | 22% | 55% | Median |
+| 11.5–12.5% | 15% | 33% |  |
 | 12.5–13.5% | 10% | 17% |  |
 | 13.5–14.5% | 5% | 8% |  |
 | 14.5–15.5% | 2% | 3% |  |
@@ -98,7 +99,8 @@ Last result: **36** seats (General Election of 21 December 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 14 | 12–18 | 12–19 | 12–19 | 9–22 |
+| N/A | [Poll Average](average.html) | 14 | 12–18 | 12–19 | 11–19 | 9–22 |
+| [30 November 2020](2020-11-30-electoPanel.html) | electoPanel <br> electomania.es | 13 | 12–14 | 11–16 | 10–16 | 9–18 |
 | [13 October–7 November 2020](2020-11-07-GESOP.html) | GESOP <br> CEO | 13 | 12–14 | 12–15 | 11–15 | 10–17 |
 | [19–23 October 2020](2020-10-23-GESOP.html) | GESOP | 17 | 15–19 | 14–19 | 14–19 | 14–20 |
 | [17 October 2020](2020-10-17-KeyData.html) | Key Data <br> Público | 17 | 13–20 | 13–20 | 12–22 | 11–24 |
@@ -158,15 +160,15 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 8 | 0.1% | 100% |  |
-| 9 | 0.5% | 99.9% |  |
-| 10 | 0.4% | 99.3% |  |
-| 11 | 0.8% | 98.9% |  |
-| 12 | 10% | 98% |  |
-| 13 | 33% | 88% |  |
-| 14 | 22% | 55% | Median |
-| 15 | 6% | 32% |  |
-| 16 | 7% | 26% |  |
+| 8 | 0.2% | 100% |  |
+| 9 | 1.0% | 99.8% |  |
+| 10 | 0.8% | 98.8% |  |
+| 11 | 1.2% | 98% |  |
+| 12 | 13% | 97% |  |
+| 13 | 27% | 83% |  |
+| 14 | 22% | 56% | Median |
+| 15 | 7% | 34% |  |
+| 16 | 8% | 27% |  |
 | 17 | 5% | 19% |  |
 | 18 | 8% | 14% |  |
 | 19 | 4% | 6% |  |
