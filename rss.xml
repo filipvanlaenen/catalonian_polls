@@ -8,7 +8,37 @@
     <title>All Registered Polls for the Parliament of Catalonia</title>
     <link>https://filipvanlaenen.github.io/catalonian_polls</link>
     <description>All Registered Polls for the Parliament of Catalonia</description>
-    <pubDate>Tue, 01 Dec 2020 22:57:18 +0100</pubDate>
+    <pubDate>Wed, 09 Dec 2020 07:37:30 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by GESOP for El Periódico, 30 November–1 December 2020 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/catalonian_polls/2020-12-01-GESOP.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Ciutadans–Partido de la Ciudadanía: 12–18 seats&lt;/li&gt;&lt;li&gt;Esquerra Republicana–Catalunya Sí: 29–39 seats&lt;/li&gt;&lt;li&gt;Partit dels Socialistes de Catalunya (PSC-PSOE): 23–30 seats&lt;/li&gt;&lt;li&gt;Catalunya en Comú–Podem: 6–11 seats&lt;/li&gt;&lt;li&gt;Candidatura d’Unitat Popular: 4–9 seats&lt;/li&gt;&lt;li&gt;Partit Popular: 5–10 seats&lt;/li&gt;&lt;li&gt;Vox: 3–7 seats&lt;/li&gt;&lt;li&gt;Junts per Catalunya: 27–37 seats&lt;/li&gt;&lt;li&gt;Partit Demòcrata Europeu Català: 0–4 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/catalonian_polls/2020-12-01-GESOP-seats.png"
+        length="295650"
+        type="image/png"/>
+      <pubDate>Wed, 09 Dec 2020 07:37:30 +0100</pubDate>
+      <dc:date>2020-12-09T07:37:30.698311+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by GESOP for El Periódico, 30 November–1 December 2020 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/catalonian_polls/2020-12-01-GESOP.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/catalonian_polls/2020-12-01-GESOP-coalitions-seats.png"
+        length="372696"
+        type="image/png"/>
+      <pubDate>Wed, 09 Dec 2020 07:37:30 +0100</pubDate>
+      <dc:date>2020-12-09T07:37:30.698311+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by GESOP for El Periódico, 30 November–1 December 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/catalonian_polls/2020-12-01-GESOP.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Ciutadans–Partido de la Ciudadanía: 8.7–12.9%&lt;/li&gt;&lt;li&gt;Esquerra Republicana–Catalunya Sí: 19.2–25.0%&lt;/li&gt;&lt;li&gt;Partit dels Socialistes de Catalunya (PSC-PSOE): 16.3–21.7%&lt;/li&gt;&lt;li&gt;Catalunya en Comú–Podem: 5.9–9.5%&lt;/li&gt;&lt;li&gt;Candidatura d’Unitat Popular: 3.7–6.7%&lt;/li&gt;&lt;li&gt;Partit Popular: 4.4–7.7%&lt;/li&gt;&lt;li&gt;Vox: 3.3–6.2%&lt;/li&gt;&lt;li&gt;Junts per Catalunya: 16.8–22.2%&lt;/li&gt;&lt;li&gt;Partit Demòcrata Europeu Català: 1.5–3.7%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/catalonian_polls/2020-12-01-GESOP.png"
+        length="335177"
+        type="image/png"/>
+      <pubDate>Wed, 09 Dec 2020 07:37:30 +0100</pubDate>
+      <dc:date>2020-12-09T07:37:30.698311+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by electoPanel for electomania.es, 30 November 2020 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/catalonian_polls/2020-11-30-electoPanel.html#seats</link>
@@ -1539,6 +1569,6 @@
       <pubDate>Sat, 03 Oct 2020 21:10:04 +0200</pubDate>
       <dc:date>2020-10-03T21:10:04.996042+02:00</dc:date>
     </item>
-    <dc:date>2020-12-01T22:57:18.916+01:00</dc:date>
+    <dc:date>2020-12-09T07:37:30.698311+01:00</dc:date>
   </channel>
 </rss>
