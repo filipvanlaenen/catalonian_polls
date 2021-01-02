@@ -5,6 +5,7 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | Cs | JxCAT | ERC | PSC | CatComú | CUP | PP | Vox | PDeCAT |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 21 December 2017 | General Election | 25.4% <br> 36 | 21.7% <br> 34 | 21.4% <br> 32 | 13.9% <br> 17 | 7.5% <br> 8 | 4.5% <br> 4 | 4.2% <br> 4 | 0.0% <br> 0 | 0.0% <br> 0 |
+| [23–29 December 2020](2020-12-29-SocioMétrica.html) | SocioMétrica <br> El Español | 11–15% <br> 14–20 | 18–23% <br> 29–37 | 19–24% <br> 29–37 | 15–19% <br> 18–25 | 6–9% <br> 7–11 | 4–6% <br> 4–8 | 5–8% <br> 6–10 | 5–8% <br> 5–10 | 1–2% <br> 0 |
 | [20 December 2020](2020-12-20-electoPanel.html) | electoPanel <br> electomania.es | 8–14% <br> 9–19 | 16–24% <br> 25–38 | 19–27% <br> 28–41 | 15–22% <br> 19–31 | 5–11% <br> 5–13 | 3–8% <br> 3–10 | 4–9% <br> 5–13 | 3–8% <br> 3–10 | 1–4% <br> 0–4 |
 | [25 November–7 December 2020](2020-12-07-GESOP.html) | GESOP <br> CEO | 10–14% <br> 13–18 | 17–22% <br> 26–35 | 21–26% <br> 30–39 | 16–21% <br> 22–29 | 5–9% <br> 5–10 | 5–8% <br> 6–11 | 5–8% <br> 5–10 | 3–6% <br> 3–7 | 1–3% <br> 0–1 |
 | [30 November–1 December 2020](2020-12-01-GESOP.html) | GESOP <br> El Periódico | 9–13% <br> 12–18 | 17–22% <br> 27–37 | 19–25% <br> 29–39 | 16–22% <br> 23–30 | 6–10% <br> 6–11 | 4–7% <br> 4–9 | 4–8% <br> 5–10 | 3–6% <br> 3–7 | 2–4% <br> 0–4 |
