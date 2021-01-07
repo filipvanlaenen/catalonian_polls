@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 21 December 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.8% | 1.3–2.6% | 1.1–2.8% | 1.0–3.1% | 0.8–3.8% |
+| N/A | [Poll Average](average.html) | 1.9% | 1.3–2.7% | 1.1–3.0% | 1.0–3.3% | 0.7–4.0% |
+| [2–5 January 2021](2021-01-05-SocioMétrica.html) | SocioMétrica <br> El Español | 0.0% | N/A | N/A | N/A | N/A |
 | [23–29 December 2020](2020-12-29-SocioMétrica.html) | SocioMétrica <br> El Español | 1.6% | 1.2–2.2% | 1.1–2.3% | 1.0–2.5% | 0.9–2.8% |
 | [20 December 2020](2020-12-20-electoPanel.html) | electoPanel <br> electomania.es | 1.8% | 1.2–2.9% | 1.0–3.3% | 0.9–3.6% | 0.6–4.2% |
 | [25 November–7 December 2020](2020-12-07-GESOP.html) | GESOP <br> CEO | 1.9% | 1.4–2.5% | 1.3–2.7% | 1.2–2.9% | 1.0–3.2% |
@@ -74,10 +75,10 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0.1% | 100% | Last Result |
-| 0.5–1.5% | 29% | 99.9% |  |
-| 1.5–2.5% | 61% | 71% | Median |
-| 2.5–3.5% | 9% | 10% |  |
-| 3.5–4.5% | 0.8% | 0.9% |  |
+| 0.5–1.5% | 23% | 99.9% |  |
+| 1.5–2.5% | 62% | 77% | Median |
+| 2.5–3.5% | 13% | 15% |  |
+| 3.5–4.5% | 1.2% | 1.3% |  |
 | 4.5–5.5% | 0.1% | 0.1% |  |
 | 5.5–6.5% | 0% | 0% |  |
 
@@ -90,7 +91,8 @@ Last result: **0** seats (General Election of 21 December 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0 | 0–1 | 0–1 | 0–5 |
+| N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–5 |
+| [2–5 January 2021](2021-01-05-SocioMétrica.html) | SocioMétrica <br> El Español |  |  |  |  |  |
 | [23–29 December 2020](2020-12-29-SocioMétrica.html) | SocioMétrica <br> El Español | 0 | 0 | 0 | 0 | 0 |
 | [20 December 2020](2020-12-20-electoPanel.html) | electoPanel <br> electomania.es | 0 | 0–1 | 0–1 | 0–4 | 0–5 |
 | [25 November–7 December 2020](2020-12-07-GESOP.html) | GESOP <br> CEO | 0 | 0 | 0–1 | 0–1 | 0–1 |
@@ -155,13 +157,13 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 91% | 100% | Last Result, Median |
-| 1 | 7% | 9% |  |
-| 2 | 0% | 1.5% |  |
-| 3 | 0.4% | 1.5% |  |
-| 4 | 0.4% | 1.1% |  |
-| 5 | 0.5% | 0.7% |  |
-| 6 | 0.1% | 0.1% |  |
+| 0 | 87% | 100% | Last Result, Median |
+| 1 | 10% | 13% |  |
+| 2 | 0% | 2% |  |
+| 3 | 0.6% | 2% |  |
+| 4 | 0.6% | 2% |  |
+| 5 | 0.8% | 1.0% |  |
+| 6 | 0.1% | 0.2% |  |
 | 7 | 0% | 0% |  |
 
 
