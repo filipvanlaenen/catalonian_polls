@@ -101,7 +101,7 @@ Last result: **34** seats (General Election of 21 December 2017)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 31 | 28–35 | 26–37 | 26–37 | 24–40 |
-| [2–5 January 2021](2021-01-05-SocioMétrica.html) | SocioMétrica <br> El Español | 32 | 29–35 | 28–36 | 27–37 | 26–38 |
+| [2–5 January 2021](2021-01-05-SocioMétrica.html) | SocioMétrica <br> El Español | 32 | 30–35 | 29–36 | 28–37 | 26–38 |
 | [23–29 December 2020](2020-12-29-SocioMétrica.html) | SocioMétrica <br> El Español | 32 | 30–35 | 29–36 | 29–37 | 26–37 |
 | [20 December 2020](2020-12-20-electoPanel.html) | electoPanel <br> electomania.es | 31 | 27–37 | 26–37 | 25–38 | 23–40 |
 | [25 November–7 December 2020](2020-12-07-GESOP.html) | GESOP <br> CEO | 31 | 29–34 | 28–35 | 26–35 | 26–37 |
@@ -173,16 +173,16 @@ The following table shows the probability mass function per seat for the [poll a
 | 27 | 3% | 95% |  |
 | 28 | 4% | 92% |  |
 | 29 | 7% | 88% |  |
-| 30 | 9% | 81% |  |
-| 31 | 24% | 72% | Median |
-| 32 | 16% | 48% |  |
+| 30 | 9% | 82% |  |
+| 31 | 24% | 73% | Median |
+| 32 | 15% | 48% |  |
 | 33 | 12% | 33% |  |
-| 34 | 6% | 20% | Last Result |
+| 34 | 7% | 21% | Last Result |
 | 35 | 4% | 14% |  |
 | 36 | 3% | 10% |  |
 | 37 | 4% | 6% |  |
 | 38 | 1.4% | 2% |  |
-| 39 | 0.5% | 1.1% |  |
+| 39 | 0.6% | 1.1% |  |
 | 40 | 0.3% | 0.5% |  |
 | 41 | 0.1% | 0.3% |  |
 | 42 | 0.1% | 0.1% |  |
