@@ -10,7 +10,8 @@ Last result: **7.5%** (General Election of 21 December 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6.8% | 5.3–8.6% | 5.0–9.2% | 4.7–9.8% | 4.2–11.0% |
+| N/A | [Poll Average](average.html) | 6.5% | 5.1–7.9% | 4.8–8.4% | 4.5–8.8% | 4.0–9.7% |
+| [15 January 2021](2021-01-15-electoPanel.html) | electoPanel <br> electomania.es | 6.5% | 5.2–8.4% | 4.8–8.9% | 4.5–9.4% | 3.9–10.3% |
 | [8 January 2021](2021-01-08-electoPanel.html) | electoPanel <br> electomania.es | 7.2% | 5.8–9.2% | 5.4–9.7% | 5.1–10.2% | 4.5–11.2% |
 | [4–8 January 2021](2021-01-08-GAD3.html) | GAD3 <br> La Vanguardia | 6.1% | 5.0–7.5% | 4.7–8.0% | 4.4–8.3% | 3.9–9.1% |
 | [4–7 January 2021](2021-01-07-GESOP.html) | GESOP <br> El Periódico | 5.9% | 4.9–7.1% | 4.7–7.4% | 4.4–7.7% | 4.0–8.3% |
@@ -77,17 +78,16 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 2.5–3.5% | 0% | 100% |  |
-| 3.5–4.5% | 2% | 100% |  |
-| 4.5–5.5% | 13% | 98% |  |
-| 5.5–6.5% | 28% | 86% |  |
-| 6.5–7.5% | 29% | 57% | Last Result, Median |
-| 7.5–8.5% | 18% | 28% |  |
-| 8.5–9.5% | 7% | 11% |  |
-| 9.5–10.5% | 2% | 3% |  |
-| 10.5–11.5% | 0.7% | 0.9% |  |
-| 11.5–12.5% | 0.2% | 0.2% |  |
-| 12.5–13.5% | 0% | 0% |  |
+| 2.5–3.5% | 0.1% | 100% |  |
+| 3.5–4.5% | 3% | 99.9% |  |
+| 4.5–5.5% | 17% | 97% |  |
+| 5.5–6.5% | 34% | 81% | Median |
+| 6.5–7.5% | 30% | 46% | Last Result |
+| 7.5–8.5% | 13% | 17% |  |
+| 8.5–9.5% | 3% | 4% |  |
+| 9.5–10.5% | 0.5% | 0.6% |  |
+| 10.5–11.5% | 0.1% | 0.1% |  |
+| 11.5–12.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -98,7 +98,8 @@ Last result: **8** seats (General Election of 21 December 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8 | 5–10 | 5–11 | 4–12 | 4–14 |
+| N/A | [Poll Average](average.html) | 7 | 5–9 | 5–10 | 4–11 | 4–12 |
+| [15 January 2021](2021-01-15-electoPanel.html) | electoPanel <br> electomania.es | 7 | 5–10 | 4–11 | 4–11 | 4–13 |
 | [8 January 2021](2021-01-08-electoPanel.html) | electoPanel <br> electomania.es | 8 | 6–11 | 5–11 | 5–12 | 4–14 |
 | [4–8 January 2021](2021-01-08-GAD3.html) | GAD3 <br> La Vanguardia | 7 | 5–9 | 4–9 | 4–10 | 4–11 |
 | [4–7 January 2021](2021-01-07-GESOP.html) | GESOP <br> El Periódico | 7 | 5–8 | 4–8 | 4–8 | 4–10 |
@@ -167,20 +168,18 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 3 | 0.1% | 100% |  |
-| 4 | 3% | 99.9% |  |
-| 5 | 15% | 97% |  |
-| 6 | 7% | 82% |  |
-| 7 | 23% | 75% |  |
-| 8 | 29% | 52% | Last Result, Median |
-| 9 | 9% | 23% |  |
-| 10 | 6% | 14% |  |
-| 11 | 6% | 9% |  |
-| 12 | 1.1% | 3% |  |
-| 13 | 0.9% | 2% |  |
-| 14 | 0.5% | 0.7% |  |
-| 15 | 0.1% | 0.2% |  |
-| 16 | 0.1% | 0.1% |  |
-| 17 | 0% | 0% |  |
+| 3 | 0.2% | 100% |  |
+| 4 | 5% | 99.8% |  |
+| 5 | 22% | 95% |  |
+| 6 | 7% | 73% |  |
+| 7 | 26% | 66% | Median |
+| 8 | 26% | 40% | Last Result |
+| 9 | 5% | 14% |  |
+| 10 | 5% | 9% |  |
+| 11 | 3% | 4% |  |
+| 12 | 0.2% | 0.6% |  |
+| 13 | 0.3% | 0.4% |  |
+| 14 | 0.1% | 0.1% |  |
+| 15 | 0% | 0% |  |
 
 
