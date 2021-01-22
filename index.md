@@ -5,8 +5,9 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | Period     | Polling firm/Commissioner(s) | Cs | JxCAT | ERC | PSC | CatComú | CUP | PP | Vox | PDeCAT |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 21 December 2017 | General Election | 25.4% <br> 36 | 21.7% <br> 34 | 21.4% <br> 32 | 13.9% <br> 17 | 7.5% <br> 8 | 4.5% <br> 4 | 4.2% <br> 4 | 0.0% <br> 0 | 0.0% <br> 0 |
-| N/A | [Poll Average](average.html) | 8–14% <br> 10–19 | 16–23% <br> 26–37 | 18–27% <br> 27–42 | 17–26% <br> 24–36 | 4–9% <br> 4–11 | 3–7% <br> 2–9 | 4–8% <br> 5–11 | 3–8% <br> 3–10 | 1–4% <br> 0–5 |
+| N/A | [Poll Average](average.html) | 8–14% <br> 10–19 | 12–23% <br> 19–37 | 18–26% <br> 28–41 | 18–26% <br> 24–36 | 5–10% <br> 4–13 | 3–7% <br> 2–9 | 4–8% <br> 5–11 | 3–8% <br> 3–10 | 0–4% <br> 0–5 |
 | [15 January 2021](2021-01-15-electoPanel.html) | electoPanel <br> electomania.es | 8–14% <br> 9–19 | 17–25% <br> 26–40 | 18–26% <br> 27–39 | 17–25% <br> 23–35 | 4–9% <br> 4–11 | 3–7% <br> 0–9 | 4–9% <br> 3–12 | 4–8% <br> 3–11 | 1–3% <br> 0–1 |
+| [2–15 January 2021](2021-01-15-CIS.html) | CIS | 9–11% <br> 12–14 | 12–14% <br> 18–23 | 19–22% <br> 30–34 | 23–25% <br> 31–36 | 9–11% <br> 11–14 | 5–7% <br> 7–9 | 5–7% <br> 6–9 | 6–7% <br> 7–10 | 0–1% <br> 0 |
 | [4–8 January 2021](2021-01-08-GAD3.html) | GAD3 <br> La Vanguardia | 8–12% <br> 9–18 | 16–22% <br> 25–35 | 21–28% <br> 33–43 | 17–24% <br> 24–34 | 4–8% <br> 4–10 | 3–6% <br> 0–8 | 5–9% <br> 5–12 | 3–6% <br> 2–7 | 2–5% <br> 0–6 |
 | [4–7 January 2021](2021-01-07-GESOP.html) | GESOP <br> El Periódico | 8–12% <br> 10–16 | 16–22% <br> 26–35 | 18–24% <br> 28–36 | 21–27% <br> 30–38 | 4–8% <br> 4–8 | 4–7% <br> 4–10 | 4–8% <br> 5–10 | 4–7% <br> 3–9 | 1–2% <br> 0 |
 | [2–5 January 2021](2021-01-05-SocioMétrica.html) | SocioMétrica <br> El Español | 10–14% <br> 13–19 | 17–23% <br> 28–37 | 18–23% <br> 27–35 | 17–22% <br> 23–30 | 6–9% <br> 5–11 | 4–7% <br> 4–9 | 5–8% <br> 5–10 | 5–8% <br> 5–10 | N/A <br> N/A |
