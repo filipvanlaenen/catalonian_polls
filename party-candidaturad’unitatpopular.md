@@ -10,8 +10,9 @@ Last result: **4.5%** (General Election of 21 December 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5.0% | 3.8–6.2% | 3.4–6.6% | 3.1–6.9% | 2.7–7.6% |
+| N/A | [Poll Average](average.html) | 5.3% | 3.9–6.3% | 3.5–6.6% | 3.2–6.9% | 2.7–7.5% |
 | [15 January 2021](2021-01-15-electoPanel.html) | electoPanel <br> electomania.es | 4.5% | 3.4–6.1% | 3.1–6.6% | 2.9–7.0% | 2.4–7.9% |
+| [2–15 January 2021](2021-01-15-CIS.html) | CIS | 6.0% | 5.5–6.5% | 5.4–6.6% | 5.3–6.8% | 5.1–7.0% |
 | [8 January 2021](2021-01-08-electoPanel.html) | electoPanel <br> electomania.es | 5.0% | 3.9–6.7% | 3.5–7.2% | 3.3–7.6% | 2.8–8.5% |
 | [4–8 January 2021](2021-01-08-GAD3.html) | GAD3 <br> La Vanguardia | 4.3% | 3.4–5.6% | 3.2–6.0% | 3.0–6.3% | 2.6–7.0% |
 | [4–7 January 2021](2021-01-07-GESOP.html) | GESOP <br> El Periódico | 5.4% | 4.5–6.5% | 4.2–6.9% | 4.0–7.2% | 3.6–7.8% |
@@ -79,13 +80,13 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 0.3% | 100% |  |
-| 2.5–3.5% | 6% | 99.7% |  |
-| 3.5–4.5% | 26% | 93% | Last Result |
-| 4.5–5.5% | 39% | 68% | Median |
-| 5.5–6.5% | 23% | 28% |  |
-| 6.5–7.5% | 5% | 5% |  |
-| 7.5–8.5% | 0.5% | 0.6% |  |
+| 1.5–2.5% | 0.2% | 100% |  |
+| 2.5–3.5% | 5% | 99.8% |  |
+| 3.5–4.5% | 20% | 95% | Last Result |
+| 4.5–5.5% | 34% | 74% | Median |
+| 5.5–6.5% | 35% | 41% |  |
+| 6.5–7.5% | 5% | 6% |  |
+| 7.5–8.5% | 0.4% | 0.5% |  |
 | 8.5–9.5% | 0% | 0% |  |
 
 
@@ -99,6 +100,7 @@ Last result: **4** seats (General Election of 21 December 2017)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 7 | 4–8 | 3–8 | 2–9 | 0–10 |
 | [15 January 2021](2021-01-15-electoPanel.html) | electoPanel <br> electomania.es | 6 | 3–8 | 0–8 | 0–9 | 0–10 |
+| [2–15 January 2021](2021-01-15-CIS.html) | CIS | 8 | 8 | 7–9 | 7–9 | 7–10 |
 | [8 January 2021](2021-01-08-electoPanel.html) | electoPanel <br> electomania.es | 8 | 7–9 | 5–10 | 2–10 | 0–11 |
 | [4–8 January 2021](2021-01-08-GAD3.html) | GAD3 <br> La Vanguardia | 5 | 3–8 | 2–8 | 0–8 | 0–9 |
 | [4–7 January 2021](2021-01-07-GESOP.html) | GESOP <br> El Periódico | 7 | 5–8 | 4–9 | 4–10 | 4–10 |
@@ -169,16 +171,16 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 2% | 100% |  |
 | 1 | 0% | 98% |  |
-| 2 | 2% | 98% |  |
-| 3 | 5% | 96% |  |
-| 4 | 20% | 91% | Last Result |
-| 5 | 8% | 71% |  |
-| 6 | 10% | 63% |  |
-| 7 | 28% | 54% | Median |
-| 8 | 21% | 25% |  |
-| 9 | 3% | 4% |  |
+| 2 | 1.3% | 98% |  |
+| 3 | 4% | 97% |  |
+| 4 | 16% | 93% | Last Result |
+| 5 | 6% | 77% |  |
+| 6 | 8% | 71% |  |
+| 7 | 24% | 63% | Median |
+| 8 | 34% | 39% |  |
+| 9 | 3% | 5% |  |
 | 10 | 1.2% | 1.5% |  |
-| 11 | 0.2% | 0.3% |  |
+| 11 | 0.2% | 0.2% |  |
 | 12 | 0% | 0% |  |
 
 

@@ -10,8 +10,9 @@ Last result: **25.4%** (General Election of 21 December 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 10.5% | 8.7–12.7% | 8.3–13.3% | 7.9–13.7% | 7.2–14.7% |
+| N/A | [Poll Average](average.html) | 10.1% | 8.8–12.5% | 8.4–13.1% | 8.0–13.6% | 7.3–14.5% |
 | [15 January 2021](2021-01-15-electoPanel.html) | electoPanel <br> electomania.es | 10.5% | 8.8–12.7% | 8.3–13.3% | 7.9–13.9% | 7.1–15.0% |
+| [2–15 January 2021](2021-01-15-CIS.html) | CIS | 9.6% | 9.0–10.2% | 8.9–10.4% | 8.7–10.5% | 8.5–10.8% |
 | [8 January 2021](2021-01-08-electoPanel.html) | electoPanel <br> electomania.es | 10.0% | 8.3–12.2% | 7.8–12.8% | 7.4–13.3% | 6.7–14.4% |
 | [4–8 January 2021](2021-01-08-GAD3.html) | GAD3 <br> La Vanguardia | 9.7% | 8.3–11.5% | 7.9–12.0% | 7.6–12.4% | 6.9–13.3% |
 | [4–7 January 2021](2021-01-07-GESOP.html) | GESOP <br> El Periódico | 9.7% | 8.5–11.2% | 8.2–11.6% | 7.9–12.0% | 7.3–12.7% |
@@ -78,17 +79,16 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 4.5–5.5% | 0% | 100% |  |
 | 5.5–6.5% | 0.1% | 100% |  |
-| 6.5–7.5% | 1.1% | 99.9% |  |
-| 7.5–8.5% | 7% | 98.8% |  |
-| 8.5–9.5% | 18% | 92% |  |
-| 9.5–10.5% | 24% | 73% |  |
-| 10.5–11.5% | 22% | 49% | Median |
-| 11.5–12.5% | 16% | 28% |  |
-| 12.5–13.5% | 9% | 12% |  |
-| 13.5–14.5% | 3% | 3% |  |
-| 14.5–15.5% | 0.5% | 0.6% |  |
+| 6.5–7.5% | 0.9% | 99.9% |  |
+| 7.5–8.5% | 6% | 99.1% |  |
+| 8.5–9.5% | 24% | 93% |  |
+| 9.5–10.5% | 30% | 70% | Median |
+| 10.5–11.5% | 18% | 40% |  |
+| 11.5–12.5% | 13% | 22% |  |
+| 12.5–13.5% | 7% | 9% |  |
+| 13.5–14.5% | 2% | 3% |  |
+| 14.5–15.5% | 0.4% | 0.5% |  |
 | 15.5–16.5% | 0.1% | 0.1% |  |
 | 16.5–17.5% | 0% | 0% |  |
 | 17.5–18.5% | 0% | 0% |  |
@@ -109,8 +109,9 @@ Last result: **36** seats (General Election of 21 December 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 14 | 12–18 | 11–18 | 10–19 | 8–20 |
+| N/A | [Poll Average](average.html) | 13 | 12–17 | 12–18 | 10–19 | 8–19 |
 | [15 January 2021](2021-01-15-electoPanel.html) | electoPanel <br> electomania.es | 14 | 12–18 | 11–18 | 9–19 | 8–20 |
+| [2–15 January 2021](2021-01-15-CIS.html) | CIS | 13 | 12–13 | 12–13 | 12–14 | 12–15 |
 | [8 January 2021](2021-01-08-electoPanel.html) | electoPanel <br> electomania.es | 13 | 10–16 | 9–17 | 9–18 | 8–19 |
 | [4–8 January 2021](2021-01-08-GAD3.html) | GAD3 <br> La Vanguardia | 13 | 12–15 | 10–17 | 9–18 | 8–19 |
 | [4–7 January 2021](2021-01-07-GESOP.html) | GESOP <br> El Periódico | 13 | 12–15 | 11–16 | 10–16 | 8–18 |
@@ -179,20 +180,20 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 8 | 0.6% | 100% |  |
-| 9 | 2% | 99.4% |  |
-| 10 | 1.2% | 98% |  |
+| 8 | 0.5% | 100% |  |
+| 9 | 1.3% | 99.5% |  |
+| 10 | 1.0% | 98% |  |
 | 11 | 2% | 97% |  |
-| 12 | 16% | 95% |  |
-| 13 | 27% | 79% |  |
-| 14 | 19% | 52% | Median |
-| 15 | 6% | 33% |  |
-| 16 | 10% | 27% |  |
-| 17 | 6% | 17% |  |
-| 18 | 7% | 11% |  |
-| 19 | 3% | 4% |  |
-| 20 | 0.4% | 0.5% |  |
-| 21 | 0.1% | 0.2% |  |
+| 12 | 17% | 96% |  |
+| 13 | 37% | 79% | Median |
+| 14 | 15% | 42% |  |
+| 15 | 5% | 27% |  |
+| 16 | 8% | 21% |  |
+| 17 | 5% | 14% |  |
+| 18 | 6% | 9% |  |
+| 19 | 3% | 3% |  |
+| 20 | 0.3% | 0.4% |  |
+| 21 | 0.1% | 0.1% |  |
 | 22 | 0% | 0% |  |
 | 23 | 0% | 0% |  |
 | 24 | 0% | 0% |  |
