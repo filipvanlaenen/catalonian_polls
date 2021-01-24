@@ -11,6 +11,7 @@ Last result: **25.4%** (General Election of 21 December 2017)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 10.1% | 8.8–12.5% | 8.4–13.1% | 8.0–13.6% | 7.3–14.5% |
+| [22 January 2021](2021-01-22-electoPanel.html) | electoPanel <br> electomania.es | 10.5% | 8.8–12.7% | 8.3–13.3% | 7.9–13.9% | 7.1–15.0% |
 | [15 January 2021](2021-01-15-electoPanel.html) | electoPanel <br> electomania.es | 10.5% | 8.8–12.7% | 8.3–13.3% | 7.9–13.9% | 7.1–15.0% |
 | [2–15 January 2021](2021-01-15-CIS.html) | CIS | 9.6% | 9.0–10.2% | 8.9–10.4% | 8.7–10.5% | 8.5–10.8% |
 | [8 January 2021](2021-01-08-electoPanel.html) | electoPanel <br> electomania.es | 10.0% | 8.3–12.2% | 7.8–12.8% | 7.4–13.3% | 6.7–14.4% |
@@ -110,6 +111,7 @@ Last result: **36** seats (General Election of 21 December 2017)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 13 | 12–17 | 12–18 | 10–19 | 8–19 |
+| [22 January 2021](2021-01-22-electoPanel.html) | electoPanel <br> electomania.es | 14 | 12–17 | 10–18 | 9–19 | 8–20 |
 | [15 January 2021](2021-01-15-electoPanel.html) | electoPanel <br> electomania.es | 14 | 12–18 | 11–18 | 9–19 | 8–20 |
 | [2–15 January 2021](2021-01-15-CIS.html) | CIS | 13 | 12–13 | 12–13 | 12–14 | 12–15 |
 | [8 January 2021](2021-01-08-electoPanel.html) | electoPanel <br> electomania.es | 13 | 10–16 | 9–17 | 9–18 | 8–19 |
@@ -181,17 +183,17 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 8 | 0.5% | 100% |  |
-| 9 | 1.3% | 99.5% |  |
-| 10 | 1.0% | 98% |  |
+| 9 | 1.4% | 99.4% |  |
+| 10 | 1.1% | 98% |  |
 | 11 | 2% | 97% |  |
-| 12 | 17% | 96% |  |
-| 13 | 37% | 79% | Median |
+| 12 | 18% | 95% |  |
+| 13 | 35% | 77% | Median |
 | 14 | 15% | 42% |  |
 | 15 | 5% | 27% |  |
 | 16 | 8% | 21% |  |
-| 17 | 5% | 14% |  |
+| 17 | 5% | 13% |  |
 | 18 | 6% | 9% |  |
-| 19 | 3% | 3% |  |
+| 19 | 2% | 3% |  |
 | 20 | 0.3% | 0.4% |  |
 | 21 | 0.1% | 0.1% |  |
 | 22 | 0% | 0% |  |

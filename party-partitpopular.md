@@ -11,6 +11,7 @@ Last result: **4.2%** (General Election of 21 December 2017)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 6.0% | 5.1–7.3% | 4.8–7.8% | 4.5–8.2% | 3.9–9.1% |
+| [22 January 2021](2021-01-22-electoPanel.html) | electoPanel <br> electomania.es | 6.0% | 4.7–7.8% | 4.4–8.3% | 4.1–8.8% | 3.5–9.7% |
 | [15 January 2021](2021-01-15-electoPanel.html) | electoPanel <br> electomania.es | 6.0% | 4.7–7.8% | 4.4–8.3% | 4.1–8.8% | 3.5–9.7% |
 | [2–15 January 2021](2021-01-15-CIS.html) | CIS | 5.8% | 5.3–6.3% | 5.2–6.4% | 5.1–6.6% | 4.9–6.8% |
 | [8 January 2021](2021-01-08-electoPanel.html) | electoPanel <br> electomania.es | 6.0% | 4.7–7.8% | 4.4–8.3% | 4.1–8.8% | 3.5–9.7% |
@@ -100,6 +101,7 @@ Last result: **4** seats (General Election of 21 December 2017)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 7 | 6–9 | 5–10 | 5–11 | 3–12 |
+| [22 January 2021](2021-01-22-electoPanel.html) | electoPanel <br> electomania.es | 7 | 5–10 | 5–11 | 3–12 | 3–13 |
 | [15 January 2021](2021-01-15-electoPanel.html) | electoPanel <br> electomania.es | 7 | 5–10 | 4–11 | 3–12 | 3–13 |
 | [2–15 January 2021](2021-01-15-CIS.html) | CIS | 7 | 7–8 | 6–9 | 6–9 | 6–9 |
 | [8 January 2021](2021-01-08-electoPanel.html) | electoPanel <br> electomania.es | 7 | 5–9 | 3–10 | 3–11 | 3–13 |
@@ -171,15 +173,15 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 3 | 0.9% | 100% |  |
-| 4 | 0.7% | 99.0% | Last Result |
+| 4 | 0.6% | 99.1% | Last Result |
 | 5 | 6% | 98% |  |
 | 6 | 10% | 92% |  |
 | 7 | 45% | 82% | Median |
-| 8 | 11% | 37% |  |
+| 8 | 10% | 37% |  |
 | 9 | 18% | 26% |  |
-| 10 | 6% | 9% |  |
+| 10 | 5% | 8% |  |
 | 11 | 2% | 3% |  |
-| 12 | 1.0% | 1.2% |  |
+| 12 | 1.1% | 1.3% |  |
 | 13 | 0.1% | 0.2% |  |
 | 14 | 0.1% | 0.1% |  |
 | 15 | 0% | 0% |  |

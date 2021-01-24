@@ -11,6 +11,7 @@ Last result: **0.0%** (General Election of 21 December 2017)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1.3% | 0.6–3.3% | 0.6–3.7% | 0.5–4.1% | 0.4–4.8% |
+| [22 January 2021](2021-01-22-electoPanel.html) | electoPanel <br> electomania.es | 1.5% | 1.0–2.6% | 0.8–2.9% | 0.7–3.2% | 0.5–3.9% |
 | [15 January 2021](2021-01-15-electoPanel.html) | electoPanel <br> electomania.es | 1.5% | 1.0–2.6% | 0.8–2.9% | 0.7–3.2% | 0.5–3.9% |
 | [2–15 January 2021](2021-01-15-CIS.html) | CIS | 0.7% | 0.6–0.9% | 0.5–1.0% | 0.5–1.0% | 0.4–1.1% |
 | [8 January 2021](2021-01-08-electoPanel.html) | electoPanel <br> electomania.es | 1.2% | 0.8–2.3% | 0.6–2.6% | 0.5–2.9% | 0.4–3.5% |
@@ -98,6 +99,7 @@ Last result: **0** seats (General Election of 21 December 2017)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–1 | 0–5 | 0–5 | 0–6 |
+| [22 January 2021](2021-01-22-electoPanel.html) | electoPanel <br> electomania.es | 0 | 0–1 | 0–1 | 0–1 | 0–5 |
 | [15 January 2021](2021-01-15-electoPanel.html) | electoPanel <br> electomania.es | 0 | 0–1 | 0–1 | 0–1 | 0–5 |
 | [2–15 January 2021](2021-01-15-CIS.html) | CIS | 0 | 0 | 0 | 0 | 0 |
 | [8 January 2021](2021-01-08-electoPanel.html) | electoPanel <br> electomania.es | 0 | 0 | 0–1 | 0–1 | 0–4 |
@@ -171,7 +173,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 78% | 100% | Last Result, Median |
 | 1 | 13% | 22% |  |
 | 2 | 0.1% | 9% |  |
-| 3 | 2% | 9% |  |
+| 3 | 1.5% | 9% |  |
 | 4 | 2% | 7% |  |
 | 5 | 3% | 5% |  |
 | 6 | 1.5% | 2% |  |
