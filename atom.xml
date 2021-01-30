@@ -6,7 +6,15 @@
   </author>
   <id>https://filipvanlaenen.github.io/catalonian_polls</id>
   <title>All Registered Polls for the Parliament of Catalonia</title>
-  <updated>2021-01-26T19:02:37.426787+01:00</updated>
+  <updated>2021-01-30T12:22:38.061345+01:00</updated>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Ciutadans–Partido de la Ciudadanía: 7.9–13.9%, 9–19 seats</li><li>Esquerra Republicana–Catalunya Sí: 17.8–25.8%, 26–39 seats</li><li>Partit dels Socialistes de Catalunya (PSC-PSOE): 17.8–25.8%, 24–36 seats</li><li>Catalunya en Comú–Podem: 4.7–9.6%, 4–12 seats</li><li>Candidatura d’Unitat Popular: 3.1–7.3%, 0–10 seats</li><li>Partit Popular: 4.1–8.8%, 3–12 seats</li><li>Vox: 3.5–7.9%, 3–10 seats</li><li>Junts per Catalunya: 15.9–23.7%, 25–38 seats</li><li>Partit Demòcrata Europeu Català: 0.5–2.9%, 0–1 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/catalonian_polls/2021-01-29-electoPanel.html</id>
+    <link href="https://filipvanlaenen.github.io/catalonian_polls/2021-01-29-electoPanel.html"/>
+    <title>Opinion Poll by electoPanel for electomania.es, 29 January 2021</title>
+    <updated>2021-01-30T11:44:07.43815+01:00</updated>
+    <dc:date>2021-01-30T11:44:07.43815+01:00</dc:date>
+  </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Ciutadans–Partido de la Ciudadanía: 7.9–13.9%, 9–19 seats</li><li>Esquerra Republicana–Catalunya Sí: 18.2–26.3%, 27–40 seats</li><li>Partit dels Socialistes de Catalunya (PSC-PSOE): 17.8–25.8%, 24–36 seats</li><li>Catalunya en Comú–Podem: 4.7–9.6%, 4–11 seats</li><li>Candidatura d’Unitat Popular: 3.1–7.3%, 0–10 seats</li><li>Partit Popular: 4.1–8.8%, 3–12 seats</li><li>Vox: 3.5–7.9%, 3–10 seats</li><li>Junts per Catalunya: 16.1–23.9%, 25–38 seats</li><li>Partit Demòcrata Europeu Català: 0.7–3.2%, 0–1 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/catalonian_polls/2021-01-22-electoPanel.html</id>
@@ -30,6 +38,14 @@
     <title>Opinion Poll by NC Report for La Razón, 18–22 January 2021</title>
     <updated>2021-01-26T08:12:51.121098+01:00</updated>
     <dc:date>2021-01-26T08:12:51.121098+01:00</dc:date>
+  </entry>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Ciutadans–Partido de la Ciudadanía: 7.5–12.0%, 9–16 seats</li><li>Esquerra Republicana–Catalunya Sí: 19.0–25.3%, 28–38 seats</li><li>Partit dels Socialistes de Catalunya (PSC-PSOE): 16.8–22.8%, 22–31 seats</li><li>Catalunya en Comú–Podem: 4.8–8.6%, 4–10 seats</li><li>Candidatura d’Unitat Popular: 4.6–8.2%, 5–11 seats</li><li>Partit Popular: 5.3–9.2%, 6–12 seats</li><li>Vox: 3.5–6.7%, 3–8 seats</li><li>Junts per Catalunya: 17.8–23.9%, 28–38 seats</li><li>Partit Demòcrata Europeu Català: 1.4–3.8%, 0–4 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/catalonian_polls/2021-01-21-Opinòmetre.html</id>
+    <link href="https://filipvanlaenen.github.io/catalonian_polls/2021-01-21-Opinòmetre.html"/>
+    <title>Opinion Poll by Opinòmetre for CEO, 13–21 January 2021</title>
+    <updated>2021-01-30T12:22:38.061345+01:00</updated>
+    <dc:date>2021-01-30T12:22:38.061345+01:00</dc:date>
   </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Ciutadans–Partido de la Ciudadanía: 7.9–13.9%, 9–19 seats</li><li>Esquerra Republicana–Catalunya Sí: 18.2–26.3%, 27–39 seats</li><li>Partit dels Socialistes de Catalunya (PSC-PSOE): 17.3–25.3%, 23–35 seats</li><li>Catalunya en Comú–Podem: 4.5–9.4%, 4–11 seats</li><li>Candidatura d’Unitat Popular: 2.9–7.0%, 0–9 seats</li><li>Partit Popular: 4.1–8.8%, 3–12 seats</li><li>Vox: 3.7–8.2%, 3–11 seats</li><li>Junts per Catalunya: 16.8–24.7%, 26–40 seats</li><li>Partit Demòcrata Europeu Català: 0.7–3.2%, 0–1 seats</li></ul></div></content>
@@ -519,5 +535,5 @@
     <updated>2020-10-03T21:10:04.996042+02:00</updated>
     <dc:date>2020-10-03T21:10:04.996042+02:00</dc:date>
   </entry>
-  <dc:date>2021-01-26T19:02:37.426787+01:00</dc:date>
+  <dc:date>2021-01-30T12:22:38.061345+01:00</dc:date>
 </feed>
