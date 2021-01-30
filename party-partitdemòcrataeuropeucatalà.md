@@ -10,10 +10,12 @@ Last result: **0.0%** (General Election of 21 December 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.4% | 0.7–3.1% | 0.6–3.6% | 0.6–4.0% | 0.4–4.7% |
+| N/A | [Poll Average](average.html) | 1.6% | 0.7–3.1% | 0.6–3.6% | 0.6–3.9% | 0.4–4.6% |
+| [29 January 2021](2021-01-29-electoPanel.html) | electoPanel <br> electomania.es | 1.2% | 0.8–2.3% | 0.6–2.6% | 0.5–2.9% | 0.4–3.5% |
 | [22 January 2021](2021-01-22-electoPanel.html) | electoPanel <br> electomania.es | 1.5% | 1.0–2.6% | 0.8–2.9% | 0.7–3.2% | 0.5–3.9% |
 | [18–22 January 2021](2021-01-22-SocioMétrica.html) | SocioMétrica <br> El Español | 0.0% | N/A | N/A | N/A | N/A |
 | [18–22 January 2021](2021-01-22-NCReport.html) | NC Report <br> La Razón | 1.6% | 1.1–2.4% | 1.0–2.6% | 0.9–2.8% | 0.7–3.2% |
+| [13–21 January 2021](2021-01-21-Opinòmetre.html) | Opinòmetre <br> CEO | 2.3% | 1.8–3.3% | 1.6–3.6% | 1.4–3.8% | 1.2–4.3% |
 | [15 January 2021](2021-01-15-electoPanel.html) | electoPanel <br> electomania.es | 1.5% | 1.0–2.6% | 0.8–2.9% | 0.7–3.2% | 0.5–3.9% |
 | [2–15 January 2021](2021-01-15-CIS.html) | CIS | 0.7% | 0.6–0.9% | 0.5–1.0% | 0.5–1.0% | 0.4–1.1% |
 | [8 January 2021](2021-01-08-electoPanel.html) | electoPanel <br> electomania.es | 1.2% | 0.8–2.3% | 0.6–2.6% | 0.5–2.9% | 0.4–3.5% |
@@ -83,13 +85,12 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 2% | 100% | Last Result |
-| 0.5–1.5% | 52% | 98% | Median |
-| 1.5–2.5% | 27% | 46% |  |
-| 2.5–3.5% | 14% | 19% |  |
+| 0.5–1.5% | 46% | 98% |  |
+| 1.5–2.5% | 29% | 51% | Median |
+| 2.5–3.5% | 17% | 22% |  |
 | 3.5–4.5% | 5% | 5% |  |
-| 4.5–5.5% | 0.6% | 0.7% |  |
+| 4.5–5.5% | 0.6% | 0.6% |  |
 | 5.5–6.5% | 0% | 0% |  |
-| 6.5–7.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -101,9 +102,11 @@ Last result: **0** seats (General Election of 21 December 2017)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–1 | 0–4 | 0–5 | 0–6 |
+| [29 January 2021](2021-01-29-electoPanel.html) | electoPanel <br> electomania.es | 0 | 0 | 0 | 0–1 | 0–4 |
 | [22 January 2021](2021-01-22-electoPanel.html) | electoPanel <br> electomania.es | 0 | 0–1 | 0–1 | 0–1 | 0–5 |
 | [18–22 January 2021](2021-01-22-SocioMétrica.html) | SocioMétrica <br> El Español |  |  |  |  |  |
 | [18–22 January 2021](2021-01-22-NCReport.html) | NC Report <br> La Razón | 0 | 0 | 0 | 0–1 | 0–1 |
+| [13–21 January 2021](2021-01-21-Opinòmetre.html) | Opinòmetre <br> CEO | 0 | 0–1 | 0–4 | 0–4 | 0–5 |
 | [15 January 2021](2021-01-15-electoPanel.html) | electoPanel <br> electomania.es | 0 | 0–1 | 0–1 | 0–1 | 0–5 |
 | [2–15 January 2021](2021-01-15-CIS.html) | CIS | 0 | 0 | 0 | 0 | 0 |
 | [8 January 2021](2021-01-08-electoPanel.html) | electoPanel <br> electomania.es | 0 | 0 | 0–1 | 0–1 | 0–4 |
@@ -174,14 +177,14 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 82% | 100% | Last Result, Median |
-| 1 | 11% | 18% |  |
+| 0 | 81% | 100% | Last Result, Median |
+| 1 | 12% | 19% |  |
 | 2 | 0% | 7% |  |
-| 3 | 1.2% | 7% |  |
+| 3 | 1.4% | 7% |  |
 | 4 | 2% | 6% |  |
-| 5 | 3% | 4% |  |
-| 6 | 1.2% | 1.4% |  |
-| 7 | 0.2% | 0.2% |  |
+| 5 | 2% | 4% |  |
+| 6 | 1.0% | 1.2% |  |
+| 7 | 0.1% | 0.2% |  |
 | 8 | 0.1% | 0.1% |  |
 | 9 | 0% | 0% |  |
 
