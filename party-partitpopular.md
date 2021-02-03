@@ -10,8 +10,11 @@ Last result: **4.2%** (General Election of 21 December 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6.1% | 5.2–7.7% | 4.9–8.2% | 4.6–8.6% | 4.1–9.4% |
+| N/A | [Poll Average](average.html) | 6.2% | 5.2–7.7% | 5.0–8.2% | 4.7–8.6% | 4.1–9.4% |
+| [18–31 January 2021](2021-01-31-SocioMétrica.html) | SocioMétrica <br> El Español | 5.5% | 5.0–6.1% | 4.8–6.3% | 4.7–6.4% | 4.5–6.7% |
+| [25–30 January 2021](2021-01-30-NCReport.html) | NC Report <br> La Razón | 6.7% | 5.6–8.1% | 5.3–8.5% | 5.1–8.8% | 4.6–9.5% |
 | [29 January 2021](2021-01-29-electoPanel.html) | electoPanel <br> electomania.es | 6.0% | 4.7–7.8% | 4.4–8.3% | 4.1–8.8% | 3.5–9.7% |
+| [25–28 January 2021](2021-01-28-GESOP.html) | GESOP <br> El Periódico | 6.3% | 5.5–7.2% | 5.3–7.5% | 5.2–7.7% | 4.8–8.1% |
 | [22 January 2021](2021-01-22-electoPanel.html) | electoPanel <br> electomania.es | 6.0% | 4.7–7.8% | 4.4–8.3% | 4.1–8.8% | 3.5–9.7% |
 | [18–22 January 2021](2021-01-22-SocioMétrica.html) | SocioMétrica <br> El Español | 5.8% | 5.3–6.4% | 5.1–6.6% | 5.0–6.8% | 4.7–7.1% |
 | [18–22 January 2021](2021-01-22-NCReport.html) | NC Report <br> La Razón | 6.7% | 5.6–8.1% | 5.3–8.5% | 5.1–8.8% | 4.6–9.5% |
@@ -87,9 +90,9 @@ The following table shows the probability mass function per percentage block of 
 | 1.5–2.5% | 0% | 100% |  |
 | 2.5–3.5% | 0.1% | 100% |  |
 | 3.5–4.5% | 2% | 99.9% | Last Result |
-| 4.5–5.5% | 19% | 98% |  |
-| 5.5–6.5% | 45% | 79% | Median |
-| 6.5–7.5% | 22% | 35% |  |
+| 4.5–5.5% | 20% | 98% |  |
+| 5.5–6.5% | 43% | 79% | Median |
+| 6.5–7.5% | 24% | 36% |  |
 | 7.5–8.5% | 10% | 12% |  |
 | 8.5–9.5% | 2% | 3% |  |
 | 9.5–10.5% | 0.3% | 0.4% |  |
@@ -104,8 +107,11 @@ Last result: **4** seats (General Election of 21 December 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7 | 6–10 | 5–11 | 5–12 | 3–12 |
+| N/A | [Poll Average](average.html) | 7 | 6–10 | 6–11 | 5–12 | 3–12 |
+| [18–31 January 2021](2021-01-31-SocioMétrica.html) | SocioMétrica <br> El Español | 7 | 6–7 | 5–7 | 5–9 | 5–9 |
+| [25–30 January 2021](2021-01-30-NCReport.html) | NC Report <br> La Razón | 9 | 7–10 | 6–11 | 6–12 | 5–12 |
 | [29 January 2021](2021-01-29-electoPanel.html) | electoPanel <br> electomania.es | 7 | 5–10 | 5–11 | 3–12 | 3–14 |
+| [25–28 January 2021](2021-01-28-GESOP.html) | GESOP <br> El Periódico | 8 | 7–9 | 7–10 | 6–10 | 5–11 |
 | [22 January 2021](2021-01-22-electoPanel.html) | electoPanel <br> electomania.es | 7 | 5–10 | 5–11 | 3–12 | 3–13 |
 | [18–22 January 2021](2021-01-22-SocioMétrica.html) | SocioMétrica <br> El Español | 7 | 6–9 | 6–9 | 6–9 | 5–9 |
 | [18–22 January 2021](2021-01-22-NCReport.html) | NC Report <br> La Razón | 9 | 7–10 | 7–11 | 6–12 | 5–12 |
@@ -180,17 +186,17 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 3 | 0.6% | 100% |  |
-| 4 | 0.4% | 99.4% | Last Result |
-| 5 | 4% | 99.0% |  |
-| 6 | 8% | 95% |  |
-| 7 | 42% | 87% | Median |
-| 8 | 9% | 45% |  |
-| 9 | 21% | 36% |  |
+| 3 | 0.5% | 100% |  |
+| 4 | 0.3% | 99.5% | Last Result |
+| 5 | 4% | 99.2% |  |
+| 6 | 7% | 96% |  |
+| 7 | 40% | 88% | Median |
+| 8 | 10% | 48% |  |
+| 9 | 23% | 38% |  |
 | 10 | 9% | 15% |  |
 | 11 | 3% | 6% |  |
 | 12 | 3% | 3% |  |
-| 13 | 0.1% | 0.3% |  |
+| 13 | 0.2% | 0.3% |  |
 | 14 | 0.1% | 0.2% |  |
 | 15 | 0% | 0% |  |
 

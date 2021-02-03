@@ -10,8 +10,11 @@ Last result: **0.0%** (General Election of 21 December 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5.5% | 4.0–6.8% | 3.7–7.1% | 3.4–7.4% | 2.9–8.1% |
+| N/A | [Poll Average](average.html) | 5.5% | 4.1–6.7% | 3.7–7.0% | 3.4–7.3% | 2.9–7.9% |
+| [18–31 January 2021](2021-01-31-SocioMétrica.html) | SocioMétrica <br> El Español | 6.0% | 5.5–6.6% | 5.3–6.8% | 5.2–7.0% | 4.9–7.3% |
+| [25–30 January 2021](2021-01-30-NCReport.html) | NC Report <br> La Razón | 5.5% | 4.6–6.8% | 4.3–7.2% | 4.1–7.5% | 3.6–8.2% |
 | [29 January 2021](2021-01-29-electoPanel.html) | electoPanel <br> electomania.es | 5.2% | 4.1–7.0% | 3.7–7.5% | 3.5–7.9% | 3.0–8.8% |
+| [25–28 January 2021](2021-01-28-GESOP.html) | GESOP <br> El Periódico | 5.2% | 4.5–6.0% | 4.3–6.3% | 4.2–6.5% | 3.9–6.9% |
 | [22 January 2021](2021-01-22-electoPanel.html) | electoPanel <br> electomania.es | 5.2% | 4.1–7.0% | 3.7–7.5% | 3.5–7.9% | 3.0–8.8% |
 | [18–22 January 2021](2021-01-22-SocioMétrica.html) | SocioMétrica <br> El Español | 5.8% | 5.3–6.4% | 5.1–6.6% | 5.0–6.8% | 4.7–7.1% |
 | [18–22 January 2021](2021-01-22-NCReport.html) | NC Report <br> La Razón | 6.0% | 5.0–7.3% | 4.7–7.7% | 4.5–8.0% | 4.0–8.7% |
@@ -87,13 +90,13 @@ The following table shows the probability mass function per percentage block of 
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 0.1% | 100% |  |
-| 2.5–3.5% | 4% | 99.9% |  |
-| 3.5–4.5% | 17% | 96% |  |
-| 4.5–5.5% | 29% | 79% |  |
-| 5.5–6.5% | 33% | 50% | Median |
-| 6.5–7.5% | 15% | 17% |  |
-| 7.5–8.5% | 2% | 2% |  |
-| 8.5–9.5% | 0.2% | 0.2% |  |
+| 2.5–3.5% | 3% | 99.9% |  |
+| 3.5–4.5% | 16% | 96% |  |
+| 4.5–5.5% | 31% | 80% |  |
+| 5.5–6.5% | 34% | 49% | Median |
+| 6.5–7.5% | 14% | 15% |  |
+| 7.5–8.5% | 1.0% | 1.2% |  |
+| 8.5–9.5% | 0.1% | 0.1% |  |
 | 9.5–10.5% | 0% | 0% |  |
 
 
@@ -105,8 +108,11 @@ Last result: **0** seats (General Election of 21 December 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7 | 3–9 | 3–9 | 3–9 | 2–11 |
+| N/A | [Poll Average](average.html) | 7 | 3–9 | 3–9 | 3–9 | 2–10 |
+| [18–31 January 2021](2021-01-31-SocioMétrica.html) | SocioMétrica <br> El Español | 7 | 7–9 | 7–9 | 6–9 | 6–9 |
+| [25–30 January 2021](2021-01-30-NCReport.html) | NC Report <br> La Razón | 7 | 5–9 | 5–9 | 3–9 | 3–10 |
 | [29 January 2021](2021-01-29-electoPanel.html) | electoPanel <br> electomania.es | 6 | 3–9 | 3–9 | 3–10 | 2–12 |
+| [25–28 January 2021](2021-01-28-GESOP.html) | GESOP <br> El Periódico | 6 | 5–7 | 5–7 | 4–9 | 3–9 |
 | [22 January 2021](2021-01-22-electoPanel.html) | electoPanel <br> electomania.es | 7 | 3–9 | 3–9 | 3–10 | 2–12 |
 | [18–22 January 2021](2021-01-22-SocioMétrica.html) | SocioMétrica <br> El Español | 7 | 7–8 | 6–9 | 6–9 | 5–9 |
 | [18–22 January 2021](2021-01-22-NCReport.html) | NC Report <br> La Razón | 7 | 6–9 | 5–10 | 5–11 | 3–12 |
@@ -184,16 +190,16 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 0.4% | 100% | Last Result |
 | 1 | 0% | 99.6% |  |
 | 2 | 0.6% | 99.6% |  |
-| 3 | 10% | 99.0% |  |
-| 4 | 4% | 89% |  |
-| 5 | 17% | 85% |  |
-| 6 | 9% | 68% |  |
-| 7 | 33% | 59% | Median |
-| 8 | 8% | 26% |  |
+| 3 | 9% | 99.0% |  |
+| 4 | 3% | 90% |  |
+| 5 | 18% | 86% |  |
+| 6 | 11% | 69% |  |
+| 7 | 32% | 57% | Median |
+| 8 | 7% | 25% |  |
 | 9 | 16% | 18% |  |
-| 10 | 1.5% | 2% |  |
-| 11 | 0.6% | 0.8% |  |
-| 12 | 0.2% | 0.2% |  |
+| 10 | 1.1% | 2% |  |
+| 11 | 0.3% | 0.5% |  |
+| 12 | 0.1% | 0.2% |  |
 | 13 | 0% | 0% |  |
 
 
