@@ -10,8 +10,10 @@ Last result: **0.0%** (General Election of 21 December 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.6% | 0.7–3.3% | 0.6–3.7% | 0.6–4.0% | 0.5–4.7% |
+| N/A | [Poll Average](average.html) | 1.7% | 1.0–3.3% | 0.9–3.7% | 0.8–4.0% | 0.5–4.7% |
+| [1–3 February 2021](2021-02-03-CIS.html) | CIS | 1.5% | 1.2–2.0% | 1.1–2.1% | 1.1–2.2% | 0.9–2.4% |
 | [18–31 January 2021](2021-01-31-SocioMétrica.html) | SocioMétrica <br> El Español | 0.0% | N/A | N/A | N/A | N/A |
+| [31 January 2021](2021-01-31-SigmaDos.html) | Sigma Dos <br> Antena 3 | 0.0% | N/A | N/A | N/A | N/A |
 | [25–30 January 2021](2021-01-30-NCReport.html) | NC Report <br> La Razón | 0.0% | N/A | N/A | N/A | N/A |
 | [29 January 2021](2021-01-29-electoPanel.html) | electoPanel <br> electomania.es | 1.2% | 0.8–2.3% | 0.6–2.6% | 0.5–2.9% | 0.4–3.5% |
 | [25–28 January 2021](2021-01-28-GESOP.html) | GESOP <br> El Periódico | 1.2% | 0.9–1.6% | 0.8–1.8% | 0.7–1.9% | 0.6–2.1% |
@@ -87,9 +89,9 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 2% | 100% | Last Result |
-| 0.5–1.5% | 48% | 98% |  |
-| 1.5–2.5% | 25% | 50% | Median |
+| 0.0–0.5% | 0.5% | 100% | Last Result |
+| 0.5–1.5% | 39% | 99.5% |  |
+| 1.5–2.5% | 35% | 60% | Median |
 | 2.5–3.5% | 19% | 25% |  |
 | 3.5–4.5% | 5% | 6% |  |
 | 4.5–5.5% | 0.7% | 0.7% |  |
@@ -106,7 +108,9 @@ Last result: **0** seats (General Election of 21 December 2017)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–1 | 0–4 | 0–5 | 0–6 |
+| [1–3 February 2021](2021-02-03-CIS.html) | CIS | 0 | 0 | 0 | 0 | 0 |
 | [18–31 January 2021](2021-01-31-SocioMétrica.html) | SocioMétrica <br> El Español |  |  |  |  |  |
+| [31 January 2021](2021-01-31-SigmaDos.html) | Sigma Dos <br> Antena 3 |  |  |  |  |  |
 | [25–30 January 2021](2021-01-30-NCReport.html) | NC Report <br> La Razón |  |  |  |  |  |
 | [29 January 2021](2021-01-29-electoPanel.html) | electoPanel <br> electomania.es | 0 | 0 | 0 | 0–1 | 0–4 |
 | [25–28 January 2021](2021-01-28-GESOP.html) | GESOP <br> El Periódico | 0 | 0 | 0 | 0 | 0 |
