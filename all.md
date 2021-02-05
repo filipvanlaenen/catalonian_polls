@@ -5,7 +5,9 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | Cs | JxCAT | ERC | PSC | CatComú | CUP | PP | Vox | PDeCAT |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 21 December 2017 | General Election | 25.4% <br> 36 | 21.7% <br> 34 | 21.4% <br> 32 | 13.9% <br> 17 | 7.5% <br> 8 | 4.5% <br> 4 | 4.2% <br> 4 | 0.0% <br> 0 | 0.0% <br> 0 |
+| [5 February 2021](2021-02-05-electoPanel.html) | electoPanel <br> electomania.es | 7–13% <br> 9–18 | 16–24% <br> 25–37 | 17–25% <br> 25–38 | 18–26% <br> 24–35 | 4–9% <br> 5–12 | 3–8% <br> 2–10 | 4–8% <br> 3–11 | 4–8% <br> 3–10 | 1–3% <br> 0–1 |
 | [1–3 February 2021](2021-02-03-CIS.html) | CIS | 7–9% <br> 8–12 | 13–16% <br> 21–26 | 18–22% <br> 28–34 | 22–26% <br> 30–36 | 8–10% <br> 9–13 | 6–8% <br> 8–11 | 5–7% <br> 6–9 | 6–8% <br> 7–11 | 1–2% <br> 0 |
+| [29 January–2 February 2021](2021-02-02-DYM.html) | DYM <br> Henneo | 9–12% <br> 12–17 | 20–24% <br> 32–39 | 17–22% <br> 26–31 | 20–25% <br> 27–34 | 6–9% <br> 7–11 | 5–7% <br> 6–9 | 3–5% <br> 0–5 | 5–7% <br> 6–9 | N/A <br> N/A |
 | [18–31 January 2021](2021-01-31-SocioMétrica.html) | SocioMétrica <br> El Español | 10–12% <br> 13–17 | 19–22% <br> 31–36 | 18–21% <br> 28–32 | 19–22% <br> 26–31 | 6–8% <br> 7–10 | 5–7% <br> 7–8 | 5–6% <br> 5–9 | 5–7% <br> 6–9 | N/A <br> N/A |
 | [31 January 2021](2021-01-31-SigmaDos.html) | Sigma Dos <br> Antena 3 | 9–12% <br> 11–16 | 18–23% <br> 29–37 | 19–24% <br> 28–35 | 20–25% <br> 26–34 | 6–9% <br> 5–11 | 4–7% <br> 4–9 | 4–7% <br> 5–9 | 4–7% <br> 3–9 | N/A <br> N/A |
 | [25–30 January 2021](2021-01-30-NCReport.html) | NC Report <br> La Razón | 9–13% <br> 12–18 | 17–23% <br> 26–37 | 18–24% <br> 28–37 | 17–23% <br> 23–31 | 5–9% <br> 5–11 | 4–8% <br> 4–10 | 5–9% <br> 6–12 | 4–8% <br> 3–9 | N/A <br> N/A |
