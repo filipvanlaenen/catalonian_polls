@@ -10,8 +10,10 @@ Last result: **4.2%** (General Election of 21 December 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6.1% | 5.1–7.6% | 4.9–8.1% | 4.6–8.5% | 4.1–9.4% |
+| N/A | [Poll Average](average.html) | 6.0% | 4.1–7.5% | 3.5–8.0% | 3.2–8.4% | 2.7–9.2% |
+| [5 February 2021](2021-02-05-electoPanel.html) | electoPanel <br> electomania.es | 5.8% | 4.5–7.5% | 4.1–8.0% | 3.9–8.5% | 3.3–9.4% |
 | [1–3 February 2021](2021-02-03-CIS.html) | CIS | 5.8% | 5.2–6.6% | 5.0–6.8% | 4.8–7.0% | 4.5–7.4% |
+| [29 January–2 February 2021](2021-02-02-DYM.html) | DYM <br> Henneo | 3.5% | 2.9–4.3% | 2.7–4.5% | 2.6–4.7% | 2.4–5.1% |
 | [18–31 January 2021](2021-01-31-SocioMétrica.html) | SocioMétrica <br> El Español | 5.5% | 5.0–6.1% | 4.8–6.3% | 4.7–6.4% | 4.5–6.7% |
 | [31 January 2021](2021-01-31-SigmaDos.html) | Sigma Dos <br> Antena 3 | 5.6% | 4.8–6.6% | 4.5–7.0% | 4.3–7.2% | 4.0–7.7% |
 | [25–30 January 2021](2021-01-30-NCReport.html) | NC Report <br> La Razón | 6.7% | 5.6–8.1% | 5.3–8.5% | 5.1–8.8% | 4.6–9.5% |
@@ -89,15 +91,16 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 1.5–2.5% | 0% | 100% |  |
-| 2.5–3.5% | 0.1% | 100% |  |
-| 3.5–4.5% | 2% | 99.9% | Last Result |
-| 4.5–5.5% | 23% | 98% |  |
-| 5.5–6.5% | 41% | 75% | Median |
-| 6.5–7.5% | 23% | 34% |  |
-| 7.5–8.5% | 9% | 11% |  |
+| 0.5–1.5% | 0% | 100% |  |
+| 1.5–2.5% | 0.2% | 100% |  |
+| 2.5–3.5% | 6% | 99.8% |  |
+| 3.5–4.5% | 7% | 94% | Last Result |
+| 4.5–5.5% | 21% | 87% |  |
+| 5.5–6.5% | 37% | 66% | Median |
+| 6.5–7.5% | 20% | 29% |  |
+| 7.5–8.5% | 7% | 9% |  |
 | 8.5–9.5% | 2% | 2% |  |
-| 9.5–10.5% | 0.3% | 0.3% |  |
+| 9.5–10.5% | 0.2% | 0.3% |  |
 | 10.5–11.5% | 0% | 0% |  |
 
 
@@ -109,8 +112,10 @@ Last result: **4** seats (General Election of 21 December 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7 | 6–10 | 5–11 | 5–12 | 3–12 |
+| N/A | [Poll Average](average.html) | 7 | 5–10 | 3–10 | 2–11 | 0–12 |
+| [5 February 2021](2021-02-05-electoPanel.html) | electoPanel <br> electomania.es | 7 | 6–10 | 6–10 | 3–11 | 3–13 |
 | [1–3 February 2021](2021-02-03-CIS.html) | CIS | 7 | 6–9 | 6–9 | 6–9 | 5–9 |
+| [29 January–2 February 2021](2021-02-02-DYM.html) | DYM <br> Henneo | 3 | 2–5 | 2–5 | 0–5 | 0–6 |
 | [18–31 January 2021](2021-01-31-SocioMétrica.html) | SocioMétrica <br> El Español | 7 | 6–7 | 5–7 | 5–9 | 5–9 |
 | [31 January 2021](2021-01-31-SigmaDos.html) | Sigma Dos <br> Antena 3 | 7 | 5–8 | 5–9 | 5–9 | 3–10 |
 | [25–30 January 2021](2021-01-30-NCReport.html) | NC Report <br> La Razón | 9 | 7–10 | 6–11 | 6–12 | 5–12 |
@@ -190,17 +195,20 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 3 | 0.5% | 100% |  |
-| 4 | 0.4% | 99.4% | Last Result |
-| 5 | 5% | 99.0% |  |
-| 6 | 10% | 94% |  |
-| 7 | 41% | 84% | Median |
-| 8 | 9% | 43% |  |
-| 9 | 21% | 34% |  |
-| 10 | 8% | 13% |  |
-| 11 | 2% | 5% |  |
-| 12 | 2% | 3% |  |
-| 13 | 0.1% | 0.3% |  |
+| 0 | 0.6% | 100% |  |
+| 1 | 0% | 99.4% |  |
+| 2 | 2% | 99.4% |  |
+| 3 | 6% | 97% |  |
+| 4 | 1.2% | 91% | Last Result |
+| 5 | 5% | 90% |  |
+| 6 | 10% | 85% |  |
+| 7 | 38% | 75% | Median |
+| 8 | 7% | 36% |  |
+| 9 | 18% | 30% |  |
+| 10 | 8% | 12% |  |
+| 11 | 2% | 4% |  |
+| 12 | 2% | 2% |  |
+| 13 | 0.2% | 0.2% |  |
 | 14 | 0.1% | 0.1% |  |
 | 15 | 0% | 0% |  |
 

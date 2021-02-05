@@ -10,8 +10,10 @@ Last result: **4.5%** (General Election of 21 December 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5.6% | 4.3–7.0% | 3.8–7.4% | 3.5–7.7% | 2.9–8.3% |
+| N/A | [Poll Average](average.html) | 5.7% | 4.4–7.0% | 4.0–7.4% | 3.6–7.7% | 3.0–8.3% |
+| [5 February 2021](2021-02-05-electoPanel.html) | electoPanel <br> electomania.es | 5.0% | 3.9–6.7% | 3.5–7.2% | 3.3–7.6% | 2.8–8.5% |
 | [1–3 February 2021](2021-02-03-CIS.html) | CIS | 6.8% | 6.1–7.6% | 5.9–7.8% | 5.7–8.0% | 5.4–8.5% |
+| [29 January–2 February 2021](2021-02-02-DYM.html) | DYM <br> Henneo | 6.0% | 5.3–7.0% | 5.0–7.3% | 4.8–7.5% | 4.5–8.0% |
 | [18–31 January 2021](2021-01-31-SocioMétrica.html) | SocioMétrica <br> El Español | 5.6% | 5.1–6.2% | 4.9–6.4% | 4.8–6.5% | 4.6–6.8% |
 | [31 January 2021](2021-01-31-SigmaDos.html) | Sigma Dos <br> Antena 3 | 5.3% | 4.5–6.3% | 4.3–6.6% | 4.1–6.9% | 3.7–7.4% |
 | [25–30 January 2021](2021-01-30-NCReport.html) | NC Report <br> La Razón | 5.8% | 4.8–7.1% | 4.5–7.5% | 4.3–7.8% | 3.9–8.5% |
@@ -89,13 +91,12 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 0.1% | 100% |  |
-| 2.5–3.5% | 3% | 99.9% |  |
-| 3.5–4.5% | 12% | 97% | Last Result |
-| 4.5–5.5% | 33% | 85% |  |
-| 5.5–6.5% | 33% | 52% | Median |
-| 6.5–7.5% | 15% | 19% |  |
+| 2.5–3.5% | 2% | 99.9% |  |
+| 3.5–4.5% | 10% | 98% | Last Result |
+| 4.5–5.5% | 31% | 88% |  |
+| 5.5–6.5% | 36% | 56% | Median |
+| 6.5–7.5% | 16% | 20% |  |
 | 7.5–8.5% | 3% | 3% |  |
 | 8.5–9.5% | 0.3% | 0.3% |  |
 | 9.5–10.5% | 0% | 0% |  |
@@ -109,8 +110,10 @@ Last result: **4** seats (General Election of 21 December 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8 | 4–9 | 4–10 | 3–10 | 0–11 |
+| N/A | [Poll Average](average.html) | 8 | 4–9 | 4–10 | 3–10 | 2–11 |
+| [5 February 2021](2021-02-05-electoPanel.html) | electoPanel <br> electomania.es | 7 | 4–8 | 3–9 | 2–10 | 0–11 |
 | [1–3 February 2021](2021-02-03-CIS.html) | CIS | 9 | 8–10 | 8–11 | 8–11 | 7–11 |
+| [29 January–2 February 2021](2021-02-02-DYM.html) | DYM <br> Henneo | 8 | 7–8 | 6–9 | 6–9 | 4–10 |
 | [18–31 January 2021](2021-01-31-SocioMétrica.html) | SocioMétrica <br> El Español | 8 | 7–8 | 7–8 | 7–8 | 5–9 |
 | [31 January 2021](2021-01-31-SigmaDos.html) | Sigma Dos <br> Antena 3 | 7 | 4–8 | 4–8 | 4–9 | 4–9 |
 | [25–30 January 2021](2021-01-30-NCReport.html) | NC Report <br> La Razón | 8 | 6–9 | 5–10 | 4–10 | 4–11 |
@@ -190,18 +193,18 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.7% | 100% |  |
-| 1 | 0% | 99.3% |  |
-| 2 | 0.9% | 99.3% |  |
-| 3 | 2% | 98% |  |
-| 4 | 9% | 96% | Last Result |
-| 5 | 5% | 87% |  |
-| 6 | 6% | 83% |  |
-| 7 | 23% | 76% |  |
-| 8 | 38% | 54% | Median |
-| 9 | 9% | 16% |  |
-| 10 | 5% | 6% |  |
-| 11 | 2% | 2% |  |
+| 0 | 0.4% | 100% |  |
+| 1 | 0% | 99.6% |  |
+| 2 | 0.8% | 99.6% |  |
+| 3 | 2% | 98.9% |  |
+| 4 | 9% | 97% | Last Result |
+| 5 | 4% | 88% |  |
+| 6 | 5% | 84% |  |
+| 7 | 24% | 79% |  |
+| 8 | 40% | 55% | Median |
+| 9 | 9% | 15% |  |
+| 10 | 4% | 6% |  |
+| 11 | 1.5% | 2% |  |
 | 12 | 0.1% | 0.1% |  |
 | 13 | 0% | 0% |  |
 
