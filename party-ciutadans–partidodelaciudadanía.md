@@ -122,10 +122,10 @@ Last result: **36** seats (General Election of 21 December 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 13 | 11–16 | 10–16 | 9–17 | 8–18 |
-| [5 February 2021](2021-02-05-electoPanel.html) | electoPanel <br> electomania.es | 13 | 11–15 | 10–17 | 9–18 | 8–19 |
+| N/A | [Poll Average](average.html) | 13 | 11–16 | 9–16 | 9–17 | 8–18 |
+| [5 February 2021](2021-02-05-electoPanel.html) | electoPanel <br> electomania.es | 13 | 10–16 | 9–17 | 8–18 | 8–19 |
 | [1–3 February 2021](2021-02-03-CIS.html) | CIS | 11 | 8–12 | 8–12 | 8–12 | 8–13 |
-| [29 January–2 February 2021](2021-02-02-DYM.html) | DYM <br> Henneo | 14 | 13–15 | 12–16 | 12–17 | 12–18 |
+| [29 January–2 February 2021](2021-02-02-DYM.html) | DYM <br> Henneo | 14 | 13–16 | 12–16 | 12–17 | 12–18 |
 | [18–31 January 2021](2021-01-31-SocioMétrica.html) | SocioMétrica <br> El Español | 14 | 13–16 | 13–16 | 13–17 | 13–18 |
 | [31 January 2021](2021-01-31-SigmaDos.html) | Sigma Dos <br> Antena 3 | 13 | 12–15 | 12–16 | 11–16 | 9–18 |
 | [25–30 January 2021](2021-01-30-NCReport.html) | NC Report <br> La Razón | 14 | 12–17 | 12–18 | 12–18 | 10–19 |
@@ -209,16 +209,16 @@ The following table shows the probability mass function per seat for the [poll a
 | 8 | 2% | 99.9% |  |
 | 9 | 3% | 98% |  |
 | 10 | 2% | 95% |  |
-| 11 | 9% | 93% |  |
-| 12 | 20% | 84% |  |
-| 13 | 27% | 64% | Median |
+| 11 | 7% | 93% |  |
+| 12 | 21% | 85% |  |
+| 13 | 26% | 64% | Median |
 | 14 | 21% | 38% |  |
-| 15 | 6% | 16% |  |
-| 16 | 7% | 10% |  |
+| 15 | 6% | 17% |  |
+| 16 | 7% | 11% |  |
 | 17 | 2% | 4% |  |
 | 18 | 2% | 2% |  |
-| 19 | 0.2% | 0.3% |  |
-| 20 | 0% | 0.1% |  |
+| 19 | 0.3% | 0.4% |  |
+| 20 | 0% | 0% |  |
 | 21 | 0% | 0% |  |
 | 22 | 0% | 0% |  |
 | 23 | 0% | 0% |  |

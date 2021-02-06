@@ -118,9 +118,9 @@ Last result: **17** seats (General Election of 21 December 2017)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 30 | 26–34 | 25–35 | 24–36 | 22–37 |
-| [5 February 2021](2021-02-05-electoPanel.html) | electoPanel <br> electomania.es | 31 | 27–33 | 25–34 | 24–35 | 22–38 |
+| [5 February 2021](2021-02-05-electoPanel.html) | electoPanel <br> electomania.es | 30 | 26–34 | 25–35 | 25–37 | 23–38 |
 | [1–3 February 2021](2021-02-03-CIS.html) | CIS | 34 | 31–35 | 31–36 | 30–36 | 30–37 |
-| [29 January–2 February 2021](2021-02-02-DYM.html) | DYM <br> Henneo | 31 | 28–32 | 28–33 | 27–34 | 26–36 |
+| [29 January–2 February 2021](2021-02-02-DYM.html) | DYM <br> Henneo | 31 | 28–33 | 28–34 | 27–35 | 26–36 |
 | [18–31 January 2021](2021-01-31-SocioMétrica.html) | SocioMétrica <br> El Español | 28 | 26–30 | 26–30 | 26–31 | 25–31 |
 | [31 January 2021](2021-01-31-SigmaDos.html) | Sigma Dos <br> Antena 3 | 31 | 27–33 | 27–34 | 26–34 | 26–35 |
 | [25–30 January 2021](2021-01-30-NCReport.html) | NC Report <br> La Razón | 26 | 24–30 | 24–31 | 23–31 | 22–32 |
@@ -203,24 +203,24 @@ The following table shows the probability mass function per seat for the [poll a
 | 17 | 0% | 100% | Last Result |
 | 18 | 0% | 100% |  |
 | 19 | 0% | 100% |  |
-| 20 | 0% | 100% |  |
+| 20 | 0.1% | 100% |  |
 | 21 | 0.1% | 99.9% |  |
-| 22 | 0.5% | 99.9% |  |
+| 22 | 0.4% | 99.9% |  |
 | 23 | 0.5% | 99.4% |  |
 | 24 | 2% | 98.9% |  |
 | 25 | 6% | 97% |  |
-| 26 | 10% | 91% |  |
-| 27 | 9% | 80% |  |
-| 28 | 8% | 72% |  |
-| 29 | 7% | 63% |  |
-| 30 | 10% | 57% | Median |
-| 31 | 16% | 47% |  |
-| 32 | 11% | 31% |  |
-| 33 | 6% | 20% |  |
-| 34 | 7% | 13% |  |
-| 35 | 3% | 6% |  |
+| 26 | 11% | 90% |  |
+| 27 | 9% | 79% |  |
+| 28 | 8% | 70% |  |
+| 29 | 8% | 62% |  |
+| 30 | 10% | 54% | Median |
+| 31 | 13% | 44% |  |
+| 32 | 10% | 32% |  |
+| 33 | 7% | 22% |  |
+| 34 | 8% | 14% |  |
+| 35 | 3% | 7% |  |
 | 36 | 2% | 3% |  |
-| 37 | 0.6% | 1.0% |  |
+| 37 | 0.8% | 1.1% |  |
 | 38 | 0.2% | 0.3% |  |
 | 39 | 0.1% | 0.1% |  |
 | 40 | 0% | 0% |  |

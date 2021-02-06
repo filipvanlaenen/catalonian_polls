@@ -110,7 +110,7 @@ Last result: **0** seats (General Election of 21 December 2017)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–1 | 0–4 | 0–5 | 0–6 |
-| [5 February 2021](2021-02-05-electoPanel.html) | electoPanel <br> electomania.es | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| [5 February 2021](2021-02-05-electoPanel.html) | electoPanel <br> electomania.es | 0 | 0 | 0–1 | 0–1 | 0–3 |
 | [1–3 February 2021](2021-02-03-CIS.html) | CIS | 0 | 0 | 0 | 0 | 0 |
 | [29 January–2 February 2021](2021-02-02-DYM.html) | DYM <br> Henneo |  |  |  |  |  |
 | [18–31 January 2021](2021-01-31-SocioMétrica.html) | SocioMétrica <br> El Español |  |  |  |  |  |

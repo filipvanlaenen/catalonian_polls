@@ -118,9 +118,9 @@ Last result: **34** seats (General Election of 21 December 2017)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 32 | 25–36 | 23–37 | 23–38 | 22–39 |
-| [5 February 2021](2021-02-05-electoPanel.html) | electoPanel <br> electomania.es | 31 | 28–36 | 25–37 | 25–37 | 24–40 |
+| [5 February 2021](2021-02-05-electoPanel.html) | electoPanel <br> electomania.es | 32 | 28–37 | 26–38 | 26–39 | 24–41 |
 | [1–3 February 2021](2021-02-03-CIS.html) | CIS | 23 | 22–25 | 22–26 | 21–26 | 20–28 |
-| [29 January–2 February 2021](2021-02-02-DYM.html) | DYM <br> Henneo | 36 | 33–38 | 33–39 | 32–39 | 31–41 |
+| [29 January–2 February 2021](2021-02-02-DYM.html) | DYM <br> Henneo | 36 | 33–38 | 32–39 | 31–39 | 31–40 |
 | [18–31 January 2021](2021-01-31-SocioMétrica.html) | SocioMétrica <br> El Español | 33 | 31–35 | 31–35 | 31–36 | 30–37 |
 | [31 January 2021](2021-01-31-SigmaDos.html) | Sigma Dos <br> Antena 3 | 32 | 30–35 | 30–36 | 29–37 | 27–39 |
 | [25–30 January 2021](2021-01-30-NCReport.html) | NC Report <br> La Razón | 31 | 29–35 | 27–36 | 26–37 | 25–39 |
@@ -205,23 +205,23 @@ The following table shows the probability mass function per seat for the [poll a
 | 22 | 1.0% | 99.5% |  |
 | 23 | 5% | 98.5% |  |
 | 24 | 1.5% | 93% |  |
-| 25 | 4% | 92% |  |
-| 26 | 2% | 88% |  |
+| 25 | 3% | 92% |  |
+| 26 | 2% | 89% |  |
 | 27 | 2% | 86% |  |
-| 28 | 2% | 84% |  |
-| 29 | 5% | 82% |  |
+| 28 | 2% | 85% |  |
+| 29 | 4% | 83% |  |
 | 30 | 5% | 78% |  |
-| 31 | 20% | 72% |  |
-| 32 | 15% | 52% | Median |
-| 33 | 11% | 38% |  |
-| 34 | 7% | 26% | Last Result |
-| 35 | 5% | 19% |  |
-| 36 | 6% | 14% |  |
-| 37 | 5% | 9% |  |
+| 31 | 20% | 73% |  |
+| 32 | 15% | 53% | Median |
+| 33 | 12% | 39% |  |
+| 34 | 8% | 26% | Last Result |
+| 35 | 6% | 19% |  |
+| 36 | 5% | 13% |  |
+| 37 | 5% | 8% |  |
 | 38 | 2% | 3% |  |
-| 39 | 0.8% | 1.1% |  |
-| 40 | 0.2% | 0.3% |  |
-| 41 | 0.1% | 0.1% |  |
+| 39 | 0.8% | 1.2% |  |
+| 40 | 0.3% | 0.4% |  |
+| 41 | 0.1% | 0.2% |  |
 | 42 | 0% | 0.1% |  |
 | 43 | 0% | 0% |  |
 

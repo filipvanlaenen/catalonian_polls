@@ -113,7 +113,7 @@ Last result: **4** seats (General Election of 21 December 2017)
 | N/A | [Poll Average](average.html) | 8 | 4–9 | 4–10 | 3–10 | 2–11 |
 | [5 February 2021](2021-02-05-electoPanel.html) | electoPanel <br> electomania.es | 7 | 4–8 | 3–9 | 2–10 | 0–11 |
 | [1–3 February 2021](2021-02-03-CIS.html) | CIS | 9 | 8–10 | 8–11 | 8–11 | 7–11 |
-| [29 January–2 February 2021](2021-02-02-DYM.html) | DYM <br> Henneo | 8 | 7–8 | 6–9 | 6–9 | 4–10 |
+| [29 January–2 February 2021](2021-02-02-DYM.html) | DYM <br> Henneo | 8 | 7–9 | 7–9 | 6–10 | 4–11 |
 | [18–31 January 2021](2021-01-31-SocioMétrica.html) | SocioMétrica <br> El Español | 8 | 7–8 | 7–8 | 7–8 | 5–9 |
 | [31 January 2021](2021-01-31-SigmaDos.html) | Sigma Dos <br> Antena 3 | 7 | 4–8 | 4–8 | 4–9 | 4–9 |
 | [25–30 January 2021](2021-01-30-NCReport.html) | NC Report <br> La Razón | 8 | 6–9 | 5–10 | 4–10 | 4–11 |
@@ -195,16 +195,16 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0.4% | 100% |  |
 | 1 | 0% | 99.6% |  |
-| 2 | 0.8% | 99.6% |  |
-| 3 | 2% | 98.9% |  |
-| 4 | 9% | 97% | Last Result |
-| 5 | 4% | 88% |  |
-| 6 | 5% | 84% |  |
-| 7 | 24% | 79% |  |
-| 8 | 40% | 55% | Median |
-| 9 | 9% | 15% |  |
+| 2 | 0.6% | 99.6% |  |
+| 3 | 2% | 99.0% |  |
+| 4 | 8% | 97% | Last Result |
+| 5 | 4% | 89% |  |
+| 6 | 5% | 85% |  |
+| 7 | 23% | 79% |  |
+| 8 | 40% | 56% | Median |
+| 9 | 10% | 17% |  |
 | 10 | 4% | 6% |  |
-| 11 | 1.5% | 2% |  |
+| 11 | 2% | 2% |  |
 | 12 | 0.1% | 0.1% |  |
 | 13 | 0% | 0% |  |
 
