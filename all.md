@@ -5,7 +5,10 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | Cs | JxCAT | ERC | PSC | CatComú | CUP | PP | Vox | PDeCAT |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 21 December 2017 | General Election | 25.4% <br> 36 | 21.7% <br> 34 | 21.4% <br> 32 | 13.9% <br> 17 | 7.5% <br> 8 | 4.5% <br> 4 | 4.2% <br> 4 | 0.0% <br> 0 | 0.0% <br> 0 |
+| [6 February 2021](2021-02-06-SigmaDos.html) | Sigma Dos <br> El Mundo | 8–11% <br> 9–14 | 19–24% <br> 30–38 | 18–23% <br> 27–35 | 20–26% <br> 27–35 | 6–9% <br> 5–10 | 4–7% <br> 4–9 | 4–7% <br> 4–9 | 4–7% <br> 3–9 | N/A <br> N/A |
 | [5 February 2021](2021-02-05-electoPanel.html) | electoPanel <br> electomania.es | 7–13% <br> 8–18 | 16–24% <br> 26–39 | 17–25% <br> 26–38 | 18–26% <br> 25–37 | 4–9% <br> 4–11 | 3–8% <br> 2–10 | 4–8% <br> 3–11 | 4–8% <br> 3–11 | 1–3% <br> 0–1 |
+| [1–5 February 2021](2021-02-05-Feedback.html) | Feedback <br> El Nacional | 5–10% <br> 6–13 | 17–24% <br> 26–39 | 16–23% <br> 24–36 | 20–27% <br> 26–38 | 5–10% <br> 5–13 | 6–10% <br> 8–15 | 2–6% <br> 0–7 | 4–9% <br> 5–12 | N/A <br> N/A |
+| [1–4 February 2021](2021-02-04-Opinòmetre.html) | Opinòmetre <br> Ara | 7–10% <br> 8–14 | 17–23% <br> 27–37 | 19–25% <br> 29–39 | 18–24% <br> 25–33 | 5–9% <br> 5–11 | 5–9% <br> 7–11 | 4–7% <br> 3–9 | 4–7% <br> 3–9 | 2–4% <br> 0–5 |
 | [1–3 February 2021](2021-02-03-CIS.html) | CIS | 7–9% <br> 8–12 | 13–16% <br> 21–26 | 18–22% <br> 28–34 | 22–26% <br> 30–36 | 8–10% <br> 9–13 | 6–8% <br> 8–11 | 5–7% <br> 6–9 | 6–8% <br> 7–11 | 1–2% <br> 0 |
 | [29 January–2 February 2021](2021-02-02-DYM.html) | DYM <br> Henneo | 9–12% <br> 12–17 | 20–24% <br> 31–39 | 17–22% <br> 25–33 | 20–25% <br> 27–35 | 6–9% <br> 6–10 | 5–7% <br> 6–10 | 3–5% <br> 0–5 | 5–7% <br> 5–9 | N/A <br> N/A |
 | [18–31 January 2021](2021-01-31-SocioMétrica.html) | SocioMétrica <br> El Español | 10–12% <br> 13–17 | 19–22% <br> 31–36 | 18–21% <br> 28–32 | 19–22% <br> 26–31 | 6–8% <br> 7–10 | 5–7% <br> 7–8 | 5–6% <br> 5–9 | 5–7% <br> 6–9 | N/A <br> N/A |
