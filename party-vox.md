@@ -10,8 +10,11 @@ Last result: **0.0%** (General Election of 21 December 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5.6% | 4.2–6.9% | 3.8–7.3% | 3.5–7.6% | 3.0–8.3% |
+| N/A | [Poll Average](average.html) | 5.7% | 4.4–7.0% | 4.0–7.4% | 3.6–7.8% | 3.0–8.5% |
+| [6 February 2021](2021-02-06-SigmaDos.html) | Sigma Dos <br> El Mundo | 5.4% | 4.6–6.4% | 4.3–6.7% | 4.2–7.0% | 3.8–7.5% |
 | [5 February 2021](2021-02-05-electoPanel.html) | electoPanel <br> electomania.es | 5.5% | 4.3–7.3% | 3.9–7.7% | 3.7–8.2% | 3.2–9.1% |
+| [1–5 February 2021](2021-02-05-Feedback.html) | Feedback <br> El Nacional | 6.1% | 4.9–7.7% | 4.6–8.2% | 4.3–8.6% | 3.8–9.4% |
+| [1–4 February 2021](2021-02-04-Opinòmetre.html) | Opinòmetre <br> Ara | 5.2% | 4.3–6.3% | 4.1–6.6% | 3.9–6.9% | 3.5–7.5% |
 | [1–3 February 2021](2021-02-03-CIS.html) | CIS | 6.9% | 6.2–7.7% | 6.0–8.0% | 5.8–8.2% | 5.5–8.6% |
 | [29 January–2 February 2021](2021-02-02-DYM.html) | DYM <br> Henneo | 5.8% | 5.0–6.7% | 4.8–7.0% | 4.6–7.2% | 4.3–7.7% |
 | [18–31 January 2021](2021-01-31-SocioMétrica.html) | SocioMétrica <br> El Español | 6.0% | 5.5–6.6% | 5.3–6.8% | 5.2–7.0% | 4.9–7.3% |
@@ -94,14 +97,15 @@ The following table shows the probability mass function per percentage block of 
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 0.1% | 100% |  |
-| 2.5–3.5% | 3% | 99.9% |  |
-| 3.5–4.5% | 14% | 97% |  |
-| 4.5–5.5% | 33% | 83% |  |
-| 5.5–6.5% | 33% | 50% | Median |
-| 6.5–7.5% | 14% | 17% |  |
-| 7.5–8.5% | 3% | 3% |  |
-| 8.5–9.5% | 0.2% | 0.2% |  |
-| 9.5–10.5% | 0% | 0% |  |
+| 2.5–3.5% | 2% | 99.9% |  |
+| 3.5–4.5% | 11% | 98% |  |
+| 4.5–5.5% | 31% | 87% |  |
+| 5.5–6.5% | 36% | 55% | Median |
+| 6.5–7.5% | 16% | 20% |  |
+| 7.5–8.5% | 3% | 4% |  |
+| 8.5–9.5% | 0.4% | 0.5% |  |
+| 9.5–10.5% | 0.1% | 0.1% |  |
+| 10.5–11.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -112,8 +116,11 @@ Last result: **0** seats (General Election of 21 December 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7 | 4–9 | 3–9 | 3–10 | 2–11 |
+| N/A | [Poll Average](average.html) | 7 | 5–9 | 3–10 | 3–10 | 2–12 |
+| [6 February 2021](2021-02-06-SigmaDos.html) | Sigma Dos <br> El Mundo | 7 | 5–7 | 5–9 | 3–9 | 3–9 |
 | [5 February 2021](2021-02-05-electoPanel.html) | electoPanel <br> electomania.es | 7 | 5–9 | 4–10 | 3–11 | 2–12 |
+| [1–5 February 2021](2021-02-05-Feedback.html) | Feedback <br> El Nacional | 7 | 6–10 | 5–11 | 5–12 | 3–13 |
+| [1–4 February 2021](2021-02-04-Opinòmetre.html) | Opinòmetre <br> Ara | 6 | 5–8 | 4–9 | 3–9 | 3–10 |
 | [1–3 February 2021](2021-02-03-CIS.html) | CIS | 9 | 8–10 | 7–11 | 7–11 | 7–12 |
 | [29 January–2 February 2021](2021-02-02-DYM.html) | DYM <br> Henneo | 7 | 6–9 | 5–9 | 5–9 | 4–10 |
 | [18–31 January 2021](2021-01-31-SocioMétrica.html) | SocioMétrica <br> El Español | 7 | 7–9 | 7–9 | 6–9 | 6–9 |
@@ -195,19 +202,20 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.3% | 100% | Last Result |
-| 1 | 0% | 99.7% |  |
-| 2 | 0.4% | 99.7% |  |
-| 3 | 7% | 99.3% |  |
-| 4 | 3% | 92% |  |
-| 5 | 18% | 89% |  |
-| 6 | 13% | 71% |  |
-| 7 | 35% | 58% | Median |
-| 8 | 4% | 23% |  |
-| 9 | 15% | 19% |  |
-| 10 | 3% | 4% |  |
-| 11 | 1.2% | 1.4% |  |
-| 12 | 0.2% | 0.3% |  |
-| 13 | 0% | 0% |  |
+| 0 | 0.2% | 100% | Last Result |
+| 1 | 0% | 99.8% |  |
+| 2 | 0.3% | 99.8% |  |
+| 3 | 5% | 99.5% |  |
+| 4 | 2% | 94% |  |
+| 5 | 15% | 92% |  |
+| 6 | 13% | 77% |  |
+| 7 | 37% | 64% | Median |
+| 8 | 6% | 26% |  |
+| 9 | 15% | 21% |  |
+| 10 | 3% | 5% |  |
+| 11 | 2% | 2% |  |
+| 12 | 0.5% | 0.6% |  |
+| 13 | 0% | 0.1% |  |
+| 14 | 0% | 0% |  |
 
 
