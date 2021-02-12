@@ -5,7 +5,10 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | Cs | JxCAT | ERC | PSC | CatComú | CUP | PP | Vox | PDeCAT |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 21 December 2017 | General Election | 25.4% <br> 36 | 21.7% <br> 34 | 21.4% <br> 32 | 13.9% <br> 17 | 7.5% <br> 8 | 4.5% <br> 4 | 4.2% <br> 4 | 0.0% <br> 0 | 0.0% <br> 0 |
+| [11 February 2021](2021-02-11-electoPanel.html) | electoPanel <br> electomania.es | 6–12% <br> 8–17 | 17–25% <br> 27–40 | 17–24% <br> 24–37 | 17–25% <br> 24–34 | 5–10% <br> 5–12 | 4–8% <br> 4–11 | 3–8% <br> 3–10 | 5–10% <br> 5–14 | 1–3% <br> 0–1 |
+| [4–11 February 2021](2021-02-11-Feedback.html) | Feedback <br> The National | 8–13% <br> 11–18 | 17–24% <br> 27–39 | 15–21% <br> 22–33 | 17–24% <br> 24–34 | 7–11% <br> 8–14 | 5–10% <br> 7–14 | 3–6% <br> 0–8 | 4–7% <br> 3–10 | 1–4% <br> 0–5 |
 | [10 February 2021](2021-02-10-electoPanel.html) | electoPanel <br> electomania.es | 6–12% <br> 7–16 | 17–25% <br> 26–41 | 16–24% <br> 24–37 | 18–26% <br> 24–36 | 5–10% <br> 5–13 | 4–8% <br> 3–11 | 3–8% <br> 3–10 | 5–10% <br> 5–14 | 1–3% <br> 0–1 |
+| [8–10 February 2021](2021-02-10-GESOP.html) | GESOP <br> El Periòdic | 5–9% <br> 5–12 | 15–23% <br> 24–37 | 17–25% <br> 25–37 | 19–27% <br> 26–38 | 5–10% <br> 4–12 | 4–9% <br> 4–12 | 3–7% <br> 0–9 | 5–10% <br> 6–14 | 2–5% <br> 0–7 |
 | [3–10 February 2021](2021-02-10-Feedback.html) | Feedback <br> The National | 8–12% <br> 10–18 | 17–23% <br> 28–38 | 17–23% <br> 26–37 | 16–23% <br> 23–33 | 5–10% <br> 5–12 | 6–10% <br> 8–15 | 3–6% <br> 0–7 | 4–8% <br> 3–10 | N/A <br> N/A |
 | [9 February 2021](2021-02-09-electoPanel.html) | electoPanel <br> electomania.es | 6–12% <br> 8–16 | 17–25% <br> 27–40 | 16–24% <br> 24–37 | 18–26% <br> 24–36 | 5–10% <br> 4–11 | 4–8% <br> 3–11 | 3–8% <br> 3–10 | 5–10% <br> 5–13 | 1–3% <br> 0–1 |
 | [7–9 February 2021](2021-02-09-GESOP.html) | GESOP <br> El Periòdic | 4–9% <br> 5–12 | 16–24% <br> 26–39 | 17–24% <br> 25–37 | 19–27% <br> 26–38 | 5–10% <br> 5–11 | 4–9% <br> 5–12 | 3–7% <br> 0–9 | 6–11% <br> 7–14 | 1–4% <br> 0–5 |
