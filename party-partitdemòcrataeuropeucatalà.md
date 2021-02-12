@@ -132,7 +132,7 @@ Last result: **0** seats (General Election of 21 December 2017)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–4 | 0–5 | 0–6 | 0–7 |
-| [11 February 2021](2021-02-11-electoPanel.html) | electoPanel <br> electomania.es | 0 | 0–1 | 0–1 | 0–1 | 0–5 |
+| [11 February 2021](2021-02-11-electoPanel.html) | electoPanel <br> electomania.es | 0 | 0 | 0–1 | 0–1 | 0–5 |
 | [4–11 February 2021](2021-02-11-Feedback.html) | Feedback <br> The National | 0 | 0–1 | 0–4 | 0–5 | 0–6 |
 | [10 February 2021](2021-02-10-electoPanel.html) | electoPanel <br> electomania.es | 0 | 0 | 0 | 0–1 | 0–3 |
 | [8–10 February 2021](2021-02-10-GESOP.html) | GESOP <br> El Periòdic | 1 | 0–6 | 0–6 | 0–7 | 0–8 |
