@@ -10,8 +10,11 @@ Last result: **21.7%** (General Election of 21 December 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 20.4% | 17.1–22.7% | 14.9–23.4% | 14.2–24.0% | 13.4–25.2% |
+| N/A | [Poll Average](average.html) | 20.3% | 16.9–22.7% | 14.9–23.4% | 14.2–24.0% | 13.4–25.3% |
+| [11 February 2021](2021-02-11-electoPanel.html) | electoPanel <br> electomania.es | 21.0% | 18.6–23.8% | 17.9–24.6% | 17.3–25.3% | 16.2–26.6% |
+| [4–11 February 2021](2021-02-11-Feedback.html) | Feedback <br> The National | 20.3% | 18.2–22.6% | 17.7–23.2% | 17.2–23.8% | 16.3–24.9% |
 | [10 February 2021](2021-02-10-electoPanel.html) | electoPanel <br> electomania.es | 20.8% | 18.3–23.5% | 17.6–24.3% | 17.1–25.0% | 16.0–26.4% |
+| [8–10 February 2021](2021-02-10-GESOP.html) | GESOP <br> El Periòdic | 18.9% | 16.6–21.5% | 16.0–22.2% | 15.4–22.9% | 14.4–24.2% |
 | [3–10 February 2021](2021-02-10-Feedback.html) | Feedback <br> The National | 19.8% | 17.8–22.0% | 17.2–22.7% | 16.8–23.2% | 15.9–24.3% |
 | [9 February 2021](2021-02-09-electoPanel.html) | electoPanel <br> electomania.es | 20.8% | 18.3–23.5% | 17.6–24.3% | 17.1–25.0% | 16.0–26.4% |
 | [7–9 February 2021](2021-02-09-GESOP.html) | GESOP <br> El Periòdic | 19.9% | 17.6–22.6% | 16.9–23.3% | 16.4–24.0% | 15.3–25.3% |
@@ -117,14 +120,14 @@ The following table shows the probability mass function per percentage block of 
 | 15.5–16.5% | 2% | 93% |  |
 | 16.5–17.5% | 3% | 91% |  |
 | 17.5–18.5% | 7% | 88% |  |
-| 18.5–19.5% | 15% | 81% |  |
-| 19.5–20.5% | 21% | 67% | Median |
-| 20.5–21.5% | 21% | 46% |  |
+| 18.5–19.5% | 14% | 81% |  |
+| 19.5–20.5% | 21% | 66% | Median |
+| 20.5–21.5% | 20% | 45% |  |
 | 21.5–22.5% | 14% | 25% | Last Result |
 | 22.5–23.5% | 7% | 11% |  |
 | 23.5–24.5% | 3% | 4% |  |
-| 24.5–25.5% | 0.9% | 1.2% |  |
-| 25.5–26.5% | 0.2% | 0.3% |  |
+| 24.5–25.5% | 0.9% | 1.3% |  |
+| 25.5–26.5% | 0.3% | 0.4% |  |
 | 26.5–27.5% | 0.1% | 0.1% |  |
 | 27.5–28.5% | 0% | 0% |  |
 
@@ -137,8 +140,11 @@ Last result: **34** seats (General Election of 21 December 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 32 | 27–37 | 24–37 | 23–38 | 22–41 |
+| N/A | [Poll Average](average.html) | 32 | 27–37 | 24–38 | 23–39 | 22–40 |
+| [11 February 2021](2021-02-11-electoPanel.html) | electoPanel <br> electomania.es | 33 | 30–39 | 29–39 | 27–40 | 25–43 |
+| [4–11 February 2021](2021-02-11-Feedback.html) | Feedback <br> The National | 35 | 30–38 | 28–39 | 27–39 | 26–41 |
 | [10 February 2021](2021-02-10-electoPanel.html) | electoPanel <br> electomania.es | 34 | 29–38 | 28–39 | 26–41 | 25–43 |
+| [8–10 February 2021](2021-02-10-GESOP.html) | GESOP <br> El Periòdic | 30 | 26–34 | 25–36 | 24–37 | 23–38 |
 | [3–10 February 2021](2021-02-10-Feedback.html) | Feedback <br> The National | 33 | 30–37 | 29–37 | 28–38 | 26–40 |
 | [9 February 2021](2021-02-09-electoPanel.html) | electoPanel <br> electomania.es | 33 | 30–37 | 28–39 | 27–40 | 25–43 |
 | [7–9 February 2021](2021-02-09-GESOP.html) | GESOP <br> El Periòdic | 32 | 29–37 | 27–38 | 26–39 | 24–41 |
@@ -242,25 +248,25 @@ The following table shows the probability mass function per seat for the [poll a
 | 21 | 0.3% | 100% |  |
 | 22 | 0.7% | 99.6% |  |
 | 23 | 4% | 99.0% |  |
-| 24 | 1.1% | 95% |  |
-| 25 | 2% | 94% |  |
-| 26 | 1.2% | 92% |  |
-| 27 | 1.2% | 91% |  |
-| 28 | 1.3% | 89% |  |
-| 29 | 4% | 88% |  |
-| 30 | 5% | 84% |  |
-| 31 | 17% | 79% |  |
-| 32 | 13% | 62% | Median |
-| 33 | 13% | 49% |  |
-| 34 | 9% | 36% | Last Result |
-| 35 | 9% | 28% |  |
-| 36 | 7% | 19% |  |
-| 37 | 7% | 12% |  |
+| 24 | 1.2% | 95% |  |
+| 25 | 3% | 94% |  |
+| 26 | 1.4% | 91% |  |
+| 27 | 2% | 90% |  |
+| 28 | 2% | 88% |  |
+| 29 | 4% | 86% |  |
+| 30 | 5% | 82% |  |
+| 31 | 17% | 77% |  |
+| 32 | 13% | 60% | Median |
+| 33 | 12% | 47% |  |
+| 34 | 8% | 35% | Last Result |
+| 35 | 9% | 27% |  |
+| 36 | 7% | 18% |  |
+| 37 | 6% | 11% |  |
 | 38 | 2% | 5% |  |
-| 39 | 1.3% | 2% |  |
-| 40 | 0.5% | 1.1% |  |
-| 41 | 0.3% | 0.6% |  |
-| 42 | 0.1% | 0.3% |  |
+| 39 | 2% | 3% |  |
+| 40 | 0.6% | 1.1% |  |
+| 41 | 0.2% | 0.5% |  |
+| 42 | 0.1% | 0.2% |  |
 | 43 | 0.1% | 0.1% |  |
 | 44 | 0% | 0% |  |
 
