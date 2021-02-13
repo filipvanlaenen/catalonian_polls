@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Parliament of Catalonia</title>
     <link>https://filipvanlaenen.github.io/catalonian_polls</link>
     <description>All Registered Polls for the Parliament of Catalonia</description>
-    <pubDate>Sat, 13 Feb 2021 09:32:31 +0100</pubDate>
+    <pubDate>Sat, 13 Feb 2021 20:04:48 +0100</pubDate>
     <item>
       <title>Opinion Poll by electoPanel for electomania.es, 12 February 2021 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/catalonian_polls/2021-02-12-electoPanel.html#seats</link>
@@ -38,6 +38,16 @@
         type="image/png"/>
       <pubDate>Sat, 13 Feb 2021 08:28:16 +0100</pubDate>
       <dc:date>2021-02-13T08:28:16.858688+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by GESOP for El Periòdic, 10–12 February 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/catalonian_polls/2021-02-12-GESOP.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Ciutadans–Partido de la Ciudadanía: 5.5–10.1%&lt;/li&gt;&lt;li&gt;Esquerra Republicana–Catalunya Sí: 16.9–24.0%&lt;/li&gt;&lt;li&gt;Partit dels Socialistes de Catalunya (PSC-PSOE): 19.3–26.7%&lt;/li&gt;&lt;li&gt;Catalunya en Comú–Podem: 5.0–9.4%&lt;/li&gt;&lt;li&gt;Candidatura d’Unitat Popular: 5.0–9.4%&lt;/li&gt;&lt;li&gt;Partit Popular: 3.8–7.8%&lt;/li&gt;&lt;li&gt;Vox: 4.5–8.8%&lt;/li&gt;&lt;li&gt;Junts per Catalunya: 15.6–22.5%&lt;/li&gt;&lt;li&gt;Partit Demòcrata Europeu Català: 1.8–5.0%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/catalonian_polls/2021-02-12-GESOP.png"
+        length="348994"
+        type="image/png"/>
+      <pubDate>Sat, 13 Feb 2021 20:04:48 +0100</pubDate>
+      <dc:date>2021-02-13T20:04:48.996783+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Feedback for The National, 5–12 February 2021 – Seat Projections for the Parties</title>
@@ -460,6 +470,36 @@
       <dc:date>2021-02-09T18:59:27.379291+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Celeste-Tel, 8 February 2021 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/catalonian_polls/2021-02-08-Celeste-Tel.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Ciutadans–Partido de la Ciudadanía: 10–17 seats&lt;/li&gt;&lt;li&gt;Esquerra Republicana–Catalunya Sí: 26–35 seats&lt;/li&gt;&lt;li&gt;Partit dels Socialistes de Catalunya (PSC-PSOE): 26–34 seats&lt;/li&gt;&lt;li&gt;Catalunya en Comú–Podem: 5–11 seats&lt;/li&gt;&lt;li&gt;Candidatura d’Unitat Popular: 4–9 seats&lt;/li&gt;&lt;li&gt;Partit Popular: 4–9 seats&lt;/li&gt;&lt;li&gt;Vox: 5–10 seats&lt;/li&gt;&lt;li&gt;Junts per Catalunya: 27–37 seats&lt;/li&gt;&lt;li&gt;Partit Demòcrata Europeu Català: 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/catalonian_polls/2021-02-08-Celeste-Tel-seats.png"
+        length="300018"
+        type="image/png"/>
+      <pubDate>Sat, 13 Feb 2021 19:07:37 +0100</pubDate>
+      <dc:date>2021-02-13T19:07:37.703502+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Celeste-Tel, 8 February 2021 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/catalonian_polls/2021-02-08-Celeste-Tel.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/catalonian_polls/2021-02-08-Celeste-Tel-coalitions-seats.png"
+        length="372276"
+        type="image/png"/>
+      <pubDate>Sat, 13 Feb 2021 19:07:37 +0100</pubDate>
+      <dc:date>2021-02-13T19:07:37.703502+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Celeste-Tel, 8 February 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/catalonian_polls/2021-02-08-Celeste-Tel.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Ciutadans–Partido de la Ciudadanía: 8.2–12.5%&lt;/li&gt;&lt;li&gt;Esquerra Republicana–Catalunya Sí: 17.0–22.7%&lt;/li&gt;&lt;li&gt;Partit dels Socialistes de Catalunya (PSC-PSOE): 19.1–25.0%&lt;/li&gt;&lt;li&gt;Catalunya en Comú–Podem: 5.8–9.6%&lt;/li&gt;&lt;li&gt;Candidatura d’Unitat Popular: 3.9–7.2%&lt;/li&gt;&lt;li&gt;Partit Popular: 4.2–7.5%&lt;/li&gt;&lt;li&gt;Vox: 4.5–7.9%&lt;/li&gt;&lt;li&gt;Junts per Catalunya: 17.3–23.0%&lt;/li&gt;&lt;li&gt;Partit Demòcrata Europeu Català: 0.8–2.6%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/catalonian_polls/2021-02-08-Celeste-Tel.png"
+        length="329318"
+        type="image/png"/>
+      <pubDate>Sat, 13 Feb 2021 19:07:37 +0100</pubDate>
+      <dc:date>2021-02-13T19:07:37.703502+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Key Data for Público, 7 February 2021 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/catalonian_polls/2021-02-07-KeyData.html#seats</link>
       <description>&lt;ul&gt;&lt;li&gt;Ciutadans–Partido de la Ciudadanía: 8–18 seats&lt;/li&gt;&lt;li&gt;Esquerra Republicana–Catalunya Sí: 24–39 seats&lt;/li&gt;&lt;li&gt;Partit dels Socialistes de Catalunya (PSC-PSOE): 22–36 seats&lt;/li&gt;&lt;li&gt;Catalunya en Comú–Podem: 4–12 seats&lt;/li&gt;&lt;li&gt;Candidatura d’Unitat Popular: 3–11 seats&lt;/li&gt;&lt;li&gt;Partit Popular: 3–12 seats&lt;/li&gt;&lt;li&gt;Vox: 3–12 seats&lt;/li&gt;&lt;li&gt;Junts per Catalunya: 24–39 seats&lt;/li&gt;&lt;li&gt;Partit Demòcrata Europeu Català: 0–6 seats&lt;/li&gt;&lt;/ul&gt;</description>
@@ -518,6 +558,36 @@
         type="image/png"/>
       <pubDate>Wed, 10 Feb 2021 08:28:58 +0100</pubDate>
       <dc:date>2021-02-10T08:28:58.028279+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Feedback for El Nacional, 1–7 February 2021 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/catalonian_polls/2021-02-07-Feedback.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Ciutadans–Partido de la Ciudadanía: 9–14 seats&lt;/li&gt;&lt;li&gt;Esquerra Republicana–Catalunya Sí: 28–36 seats&lt;/li&gt;&lt;li&gt;Partit dels Socialistes de Catalunya (PSC-PSOE): 26–34 seats&lt;/li&gt;&lt;li&gt;Catalunya en Comú–Podem: 6–11 seats&lt;/li&gt;&lt;li&gt;Candidatura d’Unitat Popular: 8–13 seats&lt;/li&gt;&lt;li&gt;Partit Popular: 0–6 seats&lt;/li&gt;&lt;li&gt;Vox: 5–9 seats&lt;/li&gt;&lt;li&gt;Junts per Catalunya: 29–37 seats&lt;/li&gt;&lt;li&gt;Partit Demòcrata Europeu Català: 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/catalonian_polls/2021-02-07-Feedback-seats.png"
+        length="290997"
+        type="image/png"/>
+      <pubDate>Sat, 13 Feb 2021 19:52:37 +0100</pubDate>
+      <dc:date>2021-02-13T19:52:37.57626+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Feedback for El Nacional, 1–7 February 2021 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/catalonian_polls/2021-02-07-Feedback.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/catalonian_polls/2021-02-07-Feedback-coalitions-seats.png"
+        length="361898"
+        type="image/png"/>
+      <pubDate>Sat, 13 Feb 2021 19:52:37 +0100</pubDate>
+      <dc:date>2021-02-13T19:52:37.57626+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Feedback for El Nacional, 1–7 February 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/catalonian_polls/2021-02-07-Feedback.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Ciutadans–Partido de la Ciudadanía: 7.1–10.6%&lt;/li&gt;&lt;li&gt;Esquerra Republicana–Catalunya Sí: 17.7–22.7%&lt;/li&gt;&lt;li&gt;Partit dels Socialistes de Catalunya (PSC-PSOE): 18.9–24.0%&lt;/li&gt;&lt;li&gt;Catalunya en Comú–Podem: 5.7–8.9%&lt;/li&gt;&lt;li&gt;Candidatura d’Unitat Popular: 6.1–9.4%&lt;/li&gt;&lt;li&gt;Partit Popular: 2.5–4.8%&lt;/li&gt;&lt;li&gt;Vox: 4.4–7.3%&lt;/li&gt;&lt;li&gt;Junts per Catalunya: 17.3–22.3%&lt;/li&gt;&lt;li&gt;Partit Demòcrata Europeu Català: 0.8–2.3%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/catalonian_polls/2021-02-07-Feedback.png"
+        length="319796"
+        type="image/png"/>
+      <pubDate>Sat, 13 Feb 2021 19:52:37 +0100</pubDate>
+      <dc:date>2021-02-13T19:52:37.57626+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Demoscopia y Servicios, 5–7 February 2021 – Seat Projections for the Parties</title>
@@ -2949,6 +3019,6 @@
       <pubDate>Sat, 03 Oct 2020 21:10:04 +0200</pubDate>
       <dc:date>2020-10-03T21:10:04.996042+02:00</dc:date>
     </item>
-    <dc:date>2021-02-13T09:32:31.76365+01:00</dc:date>
+    <dc:date>2021-02-13T20:04:48.996783+01:00</dc:date>
   </channel>
 </rss>
