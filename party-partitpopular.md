@@ -10,8 +10,10 @@ Last result: **4.2%** (General Election of 21 December 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5.4% | 3.9–6.8% | 3.5–7.2% | 3.2–7.7% | 2.8–8.6% |
+| N/A | [Poll Average](average.html) | 5.4% | 3.9–6.7% | 3.4–7.2% | 3.1–7.6% | 2.7–8.6% |
+| [6–13 February 2021](2021-02-13-Feedback.html) | Feedback <br> The National | 4.1% | 3.2–5.3% | 3.0–5.7% | 2.8–6.0% | 2.4–6.6% |
 | [12 February 2021](2021-02-12-electoPanel.html) | electoPanel <br> electomania.es | 4.8% | 3.6–6.4% | 3.3–6.9% | 3.1–7.3% | 2.6–8.2% |
+| [1–12 February 2021](2021-02-12-Metroscopia.html) | Metroscopia | 5.3% | 4.8–5.9% | 4.6–6.1% | 4.5–6.3% | 4.2–6.6% |
 | [10–12 February 2021](2021-02-12-GESOP.html) | GESOP <br> El Periòdic | 5.5% | 4.3–7.0% | 4.0–7.4% | 3.8–7.8% | 3.3–8.6% |
 | [5–12 February 2021](2021-02-12-Feedback.html) | Feedback <br> The National | 4.6% | 3.7–5.9% | 3.4–6.3% | 3.2–6.6% | 2.8–7.3% |
 | [11 February 2021](2021-02-11-electoPanel.html) | electoPanel <br> electomania.es | 5.0% | 3.9–6.7% | 3.5–7.2% | 3.3–7.6% | 2.8–8.5% |
@@ -121,13 +123,13 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 0.2% | 100% |  |
-| 2.5–3.5% | 5% | 99.8% |  |
+| 2.5–3.5% | 6% | 99.8% |  |
 | 3.5–4.5% | 16% | 94% | Last Result |
-| 4.5–5.5% | 34% | 79% | Median |
-| 5.5–6.5% | 31% | 44% |  |
-| 6.5–7.5% | 11% | 14% |  |
+| 4.5–5.5% | 36% | 78% | Median |
+| 5.5–6.5% | 30% | 42% |  |
+| 6.5–7.5% | 10% | 13% |  |
 | 7.5–8.5% | 2% | 3% |  |
-| 8.5–9.5% | 0.5% | 0.5% |  |
+| 8.5–9.5% | 0.4% | 0.5% |  |
 | 9.5–10.5% | 0.1% | 0.1% |  |
 | 10.5–11.5% | 0% | 0% |  |
 
@@ -140,8 +142,10 @@ Last result: **4** seats (General Election of 21 December 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7 | 3–9 | 3–9 | 2–10 | 0–12 |
+| N/A | [Poll Average](average.html) | 7 | 3–9 | 3–9 | 2–10 | 0–11 |
+| [6–13 February 2021](2021-02-13-Feedback.html) | Feedback <br> The National | 5 | 3–7 | 2–7 | 0–7 | 0–9 |
 | [12 February 2021](2021-02-12-electoPanel.html) | electoPanel <br> electomania.es | 5 | 3–7 | 3–9 | 2–9 | 0–11 |
+| [1–12 February 2021](2021-02-12-Metroscopia.html) | Metroscopia | 7 | 5–7 | 5–7 | 5–7 | 4–9 |
 | [10–12 February 2021](2021-02-12-GESOP.html) | GESOP <br> El Periòdic | 7 | 5–9 | 4–9 | 3–10 | 3–12 |
 | [5–12 February 2021](2021-02-12-Feedback.html) | Feedback <br> The National | 5 | 3–7 | 3–8 | 3–9 | 0–10 |
 | [11 February 2021](2021-02-11-electoPanel.html) | electoPanel <br> electomania.es | 6 | 3–8 | 3–9 | 3–10 | 0–12 |
@@ -251,18 +255,18 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 1.1% | 100% |  |
-| 1 | 0% | 98.9% |  |
-| 2 | 2% | 98.9% |  |
-| 3 | 9% | 97% |  |
-| 4 | 3% | 88% | Last Result |
-| 5 | 17% | 85% |  |
-| 6 | 14% | 68% |  |
-| 7 | 37% | 54% | Median |
-| 8 | 5% | 17% |  |
-| 9 | 9% | 12% |  |
+| 0 | 1.2% | 100% |  |
+| 1 | 0% | 98.8% |  |
+| 2 | 2% | 98.8% |  |
+| 3 | 10% | 97% |  |
+| 4 | 3% | 87% | Last Result |
+| 5 | 18% | 85% |  |
+| 6 | 14% | 67% |  |
+| 7 | 37% | 53% | Median |
+| 8 | 5% | 16% |  |
+| 9 | 8% | 11% |  |
 | 10 | 2% | 3% |  |
-| 11 | 0.5% | 1.0% |  |
+| 11 | 0.5% | 0.9% |  |
 | 12 | 0.4% | 0.5% |  |
 | 13 | 0% | 0.1% |  |
 | 14 | 0% | 0% |  |

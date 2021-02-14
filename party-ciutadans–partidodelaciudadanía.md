@@ -10,8 +10,10 @@ Last result: **25.4%** (General Election of 21 December 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9.2% | 7.3–11.7% | 6.9–12.4% | 6.6–12.9% | 5.8–13.9% |
+| N/A | [Poll Average](average.html) | 9.1% | 7.4–11.6% | 7.0–12.3% | 6.6–12.8% | 5.8–13.9% |
+| [6–13 February 2021](2021-02-13-Feedback.html) | Feedback <br> The National | 9.0% | 7.6–10.6% | 7.3–11.1% | 7.0–11.5% | 6.4–12.3% |
 | [12 February 2021](2021-02-12-electoPanel.html) | electoPanel <br> electomania.es | 8.8% | 7.2–10.8% | 6.7–11.4% | 6.4–11.9% | 5.7–13.0% |
+| [1–12 February 2021](2021-02-12-Metroscopia.html) | Metroscopia | 9.0% | 8.3–9.8% | 8.1–10.0% | 7.9–10.2% | 7.6–10.6% |
 | [10–12 February 2021](2021-02-12-GESOP.html) | GESOP <br> El Periòdic | 7.5% | 6.2–9.2% | 5.8–9.7% | 5.5–10.1% | 4.9–11.0% |
 | [5–12 February 2021](2021-02-12-Feedback.html) | Feedback <br> The National | 9.6% | 8.2–11.3% | 7.8–11.8% | 7.5–12.3% | 6.8–13.1% |
 | [11 February 2021](2021-02-11-electoPanel.html) | electoPanel <br> electomania.es | 8.8% | 7.2–10.8% | 6.7–11.4% | 6.4–11.9% | 5.7–13.0% |
@@ -122,14 +124,14 @@ The following table shows the probability mass function per percentage block of 
 | 3.5–4.5% | 0% | 100% |  |
 | 4.5–5.5% | 0.3% | 100% |  |
 | 5.5–6.5% | 2% | 99.7% |  |
-| 6.5–7.5% | 12% | 98% |  |
-| 7.5–8.5% | 22% | 86% |  |
-| 8.5–9.5% | 20% | 64% | Median |
-| 9.5–10.5% | 18% | 44% |  |
-| 10.5–11.5% | 14% | 26% |  |
-| 11.5–12.5% | 8% | 12% |  |
+| 6.5–7.5% | 11% | 98% |  |
+| 7.5–8.5% | 23% | 87% |  |
+| 8.5–9.5% | 23% | 64% | Median |
+| 9.5–10.5% | 17% | 41% |  |
+| 10.5–11.5% | 13% | 23% |  |
+| 11.5–12.5% | 7% | 11% |  |
 | 12.5–13.5% | 3% | 4% |  |
-| 13.5–14.5% | 0.8% | 1.0% |  |
+| 13.5–14.5% | 0.7% | 0.9% |  |
 | 14.5–15.5% | 0.1% | 0.2% |  |
 | 15.5–16.5% | 0% | 0% |  |
 | 16.5–17.5% | 0% | 0% |  |
@@ -151,8 +153,10 @@ Last result: **36** seats (General Election of 21 December 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 12 | 9–16 | 8–16 | 8–18 | 6–19 |
+| N/A | [Poll Average](average.html) | 12 | 9–15 | 8–16 | 8–18 | 6–19 |
+| [6–13 February 2021](2021-02-13-Feedback.html) | Feedback <br> The National | 12 | 10–14 | 9–14 | 8–16 | 8–18 |
 | [12 February 2021](2021-02-12-electoPanel.html) | electoPanel <br> electomania.es | 12 | 8–14 | 8–15 | 8–16 | 6–18 |
+| [1–12 February 2021](2021-02-12-Metroscopia.html) | Metroscopia | 12 | 11–13 | 10–13 | 9–13 | 9–14 |
 | [10–12 February 2021](2021-02-12-GESOP.html) | GESOP <br> El Periòdic | 9 | 7–12 | 6–13 | 6–13 | 5–14 |
 | [5–12 February 2021](2021-02-12-Feedback.html) | Feedback <br> The National | 13 | 11–16 | 11–16 | 10–17 | 8–18 |
 | [11 February 2021](2021-02-11-electoPanel.html) | electoPanel <br> electomania.es | 12 | 8–14 | 8–14 | 8–16 | 6–18 |
@@ -263,18 +267,18 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 5 | 0.1% | 100% |  |
-| 6 | 0.8% | 99.9% |  |
-| 7 | 0.8% | 99.1% |  |
-| 8 | 8% | 98% |  |
+| 6 | 0.7% | 99.9% |  |
+| 7 | 0.8% | 99.2% |  |
+| 8 | 7% | 98% |  |
 | 9 | 9% | 91% |  |
-| 10 | 7% | 82% |  |
+| 10 | 7% | 83% |  |
 | 11 | 7% | 75% |  |
-| 12 | 21% | 67% | Median |
-| 13 | 20% | 47% |  |
-| 14 | 12% | 26% |  |
-| 15 | 4% | 14% |  |
-| 16 | 6% | 10% |  |
-| 17 | 2% | 5% |  |
+| 12 | 25% | 68% | Median |
+| 13 | 19% | 43% |  |
+| 14 | 11% | 24% |  |
+| 15 | 4% | 13% |  |
+| 16 | 5% | 9% |  |
+| 17 | 2% | 4% |  |
 | 18 | 2% | 3% |  |
 | 19 | 0.5% | 0.6% |  |
 | 20 | 0.1% | 0.1% |  |
