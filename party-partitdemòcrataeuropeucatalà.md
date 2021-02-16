@@ -147,7 +147,7 @@ Last result: **0** seats (General Election of 21 December 2017)
 | N/A | [Poll Average](average.html) | 0 | 0–1 | 0–4 | 0–5 | 0–6 |
 | [2–14 February 2021](2021-02-14-SyMConsulting.html) | SyM Consulting |  |  |  |  |  |
 | [13–14 February 2021](2021-02-14-SocioMétrica.html) | SocioMétrica <br> El Español | 0 | 0–5 | 0–5 | 0–6 | 0–7 |
-| [4–14 February 2021](2021-02-14-GESOP.html) | GESOP <br> El Periódico | 1 | 0–1 | 0–5 | 0–5 | 0–5 |
+| [4–14 February 2021](2021-02-14-GESOP.html) | GESOP <br> El Periódico | 1 | 0–1 | 0–4 | 0–5 | 0–5 |
 | [14 February 2021](2021-02-14-GAD3.html) | GAD3 <br> RTVE–CCMA | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [8–14 February 2021](2021-02-14-Feedback.html) | Feedback <br> El Nacional | 1 | 0–4 | 0–5 | 0–5 | 0–6 |
 | [6–13 February 2021](2021-02-13-Feedback.html) | Feedback <br> The National | 1 | 0–5 | 0–5 | 0–6 | 0–7 |
@@ -265,8 +265,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 70% | 100% | Last Result, Median |
 | 1 | 22% | 30% |  |
 | 2 | 0.2% | 8% |  |
-| 3 | 1.4% | 8% |  |
-| 4 | 3% | 7% |  |
+| 3 | 2% | 8% |  |
+| 4 | 3% | 6% |  |
 | 5 | 3% | 4% |  |
 | 6 | 0.8% | 1.1% |  |
 | 7 | 0.2% | 0.3% |  |

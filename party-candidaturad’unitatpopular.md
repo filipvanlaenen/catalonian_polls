@@ -147,10 +147,10 @@ Last result: **4** seats (General Election of 21 December 2017)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 8 | 6–9 | 5–10 | 4–11 | 3–12 |
-| [2–14 February 2021](2021-02-14-SyMConsulting.html) | SyM Consulting | 7 | 6–8 | 6–8 | 6–8 | 4–8 |
+| [2–14 February 2021](2021-02-14-SyMConsulting.html) | SyM Consulting | 7 | 6–8 | 6–8 | 5–8 | 4–8 |
 | [13–14 February 2021](2021-02-14-SocioMétrica.html) | SocioMétrica <br> El Español | 8 | 7–11 | 7–11 | 6–12 | 4–15 |
-| [4–14 February 2021](2021-02-14-GESOP.html) | GESOP <br> El Periódico | 7 | 6–8 | 6–8 | 6–8 | 5–9 |
-| [14 February 2021](2021-02-14-GAD3.html) | GAD3 <br> RTVE–CCMA | 7 | 7–8 | 7–8 | 6–8 | 5–8 |
+| [4–14 February 2021](2021-02-14-GESOP.html) | GESOP <br> El Periódico | 7 | 7–8 | 7–8 | 6–8 | 5–9 |
+| [14 February 2021](2021-02-14-GAD3.html) | GAD3 <br> RTVE–CCMA | 7 | 6–8 | 6–8 | 6–8 | 5–8 |
 | [8–14 February 2021](2021-02-14-Feedback.html) | Feedback <br> El Nacional | 9 | 8–11 | 8–11 | 7–11 | 7–12 |
 | [6–13 February 2021](2021-02-13-Feedback.html) | Feedback <br> The National | 8 | 7–10 | 6–11 | 5–11 | 4–12 |
 | [12 February 2021](2021-02-12-electoPanel.html) | electoPanel <br> electomania.es | 8 | 6–9 | 4–11 | 4–11 | 3–14 |
@@ -268,9 +268,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 3 | 0.4% | 99.9% |  |
 | 4 | 3% | 99.5% | Last Result |
 | 5 | 3% | 96% |  |
-| 6 | 6% | 94% |  |
+| 6 | 6% | 93% |  |
 | 7 | 27% | 88% |  |
-| 8 | 38% | 61% | Median |
+| 8 | 38% | 60% | Median |
 | 9 | 14% | 23% |  |
 | 10 | 4% | 9% |  |
 | 11 | 4% | 5% |  |

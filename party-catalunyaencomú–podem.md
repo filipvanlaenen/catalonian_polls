@@ -147,9 +147,9 @@ Last result: **8** seats (General Election of 21 December 2017)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 8 | 6–11 | 5–11 | 5–12 | 4–13 |
-| [2–14 February 2021](2021-02-14-SyMConsulting.html) | SyM Consulting | 8 | 7–8 | 7–8 | 7–9 | 6–9 |
+| [2–14 February 2021](2021-02-14-SyMConsulting.html) | SyM Consulting | 8 | 7–8 | 7–9 | 6–9 | 6–9 |
 | [13–14 February 2021](2021-02-14-SocioMétrica.html) | SocioMétrica <br> El Español | 8 | 6–11 | 5–11 | 5–12 | 4–14 |
-| [4–14 February 2021](2021-02-14-GESOP.html) | GESOP <br> El Periódico | 8 | 7–9 | 7–9 | 7–10 | 7–11 |
+| [4–14 February 2021](2021-02-14-GESOP.html) | GESOP <br> El Periódico | 8 | 8–9 | 7–9 | 7–10 | 6–11 |
 | [14 February 2021](2021-02-14-GAD3.html) | GAD3 <br> RTVE–CCMA | 6 | 5–7 | 5–7 | 5–8 | 5–8 |
 | [8–14 February 2021](2021-02-14-Feedback.html) | Feedback <br> El Nacional | 9 | 8–11 | 8–12 | 7–13 | 7–13 |
 | [6–13 February 2021](2021-02-13-Feedback.html) | Feedback <br> The National | 9 | 7–12 | 7–13 | 7–13 | 5–14 |
@@ -266,10 +266,10 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 4 | 0.6% | 100% |  |
 | 5 | 7% | 99.3% |  |
-| 6 | 9% | 92% |  |
-| 7 | 19% | 84% |  |
-| 8 | 33% | 65% | Last Result, Median |
-| 9 | 13% | 33% |  |
+| 6 | 9% | 93% |  |
+| 7 | 18% | 84% |  |
+| 8 | 33% | 66% | Last Result, Median |
+| 9 | 14% | 33% |  |
 | 10 | 8% | 20% |  |
 | 11 | 9% | 12% |  |
 | 12 | 1.3% | 3% |  |

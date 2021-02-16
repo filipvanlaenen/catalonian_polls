@@ -157,8 +157,8 @@ Last result: **34** seats (General Election of 21 December 2017)
 | N/A | [Poll Average](average.html) | 33 | 29–37 | 25–38 | 23–39 | 22–42 |
 | [2–14 February 2021](2021-02-14-SyMConsulting.html) | SyM Consulting | 35 | 33–37 | 32–37 | 32–37 | 32–38 |
 | [13–14 February 2021](2021-02-14-SocioMétrica.html) | SocioMétrica <br> El Español | 37 | 33–41 | 32–43 | 31–44 | 30–45 |
-| [4–14 February 2021](2021-02-14-GESOP.html) | GESOP <br> El Periódico | 32 | 31–33 | 30–35 | 29–35 | 29–36 |
-| [14 February 2021](2021-02-14-GAD3.html) | GAD3 <br> RTVE–CCMA | 33 | 31–35 | 31–35 | 31–35 | 31–36 |
+| [4–14 February 2021](2021-02-14-GESOP.html) | GESOP <br> El Periódico | 32 | 31–34 | 30–35 | 29–35 | 29–37 |
+| [14 February 2021](2021-02-14-GAD3.html) | GAD3 <br> RTVE–CCMA | 32 | 31–35 | 31–35 | 31–35 | 31–36 |
 | [8–14 February 2021](2021-02-14-Feedback.html) | Feedback <br> El Nacional | 34 | 31–37 | 30–37 | 29–38 | 28–39 |
 | [6–13 February 2021](2021-02-13-Feedback.html) | Feedback <br> The National | 33 | 30–37 | 29–38 | 29–39 | 27–41 |
 | [12 February 2021](2021-02-12-electoPanel.html) | electoPanel <br> electomania.es | 34 | 30–39 | 29–40 | 28–41 | 25–43 |
@@ -279,16 +279,16 @@ The following table shows the probability mass function per seat for the [poll a
 | 25 | 2% | 95% |  |
 | 26 | 0.8% | 94% |  |
 | 27 | 0.8% | 93% |  |
-| 28 | 1.0% | 92% |  |
+| 28 | 0.9% | 92% |  |
 | 29 | 3% | 91% |  |
 | 30 | 4% | 88% |  |
 | 31 | 13% | 84% |  |
-| 32 | 14% | 71% |  |
+| 32 | 15% | 72% |  |
 | 33 | 13% | 57% | Median |
-| 34 | 10% | 44% | Last Result |
-| 35 | 12% | 34% |  |
-| 36 | 6% | 22% |  |
-| 37 | 9% | 15% |  |
+| 34 | 11% | 44% | Last Result |
+| 35 | 11% | 32% |  |
+| 36 | 6% | 21% |  |
+| 37 | 8% | 15% |  |
 | 38 | 2% | 7% |  |
 | 39 | 2% | 4% |  |
 | 40 | 0.9% | 2% |  |

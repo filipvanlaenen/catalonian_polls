@@ -151,11 +151,11 @@ Last result: **32** seats (General Election of 21 December 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 30 | 27–35 | 26–37 | 25–37 | 23–39 |
-| [2–14 February 2021](2021-02-14-SyMConsulting.html) | SyM Consulting | 29 | 29–31 | 29–31 | 28–32 | 27–33 |
+| N/A | [Poll Average](average.html) | 30 | 27–35 | 26–37 | 25–38 | 23–40 |
+| [2–14 February 2021](2021-02-14-SyMConsulting.html) | SyM Consulting | 31 | 29–32 | 28–33 | 28–33 | 28–34 |
 | [13–14 February 2021](2021-02-14-SocioMétrica.html) | SocioMétrica <br> El Español | 28 | 25–31 | 24–33 | 22–34 | 21–36 |
-| [4–14 February 2021](2021-02-14-GESOP.html) | GESOP <br> El Periódico | 31 | 28–33 | 28–34 | 28–34 | 28–35 |
-| [14 February 2021](2021-02-14-GAD3.html) | GAD3 <br> RTVE–CCMA | 37 | 36–39 | 35–39 | 35–40 | 35–41 |
+| [4–14 February 2021](2021-02-14-GESOP.html) | GESOP <br> El Periódico | 31 | 29–33 | 28–33 | 28–34 | 27–35 |
+| [14 February 2021](2021-02-14-GAD3.html) | GAD3 <br> RTVE–CCMA | 37 | 36–39 | 36–40 | 35–40 | 35–41 |
 | [8–14 February 2021](2021-02-14-Feedback.html) | Feedback <br> El Nacional | 28 | 26–31 | 25–32 | 24–33 | 23–33 |
 | [6–13 February 2021](2021-02-13-Feedback.html) | Feedback <br> The National | 28 | 26–32 | 25–33 | 24–34 | 22–36 |
 | [12 February 2021](2021-02-12-electoPanel.html) | electoPanel <br> electomania.es | 30 | 26–34 | 25–35 | 24–36 | 22–38 |
@@ -273,23 +273,23 @@ The following table shows the probability mass function per seat for the [poll a
 | 22 | 0.3% | 99.9% |  |
 | 23 | 0.3% | 99.7% |  |
 | 24 | 0.9% | 99.4% |  |
-| 25 | 1.3% | 98.5% |  |
+| 25 | 1.4% | 98.6% |  |
 | 26 | 4% | 97% |  |
-| 27 | 5% | 94% |  |
-| 28 | 13% | 89% |  |
-| 29 | 16% | 76% |  |
-| 30 | 13% | 60% | Median |
-| 31 | 15% | 46% |  |
-| 32 | 9% | 31% | Last Result |
+| 27 | 4% | 94% |  |
+| 28 | 12% | 89% |  |
+| 29 | 16% | 77% |  |
+| 30 | 14% | 61% | Median |
+| 31 | 16% | 47% |  |
+| 32 | 9% | 32% | Last Result |
 | 33 | 6% | 23% |  |
 | 34 | 5% | 17% |  |
-| 35 | 4% | 12% |  |
+| 35 | 3% | 12% |  |
 | 36 | 2% | 9% |  |
-| 37 | 4% | 7% |  |
-| 38 | 1.0% | 2% |  |
-| 39 | 1.0% | 1.5% |  |
-| 40 | 0.3% | 0.4% |  |
-| 41 | 0.1% | 0.2% |  |
+| 37 | 3% | 7% |  |
+| 38 | 2% | 3% |  |
+| 39 | 1.2% | 2% |  |
+| 40 | 0.4% | 0.6% |  |
+| 41 | 0.2% | 0.3% |  |
 | 42 | 0% | 0% |  |
 
 

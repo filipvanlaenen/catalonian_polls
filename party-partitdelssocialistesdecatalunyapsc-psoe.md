@@ -152,11 +152,11 @@ Last result: **17** seats (General Election of 21 December 2017)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 30 | 25–34 | 24–34 | 24–35 | 23–37 |
+| N/A | [Poll Average](average.html) | 30 | 25–34 | 24–35 | 24–35 | 23–37 |
 | [2–14 February 2021](2021-02-14-SyMConsulting.html) | SyM Consulting | 24 | 23–25 | 23–25 | 23–25 | 21–26 |
 | [13–14 February 2021](2021-02-14-SocioMétrica.html) | SocioMétrica <br> El Español | 27 | 25–31 | 24–32 | 24–34 | 22–36 |
-| [4–14 February 2021](2021-02-14-GESOP.html) | GESOP <br> El Periódico | 32 | 31–34 | 30–34 | 29–34 | 27–34 |
-| [14 February 2021](2021-02-14-GAD3.html) | GAD3 <br> RTVE–CCMA | 33 | 32–35 | 32–35 | 32–35 | 31–37 |
+| [4–14 February 2021](2021-02-14-GESOP.html) | GESOP <br> El Periódico | 32 | 30–34 | 29–34 | 29–35 | 28–36 |
+| [14 February 2021](2021-02-14-GAD3.html) | GAD3 <br> RTVE–CCMA | 34 | 32–35 | 32–35 | 32–36 | 31–37 |
 | [8–14 February 2021](2021-02-14-Feedback.html) | Feedback <br> El Nacional | 29 | 26–33 | 26–33 | 26–34 | 25–36 |
 | [6–13 February 2021](2021-02-13-Feedback.html) | Feedback <br> The National | 28 | 25–31 | 24–32 | 24–33 | 22–35 |
 | [12 February 2021](2021-02-12-electoPanel.html) | electoPanel <br> electomania.es | 28 | 25–33 | 25–35 | 24–37 | 22–38 |
@@ -276,20 +276,20 @@ The following table shows the probability mass function per seat for the [poll a
 | 20 | 0% | 100% |  |
 | 21 | 0.1% | 99.9% |  |
 | 22 | 0.3% | 99.9% |  |
-| 23 | 1.3% | 99.6% |  |
-| 24 | 5% | 98% |  |
-| 25 | 5% | 93% |  |
+| 23 | 1.1% | 99.6% |  |
+| 24 | 4% | 98% |  |
+| 25 | 6% | 94% |  |
 | 26 | 8% | 89% |  |
 | 27 | 7% | 80% |  |
 | 28 | 6% | 74% |  |
 | 29 | 9% | 68% |  |
-| 30 | 10% | 59% | Median |
-| 31 | 14% | 49% |  |
-| 32 | 15% | 35% |  |
+| 30 | 11% | 59% | Median |
+| 31 | 15% | 48% |  |
+| 32 | 13% | 33% |  |
 | 33 | 8% | 20% |  |
 | 34 | 7% | 12% |  |
 | 35 | 3% | 5% |  |
-| 36 | 1.0% | 2% |  |
+| 36 | 1.2% | 2% |  |
 | 37 | 0.5% | 0.6% |  |
 | 38 | 0.1% | 0.1% |  |
 | 39 | 0% | 0% |  |
